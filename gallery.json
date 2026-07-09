@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Visualizador SGF",
+    "description": "Pega un SGF y visualiza la partida.",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-LWurVZntxcBhgYOX-8rETfrXHrbtt_Heh7dDD45DgyDVYpXJTC9J2ejzJGGDt1MihAT1SU8REyxDe4Dxva8wlKwDFwyyEHgHY9ULzmTn63gMc0lBaUye-Q-HnD2U3nKsF8OwPu9sgiOFL7daz35DnFpQ0tAtTcG1f1kwV6CkNa8-5mBfFzJGa8lbdk/s983/foro-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-LWurVZntxcBhgYOX-8rETfrXHrbtt_Heh7dDD45DgyDVYpXJTC9J2ejzJGGDt1MihAT1SU8REyxDe4Dxva8wlKwDFwyyEHgHY9ULzmTn63gMc0lBaUye-Q-HnD2U3nKsF8OwPu9sgiOFL7daz35DnFpQ0tAtTcG1f1kwV6CkNa8-5mBfFzJGa8lbdk/s983/foro-go.blogspot.com_.png",
+    "url": "https://foro-go.blogspot.com/"
+  },
+  {
+    "id": 2,
+    "title": "Lecturas recomendadas",
+    "description": "Lecturas Musashi y Hagakure",
+    "category": "Kenjutsu",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi03iy8ijH95V1uGSpE14GpRgsyWkOIe74l8GjvlkRx89ZxGiVNlk1MeaWcCCw3uED1i2_py0C9tnnvk7GQVaKISM2-4eSephwmbi7NPxSzSE5QGU7DGuyC6rBbeTk1kiKZ49vsexZUJxX1RpFVEHJjdlAN-m_VAglrVSHPoeFIPOhKrFLgiheeulFJ_Do/s983/logo1-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi03iy8ijH95V1uGSpE14GpRgsyWkOIe74l8GjvlkRx89ZxGiVNlk1MeaWcCCw3uED1i2_py0C9tnnvk7GQVaKISM2-4eSephwmbi7NPxSzSE5QGU7DGuyC6rBbeTk1kiKZ49vsexZUJxX1RpFVEHJjdlAN-m_VAglrVSHPoeFIPOhKrFLgiheeulFJ_Do/s983/logo1-go.blogspot.com_.png",
+    "url": "https://logo1-go.blogspot.com/"
+  }
+]
