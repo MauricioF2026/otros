@@ -79,7 +79,46 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RHjBpxavrFSX3gI1V3pU3csu9PT445NJpysANg978TdVg3CfB7gkoS6ohuPqiRJl8LJmGMU9HOvcklNc_p-bLJvfi3R1ZfO1g2aKll5_2IAN-63czbhlxl4HTeDcw7ZZ5fiWOeF5KJ1p4J3NRL7yzL4hCSy2hPNNUej1jL7JtBUy3n3W5ezNTm0kwZk/s983/web-jugadores.blogspot.com_.png",
     "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RHjBpxavrFSX3gI1V3pU3csu9PT445NJpysANg978TdVg3CfB7gkoS6ohuPqiRJl8LJmGMU9HOvcklNc_p-bLJvfi3R1ZfO1g2aKll5_2IAN-63czbhlxl4HTeDcw7ZZ5fiWOeF5KJ1p4J3NRL7yzL4hCSy2hPNNUej1jL7JtBUy3n3W5ezNTm0kwZk/s983/web-jugadores.blogspot.com_.png",
     "url": "https://web-jugadores.blogspot.com/"
+  },
+  {
+    "id": 10,
+    "title": "Mis participaciones en Torneos de Go",
+    "description": "Torneos de Go",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyUxVsfVTHK9LzFs-nx7VAqzGkV4d8umQ2JKpaSwQclY2JtGTpVUsPao7tJmSrX33CH-NvQZj691aUPQmAC5l71xSGDEhncHS4EafHih_d-WNPdIe_sYWvW5D-CC7D7Yc2WaQmjYDAVSkdv7mrKiWWcfvNYH7a0voxqiL2iQ44oE7hxXKJrnW04kZ_Rtk/s1156/ok.jpg",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyUxVsfVTHK9LzFs-nx7VAqzGkV4d8umQ2JKpaSwQclY2JtGTpVUsPao7tJmSrX33CH-NvQZj691aUPQmAC5l71xSGDEhncHS4EafHih_d-WNPdIe_sYWvW5D-CC7D7Yc2WaQmjYDAVSkdv7mrKiWWcfvNYH7a0voxqiL2iQ44oE7hxXKJrnW04kZ_Rtk/s1156/ok.jpg",
+    "url": "https://novedades-go.blogspot.com/"
+  },
+  {
+    "id": 11,
+    "title": "Buscador de jugadores de Go",
+    "description": "Jugadores de Go",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi_rAUzxxXl7HznY3voLtGM3yTgrZ7l40Nc65jfdXaSp_j_O2-PvZQEX9_vj_G0G_pIEZKTtgXIQC2zINber7nFj1qXr0cGukRJIPEDJZZpLTn8cDdLq0_Z2k_S4kPhMM83P7X8XHcJYJZ1WTGUyc9W647A5_k7dpV1NHNH1MJUl-i8BhGRIkFSc29lPk/s983/buscador-enlace.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi_rAUzxxXl7HznY3voLtGM3yTgrZ7l40Nc65jfdXaSp_j_O2-PvZQEX9_vj_G0G_pIEZKTtgXIQC2zINber7nFj1qXr0cGukRJIPEDJZZpLTn8cDdLq0_Z2k_S4kPhMM83P7X8XHcJYJZ1WTGUyc9W647A5_k7dpV1NHNH1MJUl-i8BhGRIkFSc29lPk/s983/buscador-enlace.blogspot.com_.png",
+    "url": "https://buscador-enlace.blogspot.com/"
+  },
+  {
+    "id": 12,
+    "title": "Mapa Escuelas de Go",
+    "description": "Inscribete si eres jugador de Go e Inscribi a tu Club",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVaHoVl_8JCcIglX7obDEGnI2vysByMXGBvtJC4BTE66mayOqQZlyyNchSwNoUSH2WwsGlQEystQzKl26ToGBCDoi07_Tdxva_twgekgW9nLlWbkyfeRjUuq_F6MVlNdF3HHnKmwvN2yShh19JMh2hEb-OG8WLGB42Eax0WFbopybFX1K1Y0xZT5JQ3uE/s998/actividades-escuela.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVaHoVl_8JCcIglX7obDEGnI2vysByMXGBvtJC4BTE66mayOqQZlyyNchSwNoUSH2WwsGlQEystQzKl26ToGBCDoi07_Tdxva_twgekgW9nLlWbkyfeRjUuq_F6MVlNdF3HHnKmwvN2yShh19JMh2hEb-OG8WLGB42Eax0WFbopybFX1K1Y0xZT5JQ3uE/s998/actividades-escuela.blogspot.com_.png",
+    "url": "https://actividades-escuela.blogspot.com/"
+  },
+  {
+    "id": 13,
+    "title": "Mis partidas de Go en OGS",
+    "description": "Estadísticas de mis partidas de GO en OGS",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFYGI2JcGrbwbECq_7AUmGg2UQv1jKO0TVf7SERWe_0Xj2zkKvzBs1szy_zU7taGDC46FwnPpA2WNV68-ViOjDOIk6ROTH28NfopgHqYXSq3x6mdYv-BDnvgujPdRkUhxfUoBDT3LI_llgG-6jnVaeI-w0HA1rX6g0X_rzFYh51FQvhinNaMiqyHho198/s971/partidas-ogs.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFYGI2JcGrbwbECq_7AUmGg2UQv1jKO0TVf7SERWe_0Xj2zkKvzBs1szy_zU7taGDC46FwnPpA2WNV68-ViOjDOIk6ROTH28NfopgHqYXSq3x6mdYv-BDnvgujPdRkUhxfUoBDT3LI_llgG-6jnVaeI-w0HA1rX6g0X_rzFYh51FQvhinNaMiqyHho198/s971/partidas-ogs.blogspot.com_.png",
+    "url": "https://partidas-ogs.blogspot.com/"
   }
+
+
+
 
 
 
