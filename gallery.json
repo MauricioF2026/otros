@@ -169,6 +169,42 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz1rJnbLG6MIp8up1DmiTYupxDfoaWQy9Mec3hgx8C4qqq7p_sb7y5SkoxikdxpKaUBJvkyfPalis0gTbsHOhfa7PR-OmQ7S5CuW7eZd20XZLsokK0xoxWCzJh2_HyBlr9YmyE6CjSzqnYkQ1eUgDs58s2UOhkrK9hP0K_vtdd5YzFapaupO_n20_0-6Y/s975/enlaces-de-go.blogspot.com_.png",
     "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz1rJnbLG6MIp8up1DmiTYupxDfoaWQy9Mec3hgx8C4qqq7p_sb7y5SkoxikdxpKaUBJvkyfPalis0gTbsHOhfa7PR-OmQ7S5CuW7eZd20XZLsokK0xoxWCzJh2_HyBlr9YmyE6CjSzqnYkQ1eUgDs58s2UOhkrK9hP0K_vtdd5YzFapaupO_n20_0-6Y/s975/enlaces-de-go.blogspot.com_.png",
     "url": "https://enlaces-de-go.blogspot.com/"
+  },
+  {
+    "id": 20,
+    "title": "Kanji al azar",
+    "description": "Ficha inteligente con buscador, favoritos, glosarios y trazos",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsH9XSpNRsue6ozyNKvThm9-RL7XP-2h-12z2DiG12t25bcqA0Wf4VTGbWB9xaX92T0Rs4nIKdM6f5tr0LDs4WLroqCjzV3IIIn9K2tODjt-VO85B4SZ9Q9cHf0HWO0Y4K_tzN_n18aDoMOzs1zoLlCRZt5lPV84RJmGHqEsGD6R4Mc0f3bKCSB81PBhs/s998/circulo-texto.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsH9XSpNRsue6ozyNKvThm9-RL7XP-2h-12z2DiG12t25bcqA0Wf4VTGbWB9xaX92T0Rs4nIKdM6f5tr0LDs4WLroqCjzV3IIIn9K2tODjt-VO85B4SZ9Q9cHf0HWO0Y4K_tzN_n18aDoMOzs1zoLlCRZt5lPV84RJmGHqEsGD6R4Mc0f3bKCSB81PBhs/s998/circulo-texto.blogspot.com_.png",
+    "url": "https://circulo-texto.blogspot.com/"
+  },
+  {
+    "id": 21,
+    "title": "Lista de Kanji",
+    "description": "Aplicación para consultar kanji en distintos sitios",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCUMIFmBLyRFD6k4O_6ynAYkrIflH4H0zH9_8yYmvn_Dx-YwY4xefvrBRL879etsre9s5OZUFdiBSVATzCvZ7tB1AaBY9I6rZiVaoypXpZq3RK6ltGKyUgOvfNea7S_6HyOYWVBxIXp9LOHe97ZVYF41GITVHPeGKCPwizntEILC_pSW1cN3aKIVTAFbo/s850/japones-blog.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCUMIFmBLyRFD6k4O_6ynAYkrIflH4H0zH9_8yYmvn_Dx-YwY4xefvrBRL879etsre9s5OZUFdiBSVATzCvZ7tB1AaBY9I6rZiVaoypXpZq3RK6ltGKyUgOvfNea7S_6HyOYWVBxIXp9LOHe97ZVYF41GITVHPeGKCPwizntEILC_pSW1cN3aKIVTAFbo/s850/japones-blog.blogspot.com_.png",
+    "url": "https://japones-blog.blogspot.com/"
+  },
+  {
+    "id": 22,
+    "title": "Revia torneos de Go",
+    "description": "Aplicación para ver partidos de Go actuales",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhihRqCnLkhqng7MKFIOrutmvASKRjK8fnupsZ1XEKNostLtGMAiQdxIgR61C8PhZ2rKoCokgOGs8vvutNeCpuy9ZZV3lod0JFgt4xVuU4uLyqxiUvKwegxflEmRmbFp5j9rAQ-8mrt76TREO2bkKsyEzBEIY5CKeDTa2xyFO8aLloAomurIj9E-DYvWN0/s956/revisa-torneos.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhihRqCnLkhqng7MKFIOrutmvASKRjK8fnupsZ1XEKNostLtGMAiQdxIgR61C8PhZ2rKoCokgOGs8vvutNeCpuy9ZZV3lod0JFgt4xVuU4uLyqxiUvKwegxflEmRmbFp5j9rAQ-8mrt76TREO2bkKsyEzBEIY5CKeDTa2xyFO8aLloAomurIj9E-DYvWN0/s956/revisa-torneos.blogspot.com_.png",
+    "url": "https://revisa-torneos.blogspot.com/"
+  },
+  {
+    "id": 23,
+    "title": "Enlaces de Go",
+    "description": "Aplicación para conocer sobre Go",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGwggFS0r5Oc2ApQ_T1kEW7nH9Bo5WPv21QQYTsZmPWDxuIkcNZnef_B8NpNl_RVGWI8eiGS6Uv6EGv5L4Z5YmX3_2oHW4wmfYI1VMPTj8bxY0seVYtlcIq1jAy1w-jMmKkpSvHNm_vE2rj09PCDYzupi6yRw14O6hx1LYh-FXfz1py2Q4E89BnyDQiX4/s936/mis-enlaces-de-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGwggFS0r5Oc2ApQ_T1kEW7nH9Bo5WPv21QQYTsZmPWDxuIkcNZnef_B8NpNl_RVGWI8eiGS6Uv6EGv5L4Z5YmX3_2oHW4wmfYI1VMPTj8bxY0seVYtlcIq1jAy1w-jMmKkpSvHNm_vE2rj09PCDYzupi6yRw14O6hx1LYh-FXfz1py2Q4E89BnyDQiX4/s936/mis-enlaces-de-go.blogspot.com_.png",
+    "url": "https://mis-enlaces-de-go.blogspot.com/"
   }
 
 
