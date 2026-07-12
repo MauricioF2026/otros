@@ -205,7 +205,89 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGwggFS0r5Oc2ApQ_T1kEW7nH9Bo5WPv21QQYTsZmPWDxuIkcNZnef_B8NpNl_RVGWI8eiGS6Uv6EGv5L4Z5YmX3_2oHW4wmfYI1VMPTj8bxY0seVYtlcIq1jAy1w-jMmKkpSvHNm_vE2rj09PCDYzupi6yRw14O6hx1LYh-FXfz1py2Q4E89BnyDQiX4/s936/mis-enlaces-de-go.blogspot.com_.png",
     "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGwggFS0r5Oc2ApQ_T1kEW7nH9Bo5WPv21QQYTsZmPWDxuIkcNZnef_B8NpNl_RVGWI8eiGS6Uv6EGv5L4Z5YmX3_2oHW4wmfYI1VMPTj8bxY0seVYtlcIq1jAy1w-jMmKkpSvHNm_vE2rj09PCDYzupi6yRw14O6hx1LYh-FXfz1py2Q4E89BnyDQiX4/s936/mis-enlaces-de-go.blogspot.com_.png",
     "url": "https://mis-enlaces-de-go.blogspot.com/"
+  },
+  {
+    "id": 24,
+    "title": "Aplicación para separar por kanji",
+    "description": "Aprenderás palabras separando por kanji",
+    "category": "Kenjutsu",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlLRJ9qbbt4tRSQqUZp3dGNRsNUSY_TVBiOljzSag4uhhhMrghIn2H2bQVvKscLJ6ccTlSY4J-5uc3mmGpf2cAjR6LBYUqvA6SdPmCQzGRR_8uI66W2K0AtXV-b7gjBoPnvVbf9k9iRJlujKAzEO_s0BaBPfEdiq8ErhJzjQzUdUZtP8iIF2c3hCN_NkQ/s983/triangulo-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlLRJ9qbbt4tRSQqUZp3dGNRsNUSY_TVBiOljzSag4uhhhMrghIn2H2bQVvKscLJ6ccTlSY4J-5uc3mmGpf2cAjR6LBYUqvA6SdPmCQzGRR_8uI66W2K0AtXV-b7gjBoPnvVbf9k9iRJlujKAzEO_s0BaBPfEdiq8ErhJzjQzUdUZtP8iIF2c3hCN_NkQ/s983/triangulo-go.blogspot.com_.png",
+    "url": "https://triangulo-go.blogspot.com/"
+  },
+  {
+    "id": 25,
+    "title": "Calendario de Torneos de Go a nivel Mundial ",
+    "description": "Aplicación para estar al tanto de los torneos de Go mundial",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhg6YKtX5eeeiG85f7EAkjQuef9Dse_q62Z_W_Cwg3GzWFcR82gWoWQ7upb2c03tx03kOCUytk-F9jsZkApQAAhblzKke_iEIzSWNlnYLMwxFCA0iY4ClBYUZJazWmSQukRqMdiRd0uD_Rju2fDpWpJrRT1FaWg8oSTsyjn8rS0QzELPxwcKlbB00oQCU/s998/liga-ini.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhg6YKtX5eeeiG85f7EAkjQuef9Dse_q62Z_W_Cwg3GzWFcR82gWoWQ7upb2c03tx03kOCUytk-F9jsZkApQAAhblzKke_iEIzSWNlnYLMwxFCA0iY4ClBYUZJazWmSQukRqMdiRd0uD_Rju2fDpWpJrRT1FaWg8oSTsyjn8rS0QzELPxwcKlbB00oQCU/s998/liga-ini.blogspot.com_.png",
+    "url": "https://liga-ini.blogspot.com/"
+  },
+  {
+    "id": 26,
+    "title": "Conceptos de Go",
+    "description": "Aprenderás algunos conceptos de Go",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvsmP9hoXO6gtV8SQzt8UPVFxhm0NIXXC2TN8Qrlu5JsjoXFfaTJ6CJQ5wE8uccXge-Q37hxH0huFYa7NtTZ7mH6sGHHK-q-84uS-y254wRJkRSYwyz3FA_MnWXWQVDLGKjfRd7Gg7EePoqzh6ZfCvh62797eccc4BcMhqXnygLrKWpTISaLWpy8w_xE/s529/participantes-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvsmP9hoXO6gtV8SQzt8UPVFxhm0NIXXC2TN8Qrlu5JsjoXFfaTJ6CJQ5wE8uccXge-Q37hxH0huFYa7NtTZ7mH6sGHHK-q-84uS-y254wRJkRSYwyz3FA_MnWXWQVDLGKjfRd7Gg7EePoqzh6ZfCvh62797eccc4BcMhqXnygLrKWpTISaLWpy8w_xE/s529/participantes-go.blogspot.com_.png",
+    "url": "https://participantes-go.blogspot.com/"
+  },
+  {
+    "id": 27,
+    "title": "Visor SGF",
+    "description": "Aplicación que visualiza mis partidas en OGS",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBgsHRlTu5jfFd2CeIF1YfVxqZ1QBgNgUnroGYJHtFZFz1II6cpv7RTFSPUlYAdGu9hbi4yfK6IuUpXD3T-jLsAmWjmg4XFvsBA7YIj2xfk9UPRJ5tbVIklNdujlN2Jpm7LaM2Q1i8nY2MFnU27Lpft1kDLepvDHZNLlDfUpqZC3l115iURKaCAiDqGZ8/s945/visor-sgf.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBgsHRlTu5jfFd2CeIF1YfVxqZ1QBgNgUnroGYJHtFZFz1II6cpv7RTFSPUlYAdGu9hbi4yfK6IuUpXD3T-jLsAmWjmg4XFvsBA7YIj2xfk9UPRJ5tbVIklNdujlN2Jpm7LaM2Q1i8nY2MFnU27Lpft1kDLepvDHZNLlDfUpqZC3l115iURKaCAiDqGZ8/s945/visor-sgf.blogspot.com_.png",
+    "url": "https://visor-sgf.blogspot.com/"
+  },
+  {
+    "id": 28,
+    "title": "Aplicaión para practicar trazos en kanji",
+    "description": "Busca un kanji y estudia sus trazos",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqgoBlknqDRlXHUAH-DdpsKKfanTKtbHKBLeJa5FVsEg-crCNRABExMlM00QT3tKaRwMV3LNeZ8WAP1CpO6EjdPF9CF8L8Baq_wd1p85pXBf6vtYnuRATcAmN47TEcq1RLhXM57Lk7brnP9PlunfC9vc5c9OJv2Hug_nfOXhhLoO6U0OpKdQc6i5p8pY0/s1221/menu-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqgoBlknqDRlXHUAH-DdpsKKfanTKtbHKBLeJa5FVsEg-crCNRABExMlM00QT3tKaRwMV3LNeZ8WAP1CpO6EjdPF9CF8L8Baq_wd1p85pXBf6vtYnuRATcAmN47TEcq1RLhXM57Lk7brnP9PlunfC9vc5c9OJv2Hug_nfOXhhLoO6U0OpKdQc6i5p8pY0/s1221/menu-go.blogspot.com_.png",
+    "url": "https://menu-go.blogspot.com/"
+  },
+  {
+    "id": 29,
+    "title": "Tablero de Go",
+    "description": "Puedes exportar las secuencias de jugadas",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Kjjf7jpqj8n6yViO4ztUTbo7246D65b71pIT3JxNFa98OJ_D-02_c0XBNYfriX9P20zqerMs0CHN5oJxtHj06gqb66KetSnxyy-4vIKOTHGO3LNEewDt5Y9sVMiUx05BDdVjQBB-0cts0-tZzjVwHqGKm09okHQEIeyxBwaeFu0FMjN1cOJW9J4evIg/s983/jugar-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Kjjf7jpqj8n6yViO4ztUTbo7246D65b71pIT3JxNFa98OJ_D-02_c0XBNYfriX9P20zqerMs0CHN5oJxtHj06gqb66KetSnxyy-4vIKOTHGO3LNEewDt5Y9sVMiUx05BDdVjQBB-0cts0-tZzjVwHqGKm09okHQEIeyxBwaeFu0FMjN1cOJW9J4evIg/s983/jugar-go.blogspot.com_.png",
+    "url": "https://jugar-go.blogspot.com/"
+  },
+  {
+    "id": 30,
+    "title": "Diccionario de radicales",
+    "description": "Aplicación para aprender Japonés a través de sus radicales",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2CefczCjfV2IoR9hGKP_7ylCJ_Fs5ZPesYjhlNlrQoZRG11ugpTjOm9Ur7iiH1mmzXX6xILgXzNVxQ7K_hgIDfO_WQUiwQN55rz4_kPrQnMf_3DKvq1iwAhB9ujJ8d-eZBHUU49BMd0G4gIZy82XVKZHnWtRsxdzC3vGOGrPcslnxFQIt4m1Riqm7ol0/s915/modo-titok-1.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2CefczCjfV2IoR9hGKP_7ylCJ_Fs5ZPesYjhlNlrQoZRG11ugpTjOm9Ur7iiH1mmzXX6xILgXzNVxQ7K_hgIDfO_WQUiwQN55rz4_kPrQnMf_3DKvq1iwAhB9ujJ8d-eZBHUU49BMd0G4gIZy82XVKZHnWtRsxdzC3vGOGrPcslnxFQIt4m1Riqm7ol0/s915/modo-titok-1.blogspot.com_.png",
+    "url": "https://modo-titok-1.blogspot.com/"
+  },
+  {
+    "id": 31,
+    "title": "Kanji Drop Trainer",
+    "description": "Juego para aprender japones. Los kanji caen y tu los seleccionas hasta completar el concepto",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy8i-HIciQaovkQIyE7TlCDWt1xmic-8iejXl0DfsKvzizx5I4vgEfnF-LMVFkjrET0W2OXUzSlPPfOp7WgL9Yb6B4FQrL25SqPAcYn_csAi6B7MEt-3r6Q2XgVYDMg6-EqEvO_5fz_src-HJgnMog5_CpGs1p0hYAVen-4AYA0EtW_B4S2KmFL0CYvHE/s998/80kanjis.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy8i-HIciQaovkQIyE7TlCDWt1xmic-8iejXl0DfsKvzizx5I4vgEfnF-LMVFkjrET0W2OXUzSlPPfOp7WgL9Yb6B4FQrL25SqPAcYn_csAi6B7MEt-3r6Q2XgVYDMg6-EqEvO_5fz_src-HJgnMog5_CpGs1p0hYAVen-4AYA0EtW_B4S2KmFL0CYvHE/s998/80kanjis.blogspot.com_.png",
+    "url": "https://80kanjis.blogspot.com/"
+  },
+  {
+    "id": 32,
+    "title": "Aplicación para mejorar tu conocimiento en Kanji",
+    "description": "Con dos modos: Entrenamiento y clásico aprenderás kanji",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjR-pStUUQqla2kGT1S-Z2o2phgDed0Lx5v5bVlR17kv5CQMfwjphp46t3SCbXFebEt3mGjhFGX6tBmgBSYyMiGdk1OyjUYz9qyUrkjx1JIN3OJVG_AlEJVvrF8KhqlnApjQ-QGFr6q0SDe-4O8l1E9G-r_QTVkEsAYi9jDhrvfISzESdrKzYEWBs7IV0/s983/manythings-kanji.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjR-pStUUQqla2kGT1S-Z2o2phgDed0Lx5v5bVlR17kv5CQMfwjphp46t3SCbXFebEt3mGjhFGX6tBmgBSYyMiGdk1OyjUYz9qyUrkjx1JIN3OJVG_AlEJVvrF8KhqlnApjQ-QGFr6q0SDe-4O8l1E9G-r_QTVkEsAYi9jDhrvfISzESdrKzYEWBs7IV0/s983/manythings-kanji.blogspot.com_.png",
+    "url": "https://manythings-kanji.blogspot.com/"
   }
+
 
 
 
