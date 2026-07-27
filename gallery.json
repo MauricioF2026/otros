@@ -898,6 +898,42 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5maGZ8vyD5PY4vi5cxc4pd1dEtIqB-2ZEWi5bu2e1BeqhFb8QkXxxyLmpIIDNsegY2FZB0p0jzvOs0IEHNdjTk3GW5q0oOzY0BeAEx4EpOOjNG8cPH-eW_784X0i_KvBRxsUY-t_DWmXRP3fVBbMBzMGbAMD1b1CuAixsenN-9E7fUDk9ki3eIHy0Tes/s1318/maestro-go.blogspot.com_.png",
     "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5maGZ8vyD5PY4vi5cxc4pd1dEtIqB-2ZEWi5bu2e1BeqhFb8QkXxxyLmpIIDNsegY2FZB0p0jzvOs0IEHNdjTk3GW5q0oOzY0BeAEx4EpOOjNG8cPH-eW_784X0i_KvBRxsUY-t_DWmXRP3fVBbMBzMGbAMD1b1CuAixsenN-9E7fUDk9ki3eIHy0Tes/s1318/maestro-go.blogspot.com_.png",
     "url": "https://maestro-go.blogspot.com/"
+  },
+  {
+    "id": 101,
+    "title": "Mapa de jugadores de Go",
+    "description": "Mapa de jugadores de Go. Inscribe tu Club",
+    "category": "FAV GO",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo48knkEEU3_bUEbCj4WAYXQwkknvHpMpJr94z23a1KE75FXSxcPYZhak2PuXtg7cp759EdQ8IM0klsPzilOjW8NnrYa1xDiMZhP2xME3nDTT1yrWizNBf8IKXTj0u0fC-upk-mxL4hYWOa3JSwLzV23qKeypwXCfhBgaVpN65dtPmwUSdR3DqtbhxTA/s1505/gologjugador.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo48knkEEU3_bUEbCj4WAYXQwkknvHpMpJr94z23a1KE75FXSxcPYZhak2PuXtg7cp759EdQ8IM0klsPzilOjW8NnrYa1xDiMZhP2xME3nDTT1yrWizNBf8IKXTj0u0fC-upk-mxL4hYWOa3JSwLzV23qKeypwXCfhBgaVpN65dtPmwUSdR3DqtbhxTA/s1505/gologjugador.blogspot.com_.png",
+    "url": "https://gologjugador.blogspot.com/"
+  },
+  {
+    "id": 102,
+    "title": "Estudio de Kanji (On/Kun)",
+    "description": "Estudio de Kanji (On/Kun)",
+    "category": "Japones",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ted275xgiZGfRgTMnA70dTIaHAoxzN0KQOaO86dJ0SMZ_oay6zx4jh0VSlkRr4iceppTEJai_Bv6LRs8Aw_n8oMmruZrQhrktylgD4Uodur5CY3-7lfakQge2vJOcxg2JFZSdb7mn1d039cBLjbEvUlJv-nnwRoV7K85dDUfc6zkQHqs6pLnuzWwygU/s320/hira-gameon.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ted275xgiZGfRgTMnA70dTIaHAoxzN0KQOaO86dJ0SMZ_oay6zx4jh0VSlkRr4iceppTEJai_Bv6LRs8Aw_n8oMmruZrQhrktylgD4Uodur5CY3-7lfakQge2vJOcxg2JFZSdb7mn1d039cBLjbEvUlJv-nnwRoV7K85dDUfc6zkQHqs6pLnuzWwygU/s320/hira-gameon.blogspot.com_.png",
+    "url": "https://hira-gameon.blogspot.com/"
+  },
+  {
+    "id": 103,
+    "title": "Partidas de Chikun",
+    "description": "Selector. Partidas que coinciden con el patrón",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmHWmj6PS1RivGnPRWLF1cOxATveGXm29UIJyNuTvRW3KyZhzJhZjB_PfM-d5s3CHXf_j3aI4lUojRknlMCxWer2d2kVLq3cF2sqQAxdbgMvkAQGyy1ZTp64BJG-eZU3lfsyq34bz2ppUuWD0C05IjxKv0XXEotRnA3zJ2mpD0bGpnifQyX0kVu-3flr4/s983/chikun-selector.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmHWmj6PS1RivGnPRWLF1cOxATveGXm29UIJyNuTvRW3KyZhzJhZjB_PfM-d5s3CHXf_j3aI4lUojRknlMCxWer2d2kVLq3cF2sqQAxdbgMvkAQGyy1ZTp64BJG-eZU3lfsyq34bz2ppUuWD0C05IjxKv0XXEotRnA3zJ2mpD0bGpnifQyX0kVu-3flr4/s983/chikun-selector.blogspot.com_.png",
+    "url": "https://chikun-selector.blogspot.com"
+  },
+  {
+    "id": 104,
+    "title": "Selector de palabras — 3 al azar",
+    "description": "Selector de palabras — 3 al azar",
+    "category": "Kenjutsu & Baduk",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4ajW96QR1i0d_bsCKW7xFOxeDz8Wp3aO8Ez3vt1sMhM14F-U_b3t1x_Zolbg0E3pR4OJkW7javhj_l5zoFS8D4VEa9pBnJSPdxDs5RWRFv85I4hldjd9RuquabEsTJKOfw9jcarzuSnc1C_6pIYuorFTQ7GOVWlrGYhlJ_01W33kpBKZ0_O_itG2Mbk/s983/tres-kanji.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4ajW96QR1i0d_bsCKW7xFOxeDz8Wp3aO8Ez3vt1sMhM14F-U_b3t1x_Zolbg0E3pR4OJkW7javhj_l5zoFS8D4VEa9pBnJSPdxDs5RWRFv85I4hldjd9RuquabEsTJKOfw9jcarzuSnc1C_6pIYuorFTQ7GOVWlrGYhlJ_01W33kpBKZ0_O_itG2Mbk/s983/tres-kanji.blogspot.com_.png",
+    "url": "https://tres-kanji.blogspot.com/"
   }
 
 
