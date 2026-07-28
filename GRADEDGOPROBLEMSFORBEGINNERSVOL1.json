@@ -257,7 +257,7 @@
     "description": "Blanco juega primero",
     "variations": [
       {
-        "name": "Diagrama base",
+        "name": "Diagrama base. Hay forma de alvar a blanco?",
         "comment": "",
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[js];W[ks];B[kr];W[ls];B[lr];W[qq] )"
       }
