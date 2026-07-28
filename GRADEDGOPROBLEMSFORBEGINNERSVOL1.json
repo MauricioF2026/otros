@@ -85,13 +85,61 @@
   },
   "card-8": {
     "size": 19,
-    "title": "8",
+    "title": "Tsumego 8",
     "description": "Negro juega primero",
     "variations": [
       {
         "name": "Diagrama base",
         "comment": "",
-        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[gp];W[go];B[hp];W[ho];B[io];W[ip];B[in];W[jp];B[hn];W[gn];B[fo];W[fm];B[fn];W[hm];W[gl] )"
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[fd];W[gd];B[ge];W[fe];B[ee];W[ef];B[df];W[fg];B[eg];W[fh] )"
+      }
+    ]
+  },
+  "card-9": {
+    "size": 19,
+    "title": "Tsumego 9",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[ed];W[ee];B[fd];W[fe];B[gd];W[ge];B[he];W[hd];B[gf];W[id];B[ff];W[df];B[de];W[eg] )"
+      }
+    ]
+  },
+  "card-10": {
+    "size": 19,
+    "title": "Tsumego 10",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[gp];W[go];B[fo];W[ho];B[hp];W[ip];B[io];W[jp];B[in];W[hm];B[hn];W[gn];B[fn];W[fm];W[gl] )"
+      }
+    ]
+  },
+  "card-11": {
+    "size": 19,
+    "title": "Tsumego 11",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[eq];W[dq];B[fq];W[er];B[fr];W[fs];B[fp];W[fo];B[go];W[eo];B[hp];W[gp];B[hq];W[gq];B[hr];W[gr] )"
+      }
+    ]
+  },
+  "card-12": {
+    "size": 19,
+    "title": "Tsumego 12",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[eq];W[dq];B[er];W[dr];B[fs];W[es];B[ep];W[fr];B[en];W[fq];W[hq] )"
       }
     ]
   }
