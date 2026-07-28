@@ -394,5 +394,41 @@
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[cp];W[dq];B[bq];W[cr];B[br];W[er];B[do];W[gr];B[fr];W[hq];B[fq];W[ip];B[fp];B[fo] )"
       }
     ]
+  },
+   "card-34": {
+    "size": 19,
+    "title": "Tsumego 34",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[qp];W[po];B[pn];W[on];B[pm];W[oo];B[pq];W[oq];W[or] )"
+      }
+    ]
+  },
+  "card-35": {
+    "size": 19,
+    "title": "Tsumego 35",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ee];W[fe];B[fd];W[gd];B[fc];W[he];B[ff];W[ef];B[gg];W[gf];W[de] )"
+      }
+    ]
+  },
+  "card-36": {
+    "size": 19,
+    "title": "Tsumego 36",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base. Con E14 blanco captura en Ko. Como debe responder negro?",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ee];W[fe];B[fd];W[gf];B[ff];W[ef];B[eg];W[fg];B[df];W[eh] )"
+      }
+    ]
   }
 }
