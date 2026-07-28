@@ -430,5 +430,101 @@
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ee];W[fe];B[fd];W[gf];B[ff];W[ef];B[eg];W[fg];B[df];W[eh] )"
       }
     ]
+  },
+  "card-37": {
+    "size": 19,
+    "title": "37",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[eq];W[dq];B[fq];W[er];B[fr];W[fs];B[gs];W[gr];B[gp];W[do];B[hp];W[hq];B[ip];W[ir];B[jp];W[ds];B[kq];W[cr];B[kr] )"
+      }
+    ]
+  },
+  "card-38": {
+    "size": 19,
+    "title": "38",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[dp];W[ep];B[eq];W[eo];B[cn];W[fq];B[gp];W[er];B[dr];W[cr];B[cq] )"
+      }
+    ]
+  },
+  "card-39": {
+    "size": 19,
+    "title": "39",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ep];W[fp];B[fo];W[gp];B[hp];W[fq];B[gq];W[go];B[gn];W[ho];B[hn];W[hm];B[io];W[in];W[jn] )"
+      }
+    ]
+  },
+  "card-40": {
+    "size": 19,
+    "title": "40",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[cc];W[dd];B[dc];W[ed];B[fd];W[fe];B[ff];W[gf];B[cd];W[ce];B[de];W[df];B[ee];W[eg];B[ef];W[fh];B[fg];W[gi];B[gg];W[hg];B[gh];W[hj];B[hh];W[ih];B[hi];W[ji];B[ii] )"
+      }
+    ]
+  },
+  "card-41": {
+    "size": 19,
+    "title": "41",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ia];W[ja];B[ib];W[jb];B[hb];W[jc];B[gb];W[ic];B[ga];W[hc];B[fb];W[gc];B[eb];W[fc];W[ec];W[dc];W[db] )"
+      }
+    ]
+  },
+  "card-42": {
+    "size": 19,
+    "title": "42",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[da];W[ea];B[db];W[eb];B[dc];W[fb];B[ed];W[fc];B[fd];W[ga];B[gd];W[hb];B[gc];W[ib];B[ja];W[ia];B[jb];B[jc];B[ic];B[hd] )"
+      }
+    ]
+  },
+  "card-43": {
+    "size": 19,
+    "title": "43",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ga];W[fa];B[gb];W[fb];B[gc];W[fc];B[gd];W[fd];B[hb];W[ge];B[ic];W[jc];B[ib];W[jb];B[ia];W[ja];W[he];W[ie];W[jd] )"
+      }
+    ]
+  },
+  "card-44": {
+    "size": 19,
+    "title": "44",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[fd];W[ge];B[gd];W[he];B[hd];W[hf];B[ie];W[ig];B[if];W[ih];B[jg];W[hh];B[jh];W[gg];B[ii];W[fg];B[hi];W[ff];B[ee];B[ef];B[eg];B[eh];B[fh];B[gi] )"
+      }
+    ]
   }
 }
