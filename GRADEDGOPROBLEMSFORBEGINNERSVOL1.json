@@ -334,5 +334,65 @@
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ee];W[ge];B[fd];W[hd];B[gd];W[id];B[he];W[je];B[ie];W[if];B[hf];W[ig];B[hg];W[ih];B[hh];W[hi];W[gh] )"
       }
     ]
+  },
+   "card-29": {
+    "size": 19,
+    "title": "Tsumego 29",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base. Negro como da doble atari",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[oe];W[ne];B[nf];W[mf];B[mg];W[lg] )"
+      }
+    ]
+  },
+  "card-30": {
+    "size": 19,
+    "title": "Tsumego 30",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base. Negro como da doble atari",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[gp];W[ho];B[hp];W[ip];B[iq];W[jq];B[ir];W[kp];B[go];W[gn];W[fn] )"
+      }
+    ]
+  },
+  "card-31": {
+    "size": 19,
+    "title": "Tsumego 31",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[dq];W[cp];B[do];W[ep] )"
+      }
+    ]
+  },
+  "card-32": {
+    "size": 19,
+    "title": "Tsumego 32",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[op];W[qp];B[po];W[pq];B[qo];W[np];B[nq];W[mp];W[lq] )"
+      }
+    ]
+  },
+  "card-33": {
+    "size": 19,
+    "title": "Tsumego 33",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base. Negro como puede separar a las blancas",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[cp];W[dq];B[bq];W[cr];B[br];W[er];B[do];W[gr];B[fr];W[hq];B[fq];W[ip];B[fp];B[fo] )"
+      }
+    ]
   }
 }
