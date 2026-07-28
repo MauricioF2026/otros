@@ -257,9 +257,81 @@
     "description": "Blanco juega primero",
     "variations": [
       {
-        "name": "Diagrama base. Hay forma de alvar a blanco?",
+        "name": "Diagrama base. Hay forma de salvar a blanco?",
         "comment": "",
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[js];W[ks];B[kr];W[ls];B[lr];W[qq] )"
+      }
+    ]
+  },
+  "card-23": {
+    "size": 19,
+    "title": "Tsumego 23",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[pr];W[qr];B[or];W[pq];B[nq];W[oq];B[np];W[nr];B[mr];W[ns] )"
+      }
+    ]
+  },
+  "card-24": {
+    "size": 19,
+    "title": "Tsumego 24",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[fp];W[fq];B[gp];W[gq];B[fo];W[eq];B[en];W[fn];B[em];W[eo];B[el];W[do];B[gl];W[hn];B[il];W[in];B[ho];W[hp];W[ip] )"
+      }
+    ]
+  },
+  "card-25": {
+    "size": 19,
+    "title": "Tsumego 25",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[dc];W[cc];B[ec];W[bc];B[fc];W[fd];B[gd];W[ff];B[de];W[dd];B[cd];W[ce];B[bd];W[cf];W[ed] )"
+      }
+    ]
+  },
+  "card-26": {
+    "size": 19,
+    "title": "Tsumego 26",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[fp];W[fo];B[eo];W[fn];B[en];W[go];B[ho];W[gp];B[gq];W[hq];B[hp];W[iq];B[hm];W[kp] )"
+      }
+    ]
+  },
+  "card-27": {
+    "size": 19,
+    "title": "Tsumego 27",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ef];W[fg];B[eg];W[gg];B[hg];W[ge];B[hh];W[if];B[gi];W[gh];B[fh];W[hi];W[ii];W[ih] )"
+      }
+    ]
+  },
+  "card-28": {
+    "size": 19,
+    "title": "Tsumego 28",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-28]AP[BlogFuseki:1] ;B[ee];W[ge];B[fd];W[hd];B[gd];W[id];B[he];W[je];B[ie];W[if];B[hf];W[ig];B[hg];W[ih];B[hh];W[hi];W[gh] )"
       }
     ]
   }
