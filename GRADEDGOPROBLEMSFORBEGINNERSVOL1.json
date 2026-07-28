@@ -1,7 +1,7 @@
 {
   "card-1": {
     "size": 19,
-    "title": "Tsumego 1",
+    "title": "1",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -13,7 +13,7 @@
   },
     "card-2": {
     "size": 19,
-    "title": "Tsumego 2",
+    "title": "2",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -25,7 +25,7 @@
   },
   "card-3": {
     "size": 19,
-    "title": "Tsumego 3",
+    "title": "3",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -37,7 +37,7 @@
   },
   "card-4": {
     "size": 19,
-    "title": "Tsumego 4",
+    "title": "4",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -49,7 +49,7 @@
   },
   "card-5": {
     "size": 19,
-    "title": "Tsumego 5",
+    "title": "5",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -61,7 +61,7 @@
   },
   "card-6": {
     "size": 19,
-    "title": "Tsumego 6",
+    "title": "6",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -73,7 +73,7 @@
   },
   "card-7": {
     "size": 19,
-    "title": "Tsumego 7",
+    "title": "7",
     "description": "Negro juega primero",
     "variations": [
       {
@@ -85,7 +85,7 @@
   },
   "card-8": {
     "size": 19,
-    "title": "Tsumego 8",
+    "title": "8",
     "description": "Negro juega primero",
     "variations": [
       {
