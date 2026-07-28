@@ -34,5 +34,29 @@
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[rs];W[ss];B[qr];W[rr];B[pr];W[qq];B[nq];W[rp] )"
       }
     ]
+  },
+  "card-4": {
+    "size": 19,
+    "title": "Tsumego 4",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[ed];W[fd];B[ee];W[fe];B[gd];W[ef];B[ge];W[eg];B[ff];W[de] )"
+      }
+    ]
+  },
+  "card-5": {
+    "size": 19,
+    "title": "Tsumego 5",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[fp];W[jp];B[fr];W[dr];B[er];W[es];B[ds];W[fs];W[gr];W[hr];W[is] )"
+      }
+    ]
   }
 }
