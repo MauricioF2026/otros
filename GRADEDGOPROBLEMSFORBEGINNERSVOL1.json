@@ -10,5 +10,20 @@
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1];B[ji];W[jj];B[kj];W[ki];B[ij];W[li])"
       }
     ]
+  },
+ {
+  "card-2": {
+    "size": 19,
+    "title": "Tsumego 2",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-27]AP[BlogFuseki:1] ;B[hs];W[is];B[ir];W[jr];B[iq];W[jq] )"
+      }
+    ]
   }
+
+
 }
