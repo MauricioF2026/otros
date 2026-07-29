@@ -658,5 +658,65 @@
         "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-29]AP[BlogFuseki:1] ;B[dp];W[dq];B[eq];W[cr];B[dr];W[er];B[es];W[fr];B[gs];W[gr];B[hr];W[gq];B[fq];W[hq];B[gp];W[hp];B[ho];W[io];B[ip];W[jp];B[iq];W[jq] )"
       }
     ]
+  },
+   "card-70": {
+    "size": 19,
+    "title": "70",
+    "description": "Blanco juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-29]AP[BlogFuseki:1] ;B[ed];W[dd];B[fd];W[ec];B[gd];W[gc];B[he];W[hd];B[hf];W[ge];B[hg];W[gf];B[gh];W[gg];B[fg];W[eg];B[dg];W[ef];B[df];W[de];B[ee];W[fh];B[gi];W[fi];B[eh];W[fe];B[dh] )"
+      }
+    ]
+  },
+  "card-71": {
+    "size": 19,
+    "title": "71",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-29]AP[BlogFuseki:1] ;B[ed];W[ef];B[ge];W[dg];B[eg];W[dh];B[eh];W[di];B[ei];W[dj];B[ej];W[ek];B[fi];W[fj];B[gh];W[gi];B[gg];W[fg] )"
+      }
+    ]
+  },
+  "card-72": {
+    "size": 19,
+    "title": "72",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-29]AP[BlogFuseki:1] ;B[fp];W[ep];B[gp];W[hp];B[gq];W[hq];B[go];W[fq];B[fn];W[fo];B[fm];W[eo];B[gl];W[hm];B[hl];W[im];B[il];W[jn];B[jm];W[io];B[in];W[ho];B[hn];W[gr];B[km] )"
+      }
+    ]
+  },
+  "card-73": {
+    "size": 19,
+    "title": "73",
+    "description": "Negro juega primero",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-29]AP[BlogFuseki:1] ;B[gq];W[gr];B[hr];W[hq];W[iq] )"
+      }
+    ]
+  },
+  "card-74": {
+    "size": 19,
+    "title": "74",
+    "description": "Blanco juega primero. Donde debe dar atari",
+    "variations": [
+      {
+        "name": "Diagrama base",
+        "comment": "",
+        "sgf": "(;GM[1]FF[4]SZ[19]DT[2026-07-29]AP[BlogFuseki:1] ;B[ip];W[kp];B[kq];W[ko];B[jo];W[ln];B[kn];W[km];B[jn];W[jm];B[jq];W[in];B[hq];W[hp];B[hr];W[gq];W[ho] )"
+      }
+    ]
   }
 }
