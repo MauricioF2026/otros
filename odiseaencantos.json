@@ -72,29 +72,36 @@
     "imagen":"images/poseidon.jpg"
   },
   {
-    "id": 4,
-    "nombre": "Hermes",
-    "griego": "Ἑρμῆς",
-    "tipo": "Dios",
-    "rango": "Olímpico",
-    "funcion": "Mensajero",
-    "subfuncion": "Enviado de Zeus",
-    "arquetipo": "Comunicación",
-    "lugar": "Olimpo",
-    "primera_aparicion": "I (mencionado)",
-    "ultima_aparicion": "XXIV",
-    "cantos":["I","V","XXIV"],
-    "familia":{
-      "padre":"Zeus",
-      "madre":"Maya",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Zeus","Calipso","Odiseo"],
-    "descripcion":"Mensajero de los dioses. Zeus anuncia que será enviado a Ogigia para ordenar a Calipso que libere a Odiseo.",
-    "destino":"Continúa sirviendo como heraldo del Olimpo.",
-    "imagen":"images/hermes.jpg"
+  "id":4,
+  "nombre":"Hermes",
+  "griego":"Ἑρμῆς",
+  "tipo":"Dios",
+  "rango":"Olímpico",
+  "funcion":"Mensajero y guía",
+  "subfuncion":"Enviado de Zeus, protector de Odiseo y psicopompo",
+  "arquetipo":"Comunicación y mediación divina",
+  "lugar":"Olimpo / Camino a Ogigia / Camino al Hades",
+  "primera_aparicion":"I (mencionado)",
+  "ultima_aparicion":"XXIV",
+  "cantos":["I","V","X","XXIV"],
+  "familia":{
+    "padre":"Zeus",
+    "madre":"Maya",
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":[
+    "Zeus",
+    "Odiseo",
+    "Calipso",
+    "Circe",
+    "Hades",
+    "Pretendientes muertos"
+  ],
+  "descripcion":"Mensajero de los dioses y mediador entre mundos. Zeus lo envía a Ogigia para ordenar la liberación de Odiseo; en el Canto X protege al héroe entregándole la hierba moly contra los encantamientos de Circe; en el Canto XXIV guía las almas de los pretendientes muertos hacia el Hades.",
+  "destino":"Continúa como mensajero de los dioses olímpicos y guía entre el mundo divino, humano y subterráneo.",
+  "imagen":"images/hermes.jpg"
+},
   {
     "id": 5,
     "nombre": "Odiseo",
@@ -143,30 +150,42 @@
     "destino":"Obedece la orden de Zeus y deja partir a Odiseo.",
     "imagen":"images/calipso.jpg"
   },
-  {
-    "id": 7,
-    "nombre": "Telémaco",
-    "griego": "Τηλέμαχος",
-    "tipo": "Humano",
-    "rango": "Príncipe",
-    "funcion": "Heredero",
-    "subfuncion": "Hijo de Odiseo",
-    "arquetipo": "Maduración",
-    "lugar": "Ítaca",
-    "primera_aparicion": "I",
-    "ultima_aparicion": "XXIV",
-    "cantos":["I","II","III","IV","XV","XVI","XVII","XVIII","XIX","XX","XXI","XXII","XXIII","XXIV"],
-    "familia":{
-      "padre":"Odiseo",
-      "madre":"Penélope",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Penélope","Atenea","Euriclea","Mentor"],
-    "descripcion":"Hijo de Odiseo. En el Canto I recibe de Atenea el impulso para comenzar la búsqueda de noticias sobre su padre.",
-    "destino":"Ayuda a Odiseo a recuperar Ítaca.",
-    "imagen":"images/telemaco.jpg"
+ {
+  "id":7,
+  "nombre":"Telémaco",
+  "griego":"Τηλέμαχος",
+  "tipo":"Humano",
+  "rango":"Príncipe de Ítaca",
+  "funcion":"Heredero",
+  "subfuncion":"Hijo de Odiseo y aliado en la restauración del reino",
+  "arquetipo":"Maduración",
+  "lugar":"Ítaca",
+  "primera_aparicion":"I",
+  "ultima_aparicion":"XXIV",
+  "cantos":[
+    "I","II","III","IV",
+    "XV","XVI","XVII","XVIII",
+    "XIX","XX","XXI","XXII",
+    "XXIII","XXIV"
+  ],
+  "familia":{
+    "padre":"Odiseo",
+    "madre":"Penélope",
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":[
+    "Odiseo",
+    "Penélope",
+    "Atenea",
+    "Euriclea",
+    "Mentor",
+    "Laertes"
+  ],
+  "descripcion":"Hijo de Odiseo y Penélope. Al inicio de la obra es un joven sin experiencia que, guiado por Atenea, emprende la búsqueda de noticias sobre su padre. Durante su viaje madura y finalmente ayuda a Odiseo a recuperar el reino de Ítaca.",
+  "destino":"Recupera junto a Odiseo el control de Ítaca y asegura la continuidad del linaje real.",
+  "imagen":"images/telemaco.jpg"
+},
   {
     "id": 8,
     "nombre": "Mentor",
@@ -264,29 +283,29 @@
     "imagen":"images/leocrito.jpg"
   },
   {
-    "id": 12,
-    "nombre": "Noemón",
-    "griego": "Νοήμων",
-    "tipo": "Humano",
-    "rango": "Noble de Ítaca",
-    "funcion": "Aliado",
-    "subfuncion": "Presta su nave",
-    "arquetipo": "Hospitalidad",
-    "lugar": "Ítaca",
-    "primera_aparicion": "II",
-    "ultima_aparicion": "IV",
-    "cantos": ["II","IV"],
-    "familia":{
-      "padre":"Fronio",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Telémaco","Atenea"],
-    "descripcion":"Joven itacense que proporciona la nave utilizada por Telémaco para iniciar su viaje.",
-    "destino":"Continúa viviendo en Ítaca.",
-    "imagen":"images/noemon.jpg"
+  "id":12,
+  "nombre":"Noemón",
+  "griego":"Νοήμων",
+  "tipo":"Humano",
+  "rango":"Noble de Ítaca",
+  "funcion":"Aliado",
+  "subfuncion":"Dueño de una nave / colaborador de Telémaco",
+  "arquetipo":"Cooperación y hospitalidad",
+  "lugar":"Ítaca",
+  "primera_aparicion":"II",
+  "ultima_aparicion":"XVII",
+  "cantos":["II","IV","XV","XVII"],
+  "familia":{
+    "padre":"Fronio",
+    "madre":null,
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":["Telémaco","Atenea","Pretendientes"],
+  "descripcion":"Noble de Ítaca, hijo de Fronio, que proporciona su nave a Telémaco para iniciar su viaje a Pilos y Esparta. Más tarde vuelve a aparecer cuando la nave regresa a Ítaca.",
+  "destino":"Continúa viviendo en Ítaca.",
+  "imagen":"images/noemon.jpg"
+},
 {
     "id": 13,
     "nombre": "Néstor",
@@ -1056,30 +1075,7 @@
     "destino":"Ayuda a Odiseo indicándole el camino hacia el Hades y los peligros futuros.",
     "imagen":"images/circe.jpg"
   },
-  {
-    "id":44,
-    "nombre":"Hermes (como ayudante de Odiseo)",
-    "griego":"Ἑρμῆς",
-    "tipo":"Dios",
-    "rango":"Olímpico",
-    "funcion":"Protector",
-    "subfuncion":"Entrega el moly contra la magia de Circe",
-    "arquetipo":"Guía divina",
-    "lugar":"Camino hacia Eea",
-    "primera_aparicion":"X",
-    "ultima_aparicion":"X",
-    "cantos":["X"],
-    "familia":{
-      "padre":"Zeus",
-      "madre":"Maya",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Circe","Zeus"],
-    "descripcion":"Aparece ante Odiseo y le entrega la hierba moly que lo protege contra los encantamientos de Circe.",
-    "destino":"Continúa como mensajero y guía de los dioses.",
-    "imagen":"images/hermes.jpg"
-  },
+  
   {
     "id":45,
     "nombre":"Elpénor",
@@ -1440,30 +1436,30 @@
     "destino":"Permanece vinculada al linaje solar.",
     "imagen":"images/neera.jpg"
   },
- {
-    "id":60,
-    "nombre":"Eumeo",
-    "griego":"Εὔμαιος",
-    "tipo":"Humano",
-    "rango":"Porquero real",
-    "funcion":"Aliado",
-    "subfuncion":"Servidor fiel de Odiseo",
-    "arquetipo":"Lealtad",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XIII",
-    "ultima_aparicion":"XXIV",
-    "cantos":["XIII","XIV","XV","XVI","XVII","XX","XXI","XXII","XXIV"],
-    "familia":{
-      "padre":null,
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Telémaco","Penélope","Laertes"],
-    "descripcion":"Aunque su aparición plena ocurre en el Canto XIV, es mencionado al final del Canto XIII como el fiel porquero de Odiseo que cuida sus bienes en Ítaca.",
-    "destino":"Ayuda a Odiseo a recuperar su reino y permanece como servidor leal.",
-    "imagen":"images/eumeo.jpg"
+{
+  "id":60,
+  "nombre":"Eumeo",
+  "griego":"Εὔμαιος",
+  "tipo":"Humano",
+  "rango":"Porquero real",
+  "funcion":"Aliado",
+  "subfuncion":"Servidor fiel de Odiseo",
+  "arquetipo":"Lealtad",
+  "lugar":"Ítaca",
+  "primera_aparicion":"XIII (mencionado)",
+  "ultima_aparicion":"XXIV",
+  "cantos":["XIII","XIV","XV","XVI","XVII","XX","XXI","XXII","XXIV"],
+  "familia":{
+    "padre":"Ctesio",
+    "madre":null,
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":["Odiseo","Telémaco","Penélope","Filecio","Laertes"],
+  "descripcion":"Porquero de Odiseo. Aunque aparece mencionado al final del Canto XIII, su papel principal comienza en el Canto XIV. Fue esclavizado de niño, pero conserva una fidelidad absoluta hacia su señor. Recibe a Odiseo disfrazado y participa en la recuperación del reino de Ítaca.",
+  "destino":"Ayuda a Odiseo en la derrota de los pretendientes y permanece como servidor leal de la casa de Ítaca.",
+  "imagen":"images/eumeo.jpg"
+},
   {
     "id":61,
     "nombre":"Filecio",
@@ -1536,30 +1532,7 @@
     "destino":"Muere como primera víctima de Odiseo al comenzar la matanza de los pretendientes.",
     "imagen":"images/antinoo.jpg"
   },
-{
-    "id":65,
-    "nombre":"Eumeo",
-    "griego":"Εὔμαιος",
-    "tipo":"Humano",
-    "rango":"Porquero real",
-    "funcion":"Aliado",
-    "subfuncion":"Servidor fiel de Odiseo",
-    "arquetipo":"Lealtad",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XIV",
-    "ultima_aparicion":"XXIV",
-    "cantos":["XIV","XV","XVI","XVII","XX","XXI","XXII","XXIV"],
-    "familia":{
-      "padre":"Ctesio",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Telémaco","Penélope","Filecio","Laertes"],
-    "descripcion":"Porquero de Odiseo. Aunque fue esclavizado de niño, permanece completamente fiel a su señor. Recibe al héroe disfrazado y le ofrece hospitalidad.",
-    "destino":"Ayuda a Odiseo en la recuperación de Ítaca y participa en la derrota de los pretendientes.",
-    "imagen":"images/eumeo.jpg"
-  },
+
   {
     "id":66,
     "nombre":"Ctesio",
@@ -1681,54 +1654,6 @@
     "imagen":"images/pireo.jpg"
   },
   {
-    "id":71,
-    "nombre":"Noemón",
-    "griego":"Νοήμων",
-    "tipo":"Humano",
-    "rango":"Noble de Ítaca",
-    "funcion":"Colaborador",
-    "subfuncion":"Dueño de una nave",
-    "arquetipo":"Cooperación",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XV",
-    "ultima_aparicion":"XVII",
-    "cantos":["XV","XVII"],
-    "familia":{
-      "padre":"Fronio",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Telémaco","Pretendientes"],
-    "descripcion":"Noble de Ítaca que presta su nave a Telémaco para viajar a Pilos y Esparta.",
-    "destino":"Continúa viviendo en Ítaca.",
-    "imagen":"images/noemon.jpg"
-  },
-{
-    "id":72,
-    "nombre":"Telémaco",
-    "griego":"Τηλέμαχος",
-    "tipo":"Humano",
-    "rango":"Príncipe de Ítaca",
-    "funcion":"Hijo y heredero",
-    "subfuncion":"Aliado de Odiseo",
-    "arquetipo":"Maduración",
-    "lugar":"Ítaca",
-    "primera_aparicion":"I",
-    "ultima_aparicion":"XXIV",
-    "cantos":["I","II","III","IV","XV","XVI","XVII","XVIII","XIX","XX","XXI","XXII","XXIII","XXIV"],
-    "familia":{
-      "padre":"Odiseo",
-      "madre":"Penélope",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Penélope","Atenea","Laertes"],
-    "descripcion":"Hijo de Odiseo y Penélope. En este canto reconoce a su padre y se convierte en compañero de la venganza contra los pretendientes.",
-    "destino":"Recupera junto a Odiseo el control de Ítaca.",
-    "imagen":"images/telemaco.jpg"
-  },
-  {
     "id":73,
     "nombre":"Atenea transformada",
     "griego":"Ἀθηνᾶ",
@@ -1800,30 +1725,30 @@
     "destino":"Muere feliz al haber contemplado nuevamente a Odiseo.",
     "imagen":"images/argos.jpg"
   },
-  {
-    "id":76,
-    "nombre":"Melantio",
-    "griego":"Μελάνθιος",
-    "tipo":"Humano",
-    "rango":"Cabrero de Odiseo",
-    "funcion":"Antagonista",
-    "subfuncion":"Servidor traidor de los pretendientes",
-    "arquetipo":"Traición",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XVII",
-    "ultima_aparicion":"XXII",
-    "cantos":["XVII","XX","XXI","XXII"],
-    "familia":{
-      "padre":"Dolio",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Pretendientes","Odiseo","Melanto","Dolio"],
-    "descripcion":"Cabrero de Odiseo que abandona la lealtad a su señor y apoya a los pretendientes. Insulta y maltrata a Odiseo disfrazado.",
-    "destino":"Es castigado durante la venganza de Odiseo.",
-    "imagen":"images/melantio.jpg"
+ {
+  "id":76,
+  "nombre":"Melantio",
+  "griego":"Μελάνθιος",
+  "tipo":"Humano",
+  "rango":"Cabrero de Odiseo",
+  "funcion":"Antagonista",
+  "subfuncion":"Servidor traidor de los pretendientes",
+  "arquetipo":"Traición",
+  "lugar":"Ítaca / Palacio de Odiseo",
+  "primera_aparicion":"XVII",
+  "ultima_aparicion":"XXII",
+  "cantos":["XVII","XX","XXI","XXII"],
+  "familia":{
+    "padre":"Dolio",
+    "madre":null,
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":["Melanto","Dolio","Odiseo","Pretendientes","Eumeo","Filecio"],
+  "descripcion":"Cabrero de Odiseo que traiciona a su señor y se une a los pretendientes. Insulta a Odiseo disfrazado de mendigo y durante la batalla final proporciona armas a los enemigos del rey.",
+  "destino":"Es capturado durante la venganza de Odiseo y castigado por su traición.",
+  "imagen":"images/melantio.jpg"
+},
   {
     "id":77,
     "nombre":"Melanto",
@@ -1848,54 +1773,34 @@
     "destino":"Recibe castigo durante la purificación del palacio.",
     "imagen":"images/melanto.jpg"
   },
-  {
-    "id":78,
-    "nombre":"Iro",
-    "griego":"Ἶρος",
-    "tipo":"Humano",
-    "rango":"Mendigo de Ítaca",
-    "funcion":"Oponente cómico",
-    "subfuncion":"Rival de Odiseo disfrazado",
-    "arquetipo":"Falsa fuerza",
-    "lugar":"Palacio de Odiseo",
-    "primera_aparicion":"XVIII",
-    "ultima_aparicion":"XVIII",
-    "cantos":["XVIII"],
-    "familia":{
-      "padre":null,
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Antínoo","Pretendientes"],
-    "descripcion":"Mendigo famoso del palacio que desafía a Odiseo sin saber su verdadera identidad.",
-    "destino":"Es derrotado por Odiseo en el Canto XVIII.",
-    "imagen":"images/iro.jpg"
+ {
+  "id":78,
+  "nombre":"Iro",
+  "griego":"Ἶρος",
+  "tipo":"Humano",
+  "rango":"Mendigo de Ítaca",
+  "funcion":"Oponente cómico",
+  "subfuncion":"Rival de Odiseo disfrazado",
+  "arquetipo":"Falsa fuerza y arrogancia",
+  "lugar":"Palacio de Odiseo, Ítaca",
+  "primera_aparicion":"XVIII",
+  "ultima_aparicion":"XVIII",
+  "cantos":["XVIII"],
+  "familia":{
+    "padre":"Arneo",
+    "madre":null,
+    "esposo":null,
+    "hijos":[]
   },
-{
-    "id":79,
-    "nombre":"Iro",
-    "griego":"Ἶρος",
-    "tipo":"Humano",
-    "rango":"Mendigo de Ítaca",
-    "funcion":"Oponente",
-    "subfuncion":"Rival de Odiseo disfrazado",
-    "arquetipo":"Falsa fuerza y arrogancia",
-    "lugar":"Palacio de Odiseo, Ítaca",
-    "primera_aparicion":"XVIII",
-    "ultima_aparicion":"XVIII",
-    "cantos":["XVIII"],
-    "familia":{
-      "padre":"Arneo",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Antínoo","Pretendientes"],
-    "descripcion":"Mendigo habitual del palacio que provoca a Odiseo pensando que es un anciano débil. Es derrotado por Odiseo en un combate organizado por los pretendientes.",
-    "destino":"Es expulsado del palacio después de ser vencido.",
-    "imagen":"images/iro.jpg"
-  },
+  "relacionados":[
+    "Odiseo",
+    "Antínoo",
+    "Pretendientes"
+  ],
+  "descripcion":"Mendigo habitual del palacio de Odiseo, conocido como Iro aunque su nombre es Arneo. Desafía a Odiseo disfrazado de anciano creyendo que es débil, pero es derrotado fácilmente en un combate organizado por los pretendientes.",
+  "destino":"Es vencido y expulsado del palacio después de enfrentarse a Odiseo.",
+  "imagen":"images/iro.jpg"
+},
   {
     "id":80,
     "nombre":"Anfínomo",
@@ -2208,31 +2113,7 @@
     "destino":"Muere durante la batalla del palacio.",
     "imagen":"images/anfimedonte.jpg"
   },
-  {
-    "id":93,
-    "nombre":"Melantio",
-    "griego":"Μελάνθιος",
-    "tipo":"Humano",
-    "rango":"Cabrero de Odiseo",
-    "funcion":"Traidor",
-    "subfuncion":"Proveedor de armas a los pretendientes",
-    "arquetipo":"Traición",
-    "lugar":"Palacio de Odiseo",
-    "primera_aparicion":"XVII",
-    "ultima_aparicion":"XXII",
-    "cantos":["XVII","XX","XXI","XXII"],
-    "familia":{
-      "padre":"Dolio",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Melanto","Odiseo","Pretendientes"],
-    "descripcion":"Sirviente traidor que entrega armas a los pretendientes durante la batalla.",
-    "destino":"Es castigado cruelmente por Eumeo y Filecio.",
-    "imagen":"images/melantio.jpg"
-  },
-  {
+    {
     "id":94,
     "nombre":"Cabras y pastores de Ítaca",
     "griego":"αἶγες",
@@ -2279,30 +2160,6 @@
     "descripcion":"Lecho construido por Odiseo alrededor del tronco de un olivo. Su secreto permite a Penélope reconocer definitivamente a su esposo.",
     "destino":"Permanece como símbolo de la unión indestructible de Odiseo y Penélope.",
     "imagen":"images/lecho_odiseo.jpg"
-  },
- {
-    "id":96,
-    "nombre":"Hermes",
-    "griego":"Ἑρμῆς",
-    "tipo":"Dios",
-    "rango":"Olímpico",
-    "funcion":"Guía de almas",
-    "subfuncion":"Psicopompo que conduce a los muertos al Hades",
-    "arquetipo":"Mensajero y mediador",
-    "lugar":"Camino al Hades",
-    "primera_aparicion":"XXIV",
-    "ultima_aparicion":"XXIV",
-    "cantos":["XXIV"],
-    "familia":{
-      "padre":"Zeus",
-      "madre":"Maya",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Zeus","Pretendientes muertos","Hades"],
-    "descripcion":"Hermes conduce las almas de los pretendientes muertos hacia el mundo subterráneo con su vara divina.",
-    "destino":"Continúa como mensajero de los dioses olímpicos.",
-    "imagen":"images/hermes.jpg"
   },
   {
     "id":97,
