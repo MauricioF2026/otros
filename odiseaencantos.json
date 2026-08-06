@@ -1027,30 +1027,7 @@
     "destino":"Niega una segunda ayuda a Odiseo al considerar que los dioses se oponen a su regreso.",
     "imagen":"images/eolo.jpg"
   },
-  {
-    "id":42,
-    "nombre":"Antífates",
-    "griego":"Ἀντιφάτης",
-    "tipo":"Gigante",
-    "rango":"Rey de los Lestrigones",
-    "funcion":"Antagonista",
-    "subfuncion":"Destructor de la flota",
-    "arquetipo":"Violencia",
-    "lugar":"Lamos / Tierra de los Lestrigones",
-    "primera_aparicion":"X",
-    "ultima_aparicion":"X",
-    "cantos":["X"],
-    "familia":{
-      "padre":null,
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Lestrigones"],
-    "descripcion":"Rey de los Lestrigones. Ataca a los compañeros de Odiseo y destruye todas sus naves excepto la del héroe.",
-    "destino":"Provoca una de las mayores pérdidas del viaje de Odiseo.",
-    "imagen":"images/antifates.jpg"
-  },
+ 
   {
     "id":43,
     "nombre":"Circe",
@@ -1611,8 +1588,8 @@
     "griego":"Θεοκλύμενος",
     "tipo":"Humano",
     "rango":"Adivino",
-    "funcion":"Consejero",
-    "subfuncion":"Profeta que acompaña a Telémaco",
+    "funcion":"Adivino",
+    "subfuncion":"Profeta que interpreta señales divinas",
     "arquetipo":"Visión divina",
     "lugar":"Pilos / Ítaca",
     "primera_aparicion":"XV",
@@ -1654,53 +1631,35 @@
     "imagen":"images/pireo.jpg"
   },
   {
-    "id":73,
-    "nombre":"Atenea transformada",
-    "griego":"Ἀθηνᾶ",
-    "tipo":"Diosa",
-    "rango":"Olímpica",
-    "funcion":"Protectora",
-    "subfuncion":"Revela la identidad de Odiseo",
-    "arquetipo":"Sabiduría estratégica",
-    "lugar":"Ítaca",
-    "primera_aparicion":"I",
-    "ultima_aparicion":"XXIV",
-    "cantos":["I","II","III","IV","V","VI","VII","XIII","XIV","XVI","XVII","XVIII","XIX","XX","XXI","XXII","XXIII","XXIV"],
-    "familia":{
-      "padre":"Zeus",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Odiseo","Telémaco","Zeus"],
-    "descripcion":"Atenea aparece ante Odiseo y Telémaco, devuelve al héroe su apariencia verdadera y dirige la estrategia contra los pretendientes.",
-    "destino":"Permanece como protectora divina de Odiseo.",
-    "imagen":"images/atenea.jpg"
+  "id":74,
+  "nombre":"Dolio",
+  "griego":"Δόλιος",
+  "tipo":"Humano",
+  "rango":"Siervo de Laertes",
+  "funcion":"Servidor fiel",
+  "subfuncion":"Anciano servidor de la casa de Odiseo",
+  "arquetipo":"Fidelidad silenciosa",
+  "lugar":"Ítaca",
+  "primera_aparicion":"XVI",
+  "ultima_aparicion":"XXIV",
+  "cantos":["XVI","XIX","XXIV"],
+  "familia":{
+    "padre":null,
+    "madre":null,
+    "esposo":null,
+    "hijos":["Melanto","Melantio"]
   },
-  {
-    "id":74,
-    "nombre":"Dolio",
-    "griego":"Δόλιος",
-    "tipo":"Humano",
-    "rango":"Siervo de Laertes",
-    "funcion":"Servidor",
-    "subfuncion":"Anciano trabajador de la casa",
-    "arquetipo":"Fidelidad silenciosa",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XVI",
-    "ultima_aparicion":"XXIV",
-    "cantos":["XVI","XXIV"],
-    "familia":{
-      "padre":null,
-      "madre":null,
-      "esposo":null,
-      "hijos":["Melanto","Melantio"]
-    },
-    "relacionados":["Odiseo","Laertes","Penélope"],
-    "descripcion":"Viejo servidor de la casa de Odiseo. Es padre de Melanto y Melantio, aunque él permanece fiel a la familia real.",
-    "destino":"Reconoce el regreso de Odiseo y continúa al servicio de Laertes.",
-    "imagen":"images/dolio.jpg"
-  },
+  "relacionados":[
+    "Odiseo",
+    "Laertes",
+    "Penélope",
+    "Melanto",
+    "Melantio"
+  ],
+  "descripcion":"Anciano servidor de Laertes y de la casa de Odiseo. Es padre de Melanto y Melantio, quienes toman caminos opuestos a la familia real: Melanto sirve a los pretendientes y Melantio traiciona a Odiseo, mientras Dolio permanece fiel a la casa de Ítaca.",
+  "destino":"Reconoce el regreso de Odiseo y participa en la restauración del orden de Ítaca junto a su familia.",
+  "imagen":"images/dolio.jpg"
+},
  {
     "id":75,
     "nombre":"Argos",
@@ -1897,30 +1856,7 @@
     "destino":"Permanece como figura del linaje de Odiseo.",
     "imagen":"images/autolico.jpg"
   },
-  {
-    "id":84,
-    "nombre":"Doli(o) (servidores de Penélope)",
-    "griego":"Δόλιος",
-    "tipo":"Humano",
-    "rango":"Servidor de la casa",
-    "funcion":"Servidor",
-    "subfuncion":"Sirviente antiguo del palacio",
-    "arquetipo":"Tradición doméstica",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XIX",
-    "ultima_aparicion":"XXIV",
-    "cantos":["XIX","XXIV"],
-    "familia":{
-      "padre":null,
-      "madre":null,
-      "esposo":null,
-      "hijos":["Melanto","Melantio"]
-    },
-    "relacionados":["Penélope","Odiseo","Laertes"],
-    "descripcion":"Servidor mencionado dentro del entorno doméstico de Penélope y la casa de Odiseo.",
-    "destino":"Continúa ligado a la casa real.",
-    "imagen":"images/dolio.jpg"
-  },
+ 
   {
 "id":85,
     "nombre":"Ctesipo",
@@ -1945,30 +1881,7 @@
     "destino":"Muere durante la batalla contra Odiseo y sus aliados.",
     "imagen":"images/ctesipo.jpg"
   },
-  {
-    "id":86,
-    "nombre":"Teoclímeno (visión profética)",
-    "griego":"Θεοκλύμενος",
-    "tipo":"Humano",
-    "rango":"Adivino",
-    "funcion":"Profeta",
-    "subfuncion":"Interpreta los signos divinos",
-    "arquetipo":"Revelación",
-    "lugar":"Palacio de Ítaca",
-    "primera_aparicion":"XV",
-    "ultima_aparicion":"XX",
-    "cantos":["XV","XVI","XVII","XX"],
-    "familia":{
-      "padre":"Polifides",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Telémaco","Odiseo","Pretendientes"],
-    "descripcion":"Adivino que interpreta una señal sobrenatural: ve la muerte acercándose a los pretendientes y anuncia que una desgracia caerá sobre ellos.",
-    "destino":"Abandona el palacio antes de la matanza de los pretendientes.",
-    "imagen":"images/teoclimeno.jpg"
-  },
+  
   {
     "id":87,
     "nombre":"Femio",
