@@ -216,29 +216,29 @@
     "imagen":"images/haliterses.jpg"
   },
   {
-    "id": 10,
-    "nombre": "Eurímaco",
-    "griego": "Εὐρύμαχος",
-    "tipo": "Humano",
-    "rango": "Pretendiente",
-    "funcion": "Antagonista",
-    "subfuncion": "Líder de los pretendientes",
-    "arquetipo": "Ambición",
-    "lugar": "Ítaca",
-    "primera_aparicion": "II",
-    "ultima_aparicion": "XXII",
-    "cantos": ["II","IV","XVI","XVII","XVIII","XIX","XX","XXI","XXII"],
-    "familia":{
-      "padre":"Pólibo",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Antínoo","Penélope","Odiseo","Melanto"],
-    "descripcion":"Uno de los principales pretendientes de Penélope. Astuto y persuasivo, intenta justificar el comportamiento de los pretendientes ante la asamblea.",
-    "destino":"Muere a manos de Odiseo durante la matanza de los pretendientes.",
-    "imagen":"images/eurimaco.jpg"
+  "id":10,
+  "nombre":"Eurímaco",
+  "griego":"Εὐρύμαχος",
+  "tipo":"Humano",
+  "rango":"Noble de Ítaca / Pretendiente",
+  "funcion":"Antagonista",
+  "subfuncion":"Segundo líder de los pretendientes",
+  "arquetipo":"Engaño y ambición",
+  "lugar":"Ítaca",
+  "primera_aparicion":"II",
+  "ultima_aparicion":"XXII",
+  "cantos":["II","IV","XVI","XVII","XVIII","XIX","XX","XXI","XXII"],
+  "familia":{
+    "padre":"Pólibo",
+    "madre":null,
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":["Antínoo","Penélope","Odiseo","Melanto"],
+  "descripcion":"Uno de los principales pretendientes de Penélope. Destaca por su habilidad política, su persuasión y su falsedad. Intenta manipular la situación en Ítaca y engañar a Odiseo antes de la venganza final.",
+  "destino":"Muere a manos de Odiseo durante la matanza de los pretendientes.",
+  "imagen":"images/eurimaco.jpg"
+},
   {
     "id": 11,
     "nombre": "Leócrito",
@@ -671,30 +671,30 @@
     "destino":"Su pueblo ayuda finalmente a Odiseo a volver a casa.",
     "imagen":"images/alcinous.jpg"
   },
-  {
-    "id": 28,
-    "nombre": "Laodamante",
-    "griego": "Λαοδάμας",
-    "tipo":"Humano",
-    "rango":"Príncipe",
-    "funcion":"Noble feacio",
-    "subfuncion":"Hijo de Alcínoo",
-    "arquetipo":"Juventud aristocrática",
-    "lugar":"Esqueria",
-    "primera_aparicion":"VI",
-    "ultima_aparicion":"VIII",
-    "cantos":["VI","VIII"],
-    "familia":{
-      "padre":"Alcínoo",
-      "madre":"Arete",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Alcínoo","Arete","Odiseo"],
-    "descripcion":"Príncipe feacio mencionado entre los jóvenes que participan en las actividades de la corte.",
-    "destino":"Permanece en Esqueria.",
-    "imagen":"images/laodamante.jpg"
+ {
+  "id":28,
+  "nombre":"Laodamante",
+  "griego":"Λαοδάμας",
+  "tipo":"Humano",
+  "rango":"Príncipe",
+  "funcion":"Competidor",
+  "subfuncion":"Hijo de Alcínoo",
+  "arquetipo":"Juventud noble",
+  "lugar":"Esqueria",
+  "primera_aparicion":"VI",
+  "ultima_aparicion":"VIII",
+  "cantos":["VI","VIII"],
+  "familia":{
+    "padre":"Alcínoo",
+    "madre":"Arete",
+    "esposo":null,
+    "hijos":[]
   },
+  "relacionados":["Alcínoo","Arete","Odiseo"],
+  "descripcion":"Príncipe feacio que participa en los juegos atléticos organizados para honrar a Odiseo. Representa la juventud noble de la corte de Esqueria.",
+  "destino":"Permanece en la corte feacia.",
+  "imagen":"images/laodamante.jpg"
+},
  {
     "id": 29,
     "nombre": "Nausítoo",
@@ -791,30 +791,7 @@
     "destino":"Permanece como cantor célebre de la corte feacia.",
     "imagen":"images/demodoco.jpg"
   },
-  {
-    "id": 33,
-    "nombre": "Laodamante",
-    "griego": "Λαοδάμας",
-    "tipo": "Humano",
-    "rango": "Príncipe",
-    "funcion": "Competidor",
-    "subfuncion": "Hijo de Alcínoo",
-    "arquetipo": "Juventud noble",
-    "lugar": "Esqueria",
-    "primera_aparicion": "VI",
-    "ultima_aparicion": "VIII",
-    "cantos": ["VI","VIII"],
-    "familia":{
-      "padre":"Alcínoo",
-      "madre":"Arete",
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Alcínoo","Arete","Odiseo"],
-    "descripcion":"Príncipe feacio que participa en los juegos atléticos organizados para honrar a Odiseo.",
-    "destino":"Permanece en la corte feacia.",
-    "imagen":"images/laodamante.jpg"
-  },
+ 
   {
     "id": 34,
     "nombre": "Clitoneo",
@@ -1558,30 +1535,6 @@
     "descripcion":"Uno de los principales pretendientes de Penélope. Representa la arrogancia y la falta de respeto hacia las leyes de hospitalidad.",
     "destino":"Muere como primera víctima de Odiseo al comenzar la matanza de los pretendientes.",
     "imagen":"images/antinoo.jpg"
-  },
-  {
-    "id":64,
-    "nombre":"Eurímaco",
-    "griego":"Εὐρύμαχος",
-    "tipo":"Humano",
-    "rango":"Noble de Ítaca",
-    "funcion":"Antagonista",
-    "subfuncion":"Segundo líder de los pretendientes",
-    "arquetipo":"Engaño",
-    "lugar":"Ítaca",
-    "primera_aparicion":"XIII",
-    "ultima_aparicion":"XXII",
-    "cantos":["XIII","XVI","XVII","XVIII","XX","XXI","XXII"],
-    "familia":{
-      "padre":"Polibo",
-      "madre":null,
-      "esposo":null,
-      "hijos":[]
-    },
-    "relacionados":["Antínoo","Penélope","Odiseo"],
-    "descripcion":"Pretendiente destacado por su habilidad política y su falsedad. Intenta engañar a Odiseo durante la confrontación final.",
-    "destino":"Muere durante la venganza de Odiseo.",
-    "imagen":"images/eurimaco.jpg"
   },
 {
     "id":65,
