@@ -1,0 +1,3490 @@
+[
+{
+  "id": 1,
+  "canto": "I",
+  "titulo": "La asamblea de los dioses. Atenea visita a Telémaco",
+  "titulo_griego": "Θεῶν ἀγορά · Ἀθηνᾶ πρὸς Τηλέμαχον",
+  "nombre_tradicional": "Comienzo de la Telemaquia",
+  "versos": "1-444",
+
+  "lugares_principales": [
+    "Olimpo",
+    "Ítaca",
+    "Palacio de Odiseo"
+  ],
+
+  "personaje_central": "Telémaco",
+
+  "personajes_principales": [
+    "Zeus",
+    "Atenea",
+    "Telémaco",
+    "Odiseo",
+    "Penélope",
+    "Antínoo",
+    "Eurímaco",
+    "Mentor",
+    "Femio"
+  ],
+
+  "personajes_nuevos": [
+    "Telémaco",
+    "Antínoo",
+    "Eurímaco",
+    "Mentor",
+    "Femio",
+    "Haliterses",
+    "Leócrito",
+    "Noemón"
+  ],
+
+  "personajes_mencionados": [
+    "Poseidón",
+    "Hermes",
+    "Calipso",
+    "Agamenón",
+    "Egisto",
+    "Orestes"
+  ],
+
+  "dioses_intervinientes": [
+    "Zeus",
+    "Atenea"
+  ],
+
+  "antagonistas": [
+    "Pretendientes",
+    "Poseidón (mencionado)"
+  ],
+
+  "objetos_importantes": [
+    "Palacio de Odiseo",
+    "Lira de Femio",
+    "Trono de Odiseo"
+  ],
+
+  "temas": [
+    "Hospitalidad (Xenia)",
+    "Justicia divina",
+    "Destino",
+    "Intervención de los dioses",
+    "Maduración",
+    "Lealtad",
+    "Esperanza"
+  ],
+
+  "resumen": "La Odisea comienza diez años después de la caída de Troya. Todos los héroes han regresado a sus hogares excepto Odiseo, retenido en la isla de Calipso. En el Olimpo, Atenea persuade a Zeus para que permita finalmente el regreso del héroe. Mientras Poseidón permanece lejos, Zeus ordena que Hermes lleve el mensaje a Calipso y Atenea viaja a Ítaca disfrazada de Mentes. Allí encuentra a Telémaco rodeado por los pretendientes que consumen las riquezas de su padre. Atenea inspira al joven para que abandone su pasividad, convoque una asamblea y emprenda un viaje en busca de noticias sobre Odiseo. Penélope continúa resistiendo con dignidad la presión de los pretendientes mientras escucha el canto de Femio sobre el regreso de los héroes aqueos.",
+
+  "estructura": {
+    "inicio": "Consejo de los dioses en el Olimpo.",
+    "desarrollo": "Atenea visita a Telémaco bajo la apariencia de Mentes.",
+    "climax": "Telémaco decide asumir el papel de heredero de Odiseo.",
+    "cierre": "Se prepara la convocatoria de la primera asamblea de Ítaca."
+  },
+
+  "hechos_importantes": [
+    "Zeus acepta que Odiseo debe regresar.",
+    "Atenea obtiene permiso para ayudar al héroe.",
+    "Poseidón continúa siendo el principal enemigo de Odiseo.",
+    "Hermes recibe la misión de ir a Ogigia.",
+    "Atenea anima a Telémaco a actuar.",
+    "Se presenta el abuso de los pretendientes sobre la casa de Odiseo.",
+    "Penélope demuestra nuevamente su fidelidad."
+  ],
+
+  "que_entender": [
+    "La decisión de Zeus marca el inicio del regreso de Odiseo.",
+    "Atenea será la principal protectora tanto de Odiseo como de Telémaco.",
+    "La Telemaquia constituye la primera parte de la Odisea y narra la formación de Telémaco.",
+    "Los pretendientes representan el caos político y moral existente en Ítaca.",
+    "La ausencia del rey provoca el deterioro del orden social.",
+    "La hospitalidad es uno de los valores fundamentales de la obra y los pretendientes la violan constantemente."
+  ],
+
+  "para_recordar": [
+    "Odiseo aún no aparece físicamente.",
+    "El protagonista del primer canto es Telémaco.",
+    "La acción comienza en el Olimpo, no en Ítaca.",
+    "La intervención divina impulsa toda la historia."
+  ],
+
+  "continuidad": "En el Canto II, Telémaco pone en práctica el consejo de Atenea: convoca la primera asamblea de Ítaca desde la partida de Odiseo y comienza a preparar secretamente su viaje a Pilos y Esparta para obtener noticias de su padre.",
+
+  "ideas_clave": [
+    "La voluntad de los dioses dirige el destino humano.",
+    "El verdadero liderazgo exige actuar.",
+    "La ausencia del gobernante genera desorden.",
+    "La sabiduría de Atenea impulsa la transformación interior de Telémaco."
+  ],
+
+  "simbolos": [
+    "El Olimpo",
+    "El palacio de Ítaca",
+    "La mesa compartida",
+    "La hospitalidad",
+    "El viaje",
+    "La lira de Femio"
+  ],
+
+  "frases_clave": [
+    "Zeus decide que ha llegado el momento del regreso de Odiseo.",
+    "Atenea inspira el despertar de Telémaco.",
+    "Los pretendientes consumen la casa de Odiseo.",
+    "Penélope permanece fiel a la memoria de su esposo."
+  ],
+
+  "preguntas_para_reflexionar": [
+    "¿Por qué Zeus decide intervenir precisamente ahora?",
+    "¿Qué representa Atenea en la vida de Telémaco?",
+    "¿Cómo afecta la ausencia de Odiseo al reino de Ítaca?",
+    "¿Por qué los pretendientes violan el principio de hospitalidad?",
+    "¿Qué cambio interior experimenta Telémaco al final del canto?"
+  ],
+
+  "cronologia": 1,
+  "duracion_aproximada": "Un día",
+
+  "imagen": "images/canto01.jpg"
+},
+{
+  "canto": "II",
+  "titulo": "La Asamblea de Ítaca",
+  "titulo_griego": "Ἰθακησίων ἀγορά",
+  "nombre_tradicional": "La primera asamblea",
+  "libro": 2,
+
+  "resumen": "Telémaco convoca por primera vez una asamblea en Ítaca desde la partida de Odiseo. Denuncia los abusos de los pretendientes y pide apoyo al pueblo. Haliterses interpreta el vuelo de las aves como un presagio del inminente regreso de Odiseo, pero Eurímaco y los demás pretendientes rechazan la advertencia. Atenea, disfrazada de Mentor, ayuda a Telémaco a preparar una nave para iniciar su viaje en busca de noticias de su padre.",
+
+  "escenario_principal": [
+    "Palacio de Odiseo",
+    "Ágora de Ítaca",
+    "Puerto de Ítaca"
+  ],
+
+  "tiempo": "Un solo día y la noche siguiente.",
+
+  "personajes_principales": [
+    "Telémaco",
+    "Atenea",
+    "Mentor",
+    "Antínoo",
+    "Eurímaco",
+    "Haliterses"
+  ],
+
+  "personajes_secundarios": [
+    "Leócrito",
+    "Noemón",
+    "Pretendientes de Penélope",
+    "Pueblo de Ítaca"
+  ],
+
+  "personajes_nuevos": [
+    "Haliterses",
+    "Leócrito",
+    "Noemón"
+  ],
+
+  "temas": [
+    "Maduración de Telémaco",
+    "Justicia",
+    "Abuso del poder",
+    "Hospitalidad violada",
+    "Destino",
+    "Intervención divina"
+  ],
+
+  "conceptos_clave": [
+    "Asamblea",
+    "Profecía",
+    "Presagio de las aves",
+    "Xenia",
+    "Viaje iniciático",
+    "Responsabilidad del heredero"
+  ],
+
+  "objetos_importantes": [
+    "Cetro de la asamblea",
+    "Nave de Telémaco"
+  ],
+
+  "lugares": [
+    "Ítaca",
+    "Ágora",
+    "Puerto"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Telémaco convoca la asamblea",
+      "descripcion": "Por primera vez desde la partida de Odiseo se reúne oficialmente el pueblo de Ítaca."
+    },
+    {
+      "orden": 2,
+      "titulo": "Acusación contra los pretendientes",
+      "descripcion": "Telémaco denuncia el comportamiento de Antínoo, Eurímaco y los demás nobles."
+    },
+    {
+      "orden": 3,
+      "titulo": "Respuesta de Antínoo",
+      "descripcion": "Responsabiliza a Penélope por retrasar la elección de un esposo mediante el engaño del sudario."
+    },
+    {
+      "orden": 4,
+      "titulo": "Profecía de Haliterses",
+      "descripcion": "El adivino interpreta el vuelo de dos águilas como señal del próximo regreso de Odiseo."
+    },
+    {
+      "orden": 5,
+      "titulo": "Leócrito desacredita la profecía",
+      "descripcion": "Los pretendientes ignoran el presagio y rechazan las advertencias."
+    },
+    {
+      "orden": 6,
+      "titulo": "Atenea ayuda a Telémaco",
+      "descripcion": "Disfrazada de Mentor organiza los preparativos del viaje."
+    },
+    {
+      "orden": 7,
+      "titulo": "Partida secreta",
+      "descripcion": "Durante la noche Telémaco zarpa rumbo a Pilos."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Telémaco deja de ser un joven pasivo y comienza a actuar como heredero.",
+      "Los pretendientes desafían públicamente cualquier autoridad.",
+      "Haliterses anuncia que Odiseo regresará pronto.",
+      "Atenea dirige cada paso del viaje de Telémaco.",
+      "Noemón proporciona la nave para la expedición."
+    ],
+    "prepara_el_canto": "III"
+  },
+
+  "frases_clave": [
+    "La asamblea muestra la decadencia política de Ítaca.",
+    "Telémaco inicia su propio viaje heroico.",
+    "La profecía anticipa la venganza de Odiseo."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "Las águilas",
+      "significado": "El anuncio divino del regreso del rey legítimo."
+    },
+    {
+      "elemento": "La asamblea",
+      "significado": "Intento de restaurar el orden político."
+    },
+    {
+      "elemento": "La nave",
+      "significado": "Inicio del crecimiento personal de Telémaco."
+    }
+  ]
+},
+{
+  "canto": "III",
+  "titulo": "En Pilos con Néstor",
+  "titulo_griego": "Πύλος",
+  "nombre_tradicional": "Telémaco visita a Néstor",
+  "libro": 3,
+
+  "resumen": "Guiado por Atenea, Telémaco llega a Pilos, donde encuentra a Néstor ofreciendo un gran sacrificio a Poseidón. Néstor recibe a los viajeros conforme a las leyes de la hospitalidad y relata el regreso de los héroes aqueos tras la guerra de Troya. Aunque no posee noticias recientes de Odiseo, aconseja a Telémaco viajar a Esparta para consultar a Menelao. Atenea revela parcialmente su naturaleza divina al partir convertida en ave, fortaleciendo la confianza de Telémaco.",
+
+  "escenario_principal": [
+    "Pilos",
+    "Playa de Pilos",
+    "Palacio de Néstor"
+  ],
+
+  "tiempo": "Un día y la mañana siguiente.",
+
+  "personajes_principales": [
+    "Telémaco",
+    "Atenea",
+    "Néstor",
+    "Pisístrato"
+  ],
+
+  "personajes_secundarios": [
+    "Eurídice",
+    "Trasimedes",
+    "Peisínoo",
+    "Hijos de Néstor",
+    "Sacerdotes y pueblo de Pilos"
+  ],
+
+  "personajes_nuevos": [
+    "Néstor",
+    "Pisístrato",
+    "Eurídice",
+    "Trasimedes",
+    "Peisínoo"
+  ],
+
+  "temas": [
+    "Hospitalidad (Xenia)",
+    "Memoria de la guerra de Troya",
+    "Piedad religiosa",
+    "Sabiduría de la vejez",
+    "Maduración de Telémaco",
+    "Consejo"
+  ],
+
+  "conceptos_clave": [
+    "Sacrificio a Poseidón",
+    "Xenia",
+    "Nostos",
+    "Consejo del anciano",
+    "Viaje iniciático",
+    "Intervención divina"
+  ],
+
+  "objetos_importantes": [
+    "Carro de viaje",
+    "Caballos",
+    "Copas para libaciones",
+    "Animales para el sacrificio"
+  ],
+
+  "lugares": [
+    "Pilos",
+    "Mar",
+    "Palacio de Néstor",
+    "Camino hacia Esparta"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Llegada a Pilos",
+      "descripcion": "Telémaco y Atenea encuentran a los pilios realizando un sacrificio en honor a Poseidón."
+    },
+    {
+      "orden": 2,
+      "titulo": "Recepción hospitalaria",
+      "descripcion": "Néstor recibe a los viajeros antes de preguntar quiénes son."
+    },
+    {
+      "orden": 3,
+      "titulo": "Relato del regreso de los aqueos",
+      "descripcion": "Néstor explica las divisiones entre los héroes después de la caída de Troya y recuerda a Agamenón, Menelao y Odiseo."
+    },
+    {
+      "orden": 4,
+      "titulo": "Consejo para Telémaco",
+      "descripcion": "Néstor recomienda visitar a Menelao en Esparta, quien podría conocer el destino de Odiseo."
+    },
+    {
+      "orden": 5,
+      "titulo": "Revelación de Atenea",
+      "descripcion": "Al despedirse, Atenea se transforma en un ave, demostrando su naturaleza divina."
+    },
+    {
+      "orden": 6,
+      "titulo": "Salida hacia Esparta",
+      "descripcion": "Pisístrato acompaña a Telémaco en el viaje por orden de Néstor."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Néstor confirma que nadie conoce el destino de Odiseo.",
+      "La hospitalidad ejemplar de Pilos contrasta con el caos de Ítaca.",
+      "Telémaco gana confianza gracias al apoyo de Atenea.",
+      "Pisístrato se convierte en compañero de viaje.",
+      "El siguiente destino será Esparta para visitar a Menelao."
+    ],
+    "prepara_el_canto": "IV"
+  },
+
+  "frases_clave": [
+    "Néstor representa la memoria viva de la guerra de Troya.",
+    "La hospitalidad es un deber sagrado antes que cualquier pregunta.",
+    "Telémaco comienza a ser tratado como un verdadero príncipe."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El sacrificio a Poseidón",
+      "significado": "La piedad religiosa sostiene el orden de la comunidad."
+    },
+    {
+      "elemento": "La transformación de Atenea en ave",
+      "significado": "Confirmación visible de la protección divina."
+    },
+    {
+      "elemento": "El viaje a Esparta",
+      "significado": "Nuevo paso en la formación de Telémaco como heredero."
+    }
+  ]
+},
+{
+  "canto": "IV",
+  "titulo": "En Esparta con Menelao y Helena",
+  "titulo_griego": "ἐν Λακεδαίμονι",
+  "nombre_tradicional": "El palacio de Menelao",
+  "libro": 4,
+
+  "resumen": "Telémaco y Pisístrato llegan a Esparta, donde Menelao celebra las bodas de sus hijos. Son recibidos con extraordinaria hospitalidad. Menelao y Helena reconocen a Telémaco y evocan episodios de la guerra de Troya y la astucia de Odiseo. Menelao relata cómo el dios marino Proteo le reveló que Odiseo seguía vivo, retenido por Calipso en la isla de Ogigia. Mientras tanto, en Ítaca, los pretendientes descubren la partida de Telémaco y preparan una emboscada para asesinarlo durante su regreso.",
+
+  "escenario_principal": [
+    "Esparta",
+    "Palacio de Menelao",
+    "Ítaca",
+    "Mar Jónico"
+  ],
+
+  "tiempo": "Dos días aproximadamente.",
+
+  "personajes_principales": [
+    "Telémaco",
+    "Pisístrato",
+    "Menelao",
+    "Helena"
+  ],
+
+  "personajes_secundarios": [
+    "Proteo",
+    "Idotea",
+    "Hermíone",
+    "Megapentes",
+    "Antínoo",
+    "Eurímaco",
+    "Noemón",
+    "Médon",
+    "Pretendientes de Penélope",
+    "Penélope"
+  ],
+
+  "personajes_nuevos": [
+    "Menelao",
+    "Helena",
+    "Proteo",
+    "Idotea",
+    "Hermíone",
+    "Megapentes",
+    "Médon"
+  ],
+
+  "temas": [
+    "Hospitalidad",
+    "Memoria",
+    "Nostalgia",
+    "Destino",
+    "Astucia",
+    "Conspiración",
+    "Providencia divina"
+  ],
+
+  "conceptos_clave": [
+    "Xenia",
+    "Nostos",
+    "Profecía",
+    "Emboscada",
+    "Reconocimiento",
+    "Relatos de Troya"
+  ],
+
+  "objetos_importantes": [
+    "Crátera de vino",
+    "Nepente",
+    "Regalos de hospitalidad",
+    "Carros",
+    "Red utilizada para capturar a Proteo"
+  ],
+
+  "lugares": [
+    "Esparta",
+    "Palacio de Menelao",
+    "Isla de Faro",
+    "Ogigia",
+    "Ítaca"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Llegada a Esparta",
+      "descripcion": "Menelao recibe a Telémaco y Pisístrato con todos los honores de la hospitalidad."
+    },
+    {
+      "orden": 2,
+      "titulo": "Reconocimiento de Telémaco",
+      "descripcion": "Menelao y Helena advierten el parecido del joven con Odiseo."
+    },
+    {
+      "orden": 3,
+      "titulo": "Recuerdos de Troya",
+      "descripcion": "Helena narra cómo reconoció a Odiseo disfrazado en Troya, mientras Menelao recuerda el episodio del Caballo de Madera."
+    },
+    {
+      "orden": 4,
+      "titulo": "Relato de Proteo",
+      "descripcion": "Menelao explica cómo capturó al dios marino Proteo, quien le reveló que Odiseo seguía vivo en Ogigia junto a Calipso."
+    },
+    {
+      "orden": 5,
+      "titulo": "Descubrimiento en Ítaca",
+      "descripcion": "Los pretendientes descubren que Telémaco ha partido."
+    },
+    {
+      "orden": 6,
+      "titulo": "Complot contra Telémaco",
+      "descripcion": "Antínoo propone tender una emboscada para asesinar al príncipe durante su regreso."
+    },
+    {
+      "orden": 7,
+      "titulo": "Preocupación de Penélope",
+      "descripcion": "Médon informa a Penélope del complot, mientras Atenea la consuela enviándole un sueño tranquilizador."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Por primera vez se confirma que Odiseo sigue con vida.",
+      "Calipso mantiene retenido a Odiseo en Ogigia.",
+      "Proteo es la fuente de esta información.",
+      "Los pretendientes planean asesinar a Telémaco antes de su regreso.",
+      "La tensión en Ítaca aumenta mientras Telémaco permanece en Esparta.",
+      "Atenea continúa protegiendo tanto a Odiseo como a Penélope y Telémaco."
+    ],
+    "prepara_el_canto": "V"
+  },
+
+  "frases_clave": [
+    "Menelao confirma el destino de Odiseo.",
+    "La guerra de Troya sigue proyectando sus consecuencias sobre los supervivientes.",
+    "La amenaza contra Telémaco convierte el conflicto en una carrera contra el tiempo."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El nepente",
+      "significado": "El intento humano de aliviar el dolor provocado por la memoria."
+    },
+    {
+      "elemento": "Proteo",
+      "significado": "La verdad difícil de alcanzar, que solo se obtiene con perseverancia."
+    },
+    {
+      "elemento": "La emboscada",
+      "significado": "La corrupción y la injusticia que dominan Ítaca en ausencia de su rey."
+    }
+  ]
+},
+{
+  "canto": "V",
+  "titulo": "La partida de Odiseo de la isla de Calipso",
+  "titulo_griego": "Καλυψοῦς νῆσος",
+  "nombre_tradicional": "La isla de Calipso",
+  "libro": 5,
+
+  "resumen": "Los dioses vuelven a reunirse en el Olimpo. Atenea recuerda a Zeus que Odiseo continúa cautivo en la isla de Ogigia. Zeus ordena a Hermes transmitir a Calipso la decisión divina de dejar partir al héroe. Aunque contrariada, Calipso obedece y ayuda a Odiseo a construir una balsa. Tras diecisiete días de navegación, Poseidón descubre al héroe y provoca una violenta tempestad que destruye la embarcación. Gracias a la intervención de Leucótea (Ino) y al apoyo de Atenea, Odiseo logra alcanzar con vida la costa de Esqueria, la tierra de los feacios.",
+
+  "escenario_principal": [
+    "Monte Olimpo",
+    "Isla de Ogigia",
+    "Mar abierto",
+    "Costa de Esqueria"
+  ],
+
+  "tiempo": "Veinte días aproximadamente (construcción de la balsa y navegación).",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Calipso",
+    "Hermes",
+    "Zeus",
+    "Atenea",
+    "Poseidón"
+  ],
+
+  "personajes_secundarios": [
+    "Leucótea (Ino)"
+  ],
+
+  "personajes_nuevos": [
+    "Leucótea (Ino)"
+  ],
+
+  "temas": [
+    "Libertad",
+    "Voluntad divina",
+    "Perseverancia",
+    "Destino",
+    "Esperanza",
+    "Lucha contra la naturaleza"
+  ],
+
+  "conceptos_clave": [
+    "Consejo de los dioses",
+    "Obediencia a Zeus",
+    "Nostos",
+    "Tempestad",
+    "Intervención divina",
+    "Resistencia"
+  ],
+
+  "objetos_importantes": [
+    "Vara de Hermes",
+    "Balsa de Odiseo",
+    "Velo inmortal de Leucótea",
+    "Hacha y herramientas para construir la balsa"
+  ],
+
+  "lugares": [
+    "Monte Olimpo",
+    "Ogigia",
+    "Mar Mediterráneo mítico",
+    "Esqueria"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Consejo de los dioses",
+      "descripcion": "Zeus acepta la petición de Atenea y decide que Odiseo debe regresar a su patria."
+    },
+    {
+      "orden": 2,
+      "titulo": "Hermes visita a Calipso",
+      "descripcion": "El mensajero divino comunica la orden de Zeus de liberar a Odiseo."
+    },
+    {
+      "orden": 3,
+      "titulo": "Construcción de la balsa",
+      "descripcion": "Calipso proporciona herramientas y materiales para que Odiseo construya su embarcación."
+    },
+    {
+      "orden": 4,
+      "titulo": "Salida de Ogigia",
+      "descripcion": "Odiseo abandona la isla después de siete años de cautiverio."
+    },
+    {
+      "orden": 5,
+      "titulo": "La ira de Poseidón",
+      "descripcion": "El dios del mar descubre a Odiseo navegando y desencadena una enorme tormenta."
+    },
+    {
+      "orden": 6,
+      "titulo": "Ayuda de Leucótea",
+      "descripcion": "La diosa marina entrega a Odiseo un velo mágico que le permitirá sobrevivir al naufragio."
+    },
+    {
+      "orden": 7,
+      "titulo": "Llegada a Esqueria",
+      "descripcion": "Atenea calma los vientos y Odiseo alcanza exhausto la costa de los feacios, donde se refugia entre unos matorrales para dormir."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo abandona definitivamente la isla de Calipso.",
+      "Zeus ha decidido que el regreso del héroe ya no puede retrasarse.",
+      "Poseidón continúa siendo el principal enemigo de Odiseo.",
+      "Atenea y Leucótea salvan al héroe de morir en el mar.",
+      "Odiseo llega completamente solo y sin posesiones a Esqueria, donde comenzará la última etapa de su viaje."
+    ],
+    "prepara_el_canto": "VI"
+  },
+
+  "frases_clave": [
+    "El destino de Odiseo ya no puede ser detenido.",
+    "Incluso los dioses deben obedecer la voluntad de Zeus.",
+    "El héroe llega a Esqueria despojado de todo excepto de su inteligencia y su esperanza."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La balsa",
+      "significado": "El esfuerzo humano unido a la ayuda divina para alcanzar el destino."
+    },
+    {
+      "elemento": "La tormenta",
+      "significado": "Los últimos obstáculos antes del regreso definitivo."
+    },
+    {
+      "elemento": "El velo de Leucótea",
+      "significado": "La protección divina concedida a quien persevera."
+    },
+    {
+      "elemento": "El sueño en la playa",
+      "significado": "El final del sufrimiento inmediato y el comienzo de una nueva esperanza."
+    }
+  ]
+},
+{
+  "canto": "VI",
+  "titulo": "Nausícaa recibe a Odiseo",
+  "titulo_griego": "Ναυσικάα",
+  "nombre_tradicional": "Nausícaa y el náufrago",
+  "libro": 6,
+
+  "resumen": "Mientras Odiseo duerme oculto entre los matorrales de la costa de Esqueria, Atenea visita en sueños a la princesa Nausícaa y la anima a ir al río a lavar la ropa antes de su futuro matrimonio. Allí, después de terminar las labores y jugar con sus doncellas, el ruido despierta a Odiseo. El héroe, desnudo y cubierto de sal, se presenta con prudencia ante la joven. Impresionada por su inteligencia y nobleza, Nausícaa le ofrece ropa, alimento y le explica cómo llegar al palacio de Alcínoo y Arete para solicitar ayuda sin comprometer su reputación.",
+
+  "escenario_principal": [
+    "Costa de Esqueria",
+    "Río donde lavan las doncellas",
+    "Camino hacia la ciudad de los feacios"
+  ],
+
+  "tiempo": "Un solo día.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Nausícaa",
+    "Atenea"
+  ],
+
+  "personajes_secundarios": [
+    "Alcínoo",
+    "Arete",
+    "Doncellas de Nausícaa"
+  ],
+
+  "personajes_nuevos": [
+    "Nausícaa",
+    "Arete",
+    "Alcínoo"
+  ],
+
+  "temas": [
+    "Hospitalidad",
+    "Civilización",
+    "Renacimiento",
+    "Prudencia",
+    "Pureza",
+    "Providencia divina"
+  ],
+
+  "conceptos_clave": [
+    "Xenia",
+    "Súplica",
+    "Hospitalidad",
+    "Moderación",
+    "Protección de Atenea",
+    "Sabiduría práctica"
+  ],
+
+  "objetos_importantes": [
+    "Vestiduras entregadas a Odiseo",
+    "Carro de Nausícaa",
+    "Aceite para ungirse",
+    "Canastas de ropa"
+  ],
+
+  "lugares": [
+    "Esqueria",
+    "Río de los feacios",
+    "Bosque cercano",
+    "Camino al palacio de Alcínoo"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "El sueño enviado por Atenea",
+      "descripcion": "Atenea inspira a Nausícaa para que vaya a lavar ropa al río."
+    },
+    {
+      "orden": 2,
+      "titulo": "Las doncellas llegan al río",
+      "descripcion": "Después de lavar la ropa, comen y juegan a la pelota."
+    },
+    {
+      "orden": 3,
+      "titulo": "Odiseo despierta",
+      "descripcion": "El ruido del juego despierta al héroe, que sale cuidadosamente de su escondite."
+    },
+    {
+      "orden": 4,
+      "titulo": "Encuentro entre Nausícaa y Odiseo",
+      "descripcion": "Odiseo suplica ayuda con palabras prudentes sin acercarse demasiado a la princesa."
+    },
+    {
+      "orden": 5,
+      "titulo": "La ayuda de Nausícaa",
+      "descripcion": "La princesa ordena a sus doncellas alimentar y vestir al extranjero."
+    },
+    {
+      "orden": 6,
+      "titulo": "Consejos para entrar en la ciudad",
+      "descripcion": "Nausícaa explica a Odiseo cómo presentarse ante Arete para obtener protección y ayuda."
+    },
+    {
+      "orden": 7,
+      "titulo": "Camino hacia el palacio",
+      "descripcion": "Odiseo espera mientras Nausícaa regresa primero a la ciudad para evitar rumores."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo llega completamente solo y sin recursos a Esqueria.",
+      "Nausícaa se convierte en la primera persona que lo auxilia entre los feacios.",
+      "Atenea continúa guiando discretamente todos los acontecimientos.",
+      "Arete será la figura clave para que Odiseo obtenga hospitalidad.",
+      "El siguiente canto transcurre en el palacio de Alcínoo."
+    ],
+    "prepara_el_canto": "VII"
+  },
+
+  "frases_clave": [
+    "La inteligencia de Odiseo vuelve a salvarle la vida.",
+    "Nausícaa representa la hospitalidad ideal de los feacios.",
+    "La ayuda divina actúa a través de personas virtuosas."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El río",
+      "significado": "Purificación y renacimiento del héroe después del naufragio."
+    },
+    {
+      "elemento": "Las nuevas vestiduras",
+      "significado": "Odiseo recupera su dignidad y deja atrás la etapa de sufrimiento extremo."
+    },
+    {
+      "elemento": "El juego de pelota",
+      "significado": "La juventud, la paz y la armonía de la sociedad feacia."
+    },
+    {
+      "elemento": "Nausícaa",
+      "significado": "La hospitalidad desinteresada y la transición entre el sufrimiento y el regreso al mundo civilizado."
+    }
+  ]
+},
+{
+  "canto": "VII",
+  "titulo": "Odiseo en el palacio de Alcínoo",
+  "titulo_griego": "Ἀλκινόου μέγαρον",
+  "nombre_tradicional": "El palacio de los feacios",
+  "libro": 7,
+
+  "resumen": "Guiado una vez más por Atenea, que adopta la forma de una joven, Odiseo llega a la ciudad de los feacios. La diosa lo envuelve en una niebla para protegerlo de las miradas curiosas hasta alcanzar el magnífico palacio de Alcínoo. Allí suplica la protección de la reina Arete, quien lo recibe favorablemente. Alcínoo ofrece hospitalidad al desconocido y promete ayudarlo a regresar a su patria, aunque todavía ignora su verdadera identidad.",
+
+  "escenario_principal": [
+    "Ciudad de Esqueria",
+    "Palacio de Alcínoo",
+    "Salón del banquete"
+  ],
+
+  "tiempo": "Una tarde y una noche.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Atenea",
+    "Arete",
+    "Alcínoo"
+  ],
+
+  "personajes_secundarios": [
+    "Nausícaa",
+    "Eurimedonte",
+    "Nausítoo",
+    "Peribea",
+    "Criados y nobles feacios"
+  ],
+
+  "personajes_nuevos": [
+    "Eurimedonte",
+    "Nausítoo",
+    "Peribea"
+  ],
+
+  "temas": [
+    "Hospitalidad",
+    "Protección divina",
+    "Civilización",
+    "Respeto",
+    "Súplica",
+    "Esperanza"
+  ],
+
+  "conceptos_clave": [
+    "Xenia",
+    "Súplica",
+    "Protección de Atenea",
+    "Hospitalidad real",
+    "Realeza feacia",
+    "Prudencia"
+  ],
+
+  "objetos_importantes": [
+    "El palacio de Alcínoo",
+    "El trono de Arete",
+    "La niebla creada por Atenea",
+    "Los regalos de hospitalidad"
+  ],
+
+  "lugares": [
+    "Esqueria",
+    "Ciudad de los feacios",
+    "Palacio de Alcínoo"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Atenea guía a Odiseo",
+      "descripcion": "La diosa aparece disfrazada de muchacha y conduce al héroe hasta la ciudad."
+    },
+    {
+      "orden": 2,
+      "titulo": "La niebla protectora",
+      "descripcion": "Atenea envuelve a Odiseo en una niebla para que nadie lo moleste antes de llegar al palacio."
+    },
+    {
+      "orden": 3,
+      "titulo": "Descripción del palacio",
+      "descripcion": "Se presenta la extraordinaria riqueza y prosperidad del reino de los feacios."
+    },
+    {
+      "orden": 4,
+      "titulo": "La súplica a Arete",
+      "descripcion": "Odiseo abraza las rodillas de la reina y solicita ayuda para regresar a su hogar."
+    },
+    {
+      "orden": 5,
+      "titulo": "Recepción del extranjero",
+      "descripcion": "Arete y Alcínoo aceptan recibir al desconocido conforme a las leyes de la hospitalidad."
+    },
+    {
+      "orden": 6,
+      "titulo": "Promesa de ayuda",
+      "descripcion": "Alcínoo asegura que los feacios conducirán al viajero a su patria."
+    },
+    {
+      "orden": 7,
+      "titulo": "Arete reconoce las vestiduras",
+      "descripcion": "La reina observa que el extranjero lleva la ropa confeccionada por Nausícaa y comienza a interrogarlo."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo aún no revela su verdadero nombre.",
+      "Arete se convierte en la figura decisiva para obtener la ayuda de los feacios.",
+      "Alcínoo promete llevar al héroe de regreso a su patria.",
+      "La hospitalidad feacia representa el modelo ideal de acogida al extranjero.",
+      "En el siguiente canto Odiseo será honrado con un gran banquete y unos juegos antes de revelar su identidad."
+    ],
+    "prepara_el_canto": "VIII"
+  },
+
+  "frases_clave": [
+    "La hospitalidad de los feacios contrasta con la violencia de los pretendientes en Ítaca.",
+    "Arete demuestra que la sabiduría puede ejercer más autoridad que la fuerza.",
+    "Odiseo está a un paso de regresar finalmente a su hogar."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La niebla de Atenea",
+      "significado": "La protección invisible de la providencia divina."
+    },
+    {
+      "elemento": "El palacio de Alcínoo",
+      "significado": "La perfección de una sociedad ordenada, próspera y respetuosa de la hospitalidad."
+    },
+    {
+      "elemento": "La súplica a Arete",
+      "significado": "La humildad como camino hacia la salvación."
+    },
+    {
+      "elemento": "Las vestiduras de Nausícaa",
+      "significado": "La prueba del vínculo entre el héroe y la familia real feacia."
+    }
+  ]
+},
+{
+  "canto": "VIII",
+  "titulo": "Los juegos de los feacios",
+  "titulo_griego": "Ἀγῶνες Φαιήκων",
+  "nombre_tradicional": "Los juegos y los cantos de Demódoco",
+  "libro": 8,
+
+  "resumen": "Alcínoo convoca una asamblea para honrar al misterioso huésped. Los feacios celebran un banquete seguido de competiciones atléticas. Inicialmente Odiseo rechaza participar, pero acepta el desafío de Euríalo y demuestra una fuerza extraordinaria al lanzar el disco más lejos que todos. Después, el aedo Demódoco canta episodios de la guerra de Troya y el engaño del Caballo de Madera. Incapaz de contener las lágrimas, Odiseo emociona a Alcínoo, quien decide preguntarle finalmente quién es y de dónde proviene.",
+
+  "escenario_principal": [
+    "Palacio de Alcínoo",
+    "Campo de juegos de Esqueria",
+    "Salón del banquete"
+  ],
+
+  "tiempo": "Un día.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Alcínoo",
+    "Demódoco"
+  ],
+
+  "personajes_secundarios": [
+    "Arete",
+    "Laodamante",
+    "Euríalo",
+    "Clitoneo",
+    "Halio",
+    "Nobles feacios"
+  ],
+
+  "personajes_nuevos": [
+    "Demódoco",
+    "Clitoneo",
+    "Halio",
+    "Euríalo"
+  ],
+
+  "temas": [
+    "Hospitalidad",
+    "Honor",
+    "Gloria heroica",
+    "Memoria",
+    "Identidad",
+    "Arte y poesía"
+  ],
+
+  "conceptos_clave": [
+    "Juegos funerarios",
+    "Areté",
+    "Kleos",
+    "Aedo",
+    "Caballo de Troya",
+    "Reconocimiento"
+  ],
+
+  "objetos_importantes": [
+    "Disco de lanzamiento",
+    "Lira de Demódoco",
+    "Regalos ofrecidos por los feacios",
+    "Copa del banquete"
+  ],
+
+  "lugares": [
+    "Esqueria",
+    "Palacio de Alcínoo",
+    "Campo de juegos"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Asamblea convocada por Alcínoo",
+      "descripcion": "El rey reúne a los nobles para honrar al huésped desconocido."
+    },
+    {
+      "orden": 2,
+      "titulo": "Primer canto de Demódoco",
+      "descripcion": "El aedo canta una disputa entre Aquiles y Odiseo durante la guerra de Troya."
+    },
+    {
+      "orden": 3,
+      "titulo": "Competiciones atléticas",
+      "descripcion": "Los jóvenes feacios compiten en carreras, lucha, salto, boxeo y lanzamiento de disco."
+    },
+    {
+      "orden": 4,
+      "titulo": "Desafío de Euríalo",
+      "descripcion": "Euríalo insulta a Odiseo insinuando que no es un verdadero guerrero."
+    },
+    {
+      "orden": 5,
+      "titulo": "Lanzamiento del disco",
+      "descripcion": "Odiseo demuestra su fuerza lanzando el disco mucho más lejos que cualquier feacio."
+    },
+    {
+      "orden": 6,
+      "titulo": "Danzas y segundo banquete",
+      "descripcion": "Los feacios realizan exhibiciones de danza y música para entretener al huésped."
+    },
+    {
+      "orden": 7,
+      "titulo": "El Caballo de Troya",
+      "descripcion": "Demódoco canta la caída de Troya y el papel decisivo de Odiseo."
+    },
+    {
+      "orden": 8,
+      "titulo": "Las lágrimas de Odiseo",
+      "descripcion": "Al oír el relato de sus propias hazañas, Odiseo rompe a llorar en silencio."
+    },
+    {
+      "orden": 9,
+      "titulo": "Alcínoo pide la verdad",
+      "descripcion": "El rey comprende que el extranjero guarda un gran dolor y le pide revelar su identidad."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo todavía no ha revelado su nombre.",
+      "Los feacios reconocen que el huésped posee una fuerza extraordinaria.",
+      "Demódoco canta hechos que solo un participante de la guerra podría conocer profundamente.",
+      "Las lágrimas de Odiseo despiertan la curiosidad de Alcínoo.",
+      "El siguiente canto comienza con la revelación de la identidad de Odiseo y el relato de todas sus aventuras."
+    ],
+    "prepara_el_canto": "IX"
+  },
+
+  "frases_clave": [
+    "La gloria del héroe permanece viva gracias al canto del poeta.",
+    "La fuerza de Odiseo es igualada únicamente por su inteligencia.",
+    "El dolor del recuerdo revela la verdadera identidad del héroe."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "Los juegos",
+      "significado": "La excelencia física y el honor propios del mundo heroico griego."
+    },
+    {
+      "elemento": "La lira de Demódoco",
+      "significado": "La poesía preserva la memoria de los héroes y sus acciones."
+    },
+    {
+      "elemento": "El disco",
+      "significado": "La fuerza interior de Odiseo permanece intacta pese a años de sufrimiento."
+    },
+    {
+      "elemento": "Las lágrimas de Odiseo",
+      "significado": "Incluso el héroe más grande conserva la humanidad y el peso de sus recuerdos."
+    }
+  ]
+},
+{
+  "canto": "IX",
+  "titulo": "El relato de los cíclopes",
+  "titulo_griego": "Κύκλωψ",
+  "lugar_principal": [
+    "Ismaro",
+    "País de los Lotófagos",
+    "Isla de los Cíclopes",
+    "Cueva de Polifemo"
+  ],
+  "tiempo": "Pasado (relato de Odiseo ante los feacios)",
+  "personajes_principales": [
+    "Odiseo",
+    "Polifemo",
+    "Marón"
+  ],
+  "personajes_secundarios": [
+    "Compañeros de Odiseo",
+    "Cícones",
+    "Lotófagos",
+    "Cíclopes",
+    "Poseidón (mencionado)"
+  ],
+  "personajes_nuevos": [
+    "Polifemo",
+    "Marón",
+    "Cícones",
+    "Lotófagos"
+  ],
+  "resumen": "Odiseo comienza a narrar sus aventuras después de la caída de Troya. Primero saquea la ciudad de Ismaro, habitada por los cícones, pero un contraataque obliga a sus hombres a huir con grandes pérdidas. Luego llegan al país de los lotófagos, cuyo fruto hace olvidar el deseo de regresar al hogar. Finalmente alcanzan la isla de los cíclopes. Allí entran en la cueva del gigante Polifemo, hijo de Poseidón. El cíclope encierra a los griegos y devora a varios de ellos. Odiseo idea un plan: embriaga a Polifemo con el vino recibido de Marón, le dice que su nombre es 'Nadie' y, cuando el gigante duerme, le clava una estaca ardiente en el único ojo. Los supervivientes escapan ocultos bajo los carneros del rebaño. Antes de partir, Odiseo revela orgullosamente su verdadero nombre, lo que permite a Polifemo invocar la venganza de Poseidón.",
+  "hechos_clave": [
+    "Inicio del relato autobiográfico de Odiseo.",
+    "Derrota de los cícones en Ismaro.",
+    "Encuentro con los lotófagos y el fruto del olvido.",
+    "Llegada a la isla de los cíclopes.",
+    "Polifemo devora a varios compañeros.",
+    "Odiseo recibe importancia simbólica por su astucia.",
+    "Uso del nombre 'Nadie' para engañar al cíclope.",
+    "Polifemo queda ciego.",
+    "Escape bajo los carneros.",
+    "Polifemo maldice a Odiseo invocando a Poseidón."
+  ],
+  "temas": [
+    "Astucia frente a fuerza",
+    "Hospitalidad violada (xenia)",
+    "Orgullo (hybris)",
+    "Identidad",
+    "Supervivencia",
+    "Consecuencias de la imprudencia"
+  ],
+  "simbolos": [
+    "La cueva",
+    "El vino de Marón",
+    "La estaca",
+    "El ojo único",
+    "Los carneros",
+    "El nombre 'Nadie'"
+  ],
+  "frases_clave": [
+    "Mi nombre es Nadie.",
+    "Nadie me está matando.",
+    "Soy Odiseo, hijo de Laertes.",
+    "Poseidón, escucha mi ruego."
+  ],
+  "que_aprendemos": [
+    "La inteligencia puede vencer a una fuerza muy superior.",
+    "El orgullo puede destruir una victoria perfectamente lograda.",
+    "Respetar la hospitalidad era una ley sagrada en el mundo griego.",
+    "Las acciones impulsivas tienen consecuencias que afectan todo el viaje."
+  ],
+  "conexion_con_el_siguiente_canto": "La maldición pronunciada por Polifemo explica por qué Poseidón perseguirá implacablemente a Odiseo. El siguiente episodio mostrará cómo, incluso después de escapar de un gran peligro, nuevas pruebas esperan al héroe con Eolo, los lestrigones y Circe."
+},
+{
+  "canto": "X",
+  "titulo": "Eolo, los lestrigones y Circe",
+  "titulo_griego": "Αἴολος καὶ Κίρκη",
+  "nombre_tradicional": "Los vientos de Eolo y la hechicera Circe",
+  "libro": 10,
+
+  "resumen": "Odiseo continúa relatando sus aventuras. Eolo, señor de los vientos, le entrega una bolsa que contiene todos los vientos adversos, dejando libre solo el favorable para regresar a Ítaca. Cuando ya pueden divisar su patria, los compañeros de Odiseo, creyendo que la bolsa guarda riquezas, la abren y provocan una tormenta que los devuelve a la isla de Eolo. Este se niega a ayudarlos nuevamente. Después llegan al país de los lestrigones, gigantes antropófagos que destruyen casi toda la flota; únicamente escapa la nave de Odiseo. Finalmente arriban a la isla de Eea, donde la hechicera Circe transforma en cerdos a varios compañeros. Hermes aparece y entrega a Odiseo la planta mágica moly, que lo protege del hechizo. Odiseo obliga a Circe a devolver la forma humana a sus hombres y permanece un año como huésped en su palacio. Antes de partir, Circe le revela que deberá descender al Hades para consultar al adivino Tiresias.",
+
+  "escenario_principal": [
+    "Isla de Eolo",
+    "Mar abierto",
+    "Puerto de los lestrigones",
+    "Isla de Eea",
+    "Palacio de Circe"
+  ],
+
+  "tiempo": "Pasado (relato de Odiseo ante los feacios).",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Circe",
+    "Hermes",
+    "Eolo"
+  ],
+
+  "personajes_secundarios": [
+    "Compañeros de Odiseo",
+    "Elpénor",
+    "Euríloco",
+    "Lestrigones",
+    "Antífates"
+  ],
+
+  "personajes_nuevos": [
+    "Eolo",
+    "Antífates",
+    "Lestrigones",
+    "Circe",
+    "Elpénor",
+    "Euríloco"
+  ],
+
+  "temas": [
+    "Tentación",
+    "Desobediencia",
+    "Magia",
+    "Hospitalidad",
+    "Astucia",
+    "Destino",
+    "Pérdida",
+    "Transformación"
+  ],
+
+  "conceptos_clave": [
+    "Bolsa de los vientos",
+    "Moly",
+    "Metamorfosis",
+    "Xenia",
+    "Descenso al Hades",
+    "Prueba del héroe"
+  ],
+
+  "objetos_importantes": [
+    "Bolsa de los vientos",
+    "Planta moly",
+    "Espada de Odiseo",
+    "Copa encantada de Circe"
+  ],
+
+  "lugares": [
+    "Eolia",
+    "Puerto de los lestrigones",
+    "Eea"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "El regalo de Eolo",
+      "descripcion": "Eolo entrega a Odiseo la bolsa que contiene todos los vientos desfavorables."
+    },
+    {
+      "orden": 2,
+      "titulo": "La bolsa es abierta",
+      "descripcion": "Los compañeros, creyendo que contiene tesoros, liberan los vientos y arruinan el regreso a Ítaca."
+    },
+    {
+      "orden": 3,
+      "titulo": "El rechazo de Eolo",
+      "descripcion": "Eolo interpreta que los dioses han condenado a Odiseo y se niega a ayudarlo nuevamente."
+    },
+    {
+      "orden": 4,
+      "titulo": "Ataque de los lestrigones",
+      "descripcion": "Los gigantes destruyen todas las naves excepto la de Odiseo."
+    },
+    {
+      "orden": 5,
+      "titulo": "Llegada a Eea",
+      "descripcion": "Los supervivientes alcanzan la isla gobernada por Circe."
+    },
+    {
+      "orden": 6,
+      "titulo": "Los hombres convertidos en cerdos",
+      "descripcion": "Circe transforma a los compañeros de Odiseo mediante un hechizo."
+    },
+    {
+      "orden": 7,
+      "titulo": "Intervención de Hermes",
+      "descripcion": "Hermes entrega a Odiseo la planta moly para resistir la magia de Circe."
+    },
+    {
+      "orden": 8,
+      "titulo": "Circe devuelve la forma humana",
+      "descripcion": "Odiseo obliga a la hechicera a romper el encantamiento y reconciliarse con sus hombres."
+    },
+    {
+      "orden": 9,
+      "titulo": "Un año en Eea",
+      "descripcion": "Odiseo y sus compañeros permanecen un año viviendo con Circe."
+    },
+    {
+      "orden": 10,
+      "titulo": "El viaje al Hades",
+      "descripcion": "Circe anuncia que la siguiente etapa será consultar al adivino Tiresias en el reino de los muertos."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "La curiosidad y la desobediencia de la tripulación hacen fracasar el regreso a Ítaca.",
+      "Solo una nave sobrevive a los lestrigones.",
+      "Hermes protege directamente a Odiseo mediante la planta moly.",
+      "Circe deja de ser enemiga y se convierte en consejera del héroe.",
+      "El siguiente paso del viaje será el descenso al Hades para consultar a Tiresias."
+    ],
+    "prepara_el_canto": "XI"
+  },
+
+  "frases_clave": [
+    "La desconfianza destruye lo que estaba casi alcanzado.",
+    "Hermes entrega el moly a Odiseo.",
+    "Circe transforma a los hombres en cerdos.",
+    "Debes consultar primero al adivino Tiresias."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La bolsa de los vientos",
+      "significado": "La incapacidad humana para dominar la codicia y la desconfianza."
+    },
+    {
+      "elemento": "Los cerdos",
+      "significado": "La degradación del ser humano cuando se deja dominar por sus instintos."
+    },
+    {
+      "elemento": "La planta moly",
+      "significado": "La protección divina y la sabiduría frente a la ilusión."
+    },
+    {
+      "elemento": "La única nave superviviente",
+      "significado": "La perseverancia del héroe pese a pérdidas casi totales."
+    },
+    {
+      "elemento": "Circe",
+      "significado": "El conocimiento puede ser peligroso, pero también convertirse en guía cuando es dominado."
+    }
+  ]
+},
+{
+  "canto": "XI",
+  "titulo": "La Nekuia",
+  "titulo_griego": "Νέκυια",
+  "nombre_tradicional": "El descenso al Hades",
+  "libro": 11,
+
+  "resumen": "Siguiendo las instrucciones de Circe, Odiseo navega hasta el país de los cimerios y realiza el sacrificio ritual que permite a los muertos acudir a beber la sangre de las víctimas. El primero en aparecer es Elpénor, quien pide recibir sepultura. Después llega el adivino Tiresias, que anuncia el regreso de Odiseo a Ítaca, pero advierte que no debe tocar el ganado de Helios. También profetiza la muerte de los compañeros y el difícil retorno del héroe. Odiseo conversa con el espíritu de su madre Anticlea, quien le informa sobre la situación en Ítaca. Luego contempla a numerosas heroínas y conversa con Agamenón, Aquiles y Ayante. Finalmente observa el castigo eterno de Ticio, Tántalo y Sísifo, así como la figura de Heracles. Temeroso de que aparezca la Gorgona, abandona el Hades y regresa a la nave.",
+
+  "escenario_principal": [
+    "Océano",
+    "País de los cimerios",
+    "Entrada al Hades",
+    "Río Océano"
+  ],
+
+  "tiempo": "Pasado (relato de Odiseo ante los feacios).",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Tiresias",
+    "Anticlea"
+  ],
+
+  "personajes_secundarios": [
+    "Elpénor",
+    "Agamenón",
+    "Aquiles",
+    "Ayante Telamonio",
+    "Minos",
+    "Heracles",
+    "Ticio",
+    "Tántalo",
+    "Sísifo",
+    "Heroínas del pasado"
+  ],
+
+  "personajes_nuevos": [
+    "Tiresias",
+    "Anticlea",
+    "Agamenón",
+    "Aquiles",
+    "Ayante Telamonio",
+    "Minos",
+    "Heracles",
+    "Ticio",
+    "Tántalo",
+    "Sísifo"
+  ],
+
+  "temas": [
+    "Muerte",
+    "Profecía",
+    "Destino",
+    "Memoria",
+    "Gloria",
+    "Justicia divina",
+    "Arrepentimiento",
+    "Sabiduría"
+  ],
+
+  "conceptos_clave": [
+    "Nekuia",
+    "Hades",
+    "Sacrificio ritual",
+    "Profecía",
+    "Almas de los muertos",
+    "Castigo eterno",
+    "Memoria heroica"
+  ],
+
+  "objetos_importantes": [
+    "Espada de Odiseo",
+    "Fosa ritual",
+    "Sangre del sacrificio",
+    "Ovejas negras"
+  ],
+
+  "lugares": [
+    "País de los cimerios",
+    "Entrada al Hades",
+    "Prado de Asfódelos"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Llegada al mundo de los muertos",
+      "descripcion": "Odiseo alcanza el lugar indicado por Circe y realiza el sacrificio ritual."
+    },
+    {
+      "orden": 2,
+      "titulo": "Encuentro con Elpénor",
+      "descripcion": "El compañero muerto pide recibir sepultura antes de continuar el viaje."
+    },
+    {
+      "orden": 3,
+      "titulo": "Profecía de Tiresias",
+      "descripcion": "El adivino anuncia el regreso a Ítaca y advierte sobre el ganado de Helios."
+    },
+    {
+      "orden": 4,
+      "titulo": "Conversación con Anticlea",
+      "descripcion": "Odiseo descubre que su madre ha muerto de tristeza y conoce la situación de su familia."
+    },
+    {
+      "orden": 5,
+      "titulo": "Desfile de heroínas",
+      "descripcion": "Odiseo contempla a numerosas mujeres ilustres de la mitología."
+    },
+    {
+      "orden": 6,
+      "titulo": "Encuentro con Agamenón",
+      "descripcion": "El rey asesinado advierte a Odiseo sobre la traición y el peligro de confiar ciegamente."
+    },
+    {
+      "orden": 7,
+      "titulo": "Diálogo con Aquiles",
+      "descripcion": "Aquiles afirma que preferiría vivir humildemente antes que reinar entre los muertos."
+    },
+    {
+      "orden": 8,
+      "titulo": "Silencio de Ayante",
+      "descripcion": "Ayante se niega a reconciliarse con Odiseo por la disputa de las armas de Aquiles."
+    },
+    {
+      "orden": 9,
+      "titulo": "Los castigados del Hades",
+      "descripcion": "Odiseo contempla los tormentos de Ticio, Tántalo y Sísifo."
+    },
+    {
+      "orden": 10,
+      "titulo": "Retirada del Hades",
+      "descripcion": "Temiendo la llegada de la Gorgona, Odiseo abandona el reino de los muertos."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Tiresias anuncia que el ganado de Helios no debe ser tocado.",
+      "Elpénor debe recibir sepultura antes de continuar el viaje.",
+      "Agamenón advierte sobre la prudencia al regresar al hogar.",
+      "Aquiles muestra que la vida vale más que la gloria póstuma.",
+      "Odiseo debe volver con Circe antes de continuar su travesía."
+    ],
+    "prepara_el_canto": "XII"
+  },
+
+  "frases_clave": [
+    "No toques el ganado de Helios.",
+    "Primero da sepultura a Elpénor.",
+    "Mejor ser jornalero entre los vivos que rey entre los muertos.",
+    "La prudencia salvará tu regreso."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La sangre del sacrificio",
+      "significado": "El vínculo temporal entre el mundo de los vivos y el de los muertos."
+    },
+    {
+      "elemento": "El Hades",
+      "significado": "El conocimiento que solo puede alcanzarse enfrentando la muerte."
+    },
+    {
+      "elemento": "Tiresias",
+      "significado": "La sabiduría que trasciende la vida."
+    },
+    {
+      "elemento": "Aquiles",
+      "significado": "La desilusión frente a la gloria heroica."
+    },
+    {
+      "elemento": "Sísifo, Tántalo y Ticio",
+      "significado": "La justicia eterna y las consecuencias inevitables de las acciones humanas."
+    }
+  ]
+},
+{
+  "canto": "XII",
+  "titulo": "Las Sirenas, Escila y Caribdis",
+  "titulo_griego": "Σειρῆνες, Σκύλλα καὶ Χάρυβδις",
+  "nombre_tradicional": "Las últimas pruebas del viaje",
+  "libro": 12,
+
+  "resumen": "Después de abandonar el Hades, Odiseo regresa a la isla de Circe, donde da sepultura a Elpénor y recibe nuevas instrucciones para continuar el viaje. Circe le advierte sobre tres peligros: el canto irresistible de las Sirenas, el paso entre Escila y Caribdis y la isla de Trinacia, donde pasta el sagrado ganado de Helios. Odiseo supera el canto de las Sirenas atándose al mástil mientras sus compañeros navegan con los oídos cubiertos de cera. Más tarde atraviesa el estrecho entre Escila y Caribdis, pero Escila devora a seis de sus hombres. Finalmente llegan a Trinacia. A pesar de las advertencias de Tiresias y Circe, los compañeros sacrifican las vacas sagradas de Helios mientras Odiseo duerme. Zeus castiga el sacrilegio destruyendo la nave con un rayo. Todos los hombres mueren excepto Odiseo, quien vuelve a pasar junto a Caribdis y termina llegando solo a la isla de Ogigia, donde será retenido por Calipso.",
+
+  "escenario_principal": [
+    "Isla de Circe (Eea)",
+    "Mar abierto",
+    "Isla de las Sirenas",
+    "Estrecho de Escila y Caribdis",
+    "Isla de Trinacia",
+    "Mar rumbo a Ogigia"
+  ],
+
+  "tiempo": "Pasado (relato de Odiseo ante los feacios).",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Circe",
+    "Helios",
+    "Zeus"
+  ],
+
+  "personajes_secundarios": [
+    "Sirenas",
+    "Escila",
+    "Caribdis",
+    "Lampetía",
+    "Néera",
+    "Compañeros de Odiseo",
+    "Elpénor"
+  ],
+
+  "personajes_nuevos": [
+    "Sirenas",
+    "Escila",
+    "Caribdis",
+    "Helios",
+    "Lampetía",
+    "Néera"
+  ],
+
+  "temas": [
+    "Tentación",
+    "Obediencia",
+    "Destino",
+    "Sacrilegio",
+    "Pérdida",
+    "Supervivencia",
+    "Sabiduría",
+    "Castigo divino"
+  ],
+
+  "conceptos_clave": [
+    "Sirenas",
+    "Escila",
+    "Caribdis",
+    "Ganado de Helios",
+    "Sacrilegio",
+    "Destino inevitable",
+    "Mástil",
+    "Cera en los oídos"
+  ],
+
+  "objetos_importantes": [
+    "Mástil de la nave",
+    "Cera de abeja",
+    "Armas de Odiseo",
+    "Ganado sagrado de Helios",
+    "Rayo de Zeus"
+  ],
+
+  "lugares": [
+    "Eea",
+    "Isla de las Sirenas",
+    "Estrecho de Mesina (Escila y Caribdis)",
+    "Trinacia",
+    "Ogigia"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Sepultura de Elpénor",
+      "descripcion": "Odiseo regresa a Eea y cumple la promesa hecha a su compañero en el Hades."
+    },
+    {
+      "orden": 2,
+      "titulo": "Últimos consejos de Circe",
+      "descripcion": "La hechicera explica los peligros que aún esperan durante el viaje."
+    },
+    {
+      "orden": 3,
+      "titulo": "Las Sirenas",
+      "descripcion": "Odiseo escucha su canto atado al mástil mientras la tripulación permanece protegida con cera en los oídos."
+    },
+    {
+      "orden": 4,
+      "titulo": "Escila y Caribdis",
+      "descripcion": "Escila captura y devora a seis marineros mientras Odiseo logra salvar el resto de la nave."
+    },
+    {
+      "orden": 5,
+      "titulo": "Llegada a Trinacia",
+      "descripcion": "Los hombres permanecen retenidos por una larga tormenta."
+    },
+    {
+      "orden": 6,
+      "titulo": "El ganado de Helios",
+      "descripcion": "Los compañeros, dirigidos por Euríloco, sacrifican las reses sagradas mientras Odiseo duerme."
+    },
+    {
+      "orden": 7,
+      "titulo": "Queja de Helios",
+      "descripcion": "Helios exige a Zeus castigar el sacrilegio cometido contra sus rebaños."
+    },
+    {
+      "orden": 8,
+      "titulo": "El rayo de Zeus",
+      "descripcion": "La nave es destruida y todos los compañeros de Odiseo perecen."
+    },
+    {
+      "orden": 9,
+      "titulo": "Odiseo queda solo",
+      "descripcion": "El héroe sobrevive aferrado a restos del barco, vuelve a pasar junto a Caribdis y finalmente llega a Ogigia."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Todos los compañeros de Odiseo mueren en este canto.",
+      "Se cumple la profecía de Tiresias sobre el ganado de Helios.",
+      "Odiseo queda completamente solo.",
+      "El héroe llega finalmente a la isla de Calipso.",
+      "Con este canto termina el relato retrospectivo de las aventuras iniciado en el Canto IX."
+    ],
+    "prepara_el_canto": "XIII"
+  },
+
+  "frases_clave": [
+    "Átame firmemente al mástil.",
+    "No toquéis el ganado de Helios.",
+    "Zeus destruyó la nave con su rayo.",
+    "Solo Odiseo sobrevivió."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "Las Sirenas",
+      "significado": "La seducción del conocimiento y de las tentaciones que apartan del deber."
+    },
+    {
+      "elemento": "El mástil",
+      "significado": "La disciplina y el autocontrol frente a la tentación."
+    },
+    {
+      "elemento": "Escila y Caribdis",
+      "significado": "La necesidad de elegir el mal menor cuando toda opción implica pérdidas."
+    },
+    {
+      "elemento": "El ganado de Helios",
+      "significado": "Los límites impuestos por los dioses que no deben ser transgredidos."
+    },
+    {
+      "elemento": "La destrucción de la nave",
+      "significado": "El castigo inevitable por la desobediencia y el sacrilegio."
+    },
+    {
+      "elemento": "La soledad de Odiseo",
+      "significado": "El héroe debe afrontar el tramo final del viaje únicamente con su propia fortaleza."
+    }
+  ]
+},
+{
+  "canto": "XIII",
+  "titulo": "El regreso a Ítaca",
+  "titulo_griego": "Ἰθάκην ἀφικνεῖται",
+  "nombre_tradicional": "Odiseo vuelve a Ítaca",
+  "libro": 13,
+
+  "resumen": "Después de escuchar el relato de Odiseo, los feacios cumplen su promesa de llevarlo finalmente a Ítaca. Mientras el héroe duerme profundamente, es transportado junto con todos los regalos recibidos en Esqueria y depositado en la costa de su patria. Poseidón, indignado por la ayuda prestada por los feacios, convierte su nave en piedra y amenaza con castigar también a su pueblo. Atenea aparece ante Odiseo disfrazada de un joven pastor. Primero pone a prueba su prudencia, ocultándole que ya se encuentra en Ítaca. Después revela su verdadera identidad, celebra la astucia del héroe y ambos preparan el plan para recuperar el reino. Atenea transforma a Odiseo en un anciano mendigo para que nadie lo reconozca y lo envía a la choza del fiel porquero Eumeo, mientras ella parte a buscar a Telémaco a Esparta.",
+
+  "escenario_principal": [
+    "Palacio de Alcínoo",
+    "Mar entre Esqueria e Ítaca",
+    "Puerto de Forcis",
+    "Cueva de las Ninfas",
+    "Costa de Ítaca"
+  ],
+
+  "tiempo": "Presente de la narración principal.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Atenea",
+    "Poseidón"
+  ],
+
+  "personajes_secundarios": [
+    "Alcínoo",
+    "Arete",
+    "Feacios",
+    "Eumeo"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Regreso al hogar",
+    "Reconocimiento",
+    "Astucia",
+    "Disfraz",
+    "Justicia",
+    "Intervención divina",
+    "Paciencia",
+    "Preparación"
+  ],
+
+  "conceptos_clave": [
+    "Nóstos",
+    "Metis",
+    "Disfraz",
+    "Hospitalidad",
+    "Providencia divina",
+    "Identidad oculta"
+  ],
+
+  "objetos_importantes": [
+    "Tesoros entregados por los feacios",
+    "Nave feacia",
+    "Cueva de las Ninfas",
+    "Ropas del mendigo",
+    "Bastón del anciano"
+  ],
+
+  "lugares": [
+    "Esqueria",
+    "Ítaca",
+    "Puerto de Forcis",
+    "Cueva de las Ninfas",
+    "Choza de Eumeo"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Despedida de los feacios",
+      "descripcion": "Alcínoo y su pueblo conducen a Odiseo hasta la nave que lo llevará definitivamente a Ítaca."
+    },
+    {
+      "orden": 2,
+      "titulo": "Llegada mientras duerme",
+      "descripcion": "Los feacios depositan a Odiseo dormido en la costa de Ítaca junto con todos sus regalos."
+    },
+    {
+      "orden": 3,
+      "titulo": "Castigo de Poseidón",
+      "descripcion": "Poseidón convierte en piedra la nave feacia como castigo por haber ayudado a Odiseo."
+    },
+    {
+      "orden": 4,
+      "titulo": "Encuentro con Atenea",
+      "descripcion": "La diosa aparece disfrazada de pastor y pone a prueba la prudencia de Odiseo."
+    },
+    {
+      "orden": 5,
+      "titulo": "Revelación de Atenea",
+      "descripcion": "La diosa descubre su identidad y explica que realmente se encuentran en Ítaca."
+    },
+    {
+      "orden": 6,
+      "titulo": "Preparación del plan",
+      "descripcion": "Atenea y Odiseo deciden ocultar los tesoros y organizar la recuperación del reino."
+    },
+    {
+      "orden": 7,
+      "titulo": "Transformación del héroe",
+      "descripcion": "Atenea convierte a Odiseo en un anciano mendigo para proteger su identidad."
+    },
+    {
+      "orden": 8,
+      "titulo": "Camino hacia Eumeo",
+      "descripcion": "Odiseo se dirige a la cabaña del porquero fiel, mientras Atenea marcha a buscar a Telémaco."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo ya ha llegado definitivamente a Ítaca.",
+      "Nadie reconoce todavía al héroe gracias al disfraz de Atenea.",
+      "Los tesoros entregados por los feacios quedan ocultos en la cueva de las Ninfas.",
+      "Comienza el plan secreto para recuperar el reino.",
+      "El siguiente canto mostrará el encuentro entre Odiseo disfrazado y Eumeo."
+    ],
+    "prepara_el_canto": "XIV"
+  },
+
+  "frases_clave": [
+    "Has llegado por fin a Ítaca.",
+    "Ni siquiera en tu propia tierra abandonas la astucia.",
+    "Te transformaré para que nadie te reconozca.",
+    "Ha llegado el momento de recuperar tu casa."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "Ítaca",
+      "significado": "La meta del viaje exterior y el comienzo del viaje interior para restaurar el orden."
+    },
+    {
+      "elemento": "El sueño de Odiseo",
+      "significado": "El paso entre el mundo de las aventuras y el regreso a la realidad."
+    },
+    {
+      "elemento": "La transformación en mendigo",
+      "significado": "La verdadera nobleza no depende de la apariencia sino del carácter."
+    },
+    {
+      "elemento": "La cueva de las Ninfas",
+      "significado": "Lugar sagrado donde el pasado queda protegido antes de iniciar la restauración del reino."
+    },
+    {
+      "elemento": "La nave convertida en piedra",
+      "significado": "El final definitivo de la ayuda feacia y el cumplimiento del destino anunciado por Poseidón."
+    }
+  ]
+},
+{
+  "canto": "XIV",
+  "titulo": "Eumeo, el fiel porquero",
+  "titulo_griego": "Εὔμαιος",
+  "nombre_tradicional": "Odiseo en la choza de Eumeo",
+  "libro": 14,
+
+  "resumen": "Disfrazado de anciano mendigo por Atenea, Odiseo llega a la humilde cabaña del porquero Eumeo. Sin reconocer a su señor, Eumeo lo recibe con generosa hospitalidad, ofreciéndole alimento, abrigo y respeto, a pesar de la pobreza en que vive. Durante la conversación, lamenta la ausencia de Odiseo, critica el comportamiento de los pretendientes y expresa su lealtad inquebrantable hacia su antiguo amo. Odiseo pone a prueba su fidelidad inventando una falsa historia sobre su origen y su vida errante. También anuncia, sin revelar su identidad, que Odiseo regresará pronto. Eumeo escucha con cortesía, aunque duda del relato debido a los numerosos impostores que han engañado antes a Penélope. Al caer la noche, ambos comparten la cena y Eumeo demuestra nuevamente su noble carácter al ceder sus propias pieles para proteger al supuesto mendigo del frío.",
+
+  "escenario_principal": [
+    "Choza de Eumeo",
+    "Porquerizas de Ítaca",
+    "Campos de pastoreo"
+  ],
+
+  "tiempo": "Presente de la narración principal.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Eumeo"
+  ],
+
+  "personajes_secundarios": [
+    "Pretendientes de Penélope",
+    "Penélope",
+    "Telémaco",
+    "Laertes"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Hospitalidad",
+    "Lealtad",
+    "Identidad oculta",
+    "Paciencia",
+    "Humildad",
+    "Fidelidad",
+    "Esperanza",
+    "Prueba del carácter"
+  ],
+
+  "conceptos_clave": [
+    "Xenia",
+    "Disfraz",
+    "Lealtad",
+    "Hospitalidad",
+    "Prudencia",
+    "Reconocimiento diferido"
+  ],
+
+  "objetos_importantes": [
+    "Cabaña de Eumeo",
+    "Pieles para dormir",
+    "Lanza de Eumeo",
+    "Alimentos compartidos",
+    "Rebaños de cerdos"
+  ],
+
+  "lugares": [
+    "Choza de Eumeo",
+    "Ítaca"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Llegada de Odiseo",
+      "descripcion": "Odiseo, disfrazado de mendigo, llega a la choza del porquero Eumeo."
+    },
+    {
+      "orden": 2,
+      "titulo": "Hospitalidad de Eumeo",
+      "descripcion": "Sin conocer la identidad del visitante, Eumeo lo recibe con generosidad y respeto."
+    },
+    {
+      "orden": 3,
+      "titulo": "Crítica a los pretendientes",
+      "descripcion": "Eumeo lamenta el abuso de los pretendientes y expresa su fidelidad hacia Odiseo."
+    },
+    {
+      "orden": 4,
+      "titulo": "La historia inventada",
+      "descripcion": "Odiseo relata una identidad ficticia para poner a prueba la confianza y la prudencia de Eumeo."
+    },
+    {
+      "orden": 5,
+      "titulo": "El anuncio del regreso",
+      "descripcion": "Odiseo afirma que su señor regresará pronto, aunque Eumeo duda respetuosamente."
+    },
+    {
+      "orden": 6,
+      "titulo": "La prueba del manto",
+      "descripcion": "Mediante otro relato ingenioso, Odiseo consigue que Eumeo le proporcione abrigo para la noche."
+    },
+    {
+      "orden": 7,
+      "titulo": "Reposo en la choza",
+      "descripcion": "Mientras Odiseo duerme bajo techo, Eumeo pasa la noche cuidando fielmente los rebaños."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Eumeo demuestra ser completamente fiel a Odiseo.",
+      "Odiseo mantiene oculta su verdadera identidad.",
+      "Los pretendientes continúan ocupando el palacio.",
+      "La hospitalidad de Eumeo contrasta con la corrupción de la corte.",
+      "El siguiente canto traerá el regreso de Telémaco a Ítaca y el inicio del acercamiento entre padre e hijo."
+    ],
+    "prepara_el_canto": "XV"
+  },
+
+  "frases_clave": [
+    "Ningún extranjero debe ser despreciado.",
+    "Mi señor Odiseo quizá aún viva.",
+    "Los pretendientes consumen la riqueza de mi amo.",
+    "Zeus protege a los huéspedes y a los suplicantes."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La choza de Eumeo",
+      "significado": "Representa la sencillez, la honestidad y la verdadera nobleza frente al lujo corrompido del palacio."
+    },
+    {
+      "elemento": "La hospitalidad",
+      "significado": "La xenia aparece como una virtud sagrada que distingue a los justos de los impíos."
+    },
+    {
+      "elemento": "El disfraz de mendigo",
+      "significado": "Permite revelar el auténtico carácter de las personas antes del reconocimiento."
+    },
+    {
+      "elemento": "Los cerdos",
+      "significado": "Simbolizan la riqueza que permanece protegida gracias a la fidelidad de Eumeo."
+    },
+    {
+      "elemento": "El manto compartido",
+      "significado": "La compasión y la generosidad nacen del corazón y no de la abundancia material."
+    }
+  ]
+},
+{
+  "canto": "XV",
+  "titulo": "El regreso de Telémaco",
+  "titulo_griego": "Τηλεμάχου ἐπάνοδος",
+  "nombre_tradicional": "Regreso de Telémaco a Ítaca",
+  "libro": 15,
+
+  "resumen": "Atenea ordena a Telémaco que abandone Esparta y regrese cuanto antes a Ítaca, pues los pretendientes preparan una emboscada para matarlo. Menelao y Helena le ofrecen hospitalidad y valiosos regalos antes de despedirlo. Durante el viaje de regreso, Telémaco acepta como compañero al adivino Teoclímeno, quien huye de Argos tras cometer un homicidio. Mientras tanto, en la choza de Eumeo, el porquero relata a Odiseo la historia de su infancia: fue hijo de un rey, pero una esclava fenicia lo secuestró y terminó siendo vendido a Laertes, quien lo crió con bondad. Al llegar a Ítaca, Telémaco evita la emboscada de los pretendientes, desembarca en secreto y decide dirigirse primero a la cabaña de Eumeo, preparando así el esperado encuentro con su padre.",
+
+  "escenario_principal": [
+    "Esparta",
+    "Palacio de Menelao",
+    "Mar Jónico",
+    "Ítaca",
+    "Choza de Eumeo"
+  ],
+
+  "tiempo": "Continuación inmediata del Canto XIV.",
+
+  "personajes_principales": [
+    "Telémaco",
+    "Odiseo",
+    "Eumeo",
+    "Atenea"
+  ],
+
+  "personajes_secundarios": [
+    "Menelao",
+    "Helena",
+    "Pisístrato",
+    "Teoclímeno",
+    "Pireo",
+    "Noemón",
+    "Pretendientes de Penélope",
+    "La esclava fenicia",
+    "Fenicios",
+    "Laertes"
+  ],
+
+  "personajes_nuevos": [
+    "Teoclímeno",
+    "Pireo"
+  ],
+
+  "temas": [
+    "Regreso",
+    "Hospitalidad",
+    "Providencia divina",
+    "Lealtad",
+    "Destino",
+    "Profecía",
+    "Maduración",
+    "Identidad"
+  ],
+
+  "conceptos_clave": [
+    "Nostos",
+    "Xenia",
+    "Profecía",
+    "Emboscada",
+    "Lealtad",
+    "Destino"
+  ],
+
+  "objetos_importantes": [
+    "Regalos de Menelao",
+    "Nave de Telémaco",
+    "Lanza de Telémaco",
+    "Rebaños de Eumeo"
+  ],
+
+  "lugares": [
+    "Esparta",
+    "Ítaca",
+    "Choza de Eumeo",
+    "Mar",
+    "Argos"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Advertencia de Atenea",
+      "descripcion": "Atenea ordena a Telémaco regresar inmediatamente a Ítaca para evitar la emboscada de los pretendientes."
+    },
+    {
+      "orden": 2,
+      "titulo": "Despedida de Menelao y Helena",
+      "descripcion": "Los reyes de Esparta despiden cordialmente a Telémaco y le entregan valiosos presentes."
+    },
+    {
+      "orden": 3,
+      "titulo": "Encuentro con Teoclímeno",
+      "descripcion": "Telémaco concede asilo al adivino fugitivo Teoclímeno, quien se une al viaje."
+    },
+    {
+      "orden": 4,
+      "titulo": "Historia de Eumeo",
+      "descripcion": "Eumeo cuenta a Odiseo cómo fue secuestrado de niño por comerciantes fenicios y vendido a Laertes."
+    },
+    {
+      "orden": 5,
+      "titulo": "Fracasa la emboscada",
+      "descripcion": "Los pretendientes esperan inútilmente el regreso de Telémaco por mar."
+    },
+    {
+      "orden": 6,
+      "titulo": "Llegada secreta a Ítaca",
+      "descripcion": "Telémaco desembarca lejos del puerto vigilado y decide dirigirse primero a la cabaña de Eumeo."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Atenea guía continuamente las acciones de Telémaco.",
+      "Los pretendientes intentan asesinar al heredero de Odiseo.",
+      "Teoclímeno entra en la historia como profeta inspirado por los dioses.",
+      "Se conoce el origen noble de Eumeo y la causa de su esclavitud.",
+      "Telémaco ya está de regreso en Ítaca y se dirige hacia Eumeo.",
+      "Odiseo continúa ocultando su verdadera identidad."
+    ],
+    "prepara_el_canto": "XVI"
+  },
+
+  "frases_clave": [
+    "Es hora de volver a tu patria.",
+    "Los pretendientes preparan tu muerte.",
+    "Recíbeme como suplicante.",
+    "La fortuna favorece a los justos."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El regreso de Telémaco",
+      "significado": "Marca el final de su viaje iniciático y el comienzo de su papel como heredero de Odiseo."
+    },
+    {
+      "elemento": "Teoclímeno",
+      "significado": "Representa la voz profética que confirma la voluntad de los dioses."
+    },
+    {
+      "elemento": "La historia de Eumeo",
+      "significado": "Demuestra que la verdadera nobleza reside en la fidelidad y no en el nacimiento."
+    },
+    {
+      "elemento": "La emboscada frustrada",
+      "significado": "Refleja que la providencia divina protege el cumplimiento del destino de Odiseo y su hijo."
+    },
+    {
+      "elemento": "Los regalos de Menelao",
+      "significado": "Son un ejemplo de la hospitalidad perfecta y del reconocimiento entre nobles."
+    }
+  ]
+},
+{
+  "canto": "XVI",
+  "titulo": "El reconocimiento de Telémaco",
+  "titulo_griego": "Τηλεμάχου ἀναγνώρισις",
+  "nombre_tradicional": "Odiseo se revela a Telémaco",
+  "libro": 16,
+
+  "resumen": "Telémaco llega a la choza de Eumeo después de regresar secretamente a Ítaca. El porquero lo recibe con enorme alegría y corre al palacio para anunciar a Penélope su regreso. Aprovechando la ausencia de Eumeo, Atenea aparece ante Odiseo, le devuelve temporalmente su verdadera apariencia y le ordena revelar su identidad a su hijo. Telémaco, creyendo estar ante un dios, queda asombrado, pero Odiseo le explica quién es realmente. Padre e hijo se abrazan emocionados después de veinte años de separación. A continuación elaboran cuidadosamente el plan para destruir a los pretendientes: ocultar las armas del salón, soportar los insultos sin reaccionar y esperar el momento oportuno para atacar. Mientras tanto, los pretendientes descubren que su emboscada ha fracasado y vuelven al palacio. Penélope se enfrenta a ellos por haber intentado asesinar a su hijo.",
+
+  "escenario_principal": [
+    "Choza de Eumeo",
+    "Palacio de Ítaca"
+  ],
+
+  "tiempo": "Continuación inmediata del Canto XV.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Telémaco",
+    "Atenea",
+    "Eumeo"
+  ],
+
+  "personajes_secundarios": [
+    "Penélope",
+    "Pretendientes de Penélope",
+    "Antínoo",
+    "Eurímaco"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Reconocimiento",
+    "Reencuentro familiar",
+    "Lealtad",
+    "Paciencia",
+    "Estrategia",
+    "Justicia",
+    "Providencia divina"
+  ],
+
+  "conceptos_clave": [
+    "Anagnórisis",
+    "Metis",
+    "Disfraz",
+    "Destino",
+    "Venganza",
+    "Cooperación"
+  ],
+
+  "objetos_importantes": [
+    "Armas del palacio",
+    "Lanza de Telémaco",
+    "Arco de Odiseo (mencionado)",
+    "Choza de Eumeo"
+  ],
+
+  "lugares": [
+    "Choza de Eumeo",
+    "Palacio de Ítaca"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Llegada de Telémaco",
+      "descripcion": "Telémaco llega a la cabaña de Eumeo y es recibido con afecto por el fiel porquero."
+    },
+    {
+      "orden": 2,
+      "titulo": "Eumeo parte al palacio",
+      "descripcion": "Eumeo va a informar a Penélope del regreso de Telémaco."
+    },
+    {
+      "orden": 3,
+      "titulo": "Intervención de Atenea",
+      "descripcion": "Atenea devuelve temporalmente a Odiseo su aspecto verdadero para que pueda revelarse a su hijo."
+    },
+    {
+      "orden": 4,
+      "titulo": "Reconocimiento entre padre e hijo",
+      "descripcion": "Odiseo revela su identidad y ambos se abrazan tras veinte años de separación."
+    },
+    {
+      "orden": 5,
+      "titulo": "Plan contra los pretendientes",
+      "descripcion": "Padre e hijo acuerdan ocultar las armas y esperar el momento adecuado para ejecutar la venganza."
+    },
+    {
+      "orden": 6,
+      "titulo": "Fracasa la emboscada",
+      "descripcion": "Los pretendientes descubren que Telémaco ha regresado sano y salvo."
+    },
+    {
+      "orden": 7,
+      "titulo": "Penélope reprende a los pretendientes",
+      "descripcion": "La reina condena públicamente el intento de asesinato contra su hijo."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo revela por primera vez su verdadera identidad a un miembro de su familia.",
+      "Telémaco se convierte oficialmente en aliado de su padre.",
+      "El plan para recuperar el palacio queda completamente establecido.",
+      "Los pretendientes desconocen que Odiseo ya está en Ítaca.",
+      "Penélope comienza a enfrentarse abiertamente a los pretendientes.",
+      "La siguiente etapa será el ingreso de Odiseo disfrazado al palacio."
+    ],
+    "prepara_el_canto": "XVII"
+  },
+
+  "frases_clave": [
+    "Yo soy Odiseo, tu padre.",
+    "No soy un dios.",
+    "Debemos soportarlo todo hasta el momento oportuno.",
+    "La victoria dependerá tanto de nosotros como de Atenea."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El reconocimiento",
+      "significado": "Representa la restauración de la familia y el inicio de la recuperación del reino."
+    },
+    {
+      "elemento": "La transformación de Odiseo",
+      "significado": "Muestra que la identidad verdadera permanece oculta hasta que llega el momento señalado por los dioses."
+    },
+    {
+      "elemento": "El abrazo entre padre e hijo",
+      "significado": "Simboliza el renacimiento de la casa de Odiseo después de veinte años de separación."
+    },
+    {
+      "elemento": "Las armas del palacio",
+      "significado": "Representan el control del poder y la preparación silenciosa de la justicia."
+    },
+    {
+      "elemento": "La estrategia compartida",
+      "significado": "La inteligencia y la paciencia son más poderosas que la fuerza impulsiva."
+    }
+  ]
+},
+{
+  "canto": "XVII",
+  "titulo": "Odiseo llega al palacio",
+  "titulo_griego": "Ὀδυσσεὺς εἰς τὸν οἶκον",
+  "nombre_tradicional": "El mendigo en el palacio",
+  "libro": 17,
+
+  "resumen": "Siguiendo el plan acordado con Telémaco, Odiseo permanece disfrazado de mendigo mientras Eumeo lo conduce al palacio. En el camino se encuentran con el cabrero Melantio, quien insulta y golpea al desconocido sin saber que se trata de su verdadero señor. Al llegar a la entrada del palacio ocurre uno de los momentos más conmovedores de la Odisea: Argos, el viejo perro de Odiseo, reconoce inmediatamente a su amo después de veinte años y muere en paz tras verlo una última vez. Dentro del palacio, Odiseo pide alimento a los pretendientes. Antínoo, el más violento de ellos, lo humilla y le arroja un escabel, provocando la indignación de algunos presentes. Penélope, al enterarse de la llegada del anciano mendigo, manifiesta su deseo de hablar con él para preguntarle si tiene noticias de Odiseo. El encuentro entre ambos queda preparado para el canto siguiente.",
+
+  "escenario_principal": [
+    "Camino hacia el palacio",
+    "Entrada del palacio de Ítaca",
+    "Gran salón del palacio"
+  ],
+
+  "tiempo": "Continuación inmediata del Canto XVI.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Eumeo",
+    "Telémaco",
+    "Penélope"
+  ],
+
+  "personajes_secundarios": [
+    "Antínoo",
+    "Eurímaco",
+    "Melantio",
+    "Argos",
+    "Pretendientes de Penélope"
+  ],
+
+  "personajes_nuevos": [
+    "Argos"
+  ],
+
+  "temas": [
+    "Reconocimiento",
+    "Lealtad",
+    "Hospitalidad",
+    "Humillación",
+    "Paciencia",
+    "Justicia",
+    "Identidad oculta"
+  ],
+
+  "conceptos_clave": [
+    "Xenia",
+    "Disfraz",
+    "Lealtad",
+    "Paciencia",
+    "Hybris",
+    "Reconocimiento"
+  ],
+
+  "objetos_importantes": [
+    "Escabel de Antínoo",
+    "Bastón del mendigo",
+    "Puerta del palacio",
+    "Mesa de los pretendientes"
+  ],
+
+  "lugares": [
+    "Camino al palacio",
+    "Entrada del palacio",
+    "Palacio de Ítaca"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Salida de la choza",
+      "descripcion": "Eumeo conduce a Odiseo disfrazado hacia el palacio de Ítaca."
+    },
+    {
+      "orden": 2,
+      "titulo": "Encuentro con Melantio",
+      "descripcion": "El cabrero Melantio insulta y agrede a Odiseo, demostrando su traición."
+    },
+    {
+      "orden": 3,
+      "titulo": "Argos reconoce a su amo",
+      "descripcion": "El viejo perro Argos reconoce a Odiseo y muere poco después de verlo nuevamente."
+    },
+    {
+      "orden": 4,
+      "titulo": "Entrada al palacio",
+      "descripcion": "Odiseo comienza a pedir alimento entre los pretendientes sin revelar su identidad."
+    },
+    {
+      "orden": 5,
+      "titulo": "Agresión de Antínoo",
+      "descripcion": "Antínoo arroja un escabel contra Odiseo, violando las leyes sagradas de la hospitalidad."
+    },
+    {
+      "orden": 6,
+      "titulo": "Interés de Penélope",
+      "descripcion": "Penélope solicita que el anciano mendigo sea llevado ante ella para conversar."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo entra finalmente en su propio palacio sin ser reconocido.",
+      "Melantio queda identificado como uno de los principales traidores de la casa.",
+      "Argos es el primer ser del palacio que reconoce a Odiseo sin necesidad de pruebas.",
+      "Antínoo demuestra ser el más arrogante y violento de los pretendientes.",
+      "Penélope desea entrevistar al misterioso mendigo.",
+      "El encuentro entre Penélope y Odiseo se producirá en los siguientes cantos."
+    ],
+    "prepara_el_canto": "XVIII"
+  },
+
+  "frases_clave": [
+    "Argos reconoció a su señor.",
+    "Los dioses protegen a los mendigos y a los extranjeros.",
+    "La insolencia de los pretendientes llegará a su fin.",
+    "Penélope desea hablar con el anciano."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "Argos",
+      "significado": "Representa la fidelidad absoluta. Es el único que reconoce inmediatamente a Odiseo y muere tras cumplir su última misión."
+    },
+    {
+      "elemento": "El escabel de Antínoo",
+      "significado": "Simboliza la máxima violación de la hospitalidad y anticipa el castigo del pretendiente."
+    },
+    {
+      "elemento": "El disfraz de mendigo",
+      "significado": "Permite revelar la verdadera naturaleza moral de quienes rodean a Odiseo."
+    },
+    {
+      "elemento": "La entrada al palacio",
+      "significado": "Marca el comienzo de la recuperación del hogar desde el interior mismo de la casa."
+    },
+    {
+      "elemento": "La mirada de Penélope",
+      "significado": "Representa la intuición de que el anciano oculta algo extraordinario."
+    }
+  ]
+},
+{
+  "canto": "XVIII",
+  "titulo": "El combate con Iro",
+  "titulo_griego": "Ἶρος",
+  "nombre_tradicional": "Odiseo y el mendigo Iro",
+  "libro": 18,
+
+  "resumen": "En el palacio aparece Iro, el mendigo habitual de Ítaca, quien desafía al recién llegado para expulsarlo de su territorio. Animados por los pretendientes, ambos se preparan para luchar. Odiseo, aún disfrazado, revela discretamente su fuerza y derrota a Iro de un solo golpe, provocando la admiración de los presentes. Antínoo lo recompensa con comida, mientras Anfínomo conversa respetuosamente con él. Odiseo intenta advertir a Anfínomo sobre el peligro que se aproxima, pero Atenea endurece el destino de los pretendientes. Más tarde, Penélope desciende al salón inspirada por Atenea, deslumbrando con una belleza renovada. Aprovecha la ocasión para recordar que los pretendientes deberían ofrecer regalos a la futura esposa, en lugar de consumir la riqueza de Odiseo. Todos le entregan valiosos presentes. Finalmente, Melanto, una de las criadas infieles, insulta al supuesto mendigo, mientras Eurímaco también lo provoca. Odiseo contiene su ira y espera el momento oportuno para actuar.",
+
+  "escenario_principal": [
+    "Gran salón del palacio de Ítaca"
+  ],
+
+  "tiempo": "Continuación inmediata del Canto XVII.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Penélope",
+    "Iro"
+  ],
+
+  "personajes_secundarios": [
+    "Antínoo",
+    "Anfínomo",
+    "Eurímaco",
+    "Melanto",
+    "Atenea",
+    "Pretendientes de Penélope"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Paciencia",
+    "Autocontrol",
+    "Hospitalidad",
+    "Justicia",
+    "Orgullo",
+    "Belleza",
+    "Engaño",
+    "Destino"
+  ],
+
+  "conceptos_clave": [
+    "Hybris",
+    "Xenia",
+    "Autodominio",
+    "Disfraz",
+    "Destino",
+    "Prudencia"
+  ],
+
+  "objetos_importantes": [
+    "Regalos de los pretendientes",
+    "Taburetes del banquete",
+    "Mesa del palacio",
+    "Vestiduras de Penélope"
+  ],
+
+  "lugares": [
+    "Palacio de Ítaca",
+    "Gran salón"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Desafío de Iro",
+      "descripcion": "El mendigo Iro reta a Odiseo para expulsarlo del palacio."
+    },
+    {
+      "orden": 2,
+      "titulo": "Victoria de Odiseo",
+      "descripcion": "Odiseo derrota fácilmente a Iro, demostrando una fuerza inesperada."
+    },
+    {
+      "orden": 3,
+      "titulo": "Consejo a Anfínomo",
+      "descripcion": "Odiseo advierte discretamente a Anfínomo que abandone el palacio antes de que llegue la desgracia."
+    },
+    {
+      "orden": 4,
+      "titulo": "Penélope aparece ante los pretendientes",
+      "descripcion": "Inspirada por Atenea, Penélope deslumbra a todos con su belleza y dignidad."
+    },
+    {
+      "orden": 5,
+      "titulo": "Entrega de regalos",
+      "descripcion": "Los pretendientes ofrecen ricos presentes a Penélope siguiendo la costumbre aristocrática."
+    },
+    {
+      "orden": 6,
+      "titulo": "Insultos de Melanto y Eurímaco",
+      "descripcion": "La criada Melanto y el pretendiente Eurímaco humillan al supuesto mendigo, mientras Odiseo controla su ira."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo demuestra que aún conserva toda su fuerza física.",
+      "Iro queda derrotado y humillado.",
+      "Anfínomo recibe una advertencia que decide ignorar.",
+      "Penélope obtiene valiosos regalos sin comprometerse con ningún pretendiente.",
+      "Melanto queda identificada como una de las sirvientas desleales.",
+      "La tensión dentro del palacio continúa aumentando antes del reconocimiento entre Odiseo y Penélope."
+    ],
+    "prepara_el_canto": "XIX"
+  },
+
+  "frases_clave": [
+    "La fuerza debe ir acompañada de prudencia.",
+    "El destino alcanza incluso a los más nobles.",
+    "Los pretendientes colmaron a Penélope de regalos.",
+    "Odiseo soportó los insultos sin revelar quién era."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La derrota de Iro",
+      "significado": "Simboliza la superioridad de la verdadera fortaleza sobre la arrogancia y las apariencias."
+    },
+    {
+      "elemento": "La belleza de Penélope",
+      "significado": "Atenea manifiesta que la verdadera nobleza permanece intacta pese al sufrimiento."
+    },
+    {
+      "elemento": "Los regalos",
+      "significado": "Representan una inversión del abuso cometido por los pretendientes, que comienzan a devolver parte de lo que han consumido."
+    },
+    {
+      "elemento": "Los insultos soportados",
+      "significado": "El dominio de uno mismo es la mayor prueba de la sabiduría de Odiseo."
+    },
+    {
+      "elemento": "La advertencia a Anfínomo",
+      "significado": "Incluso frente a un destino fijado, existe la posibilidad moral de elegir correctamente."
+    }
+  ]
+},
+{
+  "canto": "XIX",
+  "titulo": "El reconocimiento secreto de Odiseo y Penélope",
+  "titulo_griego": "Ὀδυσσέως καὶ Πηνελόπης ἀναγνώρισις",
+  "nombre_tradicional": "Odiseo y Penélope: la prueba del lecho",
+  "libro": 19,
+
+  "resumen": "Después de que los pretendientes abandonan el salón, Odiseo permanece en el palacio junto a Telémaco preparando el castigo definitivo. Ambos esconden las armas de la sala para evitar que los enemigos puedan usarlas durante la venganza. Más tarde, Odiseo conversa con Penélope bajo su disfraz de mendigo. Ella le cuenta sus sufrimientos y la presión de los pretendientes, mientras él afirma conocer noticias de Odiseo y promete que su regreso está próximo. Penélope pone a prueba al extranjero preguntándole por señales del verdadero Odiseo. Él describe con precisión la apariencia del héroe y sus vestiduras, demostrando un conocimiento que conmueve a Penélope. La anciana nodriza Euriclea reconoce una cicatriz en la pierna de Odiseo mientras le lava los pies, pero él le ordena guardar silencio. Penélope anuncia finalmente la prueba del arco que decidirá su matrimonio, preparando el desenlace de la obra.",
+
+  "escenario_principal": [
+    "Palacio de Ítaca",
+    "Habitación de Penélope"
+  ],
+
+  "tiempo": "Continuación inmediata del Canto XVIII, durante la noche anterior a la prueba del arco.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Penélope",
+    "Telémaco"
+  ],
+
+  "personajes_secundarios": [
+    "Euriclea",
+    "Atenea",
+    "Pretendientes de Penélope"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Reconocimiento",
+    "Memoria",
+    "Identidad",
+    "Fidelidad",
+    "Paciencia",
+    "Prudencia",
+    "Venganza",
+    "Destino"
+  ],
+
+  "conceptos_clave": [
+    "Anagnórisis",
+    "Xenia",
+    "Metis",
+    "Autodominio",
+    "Lealtad",
+    "Prueba",
+    "Destino"
+  ],
+
+  "objetos_importantes": [
+    "Las armas del salón",
+    "La cicatriz de Odiseo",
+    "El arco de Odiseo",
+    "Las vestiduras de Odiseo",
+    "El lecho matrimonial"
+  ],
+
+  "lugares": [
+    "Palacio de Ítaca",
+    "Sala del palacio",
+    "Cámara de Penélope"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Ocultamiento de las armas",
+      "descripcion": "Odiseo y Telémaco retiran las armas del salón para impedir que los pretendientes puedan defenderse durante la futura venganza."
+    },
+    {
+      "orden": 2,
+      "titulo": "Conversación entre Odiseo y Penélope",
+      "descripcion": "Penélope habla con el mendigo extranjero sobre sus penas y la ausencia de su esposo."
+    },
+    {
+      "orden": 3,
+      "titulo": "Relato falso de Odiseo",
+      "descripcion": "Odiseo, aún disfrazado, inventa una historia sobre su encuentro con el héroe para probar la fidelidad y esperanza de Penélope."
+    },
+    {
+      "orden": 4,
+      "titulo": "Descripción de Odiseo",
+      "descripcion": "El extranjero describe con exactitud la apariencia y las ropas de Odiseo, provocando emoción en Penélope."
+    },
+    {
+      "orden": 5,
+      "titulo": "Reconocimiento de Euriclea",
+      "descripcion": "La nodriza Euriclea descubre la cicatriz de Odiseo mientras lava sus pies, pero él evita que revele su identidad."
+    },
+    {
+      "orden": 6,
+      "titulo": "La prueba del arco",
+      "descripcion": "Penélope anuncia que se casará con quien logre tensar el arco de Odiseo y atravesar los aros de las hachas."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo sigue ocultando su identidad dentro del palacio.",
+      "Telémaco coopera con su padre en la preparación de la venganza.",
+      "Penélope permanece fiel pero busca una solución frente a la presión de los pretendientes.",
+      "Euriclea reconoce a Odiseo por su cicatriz, pero guarda el secreto.",
+      "La prueba del arco anuncia el inicio del enfrentamiento final."
+    ],
+    "prepara_el_canto": "XX"
+  },
+
+  "frases_clave": [
+    "La prudencia permite esperar el momento adecuado.",
+    "La verdadera identidad puede permanecer oculta, pero no desaparece.",
+    "Penélope conserva la fidelidad incluso bajo la presión del destino.",
+    "El arco de Odiseo será la prueba definitiva del verdadero heredero."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La cicatriz de Odiseo",
+      "significado": "Representa una identidad profunda que permanece más allá del disfraz y los años de ausencia."
+    },
+    {
+      "elemento": "El lavado de pies por Euriclea",
+      "significado": "Simboliza la memoria del pasado y el vínculo entre la antigua y la nueva vida de Odiseo."
+    },
+    {
+      "elemento": "El disfraz del mendigo",
+      "significado": "Muestra la importancia de la inteligencia y la paciencia frente a la fuerza directa."
+    },
+    {
+      "elemento": "El arco de Odiseo",
+      "significado": "Representa la autoridad legítima del rey y la capacidad que solo el verdadero Odiseo posee."
+    },
+    {
+      "elemento": "La prueba de Penélope",
+      "significado": "Expresa su inteligencia y su deseo de encontrar una salida justa sin abandonar su fidelidad."
+    }
+  ]
+},
+{
+  "canto": "XX",
+  "titulo": "Los presagios antes de la venganza",
+  "titulo_griego": "Κῦμα καὶ οἰωνοί",
+  "nombre_tradicional": "Odiseo entre los pretendientes antes de la matanza",
+  "libro": 20,
+
+  "resumen": "Durante la noche previa al enfrentamiento final, Odiseo permanece despierto en el palacio mientras reflexiona sobre la venganza que se aproxima. Atenea se le aparece y le asegura que los dioses están de su lado. Penélope, atormentada por la incertidumbre, ruega a Artemisa que le permita morir antes que verse obligada a casarse con otro hombre. Al amanecer, Zeus envía un trueno como señal favorable, y una mujer del palacio interpreta el presagio como anuncio del regreso del rey. Odiseo observa cómo los pretendientes continúan abusando de la casa sin sospechar el destino que les espera. Algunos sirvientes fieles, como Eumeo y Filecio, muestran su lealtad al verdadero señor de Ítaca. En el banquete, los pretendientes se burlan de Odiseo disfrazado, pero Teoclímeno, un vidente descendiente de Melampo, anuncia una visión terrible: ve señales de muerte y sangre sobre el salón. Los pretendientes se ríen y rechazan la advertencia, mientras el destino se acerca inevitablemente.",
+
+  "escenario_principal": [
+    "Palacio de Ítaca",
+    "Gran salón del palacio"
+  ],
+
+  "tiempo": "Día anterior a la prueba del arco y al regreso público de Odiseo.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Penélope",
+    "Telémaco"
+  ],
+
+  "personajes_secundarios": [
+    "Atenea",
+    "Eumeo",
+    "Filecio",
+    "Teoclímeno",
+    "Euriclea",
+    "Pretendientes de Penélope",
+    "Melanto"
+  ],
+
+  "personajes_nuevos": [
+    "Teoclímeno"
+  ],
+
+  "temas": [
+    "Destino",
+    "Presagios",
+    "Paciencia",
+    "Lealtad",
+    "Justicia divina",
+    "Ceguera moral",
+    "Venganza",
+    "Esperanza"
+  ],
+
+  "conceptos_clave": [
+    "Moira",
+    "Nostos",
+    "Metis",
+    "Eusebeia",
+    "Hybris",
+    "Omen",
+    "Retribución"
+  ],
+
+  "objetos_importantes": [
+    "El trueno de Zeus",
+    "La mesa del banquete",
+    "Las armas ocultas",
+    "El arco de Odiseo"
+  ],
+
+  "lugares": [
+    "Palacio de Ítaca",
+    "Salón de los pretendientes"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Odiseo medita durante la noche",
+      "descripcion": "Odiseo permanece despierto pensando en cómo enfrentará a los pretendientes y controla sus emociones para esperar el momento adecuado."
+    },
+    {
+      "orden": 2,
+      "titulo": "Atenea confirma el apoyo divino",
+      "descripcion": "La diosa Atenea aparece y fortalece la confianza de Odiseo asegurándole que el plan tendrá éxito."
+    },
+    {
+      "orden": 3,
+      "titulo": "La angustia de Penélope",
+      "descripcion": "Penélope ruega a Artemisa que la libre de su sufrimiento antes de verse obligada a aceptar otro matrimonio."
+    },
+    {
+      "orden": 4,
+      "titulo": "El trueno de Zeus",
+      "descripcion": "Zeus envía un trueno como señal favorable, interpretado como anuncio del triunfo de Odiseo."
+    },
+    {
+      "orden": 5,
+      "titulo": "Lealtad de Eumeo y Filecio",
+      "descripcion": "Los pastores fieles muestran su amor por Odiseo y su rechazo hacia los pretendientes."
+    },
+    {
+      "orden": 6,
+      "titulo": "La visión de Teoclímeno",
+      "descripcion": "El vidente anuncia que una desgracia mortal se cierne sobre los pretendientes, pero ellos se burlan de sus palabras."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo sigue oculto como mendigo dentro de su propio palacio.",
+      "Penélope ha anunciado la prueba del arco.",
+      "Los pretendientes continúan actuando con arrogancia sin reconocer el peligro.",
+      "Eumeo y Filecio se revelan como aliados fieles de Odiseo.",
+      "Los dioses envían señales de que la justicia está próxima."
+    ],
+    "prepara_el_canto": "XXI"
+  },
+
+  "frases_clave": [
+    "El hombre prudente espera el momento señalado por el destino.",
+    "Los soberbios no reconocen las señales que anuncian su caída.",
+    "La justicia divina avanza aunque los culpables no la vean.",
+    "La paciencia de Odiseo es más poderosa que la ira inmediata."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El trueno de Zeus",
+      "significado": "Representa la aprobación divina y el comienzo del cumplimiento del destino."
+    },
+    {
+      "elemento": "La visión de Teoclímeno",
+      "significado": "Simboliza la verdad revelada frente a quienes están cegados por la arrogancia."
+    },
+    {
+      "elemento": "La espera de Odiseo",
+      "significado": "Muestra el dominio de sí mismo como la mayor forma de fuerza."
+    },
+    {
+      "elemento": "La fidelidad de Eumeo y Filecio",
+      "significado": "Contrasta la nobleza de los servidores leales con la corrupción de los pretendientes."
+    },
+    {
+      "elemento": "La risa de los pretendientes ante el presagio",
+      "significado": "Representa la ceguera espiritual de quienes ya están condenados por sus propios actos."
+    }
+  ]
+},
+{
+  "canto": "XXI",
+  "titulo": "El arco de Odiseo",
+  "titulo_griego": "Τόξου θέσις",
+  "nombre_tradicional": "La prueba del arco y las hachas",
+  "libro": 21,
+
+  "resumen": "Penélope presenta ante los pretendientes la prueba definitiva: quien logre tensar el arco de Odiseo y disparar una flecha atravesando los orificios de doce hachas será su esposo. El arco, guardado durante años, representa la autoridad y la identidad del verdadero rey de Ítaca. Los pretendientes intentan tensarlo uno tras otro, pero ninguno posee la fuerza ni la habilidad necesarias. Mientras tanto, Odiseo se revela en secreto ante los fieles Eumeo y Filecio, ordenándoles cerrar las puertas y prepararse para el momento decisivo. Después de que todos los pretendientes fracasan, el mendigo extranjero pide probar el arco. A pesar de las protestas de los hombres, Penélope permite que lo intente. Odiseo toma el arco, lo examina con cuidado, lo tensa con facilidad y dispara la flecha atravesando las hachas. Telémaco se prepara para combatir junto a su padre, mientras los pretendientes aún no comprenden que su verdadero enemigo ha regresado.",
+
+  "escenario_principal": [
+    "Gran salón del palacio de Ítaca",
+    "Sala donde se conserva el arco de Odiseo"
+  ],
+
+  "tiempo": "Día del inicio de la venganza contra los pretendientes.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Penélope",
+    "Telémaco"
+  ],
+
+  "personajes_secundarios": [
+    "Eumeo",
+    "Filecio",
+    "Antínoo",
+    "Eurímaco",
+    "Pretendientes de Penélope",
+    "Atenea"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Identidad",
+    "Legitimidad",
+    "Justicia",
+    "Fuerza verdadera",
+    "Destino",
+    "Prueba",
+    "Regreso del héroe",
+    "Venganza"
+  ],
+
+  "conceptos_clave": [
+    "Nostos",
+    "Basileia",
+    "Metis",
+    "Arete",
+    "Kleos",
+    "Reconocimiento",
+    "Justicia retributiva"
+  ],
+
+  "objetos_importantes": [
+    "Arco de Odiseo",
+    "Doce hachas",
+    "Flechas de Odiseo",
+    "Llave del depósito de armas"
+  ],
+
+  "lugares": [
+    "Palacio de Ítaca",
+    "Salón de los pretendientes"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Penélope trae el arco",
+      "descripcion": "Penélope ordena traer el arco de Odiseo y anuncia la prueba que decidirá su matrimonio."
+    },
+    {
+      "orden": 2,
+      "titulo": "Fracaso de los pretendientes",
+      "descripcion": "Los pretendientes intentan tensar el arco, pero todos fracasan mostrando que carecen de la fuerza del verdadero rey."
+    },
+    {
+      "orden": 3,
+      "titulo": "Odiseo revela el plan a sus aliados",
+      "descripcion": "Odiseo confirma su identidad a Eumeo y Filecio y les indica que preparen el palacio para el combate."
+    },
+    {
+      "orden": 4,
+      "titulo": "Los pretendientes intentan suavizar el arco",
+      "descripcion": "Antínoo y Eurímaco buscan excusas y postergan la prueba para evitar reconocer su fracaso."
+    },
+    {
+      "orden": 5,
+      "titulo": "Odiseo toma el arco",
+      "descripcion": "El mendigo extranjero recibe el arco y los pretendientes se burlan de él sin saber quién es realmente."
+    },
+    {
+      "orden": 6,
+      "titulo": "La prueba es superada",
+      "descripcion": "Odiseo tensa el arco sin esfuerzo y atraviesa las doce hachas con una sola flecha."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo mantiene su disfraz hasta el último instante.",
+      "Penélope ha preparado la prueba que permite identificar al verdadero dueño del arco.",
+      "Los pretendientes han demostrado su incapacidad y arrogancia.",
+      "Eumeo y Filecio conocen ahora la identidad de Odiseo y colaboran con él.",
+      "El disparo del arco marca el inicio inmediato de la venganza."
+    ],
+    "prepara_el_canto": "XXII"
+  },
+
+  "frases_clave": [
+    "Solo la mano del verdadero dueño puede dominar el arco.",
+    "La identidad de un rey permanece incluso bajo el disfraz.",
+    "La fuerza unida a la inteligencia vence a la arrogancia.",
+    "El momento esperado por años finalmente ha llegado."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El arco de Odiseo",
+      "significado": "Representa la autoridad legítima, la identidad perdida y el derecho al trono de Ítaca."
+    },
+    {
+      "elemento": "Las doce hachas",
+      "significado": "Simbolizan una prueba imposible para los falsos pretendientes y un camino preparado para el verdadero rey."
+    },
+    {
+      "elemento": "La flecha que atraviesa las hachas",
+      "significado": "Representa la precisión, la unidad entre fuerza e inteligencia y el cumplimiento del destino."
+    },
+    {
+      "elemento": "El fracaso de los pretendientes",
+      "significado": "Muestra que quienes intentan ocupar un lugar que no les pertenece carecen de la virtud necesaria."
+    },
+    {
+      "elemento": "El reconocimiento secreto de Eumeo y Filecio",
+      "significado": "Representa la recompensa de la fidelidad frente a la traición."
+    }
+  ]
+},
+{
+  "canto": "XXII",
+  "titulo": "La matanza de los pretendientes",
+  "titulo_griego": "Μνηστηροφονία",
+  "nombre_tradicional": "La venganza de Odiseo",
+  "libro": 22,
+
+  "resumen": "Después de superar la prueba del arco, Odiseo revela su verdadera identidad y comienza la venganza contra los pretendientes. La primera flecha mata a Antínoo, el líder de los hombres que han saqueado su casa durante años. Los pretendientes creen inicialmente que se trata de un accidente, pero Odiseo les anuncia que ha regresado y que pagarán por sus abusos. Junto con Telémaco, Eumeo y Filecio, bloquea las salidas del salón y combate contra los enemigos. Atenea interviene favoreciendo al héroe y guiando el combate. Los pretendientes intentan resistir, pero ninguno posee la habilidad ni el valor suficiente para enfrentarse al rey de Ítaca. Eurímaco intenta negociar ofreciendo riquezas para compensar los daños, pero Odiseo rechaza la propuesta. Finalmente, todos los pretendientes son derrotados. Después, Odiseo ordena castigar también a los sirvientes desleales que colaboraron con los invasores, restaurando el orden dentro de su palacio.",
+
+  "escenario_principal": [
+    "Gran salón del palacio de Ítaca"
+  ],
+
+  "tiempo": "Continuación inmediata del Canto XXI, después de la prueba del arco.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Telémaco"
+  ],
+
+  "personajes_secundarios": [
+    "Atenea",
+    "Eumeo",
+    "Filecio",
+    "Antínoo",
+    "Eurímaco",
+    "Melanto",
+    "Leodes",
+    "Agelao",
+    "Pretendientes de Penélope"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Justicia",
+    "Venganza",
+    "Restauración del orden",
+    "Lealtad",
+    "Castigo",
+    "Destino",
+    "Honor",
+    "Legitimidad"
+  ],
+
+  "conceptos_clave": [
+    "Dikē",
+    "Nostos",
+    "Timē",
+    "Hybris",
+    "Kleos",
+    "Retribución",
+    "Restauración"
+  ],
+
+  "objetos_importantes": [
+    "Arco de Odiseo",
+    "Flechas",
+    "Lanzas",
+    "Espadas",
+    "Puertas del salón"
+  ],
+
+  "lugares": [
+    "Palacio de Ítaca",
+    "Salón de los pretendientes"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Revelación de Odiseo",
+      "descripcion": "Después de disparar la flecha, Odiseo declara que él es el verdadero rey de Ítaca."
+    },
+    {
+      "orden": 2,
+      "titulo": "Muerte de Antínoo",
+      "descripcion": "Odiseo dispara la primera flecha contra Antínoo, castigando al principal responsable del abuso en el palacio."
+    },
+    {
+      "orden": 3,
+      "titulo": "Inicio del combate",
+      "descripcion": "Los pretendientes comprenden la amenaza e intentan atacar a Odiseo, pero encuentran las armas fuera de su alcance."
+    },
+    {
+      "orden": 4,
+      "titulo": "Defensa del palacio",
+      "descripcion": "Odiseo, Telémaco, Eumeo y Filecio luchan juntos contra los pretendientes mientras Atenea los protege."
+    },
+    {
+      "orden": 5,
+      "titulo": "Intento de negociación",
+      "descripcion": "Eurímaco intenta salvarse ofreciendo compensaciones, pero Odiseo decide aplicar justicia."
+    },
+    {
+      "orden": 6,
+      "titulo": "Derrota de los pretendientes",
+      "descripcion": "Los invasores son eliminados y el palacio vuelve a quedar bajo el control de su verdadero dueño."
+    },
+    {
+      "orden": 7,
+      "titulo": "Castigo a los traidores",
+      "descripcion": "Los sirvientes que traicionaron a Odiseo reciben castigo por haber ayudado a los pretendientes."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo ha recuperado públicamente su arco y su identidad.",
+      "Los pretendientes descubren demasiado tarde quién es realmente el mendigo.",
+      "Telémaco combate junto a su padre demostrando que ya es un guerrero adulto.",
+      "Eumeo y Filecio reciben la recompensa por su fidelidad.",
+      "La casa de Odiseo debe ser purificada después de años de corrupción."
+    ],
+    "prepara_el_canto": "XXIII"
+  },
+
+  "frases_clave": [
+    "El hombre que parecía débil era el verdadero rey.",
+    "La arrogancia destruye a quienes olvidan los límites de la justicia.",
+    "La fidelidad permanece incluso durante los años de ausencia.",
+    "El orden perdido vuelve por la mano de su legítimo dueño."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "La primera flecha contra Antínoo",
+      "significado": "Representa el inicio del juicio contra quienes abusaron de la hospitalidad y violaron el orden sagrado."
+    },
+    {
+      "elemento": "El salón convertido en campo de batalla",
+      "significado": "Simboliza la transformación del hogar profanado en lugar de restauración de la justicia."
+    },
+    {
+      "elemento": "Odiseo junto a Telémaco",
+      "significado": "Representa la continuidad de la casa real y la unión entre generaciones."
+    },
+    {
+      "elemento": "La intervención de Atenea",
+      "significado": "Muestra que la inteligencia y la justicia de Odiseo cuentan con respaldo divino."
+    },
+    {
+      "elemento": "El castigo de los traidores",
+      "significado": "Refleja que la lealtad y la deslealtad tienen consecuencias dentro del orden moral del poema."
+    }
+  ]
+},
+{
+  "canto": "XXIII",
+  "titulo": "El reconocimiento de Penélope",
+  "titulo_griego": "Πηνελόπης καὶ Ὀδυσσέως ἀναγνώρισις",
+  "nombre_tradicional": "Odiseo y Penélope: la prueba del lecho",
+  "libro": 23,
+
+  "resumen": "Después de la derrota de los pretendientes, Euriclea corre a anunciar a Penélope que Odiseo ha regresado y que él mismo ha acabado con los hombres que ocupaban el palacio. Penélope duda, pues teme que pueda tratarse de un engaño de los dioses. Odiseo, todavía cubierto de sangre después del combate, se presenta ante ella, pero Atenea lo embellece temporalmente para que aparezca con su antigua dignidad de rey. A pesar de ello, Penélope mantiene la prudencia y no acepta reconocerlo inmediatamente. Entonces propone una prueba secreta relacionada con su lecho matrimonial. Al escuchar que el lecho ha sido movido, Odiseo reacciona revelando cómo él mismo construyó la cama alrededor del tronco vivo de un olivo, un secreto que solo los dos esposos conocían. Penélope finalmente reconoce a su marido y ambos se reúnen después de veinte años de separación. La noche que comparten representa la restauración del vínculo matrimonial, familiar y político de Ítaca.",
+
+  "escenario_principal": [
+    "Palacio de Ítaca",
+    "Cámara matrimonial de Odiseo y Penélope"
+  ],
+
+  "tiempo": "Después de la matanza de los pretendientes, durante la noche siguiente.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Penélope"
+  ],
+
+  "personajes_secundarios": [
+    "Euriclea",
+    "Telémaco",
+    "Atenea",
+    "Eumeo",
+    "Filecio"
+  ],
+
+  "personajes_nuevos": [],
+
+  "temas": [
+    "Reconocimiento",
+    "Amor conyugal",
+    "Memoria",
+    "Identidad",
+    "Fidelidad",
+    "Paciencia",
+    "Restauración",
+    "Sabiduría"
+  ],
+
+  "conceptos_clave": [
+    "Anagnórisis",
+    "Metis",
+    "Pistis",
+    "Nostos",
+    "Oikos",
+    "Fidelidad",
+    "Identidad"
+  ],
+
+  "objetos_importantes": [
+    "El lecho matrimonial",
+    "El olivo del lecho",
+    "Las vestiduras de Odiseo"
+  ],
+
+  "lugares": [
+    "Palacio de Ítaca",
+    "Cámara de Odiseo y Penélope"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Euriclea anuncia el regreso",
+      "descripcion": "La nodriza comunica a Penélope que el mendigo era realmente Odiseo y que los pretendientes han sido derrotados."
+    },
+    {
+      "orden": 2,
+      "titulo": "La duda de Penélope",
+      "descripcion": "Penélope no acepta la noticia inmediatamente y demuestra prudencia ante la posibilidad de un engaño."
+    },
+    {
+      "orden": 3,
+      "titulo": "Odiseo recupera su apariencia",
+      "descripcion": "Atenea transforma la apariencia de Odiseo para devolverle el aspecto digno de un rey."
+    },
+    {
+      "orden": 4,
+      "titulo": "La prueba del lecho",
+      "descripcion": "Penélope ordena mencionar que trasladen el lecho matrimonial, provocando la reacción de Odiseo."
+    },
+    {
+      "orden": 5,
+      "titulo": "Revelación del secreto del olivo",
+      "descripcion": "Odiseo explica que el lecho fue construido por él alrededor de un olivo vivo, demostrando su identidad."
+    },
+    {
+      "orden": 6,
+      "titulo": "Reunión de los esposos",
+      "descripcion": "Penélope reconoce finalmente a Odiseo y ambos recuperan su unión después de largos años de separación."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo ha recuperado su palacio y eliminado la amenaza de los pretendientes.",
+      "Penélope demuestra la misma prudencia e inteligencia que su esposo.",
+      "El reconocimiento no ocurre por apariencia, sino por conocimiento compartido.",
+      "El lecho construido alrededor del olivo confirma la identidad de Odiseo.",
+      "La casa de Ítaca vuelve a estar unida."
+    ],
+    "prepara_el_canto": "XXIV"
+  },
+
+  "frases_clave": [
+    "La verdadera identidad se reconoce por aquello que solo el alma conoce.",
+    "La prudencia protege incluso a quienes esperan el regreso de lo amado.",
+    "El vínculo construido con raíces profundas permanece frente al paso del tiempo.",
+    "El regreso de Odiseo es también la restauración de su hogar."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El lecho de olivo",
+      "significado": "Representa la estabilidad del matrimonio, las raíces del hogar y aquello que permanece firme frente al paso del tiempo."
+    },
+    {
+      "elemento": "La prueba de Penélope",
+      "significado": "Simboliza la inteligencia femenina y la necesidad de verificar la verdad antes de entregarse a la emoción."
+    },
+    {
+      "elemento": "El reconocimiento final",
+      "significado": "Representa la unión entre memoria, identidad y amor verdadero."
+    },
+    {
+      "elemento": "La transformación de Odiseo por Atenea",
+      "significado": "Muestra el retorno del héroe desde la condición de mendigo hasta su dignidad real."
+    },
+    {
+      "elemento": "El olivo vivo del lecho",
+      "significado": "Simboliza la vida duradera de la casa de Odiseo y la permanencia de sus raíces."
+    }
+  ]
+},
+{
+  "canto": "XXIV",
+  "titulo": "La paz final de Ítaca",
+  "titulo_griego": "Ψυχῶν νέκυων καὶ Ὀδυσσέως δικαίωσις",
+  "nombre_tradicional": "El regreso de las almas y la restauración del reino",
+  "libro": 24,
+
+  "resumen": "El último canto comienza con Hermes guiando las almas de los pretendientes muertos hacia el Hades, donde encuentran a los héroes de la guerra de Troya. Allí cuentan su destino, provocando el recuerdo de los acontecimientos de Ítaca. Mientras tanto, Odiseo visita a su padre Laertes en el campo y revela finalmente su identidad. Para convencerlo, le recuerda detalles de su infancia y los árboles que recibió de él cuando era niño. Padre e hijo se reúnen emocionados y recuperan el vínculo perdido durante veinte años. Sin embargo, los familiares de los pretendientes buscan venganza por la muerte de sus hijos. Odiseo, junto con Telémaco, Laertes y sus aliados, se prepara para enfrentar un nuevo conflicto. Atenea interviene y Zeus ordena que la paz sea restaurada en Ítaca. La diosa detiene la lucha y establece una reconciliación definitiva, cerrando el ciclo de sufrimiento, regreso y justicia.",
+
+  "escenario_principal": [
+    "Hades",
+    "Campos de Laertes",
+    "Ítaca"
+  ],
+
+  "tiempo": "Después del reconocimiento entre Odiseo y Penélope.",
+
+  "personajes_principales": [
+    "Odiseo",
+    "Laertes",
+    "Telémaco",
+    "Atenea"
+  ],
+
+  "personajes_secundarios": [
+    "Hermes",
+    "Penélope",
+    "Almas de los pretendientes",
+    "Agamenón",
+    "Aquiles",
+    "Anfimedonte",
+    "Familiares de los pretendientes",
+    "Zeus"
+  ],
+
+  "personajes_nuevos": [
+    "Laertes",
+    "Anfimedonte"
+  ],
+
+  "temas": [
+    "Regreso",
+    "Reconciliación",
+    "Familia",
+    "Memoria",
+    "Justicia",
+    "Paz",
+    "Destino",
+    "Continuidad"
+  ],
+
+  "conceptos_clave": [
+    "Nostos",
+    "Oikos",
+    "Dikē",
+    "Moira",
+    "Reconocimiento",
+    "Restauración",
+    "Paz divina"
+  ],
+
+  "objetos_importantes": [
+    "El huerto de Laertes",
+    "Los árboles regalados a Odiseo",
+    "Las armas de combate",
+    "El cetro real"
+  ],
+
+  "lugares": [
+    "Hades",
+    "Campos de Laertes",
+    "Palacio de Ítaca",
+    "Tierra de Ítaca"
+  ],
+
+  "acontecimientos": [
+    {
+      "orden": 1,
+      "titulo": "Hermes conduce las almas al Hades",
+      "descripcion": "Hermes guía las almas de los pretendientes muertos hacia el mundo de los muertos, donde encuentran a héroes de la guerra de Troya."
+    },
+    {
+      "orden": 2,
+      "titulo": "Relato de la caída de los pretendientes",
+      "descripcion": "Las almas narran cómo Odiseo regresó disfrazado, superó la prueba del arco y castigó a quienes habían profanado su casa."
+    },
+    {
+      "orden": 3,
+      "titulo": "Encuentro con Laertes",
+      "descripcion": "Odiseo visita a su padre anciano y primero prueba su ánimo antes de revelar quién es."
+    },
+    {
+      "orden": 4,
+      "titulo": "Reconocimiento de Laertes",
+      "descripcion": "Odiseo demuestra su identidad recordando los árboles que Laertes le había entregado cuando era niño."
+    },
+    {
+      "orden": 5,
+      "titulo": "Reunión de la familia",
+      "descripcion": "Laertes recupera la esperanza al ver nuevamente a su hijo y a su nieto Telémaco."
+    },
+    {
+      "orden": 6,
+      "titulo": "Amenaza de una nueva guerra",
+      "descripcion": "Los familiares de los pretendientes buscan vengarse y se enfrentan a Odiseo y sus aliados."
+    },
+    {
+      "orden": 7,
+      "titulo": "Intervención de Atenea y Zeus",
+      "descripcion": "Los dioses ponen fin al conflicto y establecen una paz duradera en Ítaca."
+    }
+  ],
+
+  "continuidad": {
+    "lo_que_hay_que_recordar": [
+      "Odiseo ha recuperado su esposa, hijo, padre y reino.",
+      "La casa de Ítaca ha sido purificada después de años de abuso.",
+      "La venganza contra los pretendientes ha terminado, pero amenaza con surgir un nuevo conflicto.",
+      "La intervención divina permite que la justicia termine en reconciliación.",
+      "El regreso de Odiseo culmina con la restauración completa del orden familiar y político."
+    ],
+    "prepara_el_canto": "Fin de la Odisea"
+  },
+
+  "frases_clave": [
+    "El verdadero regreso no termina hasta restaurar todos los vínculos perdidos.",
+    "La memoria une al padre, al hijo y al rey.",
+    "La justicia debe finalmente transformarse en paz.",
+    "Después de muchos sufrimientos, el orden vuelve a Ítaca."
+  ],
+
+  "simbolismo": [
+    {
+      "elemento": "El descenso de las almas al Hades",
+      "significado": "Representa el cierre del ciclo de muerte causado por la arrogancia de los pretendientes."
+    },
+    {
+      "elemento": "El reconocimiento de Laertes",
+      "significado": "Simboliza la recuperación de las raíces familiares y la continuidad de la casa de Odiseo."
+    },
+    {
+      "elemento": "El huerto de Laertes",
+      "significado": "Representa la herencia, la tierra y la conexión entre generaciones."
+    },
+    {
+      "elemento": "La paz impuesta por los dioses",
+      "significado": "Muestra que el orden humano necesita finalmente armonizarse con el orden divino."
+    },
+    {
+      "elemento": "El regreso completo de Odiseo",
+      "significado": "Simboliza que el héroe no solo recupera un lugar, sino también su identidad, familia y propósito."
+    }
+  ]
+}
+]
