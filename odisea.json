@@ -21,7 +21,7 @@
     "relacionados":["Odiseo","Telémaco","Penélope","Zeus"],
     "descripcion":"Diosa de la sabiduría y de la estrategia. Es la principal protectora de Odiseo durante todo su regreso a Ítaca.",
     "destino":"Permanece entre los dioses olímpicos.",
-    "imagen":"images/atenea.jpg"
+    "imagen":"https://upload.wikimedia.org/wikipedia/commons/3/36/Atena-Giustiniani---Vatican.jpg"
   },
   {
     "id":2,
@@ -45,7 +45,7 @@
     "relacionados":["Odiseo","Telémaco","Euriclea","Atenea"],
     "descripcion":"Esposa de Odiseo. Durante veinte años mantiene la esperanza del regreso de su marido mientras resiste a los pretendientes.",
     "destino":"Se reúne con Odiseo.",
-    "imagen":"images/penelope.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Pen%C3%A9lope#/media/Archivo:Penelope-Homer-Odyssey-Project_Gutenberg_eText.jpg"
   },
   {
     "id":3,
@@ -69,7 +69,7 @@
     "relacionados":["Menelao","Odiseo","Paris"],
     "descripcion":"Reina de Esparta cuya huida con Paris provocó la Guerra de Troya.",
     "destino":"Regresa a Esparta junto a Menelao.",
-    "imagen":"images/helena.jpg"
+    "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helen_of_Troy.jpg/250px-Helen_of_Troy.jpg"
   },
   {
     "id":4,
@@ -93,7 +93,7 @@
     "relacionados":["Odiseo","Hermes","Zeus"],
     "descripcion":"Ninfa que mantiene a Odiseo siete años en la isla de Ogigia ofreciéndole la inmortalidad.",
     "destino":"Deja partir a Odiseo por orden de Zeus.",
-    "imagen":"images/calipso.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Calipso#/media/Archivo:Estatua_de_Calipso_(detalle)._Ceuta_(Espa%C3%B1a).jpg"
   },
   {
     "id":5,
@@ -117,7 +117,7 @@
     "relacionados":["Odiseo","Hermes","Helios"],
     "descripcion":"Hechicera que transforma en cerdos a los compañeros de Odiseo y luego lo ayuda en su viaje.",
     "destino":"Permanece en Eea.",
-    "imagen":"images/circe.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Circe#/media/Archivo:Circe_Offering_the_Cup_to_Odysseus.jpg"
   },
   {
     "id":6,
@@ -141,7 +141,7 @@
     "relacionados":["Odiseo","Alcínoo","Arete"],
     "descripcion":"Princesa feacia que encuentra a Odiseo náufrago y lo conduce al palacio.",
     "destino":"Continúa viviendo en Feacia.",
-    "imagen":"images/nausicaa.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Naus%C3%ADcaa#/media/Archivo:Odysseus_And_Nausica%C3%A4_-_Project_Gutenberg_eText_13725.jpg"
   },
   {
     "id":7,
@@ -165,7 +165,7 @@
     "relacionados":["Odiseo","Alcínoo","Nausícaa"],
     "descripcion":"Reina de los feacios y figura clave para que Odiseo reciba ayuda.",
     "destino":"Permanece en Feacia.",
-    "imagen":"images/arete.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Aret%C3%A9#/media/Archivo:Arete_-_Aret%C3%A9-_%C3%89feso.jpg"
   },
   {
     "id":8,
@@ -189,7 +189,7 @@
     "relacionados":["Odiseo"],
     "descripcion":"Entrega a Odiseo un velo mágico que le permite sobrevivir al naufragio.",
     "destino":"Continúa como divinidad marina.",
-    "imagen":"images/ino.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Ino#/media/Archivo:Atamante_preso_dalle_Furie_0014.jpg"
   },
   {
     "id":9,
@@ -213,7 +213,7 @@
     "relacionados":["Odiseo","Penélope","Telémaco"],
     "descripcion":"Nodriza de Odiseo. Lo reconoce por la cicatriz de su pierna.",
     "destino":"Continúa sirviendo a la casa de Odiseo.",
-    "imagen":"images/euriclea.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Euriclea#/media/Archivo:Odysseus_and_Euryclea_by_Johann_Heinrich_Wilhelm_Tischbein.jpg"
   },
   {
     "id":10,
@@ -237,6 +237,6 @@
     "relacionados":["Penélope","Odiseo","Eurímaco"],
     "descripcion":"Criada infiel que favorece a los pretendientes y desprecia a Odiseo disfrazado.",
     "destino":"Es ejecutada tras la derrota de los pretendientes.",
-    "imagen":"images/melanto.jpg"
+    "imagen":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ZMlxDfvvq-SgOwctKS7A_-rnfnAVHUA8H8YdKS5LuFfKXWpIcLzV8NxrD3vBuUGM7zH4CZTPSrW6LXXorRB1gaLnZ_bLABPFZ8sLaZxzbh4P39lc5XwqY-F_y24cHhm0kC5R12XLEIE0/s1600/836e50855a7dff91e9683bed17592382.jpg"
   }
 ]
