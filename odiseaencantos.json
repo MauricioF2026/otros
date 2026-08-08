@@ -45,7 +45,7 @@
     "relacionados":["Odiseo","Telémaco","Penélope","Zeus"],
     "descripcion":"Diosa de la sabiduría y de la estrategia. Convence a Zeus de ayudar a Odiseo y viaja a Ítaca bajo la apariencia de Mentes.",
     "destino":"Permanece entre los dioses olímpicos.",
-    "imagen":"images/atenea.jpg"
+    "imagen":"https://upload.wikimedia.org/wikipedia/commons/3/36/Atena-Giustiniani---Vatican.jpg"
   },
   {
     "id": 3,
@@ -69,7 +69,7 @@
     "relacionados":["Odiseo","Polifemo","Zeus","Atenea"],
     "descripcion":"Dios del mar. Está ausente del consejo de los dioses porque visita a los etíopes, pero continúa odiando a Odiseo por haber cegado a Polifemo.",
     "destino":"Finalmente acepta el regreso de Odiseo por voluntad de Zeus.",
-    "imagen":"images/poseidon.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Poseid%C3%B3n#/media/Archivo:Poseidon_sculpture_Copenhagen_2005.jpg"
   },
   {
   "id":4,
@@ -124,7 +124,7 @@
     "relacionados":["Penélope","Telémaco","Atenea","Calipso","Laertes"],
     "descripcion":"Rey de Ítaca retenido por Calipso en la isla de Ogigia mientras anhela regresar a su hogar.",
     "destino":"Recupera el trono de Ítaca.",
-    "imagen":"images/odiseo.jpg"
+    "imagen":"https://ast.wikipedia.org/wiki/Odiseo#/media/Ficheru:(Venice)_Ancient_Roman_statues_in_the_Museo_archeologico_nazionale_-_Ulysses.jpg"
   },
   {
     "id": 6,
@@ -148,7 +148,7 @@
     "relacionados":["Odiseo","Hermes","Zeus"],
     "descripcion":"Ninfa que mantiene retenido a Odiseo en su isla deseando convertirlo en su esposo inmortal.",
     "destino":"Obedece la orden de Zeus y deja partir a Odiseo.",
-    "imagen":"images/calipso.jpg"
+    "imagen":"https://es.wikipedia.org/wiki/Calipso#/media/Archivo:Estatua_de_Calipso_(detalle)._Ceuta_(Espa%C3%B1a).jpg"
   },
  {
   "id":7,
