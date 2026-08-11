@@ -1510,6 +1510,61 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiN-MR6nXlpvOXLe2GbsgERe_lqtTgbO3_dh9VGZxGxUlT2f-4rAbmMKePwNRMz1ZwmT99KvuLgY_cGLCO-HJhECXQCbtuCaVnUP9H0HIjPKgmI31fU2U6W7qIZ-Iq-UJamzbUsgD2IJcJKbnu98GMtXbOh319yYzfZ00Uv0WHDeXvrR9g416F-LOqxk/s983/shinji-visor.blogspot.com_.png",
     "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiN-MR6nXlpvOXLe2GbsgERe_lqtTgbO3_dh9VGZxGxUlT2f-4rAbmMKePwNRMz1ZwmT99KvuLgY_cGLCO-HJhECXQCbtuCaVnUP9H0HIjPKgmI31fU2U6W7qIZ-Iq-UJamzbUsgD2IJcJKbnu98GMtXbOh319yYzfZ00Uv0WHDeXvrR9g416F-LOqxk/s983/shinji-visor.blogspot.com_.png",
     "url": "https://shinji-visor.blogspot.com/"
+  },
+  {
+    "id": 169,
+    "title": "Conceptos de kenjutsu",
+    "description": "Navega por un diccionario de terminos de Kenjutsu",
+    "category": "FAV KEN",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEVyosdccPxylQgVrhbfTq2PwLktNW-NqdLFgtEKL6vlKKpWpOZYlbdFjDHIp_8OJ-o28kvTSVM37NOw_4wvenO0Sd8MGW4x6Wx4tkUCih2TT3sKA0ca4S_1C1LUqV4Bre9pGaQu8lU3KKx29vEsDN5xsX4_ywChr0DpVze4mwPVBN3WA6rQcsYVY83e4/s777/ken-wall.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEVyosdccPxylQgVrhbfTq2PwLktNW-NqdLFgtEKL6vlKKpWpOZYlbdFjDHIp_8OJ-o28kvTSVM37NOw_4wvenO0Sd8MGW4x6Wx4tkUCih2TT3sKA0ca4S_1C1LUqV4Bre9pGaQu8lU3KKx29vEsDN5xsX4_ywChr0DpVze4mwPVBN3WA6rQcsYVY83e4/s777/ken-wall.blogspot.com_.png",
+    "url": "https://ken-wall.blogspot.com/"
+  },
+  {
+    "id": 170,
+    "title": "Cuadro de Combates del Torneo Kenjutsu",
+    "description": "Visualiza Torneo Kenjutsu",
+    "category": "FAV KEN",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0FqJUOCac-X5FFx3U10IeULm44dFz1ubF52hWNN-dkKmof4gbPUnqb5YkRdMLXprUhO0RIfnb_jwV8ni2UL6DQsOEhEL_pT_dg0OE3RNmQH0giup3Wz14pVnroAwYyqHzySi5iNXRL-gXPUoZT0Y-bojcTH2fcVgegZzzH96f_NEO_UtFifIzhV5uxE/s1006/mini-torneos.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0FqJUOCac-X5FFx3U10IeULm44dFz1ubF52hWNN-dkKmof4gbPUnqb5YkRdMLXprUhO0RIfnb_jwV8ni2UL6DQsOEhEL_pT_dg0OE3RNmQH0giup3Wz14pVnroAwYyqHzySi5iNXRL-gXPUoZT0Y-bojcTH2fcVgegZzzH96f_NEO_UtFifIzhV5uxE/s1006/mini-torneos.blogspot.com_.png",
+    "url": "https://mini-torneos.blogspot.com/"
+  },
+  {
+    "id": 171,
+    "title": "Peliculas sobre Go",
+    "description": "Conoces peliculas sobre Go",
+    "category": "Go",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC01VQdgxj5DX04qAtJbq_Yirhd9sveXOTFel0-X2x0MQ92IckcaPH04pUs3Vtfz2UqKo_fqIsXqQbzoV4WMHcO-sWT2Y0aY6tuuXFeaHVLY877oCUQQom0ynj7ax48ybcXiFET2xNO_jAif6vU0HYZ38qe9Vi_i2y_18FVcnM02C3dDw0G6eNrchQvQE/s916/peliculas-de-go.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC01VQdgxj5DX04qAtJbq_Yirhd9sveXOTFel0-X2x0MQ92IckcaPH04pUs3Vtfz2UqKo_fqIsXqQbzoV4WMHcO-sWT2Y0aY6tuuXFeaHVLY877oCUQQom0ynj7ax48ybcXiFET2xNO_jAif6vU0HYZ38qe9Vi_i2y_18FVcnM02C3dDw0G6eNrchQvQE/s916/peliculas-de-go.blogspot.com_.png",
+    "url": "https://peliculas-de-go.blogspot.com/"
+  },
+  {
+    "id": 172,
+    "title": "Tiempo para resolver Tsumego",
+    "description": "Aplicación para resolver tsumegos contrareloj",
+    "category": "FAV GO",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLPsLxebf1U1o5fdNd_sAZqJuRg_oFIyBkkauFxiXGl5ofOWLNXenAy1opDHAdnOg0cFdzix2qs3BuaCqmgQESt00mNqC-Ewk6-j2rA5-B5exhuDS_hofj7tsbw_M0l42HvUnqKT_CaAnNy_cfRVF4rUgoF0e2RGFmB7NS4e3qNjtut6RZsLdbW0AuFbk/s1053/tsumego-clock.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLPsLxebf1U1o5fdNd_sAZqJuRg_oFIyBkkauFxiXGl5ofOWLNXenAy1opDHAdnOg0cFdzix2qs3BuaCqmgQESt00mNqC-Ewk6-j2rA5-B5exhuDS_hofj7tsbw_M0l42HvUnqKT_CaAnNy_cfRVF4rUgoF0e2RGFmB7NS4e3qNjtut6RZsLdbW0AuFbk/s1053/tsumego-clock.blogspot.com_.png",
+    "url": "https://tsumego-clock.blogspot.com"
+  },
+  {
+    "id": 173,
+    "title": "Tablero de partidas de Takao Shinji",
+    "description": "Partidas que coinciden con el patrón. 910 Partidas",
+    "category": "FAV GO",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLS-b-Sg-vhvrNoPJa52XkDl6GWE6N-LEBrr2F7aGWR-c2xU4_dhN1nSFTl_p18yDfs-EyNHvqD-ej1LkoXBpyoq0_mDmtnFyQVJppUDlluqDYBkCAFIn3IXPaVMIIaX1gDstcrruQSfTQkXiSEqXaUDSAaiA88Zat6Bt3RBHzxinnHQoYaHzpgno82aQ/s983/shinji-selector.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLS-b-Sg-vhvrNoPJa52XkDl6GWE6N-LEBrr2F7aGWR-c2xU4_dhN1nSFTl_p18yDfs-EyNHvqD-ej1LkoXBpyoq0_mDmtnFyQVJppUDlluqDYBkCAFIn3IXPaVMIIaX1gDstcrruQSfTQkXiSEqXaUDSAaiA88Zat6Bt3RBHzxinnHQoYaHzpgno82aQ/s983/shinji-selector.blogspot.com_.png",
+    "url": "https://shinji-selector.blogspot.com/"
+  },
+  {
+    "id": 174,
+    "title": "Visor histórico de partidas de Go",
+    "description": "Explora partidas por jugador, patrón y estadísticas. Go Seigen",
+    "category": "FAV GO",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYL3IFnPv-5vGszWCP59KvenC6AUsi0x9r-EDZUiyxHGTvRkq6qwcMWV0Vmb5CUmNi3AivkUZeN_-k1Lng-m5o-P1de-rQlE6TvTCpkz8t1fr2z2cqzdhpQuRIFWfyak09z9-Fz4gfxDqNDuHx5z0K2kk83crYfx4IlvcBSxFzOUFQfweaE32RzHOWp6M/s983/go-seigen-selector.blogspot.com_.png",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYL3IFnPv-5vGszWCP59KvenC6AUsi0x9r-EDZUiyxHGTvRkq6qwcMWV0Vmb5CUmNi3AivkUZeN_-k1Lng-m5o-P1de-rQlE6TvTCpkz8t1fr2z2cqzdhpQuRIFWfyak09z9-Fz4gfxDqNDuHx5z0K2kk83crYfx4IlvcBSxFzOUFQfweaE32RzHOWp6M/s983/go-seigen-selector.blogspot.com_.png",
+    "url": "https://go-seigen-selector.blogspot.com/"
   }
+
 
 ]
