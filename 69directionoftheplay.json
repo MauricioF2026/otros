@@ -1,0 +1,5878 @@
+{
+  "total": 69,
+  "problems": [
+    {
+      "id": 1,
+      "URL": "https://tsumego.com/14455",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ce",
+        "cp",
+        "cq",
+        "cr",
+        "ed",
+        "en",
+        "eo",
+        "ep",
+        "eq",
+        "er",
+        "hc",
+        "iq",
+        "ne",
+        "oe",
+        "pe",
+        "qe",
+        "ql",
+        "qo",
+        "re"
+      ],
+      "white": [
+        "bp",
+        "bq",
+        "cj",
+        "co",
+        "dn",
+        "dq",
+        "dr",
+        "em",
+        "fm",
+        "jc",
+        "kq",
+        "me",
+        "nd",
+        "oc",
+        "op",
+        "pq",
+        "qd",
+        "rd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cg",
+          "comment": "Big, but Black's framework on the right side will bring him a lot of points."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "md",
+              "comment": "+Helps to control Black's moyo and fixes the weakness at Q17."
+            }
+          ],
+          "result": "+Helps to control Black's moyo and fixes the weakness at Q17."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "mf"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "pc",
+              "comment": "N14 goes directly inside Black's moyo. But how to respond to this move?"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "pb",
+              "comment": "+The price for better control over the moyo are points in the corner."
+            }
+          ],
+          "result": "+The price for better control over the moyo are points in the corner."
+        }
+      ],
+      "totalVariations": 6,
+      "totalSolutions": 2
+    },
+    {
+      "id": 2,
+      "URL": "https://tsumego.com/14457",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "db",
+        "fc",
+        "jc",
+        "jd",
+        "jg",
+        "ji",
+        "lg",
+        "mg",
+        "ml",
+        "nd",
+        "nf",
+        "nh",
+        "nk",
+        "nl",
+        "oc",
+        "od",
+        "of",
+        "op",
+        "pb",
+        "pd",
+        "pf",
+        "pk",
+        "pq",
+        "re"
+      ],
+      "white": [
+        "cf",
+        "dd",
+        "dp",
+        "fq",
+        "jp",
+        "ke",
+        "kk",
+        "lc",
+        "li",
+        "me",
+        "mf",
+        "mk",
+        "mp",
+        "nc",
+        "ne",
+        "ng",
+        "ni",
+        "nj",
+        "ob",
+        "og",
+        "pg",
+        "pi",
+        "qf"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "je"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ie",
+          "comment": "This exchange helps Black to connect."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "kg",
+              "comment": "+White should exploit this weakness and continue the attack."
+            }
+          ],
+          "result": "+White should exploit this weakness and continue the attack."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 3,
+      "URL": "https://tsumego.com/14458",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bd",
+        "bo",
+        "bp",
+        "cf",
+        "ci",
+        "cn",
+        "cp",
+        "cq",
+        "cr",
+        "dn",
+        "dr",
+        "kq",
+        "np",
+        "od",
+        "pi",
+        "pl",
+        "pq",
+        "qd"
+      ],
+      "white": [
+        "bc",
+        "bm",
+        "bn",
+        "cc",
+        "co",
+        "dd",
+        "do",
+        "dp",
+        "dq",
+        "er",
+        "fd",
+        "fp",
+        "jc",
+        "mc",
+        "pn",
+        "qo",
+        "rq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "en"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "dm",
+          "comment": "White could not capture clearly, hence E6 keeps Black stones as weak as possible."
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "cj",
+          "comment": "+Contact play allows White to settle his stones."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "en"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "dm",
+              "comment": "White could not capture clearly, hence E6 keeps Black stones as weak as possible."
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "cj",
+              "comment": "+Contact play allows White to settle his stones."
+            }
+          ],
+          "result": "+Contact play allows White to settle his stones."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 5,
+      "URL": "https://tsumego.com/14460",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bc",
+        "be",
+        "cd",
+        "co",
+        "dq",
+        "oc",
+        "oi",
+        "pd",
+        "ph",
+        "pj",
+        "qb",
+        "qc",
+        "qh"
+      ],
+      "white": [
+        "cc",
+        "dc",
+        "ed",
+        "id",
+        "lc",
+        "ng",
+        "oh",
+        "pg",
+        "pq",
+        "qd",
+        "qe",
+        "rc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "iq"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "qo",
+          "comment": "Wrong direction - Black starts forming a lot of points."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "qn",
+              "comment": "+Strengthens the corner and does not allow Black to make a perfect extension from Q10 later."
+            }
+          ],
+          "result": "+Strengthens the corner and does not allow Black to make a perfect extension from Q10 later."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 6,
+      "URL": "https://tsumego.com/14461",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ce",
+        "fq",
+        "kc",
+        "kq",
+        "lc",
+        "lf",
+        "lo",
+        "mb",
+        "nb",
+        "ni",
+        "ob",
+        "of",
+        "pd",
+        "pf",
+        "pi",
+        "pn",
+        "po",
+        "qe",
+        "qp",
+        "re"
+      ],
+      "white": [
+        "cg",
+        "cn",
+        "dc",
+        "dp",
+        "ld",
+        "mc",
+        "nc",
+        "oc",
+        "oj",
+        "pc",
+        "pg",
+        "pj",
+        "qc",
+        "qf",
+        "qh",
+        "qj",
+        "qm",
+        "qn",
+        "rf",
+        "rg"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "me",
+          "comment": "Passive. Black will fix his weakness by connecting, while White's N17 group might get under attack."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "mf"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "ng"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "lg",
+              "comment": "+White counterattacks Black and solves his problems. Black's M14 stone is ineffective."
+            }
+          ],
+          "result": "+White counterattacks Black and solves his problems. Black's M14 stone is ineffective."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 7,
+      "URL": "https://tsumego.com/14462",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "al",
+        "bm",
+        "cf",
+        "ci",
+        "cl",
+        "cm",
+        "co",
+        "cp",
+        "df",
+        "dl",
+        "dq",
+        "dr",
+        "ee",
+        "eg",
+        "em",
+        "en",
+        "fg",
+        "fh",
+        "fn",
+        "fq",
+        "gh",
+        "gn",
+        "gp",
+        "hn",
+        "ho",
+        "hq",
+        "hr",
+        "ih",
+        "in",
+        "jm",
+        "ko",
+        "kp",
+        "kq",
+        "lc",
+        "lq",
+        "ng",
+        "oi",
+        "oj",
+        "om",
+        "on",
+        "oo",
+        "op",
+        "oq",
+        "pd",
+        "pi",
+        "pn",
+        "pr",
+        "qf",
+        "qg",
+        "qh",
+        "qo",
+        "qp",
+        "ro",
+        "rq",
+        "rs",
+        "sr"
+      ],
+      "white": [
+        "bj",
+        "bk",
+        "bl",
+        "ce",
+        "ck",
+        "dd",
+        "dk",
+        "dm",
+        "dn",
+        "do",
+        "dp",
+        "ed",
+        "eh",
+        "ei",
+        "el",
+        "eo",
+        "fd",
+        "fe",
+        "ff",
+        "fi",
+        "fl",
+        "fo",
+        "go",
+        "hp",
+        "il",
+        "io",
+        "ip",
+        "iq",
+        "ir",
+        "jc",
+        "jn",
+        "jo",
+        "kn",
+        "ll",
+        "ln",
+        "lo",
+        "lp",
+        "nl",
+        "np",
+        "nq",
+        "ok",
+        "ol",
+        "or",
+        "pg",
+        "ph",
+        "pj",
+        "pm",
+        "po",
+        "pp",
+        "pq",
+        "qi",
+        "qj",
+        "qk",
+        "qm",
+        "qn",
+        "qq",
+        "rl",
+        "rm",
+        "rr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "kh",
+          "comment": "Black does not have to worry that much about his group."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "im",
+              "comment": "+Creates in sente a low of weaknesses in White's shape that can be used in future (D9 group is not alive yet)."
+            }
+          ],
+          "result": "+Creates in sente a low of weaknesses in White's shape that can be used in future (D9 group is not alive yet)."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 8,
+      "URL": "https://tsumego.com/14463",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cp",
+        "dq",
+        "ec",
+        "ed",
+        "gc",
+        "hq",
+        "ic",
+        "lp",
+        "mq",
+        "on",
+        "pm",
+        "po",
+        "pq",
+        "qp"
+      ],
+      "white": [
+        "ce",
+        "ck",
+        "db",
+        "dc",
+        "eb",
+        "eq",
+        "no",
+        "nq",
+        "oo",
+        "oq",
+        "pl",
+        "qe",
+        "ql"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "nn"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ol",
+          "comment": "This exchange hurts Q8 stones while O5 group remains very weak."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "lo",
+              "comment": "+White is too weak to have a chance to attack M4 group later. Hence the most efficient way to strengthen O4 group is via attachment."
+            }
+          ],
+          "result": "+White is too weak to have a chance to attack M4 group later. Hence the most efficient way to strengthen O4 group is via attachment."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 9,
+      "URL": "https://tsumego.com/14464",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "co",
+        "do",
+        "dp",
+        "fc",
+        "go",
+        "hd",
+        "id",
+        "jd",
+        "kc",
+        "og",
+        "pc",
+        "pd",
+        "pe",
+        "pp",
+        "qh"
+      ],
+      "white": [
+        "cf",
+        "cp",
+        "cq",
+        "dd",
+        "dk",
+        "er",
+        "hc",
+        "ic",
+        "jc",
+        "jq",
+        "kb",
+        "qc",
+        "qd",
+        "qf",
+        "rf"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "kd",
+          "comment": "Passive. Black can put more pressure on J17 group."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "gc"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "lc",
+              "comment": "Please, play at A."
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "kd"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "mb"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "hb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "ib"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "ia"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "jb"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "md"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "gb",
+              "comment": "+Black can build moyo on a grand scale. Q17 stones are well placed."
+            }
+          ],
+          "result": "+Black can build moyo on a grand scale. Q17 stones are well placed."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 10,
+      "URL": "https://tsumego.com/14465",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cq",
+        "km",
+        "ln",
+        "lp",
+        "mm",
+        "mp",
+        "ni",
+        "nm",
+        "no",
+        "nq",
+        "og",
+        "oq",
+        "ph",
+        "pi",
+        "pn",
+        "po",
+        "pp",
+        "qd",
+        "qk",
+        "qm",
+        "qq",
+        "rl",
+        "rm",
+        "rq",
+        "rr",
+        "sn",
+        "so"
+      ],
+      "white": [
+        "dd",
+        "ll",
+        "lm",
+        "lq",
+        "ml",
+        "mq",
+        "nl",
+        "nr",
+        "oh",
+        "ol",
+        "om",
+        "or",
+        "pg",
+        "pm",
+        "pq",
+        "pr",
+        "qg",
+        "ql",
+        "qn",
+        "qo",
+        "qp",
+        "qr",
+        "rn",
+        "rp",
+        "sp",
+        "sr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "of"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ng",
+          "comment": "Q13 group wouldn't bring any points to White later in the game. Moreover, while saving it, Black will close the upper right corner. Hence White should be flexible and be ready to sacrifice Q13 stones later."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "pd",
+              "comment": "+White shouldn't allow Black to attack Q13 stones while taking points on the top side. hence White should make a probing move. Depending on Black's response, White can sacrifice Q13 stones for points in the corner or get a good shape on the top side."
+            }
+          ],
+          "result": "+White shouldn't allow Black to attack Q13 stones while taking points on the top side. hence White should make a probing move. Depending on Black's response, White can sacrifice Q13 stones for points in the corner or get a good shape on the top side."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 11,
+      "URL": "https://tsumego.com/14466",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ag",
+        "bc",
+        "bd",
+        "bf",
+        "bh",
+        "cc",
+        "cf",
+        "dc",
+        "ef",
+        "fc",
+        "fq",
+        "gc",
+        "jk",
+        "jp",
+        "ki",
+        "lc",
+        "me",
+        "mi",
+        "ni",
+        "np",
+        "od",
+        "pd",
+        "pj",
+        "pp",
+        "qd",
+        "qj",
+        "qo",
+        "re"
+      ],
+      "white": [
+        "ae",
+        "af",
+        "be",
+        "cd",
+        "ce",
+        "ch",
+        "cn",
+        "dd",
+        "dp",
+        "dr",
+        "ed",
+        "eh",
+        "fd",
+        "km",
+        "lj",
+        "mj",
+        "mm",
+        "nc",
+        "oc",
+        "ok",
+        "pc",
+        "pn",
+        "qc",
+        "ql",
+        "qn",
+        "rc",
+        "rd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "bi"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "df",
+          "comment": "D16 group is very weak, hence White cannot attack from this direction. Black fixes the shape with D14 and counterattacks D16 group simultaneously."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "df"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "dg"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "dh"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "eg"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "cg"
+            },
+            {
+              "number": 6,
+              "color": "B",
+              "coord": "bg",
+              "comment": "+D16 group is safe while Black's B13 group is not. White will profit from this attack."
+            }
+          ],
+          "result": "+D16 group is safe while Black's B13 group is not. White will profit from this attack."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "df"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "dg"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "dh"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "de",
+              "captured": [
+                "df"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "ff",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 6,
+      "totalSolutions": 2
+    },
+    {
+      "id": 12,
+      "URL": "https://tsumego.com/14467",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bh",
+        "bi",
+        "cf",
+        "cg",
+        "cj",
+        "cm",
+        "dg",
+        "ec",
+        "fc",
+        "gc",
+        "gd",
+        "ge",
+        "hd",
+        "hf",
+        "ie",
+        "if",
+        "kd",
+        "kf",
+        "ne",
+        "pd",
+        "pk",
+        "po",
+        "pq",
+        "qk",
+        "re"
+      ],
+      "white": [
+        "ch",
+        "dc",
+        "dd",
+        "df",
+        "dh",
+        "dp",
+        "ef",
+        "eg",
+        "ei",
+        "fd",
+        "fe",
+        "fh",
+        "gf",
+        "gg",
+        "hc",
+        "hg",
+        "ib",
+        "id",
+        "jc",
+        "jd",
+        "jp",
+        "mc",
+        "mp",
+        "qf",
+        "qi"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "pb"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "rf",
+          "comment": "White is in trouble."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "qe"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "qd"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "rf"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "rd"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "oi",
+              "comment": "+White builds good shape. Compare with the C option."
+            }
+          ],
+          "result": "+White builds good shape. Compare with the C option."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 13,
+      "URL": "https://tsumego.com/14468",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bc",
+        "cd",
+        "cg",
+        "ch",
+        "ci",
+        "cl",
+        "dc",
+        "fd",
+        "gd",
+        "id",
+        "lc",
+        "mq",
+        "nq",
+        "oq",
+        "pg",
+        "pi",
+        "pj",
+        "pk",
+        "pq",
+        "qf",
+        "qi",
+        "ql",
+        "qm",
+        "qr",
+        "rd",
+        "re",
+        "ri"
+      ],
+      "white": [
+        "bd",
+        "ce",
+        "df",
+        "dh",
+        "ei",
+        "ep",
+        "fe",
+        "hf",
+        "iq",
+        "nc",
+        "np",
+        "og",
+        "ol",
+        "pe",
+        "pf",
+        "pl",
+        "pp",
+        "qd",
+        "qj",
+        "qk",
+        "qo",
+        "qq",
+        "rc",
+        "rl",
+        "rm",
+        "rq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cp",
+          "comment": "+The largest point on the board."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "cp",
+              "comment": "+The largest point on the board."
+            }
+          ],
+          "result": "+The largest point on the board."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 14,
+      "URL": "https://tsumego.com/14469",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cc",
+        "cr",
+        "dd",
+        "dq",
+        "er",
+        "fc",
+        "gq",
+        "mc",
+        "pn",
+        "pp",
+        "qf",
+        "qi",
+        "qq"
+      ],
+      "white": [
+        "bd",
+        "cf",
+        "ck",
+        "cp",
+        "cq",
+        "dh",
+        "do",
+        "kq",
+        "nq",
+        "oc",
+        "pr",
+        "qd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "bc",
+          "comment": "Small."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "oe",
+              "comment": "+Ensures that Black's territory on top and right sides are under control and can be invaded, if and when needed. Without this move Black will have some forcing moves nearby that will help him in building influence and territory."
+            }
+          ],
+          "result": "+Ensures that Black's territory on top and right sides are under control and can be invaded, if and when needed. Without this move Black will have some forcing moves nearby that will help him in building influence and territory."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 15,
+      "URL": "https://tsumego.com/14470",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cf",
+        "cm",
+        "co",
+        "de",
+        "df",
+        "di",
+        "dj",
+        "dk",
+        "dq",
+        "eh",
+        "ej",
+        "fi",
+        "fq",
+        "gd",
+        "ge",
+        "gi",
+        "hd",
+        "hj",
+        "hq",
+        "ig",
+        "ih",
+        "ii",
+        "ij",
+        "ik",
+        "io",
+        "je",
+        "jl",
+        "jo",
+        "kd",
+        "kj",
+        "kl",
+        "ko",
+        "kp",
+        "lk",
+        "lq",
+        "lr",
+        "mj",
+        "ml",
+        "nk",
+        "ol",
+        "or",
+        "pb",
+        "pc",
+        "pe",
+        "pr",
+        "qd",
+        "qq",
+        "rq",
+        "rr"
+      ],
+      "white": [
+        "cd",
+        "ce",
+        "dc",
+        "eg",
+        "ek",
+        "el",
+        "fc",
+        "fh",
+        "fo",
+        "gc",
+        "gj",
+        "gk",
+        "hc",
+        "he",
+        "hf",
+        "hg",
+        "hh",
+        "hi",
+        "hk",
+        "id",
+        "il",
+        "im",
+        "jm",
+        "jp",
+        "km",
+        "kq",
+        "kr",
+        "lm",
+        "lo",
+        "lp",
+        "md",
+        "mq",
+        "mr",
+        "ng",
+        "ni",
+        "nj",
+        "oc",
+        "od",
+        "ok",
+        "pg",
+        "pl",
+        "pn",
+        "pp",
+        "pq",
+        "qf",
+        "qp",
+        "rp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ie",
+          "comment": "Big, but actually not the biggest point on the board."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "pf",
+              "comment": "+White cannot simultaneously protect R13 cut and connect his weak P16 stones with O13 group. Black will be able to reduce White points on the top and build some in the center."
+            }
+          ],
+          "result": "+White cannot simultaneously protect R13 cut and connect his weak P16 stones with O13 group. Black will be able to reduce White points on the top and build some in the center."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 16,
+      "URL": "https://tsumego.com/14471",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bp",
+        "cj",
+        "cm",
+        "db",
+        "fc",
+        "hc",
+        "ic",
+        "jb",
+        "je",
+        "kb",
+        "nf",
+        "oc",
+        "oq",
+        "pd",
+        "pf",
+        "pg",
+        "qe",
+        "qp"
+      ],
+      "white": [
+        "cc",
+        "cf",
+        "dd",
+        "dp",
+        "fq",
+        "ib",
+        "id",
+        "iq",
+        "jc",
+        "kc",
+        "nc",
+        "nd",
+        "oh",
+        "ph",
+        "qg",
+        "qj",
+        "qm"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "lb"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "hb",
+          "comment": "White can make better use of J18 stone."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "hb"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "gb",
+              "comment": "It is always better to sacrifice two rather than one stone."
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "hd"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "gc"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "lb"
+            },
+            {
+              "number": 6,
+              "color": "B",
+              "coord": "ha"
+            },
+            {
+              "number": 7,
+              "color": "W",
+              "coord": "jd",
+              "comment": "+The most efficient way to help O16 group."
+            }
+          ],
+          "result": "+The most efficient way to help O16 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 17,
+      "URL": "https://tsumego.com/14472",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cp",
+        "ec",
+        "eq",
+        "he",
+        "ie",
+        "je",
+        "kc",
+        "kd",
+        "lg",
+        "lh",
+        "mg",
+        "nd",
+        "ng",
+        "oe",
+        "oj",
+        "qe",
+        "qk"
+      ],
+      "white": [
+        "cd",
+        "if",
+        "jf",
+        "ke",
+        "kg",
+        "ld",
+        "le",
+        "mc",
+        "mh",
+        "nh",
+        "oc",
+        "oh",
+        "pc",
+        "po",
+        "pq",
+        "qi"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "mb",
+          "comment": "What about P12 group?"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "nj",
+              "comment": "+White needs to help his weakest group. O10 builds a good shape and pressures R9 group, which is weak as well. Note that active play against R9 group would allow to attack P15 group in future."
+            }
+          ],
+          "result": "+White needs to help his weakest group. O10 builds a good shape and pressures R9 group, which is weak as well. Note that active play against R9 group would allow to attack P15 group in future."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 18,
+      "URL": "https://tsumego.com/14473",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bg",
+        "bn",
+        "cf",
+        "cp",
+        "cq",
+        "db",
+        "de",
+        "df",
+        "di",
+        "dk",
+        "dn",
+        "do",
+        "eb",
+        "ec",
+        "ed",
+        "fd",
+        "fe",
+        "fn",
+        "fo",
+        "fq",
+        "gn",
+        "mc",
+        "nb",
+        "nd",
+        "oc",
+        "pd",
+        "pf",
+        "pn",
+        "pp",
+        "pr",
+        "qf",
+        "qj",
+        "rf"
+      ],
+      "white": [
+        "bb",
+        "bd",
+        "be",
+        "bf",
+        "cc",
+        "ce",
+        "cl",
+        "cm",
+        "dc",
+        "dd",
+        "dp",
+        "el",
+        "em",
+        "eq",
+        "fb",
+        "fc",
+        "fp",
+        "gb",
+        "gd",
+        "gl",
+        "go",
+        "gq",
+        "hc",
+        "ip",
+        "kc",
+        "lp",
+        "nm",
+        "nq",
+        "ob",
+        "pb",
+        "pm",
+        "qc",
+        "qe",
+        "re"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "om",
+          "comment": "+Black is strong on the right side, he can play actively and aim at more point. White's territory on the bottom is well controlled by G6 stone."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "om",
+              "comment": "+Black is strong on the right side, he can play actively and aim at more point. White's territory on the bottom is well controlled by G6 stone."
+            }
+          ],
+          "result": "+Black is strong on the right side, he can play actively and aim at more point. White's territory on the bottom is well controlled by G6 stone."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "qm",
+              "comment": "+Large move with large follow-ups."
+            }
+          ],
+          "result": "+Large move with large follow-ups."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 19,
+      "URL": "https://tsumego.com/14474",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ao",
+        "bc",
+        "be",
+        "bi",
+        "bk",
+        "bn",
+        "bp",
+        "cb",
+        "ce",
+        "ci",
+        "cj",
+        "cl",
+        "cm",
+        "cn",
+        "db",
+        "df",
+        "dm",
+        "fr",
+        "gl",
+        "gm",
+        "gn",
+        "gq",
+        "hk",
+        "hl",
+        "ho",
+        "hp",
+        "ih",
+        "ij",
+        "ik",
+        "jj",
+        "jq",
+        "lc",
+        "lf",
+        "lg",
+        "lh",
+        "nc",
+        "nn",
+        "no",
+        "np",
+        "nq",
+        "oc",
+        "or",
+        "pd",
+        "pr",
+        "qc",
+        "qd",
+        "qf",
+        "qh",
+        "qi",
+        "qp",
+        "qq",
+        "rd",
+        "rh",
+        "rj",
+        "rk"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "bo",
+        "bq",
+        "ck",
+        "co",
+        "dc",
+        "dg",
+        "dh",
+        "dj",
+        "dl",
+        "dn",
+        "do",
+        "dq",
+        "eb",
+        "ej",
+        "el",
+        "em",
+        "er",
+        "fd",
+        "ff",
+        "fk",
+        "fo",
+        "gj",
+        "go",
+        "hm",
+        "hn",
+        "il",
+        "io",
+        "jc",
+        "je",
+        "jk",
+        "jl",
+        "kf",
+        "kg",
+        "kh",
+        "ki",
+        "kj",
+        "mp",
+        "ob",
+        "on",
+        "pb",
+        "pc",
+        "pi",
+        "pl",
+        "po",
+        "pp",
+        "pq",
+        "qb",
+        "qj",
+        "qk",
+        "qo",
+        "rb",
+        "rc",
+        "ri",
+        "rl",
+        "ro"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "im"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "in",
+          "comment": "The ladder works for White."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "kl",
+              "comment": "+Black will cut at J7 or L9 next, saving his J10 group. Note that Black cannot cut at A directly due to the ladder."
+            }
+          ],
+          "result": "+Black will cut at J7 or L9 next, saving his J10 group. Note that Black cannot cut at A directly due to the ladder."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 20,
+      "URL": "https://tsumego.com/14475",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bq",
+        "cj",
+        "co",
+        "cp",
+        "dm",
+        "dn",
+        "em",
+        "hc",
+        "im",
+        "io",
+        "iq",
+        "kc",
+        "ko",
+        "lo",
+        "mo",
+        "pc",
+        "pf",
+        "pg",
+        "qb",
+        "qd"
+      ],
+      "white": [
+        "ch",
+        "cq",
+        "cr",
+        "dp",
+        "en",
+        "eo",
+        "eq",
+        "gn",
+        "ke",
+        "kq",
+        "lp",
+        "mp",
+        "nd",
+        "np",
+        "oc",
+        "of",
+        "pb",
+        "pq",
+        "qn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "fc"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "cd",
+          "comment": "White gets no points and is severely counterattacked."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "dd",
+              "comment": "+Very big point that creates White's outpost on the top-left region. To understand how big it is, imagine Black playing here."
+            }
+          ],
+          "result": "+Very big point that creates White's outpost on the top-left region. To understand how big it is, imagine Black playing here."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 21,
+      "URL": "https://tsumego.com/14476",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cd",
+        "cf",
+        "dc",
+        "dp",
+        "ec",
+        "ep",
+        "eq",
+        "iq",
+        "mc",
+        "me",
+        "mr",
+        "oi",
+        "op",
+        "oq",
+        "pd",
+        "pq",
+        "qd",
+        "qi"
+      ],
+      "white": [
+        "cn",
+        "cp",
+        "cq",
+        "dq",
+        "ed",
+        "fc",
+        "gd",
+        "kc",
+        "ke",
+        "mp",
+        "ok",
+        "pn",
+        "po",
+        "pp",
+        "qk",
+        "qq",
+        "qr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "jq"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "jr"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "kr"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "kq"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "jp"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "lr"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ir"
+        },
+        {
+          "number": 8,
+          "color": "B",
+          "coord": "ks",
+          "captured": [
+            "kr"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 9,
+          "color": "W",
+          "coord": "hq",
+          "comment": "+The only way to cut, Black's E4 stones will be under heavy attack."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "jq"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "kr"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "kq"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "jp"
+            },
+            {
+              "number": 6,
+              "color": "B",
+              "coord": "lr"
+            },
+            {
+              "number": 7,
+              "color": "W",
+              "coord": "ir"
+            },
+            {
+              "number": 8,
+              "color": "B",
+              "coord": "ks",
+              "captured": [
+                "kr"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 9,
+              "color": "W",
+              "coord": "hq",
+              "comment": "+The only way to cut, Black's E4 stones will be under heavy attack."
+            }
+          ],
+          "result": "+The only way to cut, Black's E4 stones will be under heavy attack."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 22,
+      "URL": "https://tsumego.com/14477",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cp",
+        "cr",
+        "dd",
+        "dp",
+        "dq",
+        "fp",
+        "hq",
+        "ip",
+        "jq",
+        "jr",
+        "lr",
+        "mm",
+        "mq",
+        "mr",
+        "nn",
+        "no",
+        "nq",
+        "ns",
+        "oj",
+        "oo",
+        "oq",
+        "pc",
+        "pe",
+        "pl",
+        "pm",
+        "pp",
+        "qd",
+        "qj",
+        "qm",
+        "qn",
+        "rm"
+      ],
+      "white": [
+        "bp",
+        "bq",
+        "br",
+        "cj",
+        "cn",
+        "cq",
+        "hr",
+        "iq",
+        "ir",
+        "jc",
+        "jo",
+        "jp",
+        "lo",
+        "lq",
+        "md",
+        "nr",
+        "oc",
+        "od",
+        "om",
+        "on",
+        "or",
+        "pn",
+        "po",
+        "pq",
+        "ps",
+        "ql",
+        "qo",
+        "qq",
+        "qr",
+        "rn",
+        "rp",
+        "so"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "dl",
+          "comment": "Big, but not urgent."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "gp",
+              "comment": "+The key point in the shape. White attacks Black and simultaneously helps K5 group."
+            }
+          ],
+          "result": "+The key point in the shape. White attacks Black and simultaneously helps K5 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 23,
+      "URL": "https://tsumego.com/14478",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cp",
+        "dq",
+        "eq",
+        "fp",
+        "fq",
+        "gd",
+        "hq",
+        "jd",
+        "ld",
+        "mc",
+        "nd",
+        "pp",
+        "qd"
+      ],
+      "white": [
+        "bo",
+        "co",
+        "dc",
+        "de",
+        "di",
+        "ep",
+        "fo",
+        "go",
+        "gp",
+        "md",
+        "od",
+        "pf"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ne"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "me",
+          "captured": [
+            "md"
+          ],
+          "captures": 1,
+          "comment": "White gains nothing from this exchange."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "pd",
+              "comment": "+Builds shape and puts pressure on R16 stone. White's group will be safe and can bring some point on the right side in the future."
+            }
+          ],
+          "result": "+Builds shape and puts pressure on R16 stone. White's group will be safe and can bring some point on the right side in the future."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 24,
+      "URL": "https://tsumego.com/14479",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cp",
+        "eq",
+        "if",
+        "jd",
+        "jf",
+        "ld",
+        "nf",
+        "ng",
+        "nh",
+        "ni",
+        "nj",
+        "oe",
+        "pe",
+        "pf",
+        "pg",
+        "qd",
+        "qi"
+      ],
+      "white": [
+        "dd",
+        "hd",
+        "kf",
+        "kh",
+        "le",
+        "mf",
+        "nd",
+        "ne",
+        "oc",
+        "of",
+        "og",
+        "oh",
+        "oi",
+        "oj",
+        "ok",
+        "qf",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "fd",
+          "comment": "Black is not that strong - he needs to help O11 group first."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "lj",
+              "comment": "+Black needs to help his weakest group. Otherwise White will get profit by attacking it."
+            }
+          ],
+          "result": "+Black needs to help his weakest group. Otherwise White will get profit by attacking it."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 25,
+      "URL": "https://tsumego.com/14480",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ac",
+        "bb",
+        "bd",
+        "bn",
+        "bo",
+        "cb",
+        "cd",
+        "ce",
+        "ck",
+        "cl",
+        "cm",
+        "co",
+        "cp",
+        "db",
+        "dc",
+        "io",
+        "ip",
+        "iq",
+        "mq",
+        "nr",
+        "od",
+        "oq",
+        "or",
+        "pq",
+        "qd",
+        "qp",
+        "qr",
+        "ro",
+        "rp",
+        "rs",
+        "sr"
+      ],
+      "white": [
+        "be",
+        "bm",
+        "cf",
+        "cn",
+        "dd",
+        "de",
+        "dg",
+        "dk",
+        "dl",
+        "dm",
+        "dn",
+        "do",
+        "ec",
+        "eq",
+        "fd",
+        "jp",
+        "lq",
+        "mr",
+        "np",
+        "nq",
+        "op",
+        "pn",
+        "pp",
+        "qo",
+        "qq",
+        "rn",
+        "rq",
+        "rr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "im",
+          "comment": "White misses a chance to play sente move C first,"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "cj"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "bl"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "bk"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "am",
+              "captured": [
+                "bm"
+              ],
+              "captures": 1,
+              "comment": "+White should play sente moves first, and only then attack J5 group."
+            }
+          ],
+          "result": "+White should play sente moves first, and only then attack J5 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 26,
+      "URL": "https://tsumego.com/14481",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cc",
+        "dc",
+        "de",
+        "fc",
+        "fd",
+        "fe",
+        "ff",
+        "fo",
+        "fq",
+        "gg",
+        "gh",
+        "hd",
+        "he",
+        "hh",
+        "ig",
+        "ji",
+        "kd",
+        "nn",
+        "no",
+        "om",
+        "oo",
+        "or",
+        "pd",
+        "pm",
+        "po",
+        "pq",
+        "qf",
+        "qm"
+      ],
+      "white": [
+        "cf",
+        "dd",
+        "df",
+        "dj",
+        "dp",
+        "ee",
+        "eg",
+        "fg",
+        "gc",
+        "gd",
+        "ge",
+        "gf",
+        "hc",
+        "hf",
+        "hg",
+        "id",
+        "oh",
+        "ok",
+        "on",
+        "pn",
+        "pr",
+        "qh",
+        "qk",
+        "qn",
+        "qo",
+        "qq",
+        "qr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "dn",
+          "comment": "Very big, but the right and bottom sides are more important - there are some unsettled position."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "nm",
+              "comment": "+Very big: a lot of points, controls Black's moyo (imagine Black fixing the cut), and makes R9 group strong."
+            }
+          ],
+          "result": "+Very big: a lot of points, controls Black's moyo (imagine Black fixing the cut), and makes R9 group strong."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 27,
+      "URL": "https://tsumego.com/14482",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cd",
+        "cp",
+        "do",
+        "ed",
+        "fp",
+        "gc",
+        "of",
+        "ol",
+        "on",
+        "pc",
+        "pe",
+        "po",
+        "qd",
+        "qo"
+      ],
+      "white": [
+        "cj",
+        "eq",
+        "gq",
+        "ic",
+        "lp",
+        "md",
+        "np",
+        "oc",
+        "pq",
+        "qg",
+        "qk",
+        "qm",
+        "qp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ob",
+          "comment": "Small and passive."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "pi",
+              "comment": "+Makes White strong and prevents Black from connecting. White plays first in the key region for both sides."
+            }
+          ],
+          "result": "+Makes White strong and prevents Black from connecting. White plays first in the key region for both sides."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 28,
+      "URL": "https://tsumego.com/14483",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bc",
+        "bp",
+        "cd",
+        "ce",
+        "ch",
+        "cn",
+        "df",
+        "dg",
+        "dl",
+        "hq",
+        "ic",
+        "ie",
+        "jq",
+        "kq",
+        "lb",
+        "lp",
+        "mb",
+        "mp",
+        "nb",
+        "np",
+        "od",
+        "of",
+        "oo",
+        "qd"
+      ],
+      "white": [
+        "bq",
+        "cb",
+        "cc",
+        "cq",
+        "dd",
+        "de",
+        "dp",
+        "ec",
+        "ef",
+        "fq",
+        "gc",
+        "kc",
+        "kf",
+        "lq",
+        "mc",
+        "me",
+        "mq",
+        "nq",
+        "op",
+        "pn",
+        "pp",
+        "qg",
+        "qj",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "jg",
+          "comment": "+Prepares the cut at L18 and helps the weak group."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "jg",
+              "comment": "+Prepares the cut at L18 and helps the weak group."
+            }
+          ],
+          "result": "+Prepares the cut at L18 and helps the weak group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 29,
+      "URL": "https://tsumego.com/14484",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "am",
+        "ao",
+        "bb",
+        "bk",
+        "bl",
+        "bn",
+        "bp",
+        "cb",
+        "cc",
+        "cj",
+        "ck",
+        "co",
+        "db",
+        "di",
+        "do",
+        "dp",
+        "ei",
+        "en",
+        "fc",
+        "fi",
+        "fo",
+        "gc",
+        "gn",
+        "go",
+        "hb",
+        "hd",
+        "hi",
+        "id",
+        "ip",
+        "iq",
+        "jd",
+        "jk",
+        "jm",
+        "kc",
+        "kd",
+        "ko",
+        "me",
+        "mo",
+        "ob",
+        "og",
+        "oj",
+        "oo",
+        "pc",
+        "pd",
+        "pe",
+        "pn",
+        "pp",
+        "qh",
+        "qm",
+        "qo",
+        "rn"
+      ],
+      "white": [
+        "ap",
+        "aq",
+        "bc",
+        "bi",
+        "bj",
+        "bm",
+        "bq",
+        "cd",
+        "cf",
+        "ch",
+        "cl",
+        "cm",
+        "cp",
+        "cq",
+        "dc",
+        "dd",
+        "dk",
+        "dm",
+        "ej",
+        "el",
+        "er",
+        "fk",
+        "fn",
+        "gm",
+        "hc",
+        "hk",
+        "hm",
+        "ia",
+        "ic",
+        "jc",
+        "jq",
+        "jr",
+        "kb",
+        "lc",
+        "mb",
+        "mj",
+        "ml",
+        "mq",
+        "ol",
+        "om",
+        "pb",
+        "pk",
+        "pm",
+        "pr",
+        "qb",
+        "qc",
+        "qd",
+        "qf",
+        "ql",
+        "rf",
+        "rm"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "qj",
+          "comment": "+White group is not alive yet, Black should make use of this. Also fixes a major weakness at Q11."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "qj",
+              "comment": "+White group is not alive yet, Black should make use of this. Also fixes a major weakness at Q11."
+            }
+          ],
+          "result": "+White group is not alive yet, Black should make use of this. Also fixes a major weakness at Q11."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 30,
+      "URL": "https://tsumego.com/14485",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cd",
+        "ch",
+        "co",
+        "dd",
+        "de",
+        "dp",
+        "ed",
+        "ef",
+        "fb",
+        "fc",
+        "fp",
+        "jq",
+        "mc",
+        "pd",
+        "qd"
+      ],
+      "white": [
+        "cg",
+        "cn",
+        "df",
+        "dn",
+        "ec",
+        "ee",
+        "fd",
+        "gc",
+        "gd",
+        "kc",
+        "po",
+        "pq",
+        "qf",
+        "qi"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "eb",
+          "comment": "Big, but the left side is much more important right now."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "dh",
+              "comment": "+White helps his weakest stones and builds a good shape. This will be of curtail importance for the fight for the left side."
+            }
+          ],
+          "result": "+White helps his weakest stones and builds a good shape. This will be of curtail importance for the fight for the left side."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 31,
+      "URL": "https://tsumego.com/14486",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cp",
+        "do",
+        "gq",
+        "lq",
+        "lr",
+        "mq",
+        "ms",
+        "nr",
+        "ob",
+        "oc",
+        "oq",
+        "pc",
+        "pe",
+        "pf",
+        "pg",
+        "pq",
+        "pr",
+        "qi",
+        "ql"
+      ],
+      "white": [
+        "ci",
+        "cl",
+        "ec",
+        "eq",
+        "lc",
+        "mp",
+        "np",
+        "nq",
+        "op",
+        "or",
+        "pb",
+        "qc",
+        "qd",
+        "qe",
+        "qf",
+        "qo",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cd",
+          "comment": "+The biggest point on the board. White shouldn't give Black a chance to efficiently use Q14 wall - now the invasion around J16 does not threaten the corner and M17 stone can easily escape."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "cd",
+              "comment": "+The biggest point on the board. White shouldn't give Black a chance to efficiently use Q14 wall - now the invasion around J16 does not threaten the corner and M17 stone can easily escape."
+            }
+          ],
+          "result": "+The biggest point on the board. White shouldn't give Black a chance to efficiently use Q14 wall - now the invasion around J16 does not threaten the corner and M17 stone can easily escape."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "id",
+              "comment": "+Neutralizes Black's wall and forms a framework on the top."
+            }
+          ],
+          "result": "+Neutralizes Black's wall and forms a framework on the top."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 32,
+      "URL": "https://tsumego.com/14487",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ck",
+        "cp",
+        "dq",
+        "fq",
+        "lq",
+        "mq",
+        "oc",
+        "oq",
+        "qd"
+      ],
+      "white": [
+        "co",
+        "dc",
+        "de",
+        "do",
+        "hq",
+        "kp",
+        "kq",
+        "lp",
+        "qp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ql",
+          "comment": "A = 4"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "pq",
+          "comment": "Big, but White can easily settle his group."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "qr",
+              "comment": "+Immediately settles Black group and gets points in sente. Otherwise White would get points in sente in the corner by himself by playing Q3."
+            }
+          ],
+          "result": "+Immediately settles Black group and gets points in sente. Otherwise White would get points in sente in the corner by himself by playing Q3."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "po",
+              "comment": "+Black pressures R4 stone to get outside influence. Importantly, this is sente and gives White not many points."
+            }
+          ],
+          "result": "+Black pressures R4 stone to get outside influence. Importantly, this is sente and gives White not many points."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 33,
+      "URL": "https://tsumego.com/14488",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ep",
+        "hp",
+        "hq",
+        "ko",
+        "lo",
+        "mp",
+        "mq",
+        "nn",
+        "np",
+        "oq",
+        "or",
+        "pd",
+        "pq",
+        "pr",
+        "qo",
+        "qp",
+        "qr",
+        "rp",
+        "rr",
+        "sq"
+      ],
+      "white": [
+        "cp",
+        "dd",
+        "iq",
+        "jq",
+        "lp",
+        "lq",
+        "mr",
+        "nq",
+        "nr",
+        "op",
+        "os",
+        "pn",
+        "po",
+        "pp",
+        "qj",
+        "qn",
+        "ro"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "kr",
+          "comment": "Too passive."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "jo",
+              "comment": "+White should keep M5 and H4 groups separated (none of them is fully settled) and help his weak group. Also, J5 by Black would have been huge as it isolates White group and simultaneously connects two weak Black's groups."
+            }
+          ],
+          "result": "+White should keep M5 and H4 groups separated (none of them is fully settled) and help his weak group. Also, J5 by Black would have been huge as it isolates White group and simultaneously connects two weak Black's groups."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 34,
+      "URL": "https://tsumego.com/14489",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "be",
+        "cf",
+        "dd",
+        "de",
+        "df",
+        "dg",
+        "ec",
+        "fd",
+        "gq",
+        "jq",
+        "op",
+        "pd",
+        "pq",
+        "qc",
+        "qf"
+      ],
+      "white": [
+        "ac",
+        "bb",
+        "bd",
+        "cb",
+        "cd",
+        "ce",
+        "db",
+        "dc",
+        "do",
+        "dq",
+        "ef",
+        "ld",
+        "nc",
+        "pb",
+        "ql",
+        "qo"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ic",
+          "comment": "Wrong direction - Black can build little points on the top side."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "cl",
+              "comment": "+Enlarges the corner and prevents a perfect extension by Black from D13 group."
+            }
+          ],
+          "result": "+Enlarges the corner and prevents a perfect extension by Black from D13 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 35,
+      "URL": "https://tsumego.com/14490",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cf",
+        "cj",
+        "dg",
+        "ec",
+        "fc",
+        "gc",
+        "gd",
+        "ge",
+        "hd",
+        "hf",
+        "ie",
+        "if",
+        "kd",
+        "kf",
+        "ne",
+        "pd",
+        "pk",
+        "po",
+        "pq"
+      ],
+      "white": [
+        "dc",
+        "dd",
+        "df",
+        "dp",
+        "ef",
+        "fd",
+        "fe",
+        "gf",
+        "gg",
+        "hc",
+        "hg",
+        "ib",
+        "id",
+        "jc",
+        "jd",
+        "jp",
+        "mc",
+        "mp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cg"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "bg",
+          "comment": "Black can sacrifice B13 stone, White gets little profit."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "cl",
+              "comment": "+Builds a nice framework for White. Black will have to spend a couple of moves fixing his weaknesses while White will be getting points."
+            }
+          ],
+          "result": "+Builds a nice framework for White. Black will have to spend a couple of moves fixing his weaknesses while White will be getting points."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 36,
+      "URL": "https://tsumego.com/14491",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cc",
+        "cl",
+        "dk",
+        "dl",
+        "dm",
+        "ec",
+        "eh",
+        "ei",
+        "en",
+        "ep",
+        "fn",
+        "fp",
+        "gk",
+        "gm",
+        "gq",
+        "jd",
+        "jp",
+        "kl",
+        "ko",
+        "kq",
+        "kr",
+        "le",
+        "lp",
+        "lr",
+        "mb",
+        "mc",
+        "md",
+        "mh",
+        "mo",
+        "mp",
+        "mq",
+        "ni",
+        "nj",
+        "no",
+        "ob",
+        "oj",
+        "oo",
+        "pd",
+        "pj",
+        "pp",
+        "qd",
+        "qe",
+        "qk",
+        "qp",
+        "rk"
+      ],
+      "white": [
+        "bl",
+        "bn",
+        "cb",
+        "cd",
+        "cj",
+        "ck",
+        "cm",
+        "dc",
+        "de",
+        "dg",
+        "dh",
+        "dn",
+        "do",
+        "dp",
+        "dq",
+        "go",
+        "hn",
+        "hp",
+        "hq",
+        "ij",
+        "il",
+        "jn",
+        "jo",
+        "kn",
+        "lc",
+        "mr",
+        "nc",
+        "nd",
+        "ne",
+        "ng",
+        "nh",
+        "np",
+        "nq",
+        "nr",
+        "oi",
+        "pe",
+        "pf",
+        "pi",
+        "pq",
+        "qh",
+        "qj",
+        "qq",
+        "rj"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "rq",
+          "comment": "+Sente move, worth a lot of points."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "rq",
+              "comment": "+Sente move, worth a lot of points."
+            }
+          ],
+          "result": "+Sente move, worth a lot of points."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 37,
+      "URL": "https://tsumego.com/14492",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cf",
+        "de",
+        "gf",
+        "lq",
+        "mo",
+        "mq",
+        "np",
+        "oq",
+        "pd",
+        "pj",
+        "pn",
+        "pp"
+      ],
+      "white": [
+        "cd",
+        "ce",
+        "dc",
+        "dj",
+        "dp",
+        "fc",
+        "mp",
+        "nq",
+        "nr",
+        "or",
+        "pr",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "lp",
+          "captured": [
+            "mp"
+          ],
+          "captures": 1,
+          "comment": "Too passive."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "gj",
+              "comment": "+Black should start forming large-scale moyo, simultaneously pressuring D10 stone. This move also keeps the ladder working for Black."
+            }
+          ],
+          "result": "+Black should start forming large-scale moyo, simultaneously pressuring D10 stone. This move also keeps the ladder working for Black."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 38,
+      "URL": "https://tsumego.com/14493",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "jd",
+        "pd",
+        "pk",
+        "pq"
+      ],
+      "white": [
+        "ci",
+        "cq",
+        "dc",
+        "jp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "lp",
+          "comment": "Big, but White is one step ahead with his K4 stone."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "dp",
+              "comment": "+Keeps White's territory well controlled, emphasizing that C3 is not very well placed for such kind of positions. As an alternative, D16 is good as well."
+            }
+          ],
+          "result": "+Keeps White's territory well controlled, emphasizing that C3 is not very well placed for such kind of positions. As an alternative, D16 is good as well."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 39,
+      "URL": "https://tsumego.com/14494",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ci",
+        "cp",
+        "dn",
+        "jc",
+        "od",
+        "pj",
+        "qd"
+      ],
+      "white": [
+        "cd",
+        "cg",
+        "ec",
+        "eq",
+        "hp",
+        "nq",
+        "qp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ei",
+          "comment": "Not the largest point on the board."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "qn",
+              "comment": "+Perfect extension for Black, which controls White's corner as well."
+            }
+          ],
+          "result": "+Perfect extension for Black, which controls White's corner as well."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fc",
+              "comment": "+Strengthens K17 stone and build some territory by attaching to an already strong group. Indirectly makes N17 invasion by White less efficient."
+            }
+          ],
+          "result": "+Strengthens K17 stone and build some territory by attaching to an already strong group. Indirectly makes N17 invasion by White less efficient."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 40,
+      "URL": "https://tsumego.com/14495",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bq",
+        "co",
+        "cq",
+        "de",
+        "dg",
+        "dm",
+        "dn",
+        "dp",
+        "ec",
+        "ef",
+        "eg",
+        "eh",
+        "ei",
+        "ej",
+        "ek",
+        "em",
+        "ep",
+        "fl",
+        "fm",
+        "gk",
+        "ic",
+        "iq",
+        "op",
+        "qp"
+      ],
+      "white": [
+        "br",
+        "cd",
+        "ce",
+        "cf",
+        "ck",
+        "cm",
+        "cn",
+        "cr",
+        "df",
+        "dl",
+        "dq",
+        "el",
+        "eq",
+        "fg",
+        "fh",
+        "fi",
+        "fj",
+        "fk",
+        "fp",
+        "gp",
+        "hr",
+        "oc",
+        "qd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ir",
+          "comment": "Small and passive."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "bh",
+              "comment": "+White must help his C9 group. Black can cut, but C9 will be alive and C16 group can live in the corner."
+            }
+          ],
+          "result": "+White must help his C9 group. Black can cut, but C9 will be alive and C16 group can live in the corner."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 41,
+      "URL": "https://tsumego.com/14496",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ce",
+        "cj",
+        "cm",
+        "eo",
+        "eq",
+        "nq",
+        "oc",
+        "pq",
+        "qd",
+        "qo",
+        "qp"
+      ],
+      "white": [
+        "cc",
+        "co",
+        "cq",
+        "ed",
+        "jc",
+        "pm",
+        "po",
+        "qf",
+        "qi",
+        "qn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "dn",
+          "comment": "C3 group is alive and there is no hurry in running out - there are some urgent points on the board."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "df",
+              "comment": "+White is first to play in the region of mutual interest for enlarging territory. Imagine Black playing in this region first."
+            }
+          ],
+          "result": "+White is first to play in the region of mutual interest for enlarging territory. Imagine Black playing in this region first."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 42,
+      "URL": "https://tsumego.com/14497",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cd",
+        "cl",
+        "co",
+        "de",
+        "do",
+        "jq",
+        "kq",
+        "mr",
+        "nq",
+        "oq",
+        "pm",
+        "pp",
+        "pq",
+        "qi",
+        "ql",
+        "qp",
+        "rl"
+      ],
+      "white": [
+        "bp",
+        "cg",
+        "cj",
+        "cp",
+        "ec",
+        "eq",
+        "kp",
+        "mp",
+        "oc",
+        "op",
+        "po",
+        "qm",
+        "qo",
+        "qq",
+        "rn",
+        "rp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "qr",
+          "comment": "+Large and immediately settles Q5 group."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "qr",
+              "comment": "+Large and immediately settles Q5 group."
+            }
+          ],
+          "result": "+Large and immediately settles Q5 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 43,
+      "URL": "https://tsumego.com/14498",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "fq",
+        "ko",
+        "kp",
+        "kq",
+        "lq",
+        "on",
+        "pd",
+        "pn",
+        "qh",
+        "qo",
+        "qp"
+      ],
+      "white": [
+        "dd",
+        "dn",
+        "dp",
+        "ln",
+        "lo",
+        "lp",
+        "np",
+        "ol",
+        "qj",
+        "qm",
+        "qn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "nl"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "nm"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "pl"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ok"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "pm"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "oi",
+          "comment": "Black's attack fails."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "pk",
+              "comment": "+Puts pressure on R7 group and helps Black's Q6 group. White will have two relatively weak groups while Black has only one."
+            }
+          ],
+          "result": "+Puts pressure on R7 group and helps Black's Q6 group. White will have two relatively weak groups while Black has only one."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 44,
+      "URL": "https://tsumego.com/14499",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ce",
+        "db",
+        "dc",
+        "ed",
+        "ke",
+        "kq",
+        "mc",
+        "me",
+        "od",
+        "op",
+        "pc",
+        "pq",
+        "qc"
+      ],
+      "white": [
+        "cp",
+        "ec",
+        "fc",
+        "kc",
+        "lg",
+        "nf",
+        "pf",
+        "qd",
+        "ql",
+        "qo",
+        "rb",
+        "rc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "fd"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "hd",
+          "comment": "White is surrounded by many Black stones - he does not have time to play F16."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "ic",
+              "comment": "+White must help his F17 and L17 stones, surrounded by Black."
+            }
+          ],
+          "result": "+White must help his F17 and L17 stones, surrounded by Black."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 46,
+      "URL": "https://tsumego.com/14520",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cp",
+        "do",
+        "hc",
+        "jp",
+        "kc",
+        "kp",
+        "kq",
+        "nq",
+        "pc",
+        "pf",
+        "pg",
+        "qb",
+        "qc",
+        "qd"
+      ],
+      "white": [
+        "cm",
+        "de",
+        "eq",
+        "iq",
+        "jq",
+        "ke",
+        "nd",
+        "oc",
+        "of",
+        "pb",
+        "pd",
+        "pq",
+        "qn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "eo",
+          "comment": "A = 4"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "dm",
+          "comment": "There is no need in playing contactly - invasion at G3 is still possible and White looses some useful options of playing around C7 stone in the future."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "gp",
+              "comment": "+White should strengthen his weakest group. Playing at B directly makes a good shapes and leaves White more options on how to play in the lower left corner later. J4 is also a good move."
+            }
+          ],
+          "result": "+White should strengthen his weakest group. Playing at B directly makes a good shapes and leaves White more options on how to play in the lower left corner later. J4 is also a good move."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "dc"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "gq",
+              "comment": "+D17 is huge -  takes the corner and puts pressure on H17 group. However, White should be very careful in the fight on the bottom side."
+            }
+          ],
+          "result": "+D17 is huge -  takes the corner and puts pressure on H17 group. However, White should be very careful in the fight on the bottom side."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 47,
+      "URL": "https://tsumego.com/14521",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bc",
+        "bp",
+        "cb",
+        "ck",
+        "cn",
+        "dc",
+        "eb",
+        "ec",
+        "fc",
+        "iq",
+        "jc",
+        "je",
+        "jp",
+        "kn",
+        "kp",
+        "le",
+        "oc",
+        "on",
+        "oo",
+        "oq",
+        "pd",
+        "pq",
+        "qg",
+        "qo",
+        "qr"
+      ],
+      "white": [
+        "cc",
+        "cd",
+        "cf",
+        "ci",
+        "cq",
+        "dd",
+        "dp",
+        "ed",
+        "fd",
+        "fp",
+        "gc",
+        "hc",
+        "io",
+        "jb",
+        "kq",
+        "lc",
+        "lo",
+        "lp",
+        "mm",
+        "no",
+        "nq",
+        "or",
+        "pr",
+        "qi",
+        "ql"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "jn",
+          "comment": "+Good shape."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "jn",
+              "comment": "+Good shape."
+            }
+          ],
+          "result": "+Good shape."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "in",
+              "comment": "+Good shape - White is not strong enough to cut through."
+            }
+          ],
+          "result": "+Good shape - White is not strong enough to cut through."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 48,
+      "URL": "https://tsumego.com/14522",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "al",
+        "bm",
+        "cf",
+        "ci",
+        "cl",
+        "cm",
+        "df",
+        "dr",
+        "fq",
+        "gp",
+        "hn",
+        "ho",
+        "hq",
+        "hr",
+        "in",
+        "jm",
+        "ko",
+        "kp",
+        "kq",
+        "lc",
+        "lq",
+        "ng",
+        "oi",
+        "oj",
+        "om",
+        "on",
+        "oo",
+        "op",
+        "oq",
+        "pd",
+        "pi",
+        "pn",
+        "pr",
+        "qf",
+        "qg",
+        "qh",
+        "qo",
+        "qp",
+        "ro",
+        "rq",
+        "rs",
+        "sr"
+      ],
+      "white": [
+        "bj",
+        "bk",
+        "bl",
+        "ce",
+        "ck",
+        "dd",
+        "dk",
+        "dn",
+        "dp",
+        "fd",
+        "hp",
+        "io",
+        "ip",
+        "iq",
+        "ir",
+        "jc",
+        "jn",
+        "jo",
+        "kn",
+        "ll",
+        "ln",
+        "lo",
+        "lp",
+        "nl",
+        "np",
+        "nq",
+        "ok",
+        "ol",
+        "or",
+        "pg",
+        "ph",
+        "pj",
+        "pm",
+        "po",
+        "pp",
+        "pq",
+        "qi",
+        "qj",
+        "qk",
+        "qm",
+        "qn",
+        "qq",
+        "rl",
+        "rm",
+        "rr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "el"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "dl"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "dm"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "em"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "co"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "fm",
+          "comment": "The cut is not as effective as it can be."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "em"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "dm"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "dl"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "el"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "co",
+              "comment": "+Black can cut through before playing the vital point. This puts more pressure on White."
+            }
+          ],
+          "result": "+Black can cut through before playing the vital point. This puts more pressure on White."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 49,
+      "URL": "https://tsumego.com/14523",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "dr",
+        "fq",
+        "gd",
+        "iq",
+        "jd",
+        "kc",
+        "ki",
+        "lh",
+        "mb",
+        "mh",
+        "ne",
+        "nf",
+        "ng",
+        "nm",
+        "od",
+        "oi",
+        "om",
+        "op",
+        "pd",
+        "pe",
+        "pf",
+        "pi",
+        "pk",
+        "pl",
+        "pp",
+        "qe",
+        "qg",
+        "qi",
+        "qo",
+        "qp",
+        "rf",
+        "ri",
+        "ro"
+      ],
+      "white": [
+        "cn",
+        "cq",
+        "dd",
+        "dp",
+        "kf",
+        "md",
+        "me",
+        "mf",
+        "mg",
+        "mi",
+        "nb",
+        "nd",
+        "nh",
+        "ni",
+        "nj",
+        "nq",
+        "oc",
+        "of",
+        "ok",
+        "ol",
+        "pc",
+        "pg",
+        "ph",
+        "pj",
+        "pm",
+        "pq",
+        "qj",
+        "qn",
+        "qq",
+        "rd",
+        "rp",
+        "rq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "rk"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "qk",
+          "comment": "Why giving up Q9 stones?"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "pn"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "qm"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "oj"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "qk"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "nk"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "ql",
+              "captured": [
+                "pl",
+                "pk"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "nl",
+              "comment": "+Unlike the D option, Black has better shape. See also variation when White sacrifices Q10 stones."
+            }
+          ],
+          "result": "+Unlike the D option, Black has better shape. See also variation when White sacrifices Q10 stones."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "pn"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "qm"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "oj"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ml"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qk"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "mm",
+              "comment": "Next move imitates playing not in the lower-right region of the board."
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "jj"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "no"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "np",
+              "comment": "+Unlike the C option, Black can safely cut through. See also variations for the case when White captures Q9 stones."
+            }
+          ],
+          "result": "+Unlike the C option, Black can safely cut through. See also variations for the case when White captures Q9 stones."
+        }
+      ],
+      "totalVariations": 6,
+      "totalSolutions": 2
+    },
+    {
+      "id": 50,
+      "URL": "https://tsumego.com/14524",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "fc",
+        "fd",
+        "fq",
+        "ic",
+        "ie",
+        "jp",
+        "jq",
+        "me",
+        "nd",
+        "nl",
+        "nn",
+        "np",
+        "nr",
+        "oc",
+        "od",
+        "oi",
+        "ol",
+        "pd",
+        "pf",
+        "pp",
+        "pq",
+        "qc",
+        "qi",
+        "qo",
+        "qp"
+      ],
+      "white": [
+        "ci",
+        "cn",
+        "dd",
+        "df",
+        "dp",
+        "ec",
+        "kc",
+        "kn",
+        "ld",
+        "lo",
+        "lq",
+        "md",
+        "nb",
+        "nc",
+        "ne",
+        "nf",
+        "nk",
+        "ob",
+        "ok",
+        "or",
+        "pn",
+        "qk",
+        "qn",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "lk",
+          "comment": "Leaves too many weaknesses."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "pl",
+              "comment": "+White stabilizes his group. Having two weak groups (Q8 and M5) nearby would have been troublesome."
+            }
+          ],
+          "result": "+White stabilizes his group. Having two weak groups (Q8 and M5) nearby would have been troublesome."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 51,
+      "URL": "https://tsumego.com/14525",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "nd",
+        "nm",
+        "ok",
+        "ol",
+        "oq",
+        "pm",
+        "pn",
+        "pq",
+        "pr",
+        "qd",
+        "qm",
+        "qo",
+        "qp",
+        "qs",
+        "ro",
+        "rp",
+        "rq",
+        "rr"
+      ],
+      "white": [
+        "cq",
+        "dd",
+        "np",
+        "nq",
+        "op",
+        "or",
+        "pj",
+        "pl",
+        "po",
+        "pp",
+        "ql",
+        "qn",
+        "rm",
+        "rn",
+        "so"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "jp"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "qh",
+          "comment": "Playable - K4 is very big and helps O4 group. However, Black will get more profit by attacking R6 group."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "qh",
+              "comment": "+Forms a shape, strengthens weak group, and approaches Black's corner. White's O4 group has enough space to run out or build eyes."
+            }
+          ],
+          "result": "+Forms a shape, strengthens weak group, and approaches Black's corner. White's O4 group has enough space to run out or build eyes."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 52,
+      "URL": "https://tsumego.com/14526",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cj",
+        "cp",
+        "ej",
+        "eq",
+        "fm",
+        "gk",
+        "jq",
+        "kq",
+        "lc",
+        "ld",
+        "md",
+        "od",
+        "pd",
+        "qd",
+        "qj",
+        "rd"
+      ],
+      "white": [
+        "cd",
+        "ch",
+        "cl",
+        "el",
+        "fc",
+        "ip",
+        "jp",
+        "mc",
+        "nc",
+        "oc",
+        "pc",
+        "po",
+        "pq",
+        "qc",
+        "rc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cn",
+          "comment": "White C8 stones are still in trouble."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "lo",
+              "comment": "+If Black responds at A to help his stones, White has time to help C8 stones by playing C5 or B10. Later playing B is huge. If Black ignores M5 and plays something like B11, White can play C5 - there are many weaknesses inside that White can use to efficiently reduce Black's territory or run away."
+            }
+          ],
+          "result": "+If Black responds at A to help his stones, White has time to help C8 stones by playing C5 or B10. Later playing B is huge. If Black ignores M5 and plays something like B11, White can play C5 - there are many weaknesses inside that White can use to efficiently reduce Black's territory or run away."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 53,
+      "URL": "https://tsumego.com/14527",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "fo",
+        "fq",
+        "ho",
+        "kp",
+        "pd",
+        "pf",
+        "pq",
+        "qc",
+        "qk"
+      ],
+      "white": [
+        "cc",
+        "dn",
+        "dp",
+        "eq",
+        "fm",
+        "ip",
+        "kc",
+        "nc",
+        "pb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "fr",
+          "comment": "+ J4 is very weak, hence Black can play activly. F2 strengthens Black stones, weakens J4, and prepares to invade White's corner."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fr",
+              "comment": "+ J4 is very weak, hence Black can play activly. F2 strengthens Black stones, weakens J4, and prepares to invade White's corner."
+            }
+          ],
+          "result": "+ J4 is very weak, hence Black can play activly. F2 strengthens Black stones, weakens J4, and prepares to invade White's corner."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 54,
+      "URL": "https://tsumego.com/14528",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cj",
+        "co",
+        "fc",
+        "nf",
+        "ng",
+        "nh",
+        "od",
+        "oh",
+        "pi",
+        "qd",
+        "qj"
+      ],
+      "white": [
+        "dd",
+        "dq",
+        "og",
+        "oi",
+        "op",
+        "pf",
+        "ph",
+        "qg",
+        "qh",
+        "ql",
+        "qp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "pj"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "qi"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "pk",
+          "comment": "+ White solves his problems by capturing Black's stones."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "pj"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "qi"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "pk",
+              "comment": "+ White solves his problems by capturing Black's stones."
+            }
+          ],
+          "result": "+ White solves his problems by capturing Black's stones."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 55,
+      "URL": "https://tsumego.com/14529",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "oc",
+        "od",
+        "po",
+        "pq",
+        "qd"
+      ],
+      "white": [
+        "cd",
+        "do",
+        "dq",
+        "nc",
+        "nd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "lc"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ne"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "pg"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "jc",
+          "comment": "Black should aim at more points. Too meek."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed",
+              "comment": "+ Large move, making O15 more efficient."
+            }
+          ],
+          "result": "+ Large move, making O15 more efficient."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ne"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "me"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "mf"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "le"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "lf"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "ke",
+              "comment": "+ Black pressures White and builds a strong moyo / framework. Further, Black should approach C16 stone."
+            }
+          ],
+          "result": "+ Black pressures White and builds a strong moyo / framework. Further, Black should approach C16 stone."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 56,
+      "URL": "https://tsumego.com/14530",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ci",
+        "dc",
+        "do",
+        "dq",
+        "jc",
+        "nc",
+        "nd"
+      ],
+      "white": [
+        "ce",
+        "gc",
+        "oc",
+        "pd",
+        "pp",
+        "qf"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ed",
+          "comment": "+ The only move: weakens D17, strengthens two White stones, and isolates Black in the corner."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "ed",
+              "comment": "+ The only move: weakens D17, strengthens two White stones, and isolates Black in the corner."
+            }
+          ],
+          "result": "+ The only move: weakens D17, strengthens two White stones, and isolates Black in the corner."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 57,
+      "URL": "https://tsumego.com/14531",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cn",
+        "cp",
+        "cq",
+        "cr",
+        "dr",
+        "fq",
+        "nc",
+        "ol",
+        "om",
+        "on",
+        "op",
+        "pd",
+        "pm",
+        "pq",
+        "ql"
+      ],
+      "white": [
+        "dd",
+        "do",
+        "dp",
+        "dq",
+        "eq",
+        "er",
+        "fc",
+        "hq",
+        "pk",
+        "pl",
+        "pn",
+        "qk",
+        "qm",
+        "qo",
+        "rm",
+        "rn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "cm",
+          "comment": "Very slow and passive."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "jq",
+              "comment": "+ Black pressures White group and strengthens his influence on the bottom. If Black manages to play F2, White has no base."
+            }
+          ],
+          "result": "+ Black pressures White group and strengthens his influence on the bottom. If Black manages to play F2, White has no base."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 58,
+      "URL": "https://tsumego.com/14532",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ce",
+        "df",
+        "oc",
+        "pq",
+        "qd",
+        "qo"
+      ],
+      "white": [
+        "ch",
+        "dc",
+        "dp",
+        "fd",
+        "qh",
+        "qk"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bc",
+          "comment": "+ Immediately stabilizes Black and gets points. If White plays her first, Black would be in big trouble."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bc",
+              "comment": "+ Immediately stabilizes Black and gets points. If White plays her first, Black would be in big trouble."
+            }
+          ],
+          "result": "+ Immediately stabilizes Black and gets points. If White plays her first, Black would be in big trouble."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 59,
+      "URL": "https://tsumego.com/14533",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cn",
+        "cp",
+        "cq",
+        "cr",
+        "dr",
+        "fq",
+        "hp",
+        "ip",
+        "jn",
+        "jp",
+        "jq",
+        "km",
+        "ln",
+        "lq",
+        "nl",
+        "oi",
+        "pd",
+        "pl",
+        "pm",
+        "pn",
+        "po",
+        "pp",
+        "pq",
+        "qh",
+        "qj",
+        "qk"
+      ],
+      "white": [
+        "dd",
+        "do",
+        "dp",
+        "dq",
+        "eq",
+        "er",
+        "gq",
+        "hq",
+        "iq",
+        "jm",
+        "kn",
+        "ko",
+        "lm",
+        "lp",
+        "mp",
+        "nj",
+        "nq",
+        "ok",
+        "pk",
+        "qf",
+        "ql",
+        "qm",
+        "qn",
+        "qo",
+        "qp",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "mk"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "kl",
+          "captured": [
+            "km"
+          ],
+          "captures": 1,
+          "comment": "Helps only one group, hence Inefficient. Black's J4 group is in trouble."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "kl",
+              "comment": "+ The only move.White's N3 group is not alive yet, M8 will help Q6 group to escape, when needed, and Black has time to save his H4 group."
+            }
+          ],
+          "result": "+ The only move.White's N3 group is not alive yet, M8 will help Q6 group to escape, when needed, and Black has time to save his H4 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 60,
+      "URL": "https://tsumego.com/14534",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cf",
+        "cj",
+        "ej",
+        "hq",
+        "pd",
+        "pf",
+        "pj",
+        "pq",
+        "qc",
+        "qo"
+      ],
+      "white": [
+        "cl",
+        "dd",
+        "dp",
+        "fd",
+        "fq",
+        "jp",
+        "kc",
+        "mp",
+        "nc",
+        "pb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "pm",
+          "comment": "Wrong direction of play. The game around weak stones is more important."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ho",
+              "comment": "+ Black strengthens his stone, ruins White's territory, and prepares to attack White's two stones."
+            }
+          ],
+          "result": "+ Black strengthens his stone, ruins White's territory, and prepares to attack White's two stones."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 61,
+      "URL": "https://tsumego.com/14535",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ci",
+        "cn",
+        "co",
+        "dc",
+        "de",
+        "dq",
+        "dr",
+        "ec",
+        "ee",
+        "en",
+        "eo",
+        "fe",
+        "fi",
+        "ic",
+        "nq",
+        "qd",
+        "qq"
+      ],
+      "white": [
+        "cc",
+        "cd",
+        "ce",
+        "cg",
+        "cm",
+        "df",
+        "dm",
+        "em",
+        "ep",
+        "eq",
+        "fd",
+        "gm",
+        "hp",
+        "kq",
+        "oc",
+        "qp",
+        "rq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "pq",
+          "comment": "+ Black strengthens his weakest group, and highlights White's weakness with S3 and R4 stones."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "pq",
+              "comment": "+ Black strengthens his weakest group, and highlights White's weakness with S3 and R4 stones."
+            }
+          ],
+          "result": "+ Black strengthens his weakest group, and highlights White's weakness with S3 and R4 stones."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 62,
+      "URL": "https://tsumego.com/14536",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ci",
+        "fc",
+        "fd",
+        "ge",
+        "hc",
+        "he",
+        "hp",
+        "kp",
+        "ob",
+        "od",
+        "pc",
+        "pf",
+        "pg",
+        "ph",
+        "pj",
+        "pk",
+        "pm",
+        "pq",
+        "qd",
+        "qo",
+        "qp"
+      ],
+      "white": [
+        "cd",
+        "co",
+        "dq",
+        "ec",
+        "ed",
+        "fe",
+        "gc",
+        "gd",
+        "jc",
+        "jd",
+        "mj",
+        "nb",
+        "nc",
+        "nd",
+        "nm",
+        "np",
+        "oc",
+        "oe",
+        "og",
+        "ok",
+        "po"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ff",
+          "comment": "Black can sacrifice F17 stones more efficiently."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fb",
+              "comment": "Best move. Black unites his weak stones into one group by capturing two White stones, and highlights White's aji around the corner."
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "gb",
+              "comment": "+ Now all of the marked moves are sente moves. Efficient sacrifice, helping to strengthen weak H15 group."
+            }
+          ],
+          "result": "+ Now all of the marked moves are sente moves. Efficient sacrifice, helping to strengthen weak H15 group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 63,
+      "URL": "https://tsumego.com/14541",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cl",
+        "cp",
+        "ep",
+        "mq",
+        "nd",
+        "oq",
+        "pe",
+        "pq",
+        "qd"
+      ],
+      "white": [
+        "cj",
+        "dd",
+        "df",
+        "mc",
+        "np",
+        "oc",
+        "op",
+        "qi",
+        "qo"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "mp",
+          "comment": "+ The point of mutual interest for both sides for forming moyos."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "mp",
+              "comment": "+ The point of mutual interest for both sides for forming moyos."
+            }
+          ],
+          "result": "+ The point of mutual interest for both sides for forming moyos."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 64,
+      "URL": "https://tsumego.com/14538",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ce",
+        "cj",
+        "cn",
+        "cq",
+        "de",
+        "dg",
+        "dq",
+        "eq",
+        "fr",
+        "gr",
+        "nc",
+        "nq",
+        "pq",
+        "qd",
+        "qo",
+        "qp"
+      ],
+      "white": [
+        "cd",
+        "co",
+        "cp",
+        "dc",
+        "eo",
+        "ep",
+        "fd",
+        "fo",
+        "fq",
+        "gp",
+        "hp",
+        "pm",
+        "po",
+        "qf",
+        "qi",
+        "qn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cl",
+          "comment": "Small."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "ic",
+              "comment": "+.White strengthens the weakness around E17 and prepares to attack Black's shimari."
+            }
+          ],
+          "result": "+.White strengthens the weakness around E17 and prepares to attack Black's shimari."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "lc",
+              "comment": "+ Leaves E17 weakness, but, with the support from R14 stone, aggressively approaches Black's corner."
+            }
+          ],
+          "result": "+ Leaves E17 weakness, but, with the support from R14 stone, aggressively approaches Black's corner."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 65,
+      "URL": "https://tsumego.com/14540",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ec",
+        "eq",
+        "fp",
+        "pc",
+        "pd",
+        "pf",
+        "qe",
+        "qo"
+      ],
+      "white": [
+        "cd",
+        "cp",
+        "do",
+        "ng",
+        "oc",
+        "od",
+        "oe",
+        "pq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ic",
+          "comment": "+ Classic move that reinforces Black's weak stone and realises keshi - damping the influence of White's wall on the right, without approaching too close."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ic",
+              "comment": "+ Classic move that reinforces Black's weak stone and realises keshi - damping the influence of White's wall on the right, without approaching too close."
+            }
+          ],
+          "result": "+ Classic move that reinforces Black's weak stone and realises keshi - damping the influence of White's wall on the right, without approaching too close."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 66,
+      "URL": "https://tsumego.com/14542",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "je",
+        "kc",
+        "kd",
+        "kf",
+        "lc",
+        "pq",
+        "qd"
+      ],
+      "white": [
+        "ec",
+        "jf",
+        "ke",
+        "ld",
+        "le",
+        "md",
+        "oc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "kg",
+          "comment": "Bad choice, Black has too many weaknesses to play actively."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ie",
+              "comment": "+ Builds good shape to protect Black's weakness. G17 may be next Black's move. Black cannot allow this group to be weak."
+            }
+          ],
+          "result": "+ Builds good shape to protect Black's weakness. G17 may be next Black's move. Black cannot allow this group to be weak."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 67,
+      "URL": "https://tsumego.com/14543",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "cq",
+        "db",
+        "dp",
+        "fc",
+        "fp",
+        "ic",
+        "id",
+        "jd",
+        "jq",
+        "np",
+        "oq",
+        "pc",
+        "pe",
+        "pg",
+        "pq",
+        "qd",
+        "ql"
+      ],
+      "white": [
+        "bp",
+        "cc",
+        "cf",
+        "cn",
+        "dd",
+        "dl",
+        "jc",
+        "kc",
+        "kd",
+        "lq",
+        "nf",
+        "oc",
+        "od",
+        "pp",
+        "qn",
+        "qq"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "pl",
+          "comment": "Good idea to strengthen White's corner group, but creates more local weaknesses and helps Black to build points as well."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "qr",
+              "comment": "+ Stabilizes White's group, gains points, and highlights aji around stones R8 and M3."
+            }
+          ],
+          "result": "+ Stabilizes White's group, gains points, and highlights aji around stones R8 and M3."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 68,
+      "URL": "https://tsumego.com/14544",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bd",
+        "bf",
+        "bg",
+        "bh",
+        "ci",
+        "cj",
+        "cl",
+        "dr",
+        "eh",
+        "fq",
+        "hc",
+        "he",
+        "hg",
+        "hh",
+        "hi",
+        "hr",
+        "ie",
+        "iq",
+        "jo",
+        "jp",
+        "ko",
+        "ln",
+        "mc",
+        "mf",
+        "mo",
+        "oc",
+        "od",
+        "pd",
+        "pf",
+        "pp",
+        "pq",
+        "qd",
+        "ql",
+        "re"
+      ],
+      "white": [
+        "ce",
+        "cf",
+        "cg",
+        "ch",
+        "cn",
+        "cq",
+        "cr",
+        "dd",
+        "di",
+        "dp",
+        "fc",
+        "ig",
+        "ih",
+        "ii",
+        "ir",
+        "jd",
+        "je",
+        "jf",
+        "jr",
+        "kc",
+        "kp",
+        "kq",
+        "lo",
+        "mh",
+        "nq",
+        "or",
+        "pc",
+        "qc",
+        "qg",
+        "qj",
+        "rc",
+        "rd",
+        "rf",
+        "se"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "cc",
+          "comment": "+ Black gains points and leaves White baseless to pressure later."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "cc",
+              "comment": "+ Black gains points and leaves White baseless to pressure later."
+            }
+          ],
+          "result": "+ Black gains points and leaves White baseless to pressure later."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 69,
+      "URL": "https://tsumego.com/14545",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "dd",
+        "dj",
+        "ke",
+        "le",
+        "lh",
+        "me",
+        "mg",
+        "mi",
+        "nc",
+        "nd",
+        "nf",
+        "nh",
+        "of",
+        "oh",
+        "oj",
+        "pe",
+        "ph",
+        "pk",
+        "qe",
+        "qh",
+        "qi",
+        "qk",
+        "rf"
+      ],
+      "white": [
+        "dp",
+        "lf",
+        "mf",
+        "ne",
+        "ni",
+        "nj",
+        "od",
+        "oe",
+        "oi",
+        "pc",
+        "pf",
+        "pg",
+        "pj",
+        "pp",
+        "qd",
+        "qj",
+        "ql",
+        "rc",
+        "re",
+        "ri",
+        "rk",
+        "sd",
+        "sj"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cc",
+          "comment": "Big move, but it only helps Black to finish his large moyo - at this point, not the best choice."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "fc",
+              "comment": "+ White should invade Black's moyo while this is still possible."
+            }
+          ],
+          "result": "+ White should invade Black's moyo while this is still possible."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 70,
+      "URL": "https://tsumego.com/14546",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ce",
+        "cn",
+        "cp",
+        "dq",
+        "hc",
+        "kc",
+        "pb",
+        "po",
+        "qd",
+        "qe",
+        "qg",
+        "qh",
+        "qo"
+      ],
+      "white": [
+        "cl",
+        "dc",
+        "ep",
+        "eq",
+        "oc",
+        "oe",
+        "pf",
+        "ph",
+        "pi",
+        "pq",
+        "qi",
+        "qp"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "nq",
+          "comment": "+White could be more active (B) if they wanted, but this is also an equally good move according to Katago. White's group is solid."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "nq",
+              "comment": "+White could be more active (B) if they wanted, but this is also an equally good move according to Katago. White's group is solid."
+            }
+          ],
+          "result": "+White could be more active (B) if they wanted, but this is also an equally good move according to Katago. White's group is solid."
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "np",
+              "comment": "+ Allows White to gain more points and pressure Black's group more actively. White has many stones nearby for this purpose."
+            }
+          ],
+          "result": "+ Allows White to gain more points and pressure Black's group more actively. White has many stones nearby for this purpose."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 71,
+      "URL": "https://tsumego.com/14547",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ep",
+        "fm",
+        "fq",
+        "om",
+        "on",
+        "pd",
+        "pl",
+        "po",
+        "pp",
+        "pq",
+        "ql",
+        "qq",
+        "rm",
+        "rn",
+        "rq"
+      ],
+      "white": [
+        "cp",
+        "dd",
+        "dq",
+        "eq",
+        "no",
+        "nq",
+        "oo",
+        "pn",
+        "qk",
+        "qn",
+        "rj",
+        "rl",
+        "rp",
+        "rr",
+        "sk"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "hq",
+          "comment": "Inefficient - White's O3 group can easily stabilise. Black could earn much more by attacking."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "kq",
+              "comment": "+ Supports Black's weaknesses on the left, while pressuring weak White's group."
+            }
+          ],
+          "result": "+ Supports Black's weaknesses on the left, while pressuring weak White's group."
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    }
+  ],
+  "errores": 0
+}
