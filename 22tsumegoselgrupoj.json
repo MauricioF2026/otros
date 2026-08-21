@@ -1,0 +1,1691 @@
+{
+  "total": 22,
+  "problems": [
+    {
+      "id": 1,
+      "URL": "https://tsumego.com/15292",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "bc",
+        "be",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "ce",
+        "cg",
+        "db",
+        "dc",
+        "dd",
+        "de"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "bb"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "cb"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "aa",
+          "captured": [
+            "ba"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ab"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ac",
+          "captured": [
+            "ab"
+          ],
+          "captures": 1,
+          "comment": "+You take first and the whole group hang in balance !"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "bb"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "cb"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "ca"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "ba"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "aa",
+              "captured": [
+                "ba"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 6,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 7,
+              "color": "W",
+              "coord": "ac",
+              "captured": [
+                "ab"
+              ],
+              "captures": 1,
+              "comment": "+You take first and the whole group hang in balance !"
+            }
+          ],
+          "result": "+You take first and the whole group hang in balance !"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "af"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "ae"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "bb"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "cb"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "ca"
+            },
+            {
+              "number": 6,
+              "color": "B",
+              "coord": "ba"
+            },
+            {
+              "number": 7,
+              "color": "W",
+              "coord": "aa",
+              "captured": [
+                "ba"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 8,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 9,
+              "color": "W",
+              "coord": "ac",
+              "captured": [
+                "ab"
+              ],
+              "captures": 1,
+              "comment": "+You take first and the whole group hang in balance !"
+            }
+          ],
+          "result": "+You take first and the whole group hang in balance !"
+        }
+      ],
+      "totalVariations": 6,
+      "totalSolutions": 2
+    },
+    {
+      "id": 2,
+      "URL": "https://tsumego.com/15293",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "bb",
+        "be",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "ce",
+        "cg",
+        "db",
+        "dc",
+        "dd",
+        "de"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "bd",
+          "comment": "Good job. Remember this pattern: Sagari - Placement - Throw in"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 9,
+      "totalSolutions": 0
+    },
+    {
+      "id": 3,
+      "URL": "https://tsumego.com/15294",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "ba",
+        "be",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "ce",
+        "cg",
+        "db",
+        "dc",
+        "dd",
+        "de"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "cb"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "bd"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 8,
+      "totalSolutions": 0
+    },
+    {
+      "id": 4,
+      "URL": "https://tsumego.com/15295",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cg",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "bd",
+          "comment": "Well done. Killing combo : Placement / Hane, Sagari, Throw in"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 9,
+      "totalSolutions": 0
+    },
+    {
+      "id": 5,
+      "URL": "https://tsumego.com/15296",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "ce",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "af"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "bh"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ag"
+        },
+        {
+          "number": 8,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 9,
+          "color": "W",
+          "coord": "bd"
+        },
+        {
+          "number": 10,
+          "color": "B",
+          "coord": "bc",
+          "captured": [
+            "bd"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 11,
+          "color": "W",
+          "coord": "ae",
+          "captured": [
+            "af"
+          ],
+          "captures": 1,
+          "comment": "Best ko because the group is under control"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 18,
+      "totalSolutions": 0
+    },
+    {
+      "id": 6,
+      "URL": "https://tsumego.com/15297",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "bj",
+        "cb",
+        "cc",
+        "cd",
+        "dj"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "af"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "bc"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 13,
+      "totalSolutions": 0
+    },
+    {
+      "id": 7,
+      "URL": "https://tsumego.com/15298",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ae",
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bg",
+        "ce",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb",
+        "fd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "bc"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "bd"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ad",
+          "captured": [
+            "ac"
+          ],
+          "captures": 1,
+          "comment": "Good ko"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 15,
+      "totalSolutions": 0
+    },
+    {
+      "id": 8,
+      "URL": "https://tsumego.com/15301",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ae",
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cf",
+        "db",
+        "dd",
+        "eb",
+        "ed"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "bc"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "bd"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ad",
+          "captured": [
+            "ac"
+          ],
+          "captures": 1,
+          "comment": "Good ko! The extra liberty only cancel the mediocre threat of the bad ko"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 4,
+      "totalSolutions": 0
+    },
+    {
+      "id": 9,
+      "URL": "https://tsumego.com/15302",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ae",
+        "be",
+        "cb",
+        "cc",
+        "cd",
+        "da"
+      ],
+      "white": [
+        "bf",
+        "ce",
+        "cg",
+        "db",
+        "dc",
+        "dd",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ac"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ab"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "bb"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "bc"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "aa",
+          "captured": [
+            "ab"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ea"
+        },
+        {
+          "number": 8,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 9,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 10,
+          "color": "B",
+          "coord": "ab",
+          "captured": [
+            "ac"
+          ],
+          "captures": 1,
+          "comment": "The best you can get is this ko, as the hane strengthen so much the formation."
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 6,
+      "totalSolutions": 0
+    },
+    {
+      "id": 10,
+      "URL": "https://tsumego.com/15303",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ae",
+        "be",
+        "cb",
+        "cc",
+        "cd",
+        "da"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cf",
+        "db",
+        "dd",
+        "dg",
+        "eb",
+        "ed",
+        "fe",
+        "gb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ac"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ab"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "bb"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "bc"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "aa",
+          "captured": [
+            "ab"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 8,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 9,
+          "color": "W",
+          "coord": "bd"
+        },
+        {
+          "number": 10,
+          "color": "B",
+          "coord": "ab",
+          "captured": [
+            "aa",
+            "bb"
+          ],
+          "captures": 2
+        },
+        {
+          "number": 11,
+          "color": "W",
+          "coord": "ad",
+          "captured": [
+            "ae",
+            "be"
+          ],
+          "captures": 2,
+          "comment": "+The straight J Group is unconditionally alive with this double reinforcement. All your efforts will only bring you two stones."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "ac"
+            },
+            {
+              "number": 2,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 3,
+              "color": "W",
+              "coord": "bb"
+            },
+            {
+              "number": 4,
+              "color": "B",
+              "coord": "bc"
+            },
+            {
+              "number": 5,
+              "color": "W",
+              "coord": "aa",
+              "captured": [
+                "ab"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 6,
+              "color": "B",
+              "coord": "ca"
+            },
+            {
+              "number": 7,
+              "color": "W",
+              "coord": "af"
+            },
+            {
+              "number": 8,
+              "color": "B",
+              "coord": "ba"
+            },
+            {
+              "number": 9,
+              "color": "W",
+              "coord": "bd"
+            },
+            {
+              "number": 10,
+              "color": "B",
+              "coord": "ab",
+              "captured": [
+                "aa",
+                "bb"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 11,
+              "color": "W",
+              "coord": "ad",
+              "captured": [
+                "ae",
+                "be"
+              ],
+              "captures": 2,
+              "comment": "+The straight J Group is unconditionally alive with this double reinforcement. All your efforts will only bring you two stones."
+            }
+          ],
+          "result": "+The straight J Group is unconditionally alive with this double reinforcement. All your efforts will only bring you two stones."
+        }
+      ],
+      "totalVariations": 6,
+      "totalSolutions": 1
+    },
+    {
+      "id": 11,
+      "URL": "https://tsumego.com/15304",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "pa",
+        "qb",
+        "qc",
+        "qd",
+        "re",
+        "sd"
+      ],
+      "white": [
+        "nb",
+        "ob",
+        "pb",
+        "pc",
+        "pd",
+        "pe",
+        "qe",
+        "qg",
+        "rf",
+        "rh"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "lf",
+          "comment": "+True. The hane is like a shield for this J group, allowing us to use the X vital points."
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "W",
+              "coord": "lf",
+              "comment": "+True. The hane is like a shield for this J group, allowing us to use the X vital points."
+            }
+          ],
+          "result": "+True. The hane is like a shield for this J group, allowing us to use the X vital points."
+        }
+      ],
+      "totalVariations": 9,
+      "totalSolutions": 1
+    },
+    {
+      "id": 12,
+      "URL": "https://tsumego.com/15305",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "be",
+        "bf",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bg",
+        "ce",
+        "cf",
+        "cg",
+        "dc",
+        "dd",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "db"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "ag"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 8,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 9,
+          "color": "W",
+          "coord": "bd"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 41,
+      "totalSolutions": 0
+    },
+    {
+      "id": 13,
+      "URL": "https://tsumego.com/15306",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "bf",
+        "bg",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "af",
+        "ag",
+        "bh",
+        "ce",
+        "cf",
+        "cg",
+        "ch",
+        "db",
+        "dc",
+        "dd",
+        "de"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "ah"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "bd"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 5,
+      "totalSolutions": 0
+    },
+    {
+      "id": 14,
+      "URL": "https://tsumego.com/15307",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "bf",
+        "bg",
+        "cb",
+        "cc",
+        "cd",
+        "da"
+      ],
+      "white": [
+        "af",
+        "ag",
+        "bh",
+        "ca",
+        "ce",
+        "cf",
+        "cg",
+        "ch",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ah"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ae"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "bd"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "ea",
+          "captured": [
+            "da"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "ba"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 10,
+      "totalSolutions": 0
+    },
+    {
+      "id": 15,
+      "URL": "https://tsumego.com/15340",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "dg",
+        "ef",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "bc"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "ce"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "af"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 26,
+      "totalSolutions": 0
+    },
+    {
+      "id": 16,
+      "URL": "https://tsumego.com/15341",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "bb",
+        "be",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "df",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ba"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "cb"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "aa",
+          "captured": [
+            "ba"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "ac"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "bc"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 30,
+      "totalSolutions": 0
+    },
+    {
+      "id": 17,
+      "URL": "https://tsumego.com/15342",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ba",
+        "be",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "df",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "bc"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ce"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "af",
+          "comment": "Well done. Starting with the placement on the vital point reveals the weakness of the J Group."
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 21,
+      "totalSolutions": 0
+    },
+    {
+      "id": 18,
+      "URL": "https://tsumego.com/15343",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "cb",
+        "cc",
+        "cd",
+        "fe",
+        "gb",
+        "gd",
+        "hb",
+        "hd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cf",
+        "ci",
+        "db",
+        "dc",
+        "dd",
+        "ee"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "da",
+          "captured": [
+            "ca"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "eb"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ea"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "fa"
+        },
+        {
+          "number": 8,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 9,
+          "color": "W",
+          "coord": "fb"
+        },
+        {
+          "number": 10,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 11,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 12,
+          "color": "B",
+          "coord": "ae"
+        },
+        {
+          "number": 13,
+          "color": "W",
+          "coord": "bc"
+        },
+        {
+          "number": 14,
+          "color": "B",
+          "coord": "bd"
+        },
+        {
+          "number": 15,
+          "color": "W",
+          "coord": "bb",
+          "comment": "Remember : there is death in the Hane !"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 3,
+      "totalSolutions": 0
+    },
+    {
+      "id": 19,
+      "URL": "https://tsumego.com/15420",
+      "colorJuega": "WHITE",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cf",
+        "db",
+        "de",
+        "eb",
+        "ed",
+        "fb",
+        "fd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "W",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 3,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 4,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 5,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 6,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 7,
+          "color": "W",
+          "coord": "bd"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 3,
+      "totalSolutions": 0
+    },
+    {
+      "id": 20,
+      "URL": "https://tsumego.com/15493",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "cb",
+        "cc",
+        "cd",
+        "da"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ca",
+        "ce",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ac",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "af"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ac",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 7,
+      "totalSolutions": 1
+    },
+    {
+      "id": 21,
+      "URL": "https://tsumego.com/15494",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ca",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ac",
+          "comment": "The extra liberty prevents the throw-in at X and your opponent cannot capture the marked stones to kill."
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 4,
+      "totalSolutions": 0
+    },
+    {
+      "id": 22,
+      "URL": "https://tsumego.com/15496",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "be",
+        "cb",
+        "cc",
+        "cd"
+      ],
+      "white": [
+        "bf",
+        "bh",
+        "ce",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ae",
+          "comment": "Straight J Group can live by Ko"
+        }
+      ],
+      "solutions": [],
+      "totalVariations": 12,
+      "totalSolutions": 0
+    }
+  ],
+  "errores": 0
+}
