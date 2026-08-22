@@ -1,0 +1,1298 @@
+{
+  "total": 1,
+  "problems": [
+    {
+      "id": 1,
+      "URL": "https://tsumego.com/2542",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "dp",
+        "mo",
+        "mp",
+        "mq",
+        "mr",
+        "no",
+        "oo",
+        "po",
+        "pp",
+        "pq",
+        "pr"
+      ],
+      "white": [
+        "ln",
+        "lo",
+        "lp",
+        "lq",
+        "lr",
+        "ls",
+        "mn",
+        "nn",
+        "np",
+        "on",
+        "op",
+        "pd",
+        "pn",
+        "qn",
+        "qo",
+        "qp",
+        "qq",
+        "qr",
+        "qs"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ps"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ms"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ns"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "nr"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "os"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "nq"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "dd",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cd",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "dc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 4,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 5,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "de",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 6,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ed",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 7,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "nc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 8,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 9,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qf",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 10,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "fq",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 11,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cn",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 12,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qg",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 13,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "pg",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 14,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ph",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 15,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "pi",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 16,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "pj",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 17,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qj",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 18,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qi",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 19,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qh",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 20,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "jj",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 21,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "dd",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 22,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cd",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 23,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 24,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "dc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 25,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ed",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 26,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "de",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 27,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "nc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 28,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qf",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 29,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 30,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "fq",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 31,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cn",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 32,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qg",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 33,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "pg",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 34,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ph",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 35,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "pi",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 36,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qi",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 37,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "qh",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 38,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "os"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ns"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ps"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "jj",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 92,
+      "totalSolutions": 38
+    }
+  ],
+  "errores": 0
+}
