@@ -1,0 +1,2885 @@
+{
+  "total": 25,
+  "problems": [
+    {
+      "id": 601,
+      "URL": "https://tsumego.com/16775",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "ac",
+        "ah",
+        "bc",
+        "bh",
+        "cc",
+        "ch",
+        "dd",
+        "de",
+        "df",
+        "dg",
+        "dh",
+        "ed",
+        "fa",
+        "fb",
+        "fc",
+        "fd"
+      ],
+      "white": [
+        "ae",
+        "af",
+        "ag",
+        "bb",
+        "bd",
+        "be",
+        "bg",
+        "cb",
+        "cd",
+        "ce",
+        "cf",
+        "cg",
+        "dc",
+        "ea",
+        "eb",
+        "ec"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "da",
+          "comment": "Seki"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "da"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "db"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ba"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ca",
+              "captured": [
+                "da"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "da",
+              "captured": [
+                "db",
+                "dc",
+                "cb",
+                "eb",
+                "ec",
+                "ca",
+                "bb",
+                "ea"
+              ],
+              "captures": 8,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 602,
+      "URL": "https://tsumego.com/16776",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ca",
+        "db",
+        "dc",
+        "dd",
+        "de",
+        "df",
+        "ea",
+        "ed",
+        "ga",
+        "gd",
+        "ge",
+        "gf",
+        "hb",
+        "hc",
+        "hg"
+      ],
+      "white": [
+        "bb",
+        "bd",
+        "be",
+        "cb",
+        "cf",
+        "dg",
+        "eb",
+        "ec",
+        "ee",
+        "ef",
+        "eg",
+        "fc",
+        "fd",
+        "fe",
+        "gb",
+        "gc",
+        "gg",
+        "gh"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "fa",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fa",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 1,
+      "totalSolutions": 1
+    },
+    {
+      "id": 603,
+      "URL": "https://tsumego.com/16777",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cd",
+        "dc",
+        "dd",
+        "ed",
+        "fe",
+        "gb",
+        "gc",
+        "ge",
+        "hd",
+        "he"
+      ],
+      "white": [
+        "cf",
+        "ec",
+        "ee",
+        "ef",
+        "fc",
+        "fd",
+        "gd",
+        "hb",
+        "hc",
+        "ic"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "eb"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ga"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "fb",
+          "captured": [
+            "fc",
+            "fd",
+            "ec",
+            "gd"
+          ],
+          "captures": 4,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "eb"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fb",
+              "captured": [
+                "fc",
+                "fd",
+                "ec",
+                "gd"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fb"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ea",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fb"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "eb",
+              "captured": [
+                "ec",
+                "fc",
+                "fd",
+                "gd"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 4,
+      "totalSolutions": 3
+    },
+    {
+      "id": 604,
+      "URL": "https://tsumego.com/16778",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bc",
+        "cb",
+        "db",
+        "dc",
+        "dd",
+        "ee",
+        "fb",
+        "fc",
+        "fd",
+        "fe"
+      ],
+      "white": [
+        "ba",
+        "bf",
+        "cc",
+        "cd",
+        "ce",
+        "da",
+        "de",
+        "ea",
+        "eb",
+        "ec",
+        "ed"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bb",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bb",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 605,
+      "URL": "https://tsumego.com/16779",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cd",
+        "dc",
+        "ec",
+        "ee",
+        "fb",
+        "gb",
+        "gc",
+        "hb",
+        "hd",
+        "hf",
+        "id",
+        "jf"
+      ],
+      "white": [
+        "bc",
+        "cc",
+        "db",
+        "eb",
+        "fc",
+        "fd",
+        "fe",
+        "gd",
+        "hc",
+        "ic",
+        "jc",
+        "je",
+        "kc",
+        "ke"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ff"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "he"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ed"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ie"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ge",
+          "captured": [
+            "gd",
+            "fd",
+            "fc",
+            "fe"
+          ],
+          "captures": 4,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ff"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "he"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ie"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ge",
+              "captured": [
+                "gd",
+                "fd",
+                "fc",
+                "fe"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ff"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "he"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ie"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "gf"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "gg"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "ge",
+              "captured": [
+                "gd",
+                "fd",
+                "fc",
+                "fe",
+                "he"
+              ],
+              "captures": 5,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ff"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "he"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ie"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "gf"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "gg"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "ef"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "ge",
+              "captured": [
+                "gf",
+                "he"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "dd"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "ed",
+              "captured": [
+                "fd",
+                "fc",
+                "fe",
+                "gd"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 4,
+      "totalSolutions": 3
+    },
+    {
+      "id": 606,
+      "URL": "https://tsumego.com/16780",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "cd",
+        "ce",
+        "cf",
+        "db",
+        "dc",
+        "dg",
+        "eb",
+        "ef",
+        "fb",
+        "fd",
+        "ff",
+        "gd"
+      ],
+      "white": [
+        "bb",
+        "bd",
+        "cb",
+        "cc",
+        "dd",
+        "de",
+        "df",
+        "ed",
+        "fc",
+        "fe",
+        "gb",
+        "ge",
+        "hc",
+        "he"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ec"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ee"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "gc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ec",
+              "captured": [
+                "ed",
+                "dd",
+                "de",
+                "df"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ec"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "gc",
+              "captured": [
+                "fc",
+                "ec",
+                "ed",
+                "dd",
+                "de",
+                "df"
+              ],
+              "captures": 6,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 3,
+      "totalSolutions": 2
+    },
+    {
+      "id": 607,
+      "URL": "https://tsumego.com/16781",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "ac",
+        "ad",
+        "ae",
+        "bc",
+        "be",
+        "cd",
+        "ce",
+        "de",
+        "eb",
+        "ec",
+        "ed",
+        "gb"
+      ],
+      "white": [
+        "af",
+        "ba",
+        "bb",
+        "bf",
+        "cb",
+        "cc",
+        "cf",
+        "db",
+        "dc",
+        "dd",
+        "df",
+        "ea",
+        "ee",
+        "ef"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "da"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "aa"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ca",
+          "captured": [
+            "cb",
+            "cc",
+            "bb",
+            "db",
+            "dc",
+            "ba",
+            "dd",
+            "aa"
+          ],
+          "captures": 8,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "da"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "aa"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ca",
+              "captured": [
+                "cb",
+                "cc",
+                "bb",
+                "db",
+                "dc",
+                "ba",
+                "dd",
+                "aa"
+              ],
+              "captures": 8,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 608,
+      "URL": "https://tsumego.com/16782",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "dc",
+        "dd",
+        "eb",
+        "ee",
+        "fa",
+        "ff",
+        "gd",
+        "ge",
+        "gf",
+        "hb",
+        "hc",
+        "id"
+      ],
+      "white": [
+        "bc",
+        "cb",
+        "ce",
+        "db",
+        "df",
+        "ef",
+        "fb",
+        "fd",
+        "fe",
+        "gb",
+        "gc",
+        "ha",
+        "ib",
+        "jc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ec"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "fc"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ed"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ia"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ga",
+          "captured": [
+            "gb",
+            "gc",
+            "fb",
+            "fc",
+            "fd",
+            "fe"
+          ],
+          "captures": 6,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ec"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ia"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ga",
+              "captured": [
+                "gb",
+                "gc",
+                "fb",
+                "fc",
+                "fd",
+                "fe"
+              ],
+              "captures": 6,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ec"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ia",
+              "captured": [
+                "ha",
+                "ga",
+                "gb",
+                "gc",
+                "fb",
+                "fc",
+                "fd",
+                "fe"
+              ],
+              "captures": 8,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ec"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ia",
+              "captured": [
+                "ha",
+                "ga",
+                "gb",
+                "gc",
+                "fb",
+                "fc",
+                "fd",
+                "fe"
+              ],
+              "captures": 8,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 4,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ec"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ia"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ga",
+              "captured": [
+                "gb",
+                "gc",
+                "fb",
+                "fc",
+                "fd",
+                "fe"
+              ],
+              "captures": 6,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 5,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fc",
+              "captured": [
+                "fd",
+                "fe"
+              ],
+              "captures": 2,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 9,
+      "totalSolutions": 5
+    },
+    {
+      "id": 609,
+      "URL": "https://tsumego.com/16783",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bb",
+        "bc",
+        "bh",
+        "bj",
+        "cd",
+        "ce",
+        "cf",
+        "cg",
+        "ch",
+        "ci"
+      ],
+      "white": [
+        "ac",
+        "af",
+        "ah",
+        "ai",
+        "bd",
+        "be",
+        "bf",
+        "bg",
+        "bi",
+        "cj",
+        "ck"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "aj"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ag"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "bk"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ae",
+          "captured": [
+            "af",
+            "ag",
+            "bf",
+            "ah",
+            "bg",
+            "be",
+            "ai",
+            "bd",
+            "bi"
+          ],
+          "captures": 9,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "aj"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ag"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ad"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "bk"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ae",
+              "captured": [
+                "af",
+                "ag",
+                "bf",
+                "ah",
+                "bg",
+                "be",
+                "ai",
+                "bd",
+                "bi"
+              ],
+              "captures": 9,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 1,
+      "totalSolutions": 1
+    },
+    {
+      "id": 610,
+      "URL": "https://tsumego.com/16784",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bb",
+        "bc",
+        "cc",
+        "dd",
+        "ea",
+        "ed",
+        "fb",
+        "fc"
+      ],
+      "white": [
+        "cb",
+        "da",
+        "dc",
+        "ec",
+        "fa",
+        "fd",
+        "gb",
+        "gc",
+        "gd",
+        "ia",
+        "ib",
+        "ic"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ga",
+          "captured": [
+            "fa"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "db"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ha"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "fa",
+          "captured": [
+            "ga"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "eb",
+          "captured": [
+            "ec",
+            "dc",
+            "db",
+            "da",
+            "cb"
+          ],
+          "captures": 5,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ga",
+              "captured": [
+                "fa"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "db"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ba"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ha"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ca"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "fa",
+              "captured": [
+                "ga"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "eb",
+              "captured": [
+                "ec",
+                "dc",
+                "db",
+                "da",
+                "cb"
+              ],
+              "captures": 5,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 1,
+      "totalSolutions": 1
+    },
+    {
+      "id": 611,
+      "URL": "https://tsumego.com/16785",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ce",
+        "cg",
+        "ch",
+        "dd",
+        "df",
+        "di",
+        "ef",
+        "fd",
+        "fh",
+        "gf",
+        "gg"
+      ],
+      "white": [
+        "bd",
+        "be",
+        "bf",
+        "cc",
+        "cf",
+        "dg",
+        "dh",
+        "eb",
+        "eg",
+        "fe",
+        "ff",
+        "fg"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ge"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ed"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "eh"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ee"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ge"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ed"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ec"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ee"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "de",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 3,
+      "totalSolutions": 1
+    },
+    {
+      "id": 612,
+      "URL": "https://tsumego.com/16786",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bb",
+        "cb",
+        "cc",
+        "cg",
+        "ch",
+        "dd",
+        "df",
+        "ec",
+        "ef",
+        "gc",
+        "hc"
+      ],
+      "white": [
+        "bc",
+        "cd",
+        "ce",
+        "cf",
+        "db",
+        "de",
+        "dg",
+        "eg",
+        "ff",
+        "fg"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ee"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "fd"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ed",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ed",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 1,
+      "totalSolutions": 1
+    },
+    {
+      "id": 613,
+      "URL": "https://tsumego.com/16787",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bb",
+        "bc",
+        "be",
+        "ce",
+        "db",
+        "dc",
+        "dd",
+        "fd"
+      ],
+      "white": [
+        "ad",
+        "bd",
+        "bg",
+        "cb",
+        "cc",
+        "cd",
+        "de",
+        "dg",
+        "ee"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ae"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ba"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ca"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ae"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "af"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "bf"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ac",
+              "captured": [
+                "ad",
+                "ae",
+                "bd",
+                "cd",
+                "cc",
+                "cb"
+              ],
+              "captures": 6,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ca"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ae"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "af"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "cf"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ac",
+              "captured": [
+                "ad",
+                "ae",
+                "bd",
+                "cd",
+                "cc",
+                "cb"
+              ],
+              "captures": 6,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 2
+    },
+    {
+      "id": 614,
+      "URL": "https://tsumego.com/16788",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bc",
+        "cc",
+        "cd",
+        "ce",
+        "df",
+        "eb",
+        "ee",
+        "ef",
+        "fc",
+        "ge",
+        "gf"
+      ],
+      "white": [
+        "bd",
+        "be",
+        "cf",
+        "cg",
+        "dd",
+        "de",
+        "ec",
+        "fb",
+        "fd",
+        "gd",
+        "hb",
+        "hd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ed"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "dc"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "db",
+          "captured": [
+            "dc",
+            "dd",
+            "ec",
+            "de"
+          ],
+          "captures": 4,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "dc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "db",
+              "captured": [
+                "dc",
+                "dd",
+                "ec",
+                "de"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "gc",
+              "captured": [
+                "fc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "dc",
+              "captured": [
+                "dd",
+                "de"
+              ],
+              "captures": 2,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ed"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "gc",
+              "captured": [
+                "fc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "db",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 3,
+      "totalSolutions": 3
+    },
+    {
+      "id": 615,
+      "URL": "https://tsumego.com/16789",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "ad",
+        "bb",
+        "bc",
+        "bd",
+        "cb",
+        "ce",
+        "cf",
+        "eb",
+        "ee",
+        "fc",
+        "fd"
+      ],
+      "white": [
+        "be",
+        "bf",
+        "bg",
+        "cc",
+        "cd",
+        "cg",
+        "db",
+        "ec",
+        "ed",
+        "fb",
+        "fe",
+        "gb",
+        "ge"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "dd"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "dc"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "da",
+          "captured": [
+            "db",
+            "dc",
+            "cc",
+            "ec",
+            "cd",
+            "ed"
+          ],
+          "captures": 6,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "dd"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "dc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "da",
+              "captured": [
+                "db",
+                "dc",
+                "cc",
+                "ec",
+                "cd",
+                "ed"
+              ],
+              "captures": 6,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "dd"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ea",
+              "captured": [
+                "eb"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "dc",
+              "captured": [
+                "cc",
+                "cd"
+              ],
+              "captures": 2,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 3,
+      "totalSolutions": 2
+    },
+    {
+      "id": 616,
+      "URL": "https://tsumego.com/16790",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "ba",
+        "bd",
+        "db",
+        "dc",
+        "dd",
+        "ed",
+        "fb",
+        "fc",
+        "gb"
+      ],
+      "white": [
+        "cb",
+        "da",
+        "ea",
+        "eb",
+        "ec",
+        "fd",
+        "ga",
+        "gd",
+        "hb",
+        "hc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ca",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ca",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 1,
+      "totalSolutions": 1
+    },
+    {
+      "id": 617,
+      "URL": "https://tsumego.com/16791",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ac",
+        "ba",
+        "bb",
+        "bc",
+        "cc",
+        "dc",
+        "ed",
+        "fb",
+        "fc",
+        "fd"
+      ],
+      "white": [
+        "ab",
+        "ad",
+        "bd",
+        "ca",
+        "cd",
+        "db",
+        "dd",
+        "df",
+        "ea",
+        "eb",
+        "ec"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "fa",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fa",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 1,
+      "totalSolutions": 1
+    },
+    {
+      "id": 618,
+      "URL": "https://tsumego.com/16792",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "ad",
+        "ba",
+        "bd",
+        "cd",
+        "dd",
+        "ea",
+        "eb",
+        "ec",
+        "gc",
+        "hb"
+      ],
+      "white": [
+        "ac",
+        "bb",
+        "bc",
+        "be",
+        "cb",
+        "cf",
+        "da",
+        "db",
+        "dc",
+        "de",
+        "ed",
+        "fd"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "aa"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ce"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "cc"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "aa",
+              "captured": [
+                "ab"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 619,
+      "URL": "https://tsumego.com/16793",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ce",
+        "db",
+        "dd",
+        "de",
+        "df",
+        "eb"
+      ],
+      "white": [
+        "be",
+        "cc",
+        "cd",
+        "cf",
+        "dg"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "cg"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "bf"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bf"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cg"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "bd"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ae"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "af",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bf"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cg"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "bd"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ae"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ad",
+              "comment": "+\n\nGreat! Its better than A"
+            }
+          ],
+          "result": "+\n\nGreat! Its better than A"
+        }
+      ],
+      "totalVariations": 4,
+      "totalSolutions": 2
+    },
+    {
+      "id": 620,
+      "URL": "https://tsumego.com/16794",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "be",
+        "cb",
+        "cc",
+        "cd",
+        "de",
+        "eb",
+        "ec",
+        "ed",
+        "ee",
+        "fd",
+        "ha",
+        "hb"
+      ],
+      "white": [
+        "da",
+        "db",
+        "dc",
+        "dd",
+        "ea",
+        "fb",
+        "fc",
+        "ga",
+        "gb",
+        "hc",
+        "hd",
+        "ic"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "fa"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "gc",
+          "captured": [
+            "gb",
+            "ga",
+            "fb",
+            "fa",
+            "fc",
+            "ea",
+            "da",
+            "db",
+            "dc",
+            "dd"
+          ],
+          "captures": 10,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ca"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "gc",
+              "captured": [
+                "gb",
+                "ga",
+                "fb",
+                "fa",
+                "fc",
+                "ea",
+                "da",
+                "db",
+                "dc",
+                "dd"
+              ],
+              "captures": 10,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ca"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "gc"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fa",
+              "captured": [
+                "ea",
+                "da",
+                "db",
+                "dc",
+                "dd"
+              ],
+              "captures": 5,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 2
+    },
+    {
+      "id": 621,
+      "URL": "https://tsumego.com/16795",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bd",
+        "cc",
+        "dd",
+        "de",
+        "ec",
+        "ef",
+        "eg",
+        "fc",
+        "fg",
+        "gc",
+        "ge"
+      ],
+      "white": [
+        "bb",
+        "cb",
+        "db",
+        "dc",
+        "df",
+        "dg",
+        "dh",
+        "ed",
+        "ee",
+        "ff",
+        "gd",
+        "he",
+        "hf"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "fe"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "hd"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "fd",
+          "captured": [
+            "ed",
+            "ee"
+          ],
+          "captures": 2,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fe"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "hd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fd",
+              "captured": [
+                "ed",
+                "ee"
+              ],
+              "captures": 2,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fe"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "hd",
+              "captured": [
+                "gd",
+                "fd",
+                "ed",
+                "ee"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fd"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fe"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "gf",
+              "captured": [
+                "ff",
+                "fe",
+                "ee",
+                "ed"
+              ],
+              "captures": 4,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 4,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "fd"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "gf"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fe",
+              "captured": [
+                "ee",
+                "ed"
+              ],
+              "captures": 2,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 5,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "gf"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "hd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fd",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 5
+    },
+    {
+      "id": 622,
+      "URL": "https://tsumego.com/16796",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ba",
+        "bc",
+        "bd",
+        "bg",
+        "cb",
+        "cd",
+        "dd",
+        "dg",
+        "ec",
+        "fc",
+        "fd",
+        "fe",
+        "fg"
+      ],
+      "white": [
+        "ab",
+        "bb",
+        "be",
+        "cc",
+        "ce",
+        "db",
+        "dc",
+        "de",
+        "ed",
+        "ee"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "da"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "eb"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "fb",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "da"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "eb"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fb",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 623,
+      "URL": "https://tsumego.com/16797",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bb",
+        "bc",
+        "bd",
+        "bh",
+        "cb",
+        "ce",
+        "cf",
+        "dd",
+        "dh",
+        "ee",
+        "ef",
+        "eh"
+      ],
+      "white": [
+        "be",
+        "bf",
+        "bg",
+        "cc",
+        "cd",
+        "ci",
+        "db",
+        "dc",
+        "de",
+        "di",
+        "ec",
+        "ei",
+        "gc"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ch"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "cg"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "df",
+          "captured": [
+            "de"
+          ],
+          "captures": 1,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ch"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cg"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "df",
+              "captured": [
+                "de"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 624,
+      "URL": "https://tsumego.com/16798",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "ac",
+        "bc",
+        "cc",
+        "dc",
+        "ea",
+        "eb",
+        "fc",
+        "gb"
+      ],
+      "white": [
+        "aa",
+        "bb",
+        "bd",
+        "ca",
+        "cb",
+        "ce",
+        "db",
+        "dd",
+        "ec",
+        "ed",
+        "fb"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "fa",
+          "captured": [
+            "fb"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "cd"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ba",
+          "captured": [
+            "aa"
+          ],
+          "captures": 1,
+          "comment": "The riangle marked move is useless"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ba",
+              "captured": [
+                "aa"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 2,
+      "totalSolutions": 1
+    },
+    {
+      "id": 625,
+      "URL": "https://tsumego.com/16799",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bd",
+        "be",
+        "bf",
+        "cd",
+        "db",
+        "dc"
+      ],
+      "white": [
+        "bc",
+        "bg",
+        "cc",
+        "ce",
+        "cf",
+        "cg",
+        "dd",
+        "ec",
+        "ed"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "cb"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "bb"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ba"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ab"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ad"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "af"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "ca"
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "eb"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "eb"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "cb",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "eb"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ac",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 4,
+      "totalSolutions": 2
+    }
+  ],
+  "errores": 0
+}
