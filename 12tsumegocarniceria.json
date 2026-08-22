@@ -1,0 +1,5647 @@
+{
+  "total": 12,
+  "problems": [
+    {
+      "id": 1,
+      "URL": "https://tsumego.com/2554",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "gh",
+        "gi",
+        "gj",
+        "gk",
+        "gl",
+        "gm",
+        "hg",
+        "hh",
+        "hm",
+        "ij",
+        "ik",
+        "im",
+        "jf",
+        "jg",
+        "ji",
+        "jk",
+        "jm",
+        "kh",
+        "kj",
+        "km",
+        "lf",
+        "lg",
+        "li",
+        "ll",
+        "lm",
+        "mh",
+        "mk",
+        "ml",
+        "nf",
+        "nh",
+        "ni",
+        "nj"
+      ],
+      "white": [
+        "hi",
+        "hj",
+        "hk",
+        "hl",
+        "ih",
+        "ii",
+        "il",
+        "jh",
+        "jl",
+        "kg",
+        "kk",
+        "kl",
+        "lj",
+        "lk",
+        "mi"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "jj"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ki",
+          "captured": [
+            "kj",
+            "jj",
+            "ji",
+            "jk",
+            "ij",
+            "ik"
+          ],
+          "captures": 6
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "jj"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "lh",
+          "captured": [
+            "li",
+            "kh"
+          ],
+          "captures": 2
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "mj",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "jj"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ki",
+              "captured": [
+                "kj",
+                "jj",
+                "ji",
+                "jk",
+                "ij",
+                "ik"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "jj"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "lh",
+              "captured": [
+                "li",
+                "kh"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "mj",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 6,
+      "totalSolutions": 1
+    },
+    {
+      "id": 2,
+      "URL": "https://tsumego.com/2555",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "gq",
+        "gr",
+        "hq",
+        "io",
+        "ip",
+        "jo",
+        "jq",
+        "jr",
+        "js",
+        "ko",
+        "kr",
+        "ks",
+        "lo",
+        "ls",
+        "mp",
+        "mq",
+        "nr",
+        "oq"
+      ],
+      "white": [
+        "hr",
+        "iq",
+        "is",
+        "jp",
+        "kp",
+        "kq",
+        "lr",
+        "mr",
+        "ms"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ir",
+          "captured": [
+            "iq"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "iq",
+          "captured": [
+            "ir",
+            "jr",
+            "jq",
+            "js",
+            "kr",
+            "ks",
+            "ls"
+          ],
+          "captures": 7
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "jr"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ir"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ks"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "kr"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "js",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ir",
+              "captured": [
+                "iq"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "iq",
+              "captured": [
+                "ir",
+                "jr",
+                "jq",
+                "js",
+                "kr",
+                "ks",
+                "ls"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ir"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ks"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "kr"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "js",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 3,
+      "URL": "https://tsumego.com/2556",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ao",
+        "bp",
+        "br",
+        "cq",
+        "cs",
+        "do",
+        "dr",
+        "eq",
+        "es",
+        "fp",
+        "fr",
+        "go",
+        "hq",
+        "hr",
+        "io",
+        "jr",
+        "js",
+        "ko",
+        "kr",
+        "ks",
+        "lp",
+        "lr",
+        "ls",
+        "mo",
+        "mq",
+        "nq",
+        "oo",
+        "or",
+        "pq",
+        "qp",
+        "qs",
+        "ro",
+        "rr"
+      ],
+      "white": [
+        "ir",
+        "is",
+        "jq",
+        "kq",
+        "lq",
+        "mr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "iq"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ms",
+          "captured": [
+            "ls",
+            "lr",
+            "ks",
+            "kr",
+            "js",
+            "jr"
+          ],
+          "captures": 6
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ks"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "kr"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ms"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ns",
+              "captured": [
+                "ms",
+                "ls",
+                "lr",
+                "ks",
+                "kr",
+                "js",
+                "jr"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "kr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ks"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ls"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "jr"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "js",
+              "captured": [
+                "ks"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 8,
+      "totalSolutions": 1
+    },
+    {
+      "id": 4,
+      "URL": "https://tsumego.com/2557",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "be",
+        "bf",
+        "cc",
+        "cd",
+        "cg",
+        "ch",
+        "dc",
+        "dh",
+        "ec",
+        "eh",
+        "fa",
+        "fb",
+        "fd",
+        "fg",
+        "gc",
+        "gd",
+        "ge",
+        "gg",
+        "gi",
+        "ha",
+        "hc",
+        "hf",
+        "hh",
+        "ia",
+        "ib",
+        "if",
+        "ja",
+        "jb",
+        "jc",
+        "jd",
+        "je",
+        "jf",
+        "jh",
+        "ji",
+        "ka",
+        "kb",
+        "ke",
+        "kf",
+        "kg",
+        "kj",
+        "la",
+        "lc",
+        "lf",
+        "lh",
+        "li",
+        "mc",
+        "me",
+        "mg",
+        "na",
+        "nb",
+        "nc",
+        "ne",
+        "ng",
+        "of"
+      ],
+      "white": [
+        "ce",
+        "cf",
+        "dd",
+        "dg",
+        "ed",
+        "ef",
+        "eg",
+        "fe",
+        "ff",
+        "ga",
+        "gf",
+        "hb",
+        "he",
+        "hg",
+        "ic",
+        "id",
+        "ie",
+        "ig",
+        "jg",
+        "kc",
+        "kd",
+        "kh",
+        "lb",
+        "ld",
+        "le",
+        "ma",
+        "mf"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "de"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "lg",
+          "captured": [
+            "lf",
+            "kf",
+            "ke",
+            "kg",
+            "jf",
+            "je",
+            "if",
+            "jd",
+            "hf",
+            "jc",
+            "jb",
+            "ja",
+            "ib",
+            "kb",
+            "ia",
+            "ka",
+            "ha",
+            "la"
+          ],
+          "captures": 18
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "jb"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "jc"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ib"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "jf"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "hf"
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "je"
+        },
+        {
+          "number": 9,
+          "color": "B",
+          "coord": "kf"
+        },
+        {
+          "number": 10,
+          "color": "W",
+          "coord": "kb"
+        },
+        {
+          "number": 11,
+          "color": "B",
+          "coord": "gb",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "de"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "lg",
+              "captured": [
+                "lf",
+                "kf",
+                "ke",
+                "kg",
+                "jf",
+                "je",
+                "if",
+                "jd",
+                "hf",
+                "jc",
+                "jb",
+                "ja",
+                "ib",
+                "kb",
+                "ia",
+                "ka",
+                "ha",
+                "la"
+              ],
+              "captures": 18
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "jb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ib"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "jf"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "hf"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "je"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "kf"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "kb"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "gb",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "de"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "lg",
+              "captured": [
+                "lf",
+                "kf",
+                "ke",
+                "kg",
+                "jf",
+                "je",
+                "if",
+                "jd",
+                "hf",
+                "jc",
+                "jb",
+                "ja",
+                "ib",
+                "kb",
+                "ia",
+                "ka",
+                "ha",
+                "la"
+              ],
+              "captures": 18
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "jb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "kb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "jf"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "hf"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "je"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "kf"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ib"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "mb",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 20,
+      "totalSolutions": 2
+    },
+    {
+      "id": 5,
+      "URL": "https://tsumego.com/2558",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "aa",
+        "ab",
+        "ac",
+        "ba",
+        "bb",
+        "bg",
+        "ca",
+        "cb",
+        "cd",
+        "cf",
+        "da",
+        "dc",
+        "dd",
+        "dg",
+        "ea",
+        "fa",
+        "fb",
+        "fd",
+        "fe",
+        "ff",
+        "ga",
+        "gb",
+        "gc",
+        "gg",
+        "ha",
+        "hd",
+        "ib",
+        "ie",
+        "ig",
+        "jb",
+        "je",
+        "kc",
+        "lc",
+        "mb"
+      ],
+      "white": [
+        "ad",
+        "cc",
+        "db",
+        "eb",
+        "ec",
+        "ed",
+        "ee",
+        "fc",
+        "gd",
+        "ge",
+        "hb",
+        "hc",
+        "ia",
+        "ic",
+        "ja",
+        "ka"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bc",
+          "captured": [
+            "cc"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "bd"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "be"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "cc",
+          "captured": [
+            "cb",
+            "ca",
+            "bb",
+            "ba",
+            "da",
+            "bc",
+            "ab",
+            "aa",
+            "ea",
+            "ac",
+            "fa",
+            "fb",
+            "ga",
+            "gb",
+            "ha",
+            "gc"
+          ],
+          "captures": 16
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "cb"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "bc"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "fa"
+        },
+        {
+          "number": 9,
+          "color": "B",
+          "coord": "da"
+        },
+        {
+          "number": 10,
+          "color": "W",
+          "coord": "gb"
+        },
+        {
+          "number": 11,
+          "color": "B",
+          "coord": "ha",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bc",
+              "captured": [
+                "cc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "bd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "be"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "cc",
+              "captured": [
+                "cb",
+                "ca",
+                "bb",
+                "ba",
+                "da",
+                "bc",
+                "ab",
+                "aa",
+                "ea",
+                "ac",
+                "fa",
+                "fb",
+                "ga",
+                "gb",
+                "ha",
+                "gc"
+              ],
+              "captures": 16
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "bc"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "da"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "gb"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "ha",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bc",
+              "captured": [
+                "cc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "bd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "be"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "cc",
+              "captured": [
+                "cb",
+                "ca",
+                "bb",
+                "ba",
+                "da",
+                "bc",
+                "ab",
+                "aa",
+                "ea",
+                "ac",
+                "fa",
+                "fb",
+                "ga",
+                "gb",
+                "ha",
+                "gc"
+              ],
+              "captures": 16
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "bc"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "gb"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "da"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "gc",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 10,
+      "totalSolutions": 2
+    },
+    {
+      "id": 6,
+      "URL": "https://tsumego.com/2559",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "aa",
+        "ab",
+        "ac",
+        "af",
+        "ag",
+        "ah",
+        "ai",
+        "ba",
+        "bb",
+        "bi",
+        "ca",
+        "cb",
+        "cd",
+        "cf",
+        "cg",
+        "ci",
+        "da",
+        "dc",
+        "dd",
+        "dg",
+        "di",
+        "ea",
+        "eg",
+        "ei",
+        "fa",
+        "fb",
+        "fd",
+        "fe",
+        "ff",
+        "fg",
+        "fi",
+        "ga",
+        "gb",
+        "gc",
+        "gi",
+        "ha",
+        "hd",
+        "hf",
+        "hg",
+        "hh",
+        "hi",
+        "ia",
+        "ie",
+        "jb",
+        "je",
+        "kc",
+        "lc",
+        "mb"
+      ],
+      "white": [
+        "ad",
+        "bf",
+        "bg",
+        "bh",
+        "cc",
+        "ch",
+        "db",
+        "dh",
+        "eb",
+        "ec",
+        "ed",
+        "ee",
+        "eh",
+        "fc",
+        "fh",
+        "gd",
+        "ge",
+        "gf",
+        "gg",
+        "gh",
+        "hb",
+        "hc",
+        "ib",
+        "ic",
+        "ja",
+        "ka"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bc",
+          "captured": [
+            "cc"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "bd"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "cc"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ce"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "de"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "df",
+          "captured": [
+            "de",
+            "dd",
+            "dc",
+            "cd",
+            "cc",
+            "cb",
+            "bc",
+            "ca",
+            "bb",
+            "ac",
+            "ba",
+            "da",
+            "ab",
+            "aa",
+            "ea",
+            "fa",
+            "fb",
+            "ga",
+            "gb",
+            "ha",
+            "gc",
+            "ia"
+          ],
+          "captures": 22
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bc",
+              "captured": [
+                "cc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "bd"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "be"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "cc",
+              "captured": [
+                "cb",
+                "ca",
+                "bb",
+                "ba",
+                "da",
+                "bc",
+                "ab",
+                "aa",
+                "ea",
+                "ac",
+                "fa",
+                "fb",
+                "ga",
+                "gb",
+                "ha",
+                "gc",
+                "ia"
+              ],
+              "captures": 17
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "bc"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "gb"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "gc"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "da"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ga"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "ia",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 18,
+      "totalSolutions": 1
+    },
+    {
+      "id": 7,
+      "URL": "https://tsumego.com/2560",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ab",
+        "bb",
+        "bc",
+        "bd",
+        "ca",
+        "ce",
+        "da",
+        "db",
+        "dc",
+        "de",
+        "df",
+        "dg",
+        "dh",
+        "di",
+        "ea",
+        "eb",
+        "ec",
+        "ei",
+        "fa",
+        "fb",
+        "fd",
+        "ff",
+        "fg",
+        "fi",
+        "ga",
+        "gc",
+        "gd",
+        "gg",
+        "gi",
+        "ha",
+        "hg",
+        "hi",
+        "ia",
+        "ib",
+        "id",
+        "ie",
+        "if",
+        "ig",
+        "ii",
+        "ja",
+        "jb",
+        "jc",
+        "ji",
+        "ka",
+        "kd",
+        "ke",
+        "kf",
+        "kh",
+        "ki",
+        "la",
+        "mb",
+        "md",
+        "mf",
+        "nb",
+        "ob"
+      ],
+      "white": [
+        "ba",
+        "cb",
+        "cc",
+        "dd",
+        "ed",
+        "ef",
+        "eg",
+        "eh",
+        "fh",
+        "gb",
+        "gh",
+        "hb",
+        "hc",
+        "hd",
+        "he",
+        "hf",
+        "hh",
+        "ic",
+        "ih",
+        "jd",
+        "je",
+        "jf",
+        "jg",
+        "jh",
+        "kb",
+        "kc",
+        "lb",
+        "ma",
+        "na"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ee"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "fc",
+          "captured": [
+            "fb",
+            "fa",
+            "eb",
+            "ea",
+            "ga",
+            "ec",
+            "db",
+            "da",
+            "ha",
+            "dc",
+            "ca",
+            "ia",
+            "ib",
+            "ja",
+            "jb",
+            "ka",
+            "jc",
+            "la"
+          ],
+          "captures": 18
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "ec"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "fb"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "dc"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "eb"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "cd",
+          "captured": [
+            "dd",
+            "ed"
+          ],
+          "captures": 2
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "db"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc",
+              "captured": [
+                "fb",
+                "fa",
+                "eb",
+                "ea",
+                "ga",
+                "ec",
+                "db",
+                "da",
+                "ha",
+                "dc",
+                "ca",
+                "ia",
+                "ib",
+                "ja",
+                "jb",
+                "ka",
+                "jc",
+                "la"
+              ],
+              "captures": 18
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ec"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "eb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "cd"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ia"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "ga"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ka",
+              "captured": [
+                "la"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "jb",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc",
+              "captured": [
+                "fb",
+                "fa",
+                "eb",
+                "ea",
+                "ga",
+                "ec",
+                "db",
+                "da",
+                "ha",
+                "dc",
+                "ca",
+                "ia",
+                "ib",
+                "ja",
+                "jb",
+                "ka",
+                "jc",
+                "la"
+              ],
+              "captures": 18
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ec"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "eb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "cd"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "ga"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ja"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ha",
+              "captured": [
+                "ga"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "ib",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc",
+              "captured": [
+                "fb",
+                "fa",
+                "eb",
+                "ea",
+                "ga",
+                "ec",
+                "db",
+                "da",
+                "ha",
+                "dc",
+                "ca",
+                "ia",
+                "ib",
+                "ja",
+                "jb",
+                "ka",
+                "jc",
+                "la"
+              ],
+              "captures": 18
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ec"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "eb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "db"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "ga"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ja"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "la",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 4,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ee"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "fc",
+              "captured": [
+                "fb",
+                "fa",
+                "eb",
+                "ea",
+                "ga",
+                "ec",
+                "db",
+                "da",
+                "ha",
+                "dc",
+                "ca",
+                "ia",
+                "ib",
+                "ja",
+                "jb",
+                "ka",
+                "jc",
+                "la"
+              ],
+              "captures": 18
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "fb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ec"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "eb"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "fa"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "db"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ia"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "ga",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 38,
+      "totalSolutions": 4
+    },
+    {
+      "id": 8,
+      "URL": "https://tsumego.com/3192",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "bo",
+        "br",
+        "bs",
+        "cn",
+        "cr",
+        "do",
+        "dr",
+        "fp",
+        "fq",
+        "fr",
+        "go",
+        "in",
+        "jp",
+        "jr",
+        "kq"
+      ],
+      "white": [
+        "ar",
+        "bq",
+        "cp",
+        "cq",
+        "dq",
+        "eq",
+        "er",
+        "fs",
+        "gr",
+        "gs",
+        "hp",
+        "hq",
+        "hr"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "cs"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "es"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "es"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cs"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "ds",
+              "captured": [
+                "cs"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "aq"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "cs"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "as",
+              "captured": [
+                "bs",
+                "br",
+                "cs",
+                "cr",
+                "ds",
+                "dr",
+                "es"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "es"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "cs"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ds",
+              "captured": [
+                "es"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "cr",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 4,
+      "totalSolutions": 1
+    },
+    {
+      "id": 9,
+      "URL": "https://tsumego.com/3193",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ar",
+        "as",
+        "bm",
+        "bs",
+        "cm",
+        "dn",
+        "do",
+        "dp",
+        "eq",
+        "fq",
+        "fr"
+      ],
+      "white": [
+        "bo",
+        "bp",
+        "cr",
+        "dr",
+        "er"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "cq"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "bq"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "br"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ao"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "aq"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "es"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "cs"
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "ap"
+        },
+        {
+          "number": 9,
+          "color": "B",
+          "coord": "fs"
+        },
+        {
+          "number": 10,
+          "color": "W",
+          "coord": "ds",
+          "captured": [
+            "cs",
+            "bs",
+            "br",
+            "as",
+            "ar",
+            "aq"
+          ],
+          "captures": 6
+        },
+        {
+          "number": 11,
+          "color": "B",
+          "coord": "bs"
+        },
+        {
+          "number": 12,
+          "color": "W",
+          "coord": "br"
+        },
+        {
+          "number": 13,
+          "color": "B",
+          "coord": "ar",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "cq"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "bq"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ao"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "aq"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "es"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "cs"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "ap"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "fs"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ds",
+              "captured": [
+                "cs",
+                "bs",
+                "br",
+                "as",
+                "ar",
+                "aq"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "bs"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "br"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "ar",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "cq"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "bq"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ao"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "aq"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "es"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "cs"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "ap"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "dq"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ds",
+              "captured": [
+                "cs",
+                "bs",
+                "br",
+                "as",
+                "ar",
+                "aq"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "bs"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "br"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "ar",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 14,
+      "totalSolutions": 2
+    },
+    {
+      "id": 10,
+      "URL": "https://tsumego.com/3194",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "gp",
+        "gq",
+        "gr",
+        "gs",
+        "ho",
+        "hs",
+        "io",
+        "jo",
+        "jp",
+        "lo",
+        "mp",
+        "op",
+        "oq",
+        "or",
+        "os"
+      ],
+      "white": [
+        "hq",
+        "hr",
+        "ip",
+        "is",
+        "jq",
+        "kq",
+        "lq",
+        "mq",
+        "nq",
+        "nr",
+        "ns"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "ir"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "js"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "jr"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ks"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "kr"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "ls"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "lr"
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "ms"
+        },
+        {
+          "number": 9,
+          "color": "B",
+          "coord": "iq"
+        },
+        {
+          "number": 10,
+          "color": "W",
+          "coord": "mr",
+          "captured": [
+            "lr",
+            "kr",
+            "jr",
+            "ir",
+            "iq"
+          ],
+          "captures": 5
+        },
+        {
+          "number": 11,
+          "color": "B",
+          "coord": "kr"
+        },
+        {
+          "number": 12,
+          "color": "W",
+          "coord": "jr"
+        },
+        {
+          "number": 13,
+          "color": "B",
+          "coord": "iq",
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "ir"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "js"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ks"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "kr"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "ls"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "lr"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "ms"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "iq"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "mr",
+              "captured": [
+                "lr",
+                "kr",
+                "jr",
+                "ir",
+                "iq"
+              ],
+              "captures": 5
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "kr"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "jr"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "iq",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 5,
+      "totalSolutions": 1
+    },
+    {
+      "id": 11,
+      "URL": "https://tsumego.com/3195",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "ad",
+        "be",
+        "bf",
+        "bg",
+        "cc",
+        "cg",
+        "db",
+        "dc",
+        "dd",
+        "dg",
+        "eg",
+        "fd",
+        "fe",
+        "ff",
+        "gc",
+        "hb"
+      ],
+      "white": [
+        "bc",
+        "bd",
+        "cd",
+        "ce",
+        "cf",
+        "df",
+        "eb",
+        "ec",
+        "ed",
+        "ee",
+        "ef"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "da"
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "ea"
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "ba"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "ac"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "ab"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "da"
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "ea"
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "ba"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "de"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "ac"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "cb"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "ca",
+              "captured": [
+                "cb"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "cb",
+              "captured": [
+                "ca",
+                "da",
+                "db",
+                "dc",
+                "dd",
+                "cc"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "dc"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ca"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "db",
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 10,
+      "totalSolutions": 1
+    },
+    {
+      "id": 12,
+      "URL": "https://tsumego.com/3196",
+      "colorJuega": "BLACK",
+      "result": null,
+      "black": [
+        "aa",
+        "ab",
+        "ac",
+        "ag",
+        "ai",
+        "aj",
+        "aq",
+        "ar",
+        "as",
+        "ba",
+        "bb",
+        "be",
+        "bf",
+        "bi",
+        "bj",
+        "bo",
+        "br",
+        "bs",
+        "ca",
+        "cc",
+        "cd",
+        "ch",
+        "cl",
+        "cm",
+        "cn",
+        "co",
+        "cp",
+        "cr",
+        "cs",
+        "dc",
+        "dd",
+        "dh",
+        "di",
+        "dl",
+        "dm",
+        "dp",
+        "dq",
+        "ds",
+        "ee",
+        "ef",
+        "ek",
+        "es",
+        "ff",
+        "fh",
+        "fn",
+        "fr",
+        "fs",
+        "gc",
+        "gk",
+        "gm",
+        "go",
+        "gr",
+        "gs",
+        "ha",
+        "hc",
+        "hg",
+        "hs",
+        "ia",
+        "id",
+        "ie",
+        "ih",
+        "ij",
+        "il",
+        "im",
+        "ip",
+        "ir",
+        "ja",
+        "jb",
+        "jc",
+        "jg",
+        "jk",
+        "jm",
+        "jp",
+        "kb",
+        "kc",
+        "ke",
+        "kh",
+        "ki",
+        "kk",
+        "km",
+        "kp",
+        "ld",
+        "lg",
+        "lj",
+        "lk",
+        "ll",
+        "lr",
+        "ma",
+        "mb",
+        "mc",
+        "md",
+        "me",
+        "mh",
+        "mi",
+        "mk",
+        "mm",
+        "mp",
+        "nd",
+        "nk",
+        "np",
+        "oa",
+        "oj",
+        "ol",
+        "on",
+        "oo",
+        "pa",
+        "pc",
+        "pf",
+        "ph",
+        "pl",
+        "pq",
+        "qc",
+        "qh",
+        "qk",
+        "qn",
+        "ra",
+        "rb",
+        "re",
+        "rf",
+        "rg",
+        "ri",
+        "rj",
+        "rk",
+        "rl",
+        "rn",
+        "rp",
+        "sa",
+        "sb",
+        "sc",
+        "sd",
+        "sg",
+        "si",
+        "sj",
+        "sk",
+        "sl",
+        "sm"
+      ],
+      "white": [
+        "ad",
+        "ak",
+        "am",
+        "ap",
+        "bc",
+        "bd",
+        "bm",
+        "bp",
+        "cf",
+        "ci",
+        "cj",
+        "ck",
+        "cq",
+        "de",
+        "dk",
+        "dr",
+        "ed",
+        "ei",
+        "ej",
+        "el",
+        "eq",
+        "er",
+        "fa",
+        "fb",
+        "fd",
+        "fg",
+        "fq",
+        "ga",
+        "gb",
+        "ge",
+        "gf",
+        "gj",
+        "gq",
+        "hd",
+        "hq",
+        "hr",
+        "ic",
+        "ik",
+        "is",
+        "jd",
+        "jj",
+        "jl",
+        "js",
+        "ka",
+        "kd",
+        "kj",
+        "kq",
+        "lb",
+        "lc",
+        "li",
+        "lm",
+        "ln",
+        "lo",
+        "lp",
+        "mj",
+        "nf",
+        "nh",
+        "nj",
+        "nl",
+        "nm",
+        "oc",
+        "oe",
+        "ok",
+        "pd",
+        "qd",
+        "qi",
+        "qj",
+        "ql",
+        "rc",
+        "rd",
+        "rh",
+        "rm",
+        "se",
+        "sn"
+      ],
+      "moves": [
+        {
+          "number": 1,
+          "color": "B",
+          "coord": "bq",
+          "captured": [
+            "cq"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 2,
+          "color": "W",
+          "coord": "cq",
+          "captured": [
+            "cr",
+            "cs",
+            "br",
+            "bs",
+            "ds",
+            "bq",
+            "ar",
+            "as",
+            "es",
+            "aq",
+            "fs",
+            "fr",
+            "gs",
+            "gr",
+            "hs"
+          ],
+          "captures": 15
+        },
+        {
+          "number": 3,
+          "color": "B",
+          "coord": "cr"
+        },
+        {
+          "number": 4,
+          "color": "W",
+          "coord": "kr"
+        },
+        {
+          "number": 5,
+          "color": "B",
+          "coord": "jr"
+        },
+        {
+          "number": 6,
+          "color": "W",
+          "coord": "mr"
+        },
+        {
+          "number": 7,
+          "color": "B",
+          "coord": "lq"
+        },
+        {
+          "number": 8,
+          "color": "W",
+          "coord": "mq"
+        },
+        {
+          "number": 9,
+          "color": "B",
+          "coord": "or"
+        },
+        {
+          "number": 10,
+          "color": "W",
+          "coord": "ls",
+          "captured": [
+            "lr",
+            "lq"
+          ],
+          "captures": 2
+        },
+        {
+          "number": 11,
+          "color": "B",
+          "coord": "lq"
+        },
+        {
+          "number": 12,
+          "color": "W",
+          "coord": "ml"
+        },
+        {
+          "number": 13,
+          "color": "B",
+          "coord": "mn"
+        },
+        {
+          "number": 14,
+          "color": "W",
+          "coord": "kl",
+          "captured": [
+            "kk",
+            "jk",
+            "lk",
+            "lj",
+            "ll",
+            "mk",
+            "nk"
+          ],
+          "captures": 7
+        },
+        {
+          "number": 15,
+          "color": "B",
+          "coord": "lk"
+        },
+        {
+          "number": 16,
+          "color": "W",
+          "coord": "lj"
+        },
+        {
+          "number": 17,
+          "color": "B",
+          "coord": "ll"
+        },
+        {
+          "number": 18,
+          "color": "W",
+          "coord": "pk"
+        },
+        {
+          "number": 19,
+          "color": "B",
+          "coord": "pj"
+        },
+        {
+          "number": 20,
+          "color": "W",
+          "coord": "sh",
+          "captured": [
+            "si",
+            "sj",
+            "ri",
+            "sk",
+            "rj",
+            "sl",
+            "rk",
+            "sm",
+            "rl",
+            "qk"
+          ],
+          "captures": 10
+        },
+        {
+          "number": 21,
+          "color": "B",
+          "coord": "rk"
+        },
+        {
+          "number": 22,
+          "color": "W",
+          "coord": "qk"
+        },
+        {
+          "number": 23,
+          "color": "B",
+          "coord": "ri"
+        },
+        {
+          "number": 24,
+          "color": "W",
+          "coord": "rj"
+        },
+        {
+          "number": 25,
+          "color": "B",
+          "coord": "sj"
+        },
+        {
+          "number": 26,
+          "color": "W",
+          "coord": "ni"
+        },
+        {
+          "number": 27,
+          "color": "B",
+          "coord": "oh"
+        },
+        {
+          "number": 28,
+          "color": "W",
+          "coord": "mg"
+        },
+        {
+          "number": 29,
+          "color": "B",
+          "coord": "lh"
+        },
+        {
+          "number": 30,
+          "color": "W",
+          "coord": "pb"
+        },
+        {
+          "number": 31,
+          "color": "B",
+          "coord": "qb"
+        },
+        {
+          "number": 32,
+          "color": "W",
+          "coord": "qa",
+          "captured": [
+            "qb",
+            "qc",
+            "rb",
+            "pc",
+            "ra",
+            "sb",
+            "sa",
+            "sc",
+            "sd"
+          ],
+          "captures": 9
+        },
+        {
+          "number": 33,
+          "color": "B",
+          "coord": "qb"
+        },
+        {
+          "number": 34,
+          "color": "W",
+          "coord": "hk"
+        },
+        {
+          "number": 35,
+          "color": "B",
+          "coord": "hj"
+        },
+        {
+          "number": 36,
+          "color": "W",
+          "coord": "gl"
+        },
+        {
+          "number": 37,
+          "color": "B",
+          "coord": "fk"
+        },
+        {
+          "number": 38,
+          "color": "W",
+          "coord": "fl"
+        },
+        {
+          "number": 39,
+          "color": "B",
+          "coord": "hl"
+        },
+        {
+          "number": 40,
+          "color": "W",
+          "coord": "fj",
+          "captured": [
+            "fk",
+            "ek",
+            "gk"
+          ],
+          "captures": 3
+        },
+        {
+          "number": 41,
+          "color": "B",
+          "coord": "dj"
+        },
+        {
+          "number": 42,
+          "color": "W",
+          "coord": "bk"
+        },
+        {
+          "number": 43,
+          "color": "B",
+          "coord": "bl"
+        },
+        {
+          "number": 44,
+          "color": "W",
+          "coord": "eh"
+        },
+        {
+          "number": 45,
+          "color": "B",
+          "coord": "eg"
+        },
+        {
+          "number": 46,
+          "color": "W",
+          "coord": "gg"
+        },
+        {
+          "number": 47,
+          "color": "B",
+          "coord": "gh"
+        },
+        {
+          "number": 48,
+          "color": "W",
+          "coord": "dg"
+        },
+        {
+          "number": 49,
+          "color": "B",
+          "coord": "cg"
+        },
+        {
+          "number": 50,
+          "color": "W",
+          "coord": "bh"
+        },
+        {
+          "number": 51,
+          "color": "B",
+          "coord": "bg"
+        },
+        {
+          "number": 52,
+          "color": "W",
+          "coord": "ah",
+          "captured": [
+            "ai",
+            "aj",
+            "bi",
+            "bj"
+          ],
+          "captures": 4
+        },
+        {
+          "number": 53,
+          "color": "B",
+          "coord": "bi"
+        },
+        {
+          "number": 54,
+          "color": "W",
+          "coord": "fe"
+        },
+        {
+          "number": 55,
+          "color": "B",
+          "coord": "df",
+          "captured": [
+            "dg"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 56,
+          "color": "W",
+          "coord": "dg",
+          "captured": [
+            "df",
+            "ef",
+            "ee",
+            "eg",
+            "ff"
+          ],
+          "captures": 5
+        },
+        {
+          "number": 57,
+          "color": "B",
+          "coord": "ef"
+        },
+        {
+          "number": 58,
+          "color": "W",
+          "coord": "eg"
+        },
+        {
+          "number": 59,
+          "color": "B",
+          "coord": "df"
+        },
+        {
+          "number": 60,
+          "color": "W",
+          "coord": "da"
+        },
+        {
+          "number": 61,
+          "color": "B",
+          "coord": "db"
+        },
+        {
+          "number": 62,
+          "color": "W",
+          "coord": "cb",
+          "captured": [
+            "ca",
+            "ba",
+            "bb",
+            "aa",
+            "ab",
+            "ac"
+          ],
+          "captures": 6
+        },
+        {
+          "number": 63,
+          "color": "B",
+          "coord": "bb"
+        },
+        {
+          "number": 64,
+          "color": "W",
+          "coord": "hb"
+        },
+        {
+          "number": 65,
+          "color": "B",
+          "coord": "ib",
+          "captured": [
+            "ic"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 66,
+          "color": "W",
+          "coord": "ic",
+          "captured": [
+            "ib",
+            "ia",
+            "jb",
+            "ha",
+            "ja",
+            "jc",
+            "kb",
+            "kc"
+          ],
+          "captures": 8
+        },
+        {
+          "number": 67,
+          "color": "B",
+          "coord": "ib"
+        },
+        {
+          "number": 68,
+          "color": "W",
+          "coord": "jc"
+        },
+        {
+          "number": 69,
+          "color": "B",
+          "coord": "jb"
+        },
+        {
+          "number": 70,
+          "color": "W",
+          "coord": "fc"
+        },
+        {
+          "number": 71,
+          "color": "B",
+          "coord": "kb"
+        },
+        {
+          "number": 72,
+          "color": "W",
+          "coord": "kc"
+        },
+        {
+          "number": 73,
+          "color": "B",
+          "coord": "la"
+        },
+        {
+          "number": 74,
+          "color": "W",
+          "coord": "gd",
+          "captured": [
+            "gc",
+            "hc"
+          ],
+          "captures": 2
+        },
+        {
+          "number": 75,
+          "color": "B",
+          "coord": "hc"
+        },
+        {
+          "number": 76,
+          "color": "W",
+          "coord": "gc",
+          "captured": [
+            "hc"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 77,
+          "color": "B",
+          "coord": "je"
+        },
+        {
+          "number": 78,
+          "color": "W",
+          "coord": "hc"
+        },
+        {
+          "number": 79,
+          "color": "B",
+          "coord": "ja",
+          "captured": [
+            "ka"
+          ],
+          "captures": 1
+        },
+        {
+          "number": 80,
+          "color": "W",
+          "coord": "ba"
+        },
+        {
+          "number": 81,
+          "color": "B",
+          "coord": "ab"
+        },
+        {
+          "number": 82,
+          "color": "W",
+          "coord": "bq"
+        },
+        {
+          "number": 83,
+          "color": "B",
+          "coord": "br"
+        },
+        {
+          "number": 84,
+          "color": "W",
+          "coord": "qc"
+        },
+        {
+          "number": 85,
+          "color": "B",
+          "coord": "ra",
+          "captured": [
+            "qa"
+          ],
+          "captures": 1,
+          "comment": "+"
+        }
+      ],
+      "solutions": [
+        {
+          "id": 1,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bq",
+              "captured": [
+                "cq"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cq",
+              "captured": [
+                "cr",
+                "cs",
+                "br",
+                "bs",
+                "ds",
+                "bq",
+                "ar",
+                "as",
+                "es",
+                "aq",
+                "fs",
+                "fr",
+                "gs",
+                "gr",
+                "hs"
+              ],
+              "captures": 15
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "cr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "kr"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "mr"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "mq"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "or"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ls",
+              "captured": [
+                "lr",
+                "lq"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ml"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "mn"
+            },
+            {
+              "number": 14,
+              "color": "W",
+              "coord": "kl",
+              "captured": [
+                "kk",
+                "jk",
+                "lk",
+                "lj",
+                "ll",
+                "mk",
+                "nk"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 15,
+              "color": "B",
+              "coord": "lk"
+            },
+            {
+              "number": 16,
+              "color": "W",
+              "coord": "lj"
+            },
+            {
+              "number": 17,
+              "color": "B",
+              "coord": "ll"
+            },
+            {
+              "number": 18,
+              "color": "W",
+              "coord": "pk"
+            },
+            {
+              "number": 19,
+              "color": "B",
+              "coord": "pj"
+            },
+            {
+              "number": 20,
+              "color": "W",
+              "coord": "sh",
+              "captured": [
+                "si",
+                "sj",
+                "ri",
+                "sk",
+                "rj",
+                "sl",
+                "rk",
+                "sm",
+                "rl",
+                "qk"
+              ],
+              "captures": 10
+            },
+            {
+              "number": 21,
+              "color": "B",
+              "coord": "rk"
+            },
+            {
+              "number": 22,
+              "color": "W",
+              "coord": "qk"
+            },
+            {
+              "number": 23,
+              "color": "B",
+              "coord": "ri"
+            },
+            {
+              "number": 24,
+              "color": "W",
+              "coord": "rj"
+            },
+            {
+              "number": 25,
+              "color": "B",
+              "coord": "sj"
+            },
+            {
+              "number": 26,
+              "color": "W",
+              "coord": "ni"
+            },
+            {
+              "number": 27,
+              "color": "B",
+              "coord": "oh"
+            },
+            {
+              "number": 28,
+              "color": "W",
+              "coord": "mg"
+            },
+            {
+              "number": 29,
+              "color": "B",
+              "coord": "lh"
+            },
+            {
+              "number": 30,
+              "color": "W",
+              "coord": "pb"
+            },
+            {
+              "number": 31,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 32,
+              "color": "W",
+              "coord": "qa",
+              "captured": [
+                "qb",
+                "qc",
+                "rb",
+                "pc",
+                "ra",
+                "sb",
+                "sa",
+                "sc",
+                "sd"
+              ],
+              "captures": 9
+            },
+            {
+              "number": 33,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 34,
+              "color": "W",
+              "coord": "hk"
+            },
+            {
+              "number": 35,
+              "color": "B",
+              "coord": "hj"
+            },
+            {
+              "number": 36,
+              "color": "W",
+              "coord": "gl"
+            },
+            {
+              "number": 37,
+              "color": "B",
+              "coord": "fk"
+            },
+            {
+              "number": 38,
+              "color": "W",
+              "coord": "fl"
+            },
+            {
+              "number": 39,
+              "color": "B",
+              "coord": "hl"
+            },
+            {
+              "number": 40,
+              "color": "W",
+              "coord": "fj",
+              "captured": [
+                "fk",
+                "ek",
+                "gk"
+              ],
+              "captures": 3
+            },
+            {
+              "number": 41,
+              "color": "B",
+              "coord": "dj"
+            },
+            {
+              "number": 42,
+              "color": "W",
+              "coord": "bk"
+            },
+            {
+              "number": 43,
+              "color": "B",
+              "coord": "bl"
+            },
+            {
+              "number": 44,
+              "color": "W",
+              "coord": "eh"
+            },
+            {
+              "number": 45,
+              "color": "B",
+              "coord": "eg"
+            },
+            {
+              "number": 46,
+              "color": "W",
+              "coord": "gg"
+            },
+            {
+              "number": 47,
+              "color": "B",
+              "coord": "gh"
+            },
+            {
+              "number": 48,
+              "color": "W",
+              "coord": "dg"
+            },
+            {
+              "number": 49,
+              "color": "B",
+              "coord": "cg"
+            },
+            {
+              "number": 50,
+              "color": "W",
+              "coord": "bh"
+            },
+            {
+              "number": 51,
+              "color": "B",
+              "coord": "bg"
+            },
+            {
+              "number": 52,
+              "color": "W",
+              "coord": "ah",
+              "captured": [
+                "ai",
+                "aj",
+                "bi",
+                "bj"
+              ],
+              "captures": 4
+            },
+            {
+              "number": 53,
+              "color": "B",
+              "coord": "bi"
+            },
+            {
+              "number": 54,
+              "color": "W",
+              "coord": "fe"
+            },
+            {
+              "number": 55,
+              "color": "B",
+              "coord": "df",
+              "captured": [
+                "dg"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 56,
+              "color": "W",
+              "coord": "dg",
+              "captured": [
+                "df",
+                "ef",
+                "ee",
+                "eg",
+                "ff"
+              ],
+              "captures": 5
+            },
+            {
+              "number": 57,
+              "color": "B",
+              "coord": "ef"
+            },
+            {
+              "number": 58,
+              "color": "W",
+              "coord": "eg"
+            },
+            {
+              "number": 59,
+              "color": "B",
+              "coord": "df"
+            },
+            {
+              "number": 60,
+              "color": "W",
+              "coord": "da"
+            },
+            {
+              "number": 61,
+              "color": "B",
+              "coord": "db"
+            },
+            {
+              "number": 62,
+              "color": "W",
+              "coord": "cb",
+              "captured": [
+                "ca",
+                "ba",
+                "bb",
+                "aa",
+                "ab",
+                "ac"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 63,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 64,
+              "color": "W",
+              "coord": "hb"
+            },
+            {
+              "number": 65,
+              "color": "B",
+              "coord": "ib",
+              "captured": [
+                "ic"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 66,
+              "color": "W",
+              "coord": "ic",
+              "captured": [
+                "ib",
+                "ia",
+                "jb",
+                "ha",
+                "ja",
+                "jc",
+                "kb",
+                "kc"
+              ],
+              "captures": 8
+            },
+            {
+              "number": 67,
+              "color": "B",
+              "coord": "ib"
+            },
+            {
+              "number": 68,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 69,
+              "color": "B",
+              "coord": "jb"
+            },
+            {
+              "number": 70,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 71,
+              "color": "B",
+              "coord": "kb"
+            },
+            {
+              "number": 72,
+              "color": "W",
+              "coord": "kc"
+            },
+            {
+              "number": 73,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 74,
+              "color": "W",
+              "coord": "gd",
+              "captured": [
+                "gc",
+                "hc"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 75,
+              "color": "B",
+              "coord": "hc"
+            },
+            {
+              "number": 76,
+              "color": "W",
+              "coord": "gc",
+              "captured": [
+                "hc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 77,
+              "color": "B",
+              "coord": "je"
+            },
+            {
+              "number": 78,
+              "color": "W",
+              "coord": "hc"
+            },
+            {
+              "number": 79,
+              "color": "B",
+              "coord": "ja",
+              "captured": [
+                "ka"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 80,
+              "color": "W",
+              "coord": "ba"
+            },
+            {
+              "number": 81,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 82,
+              "color": "W",
+              "coord": "bq"
+            },
+            {
+              "number": 83,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 84,
+              "color": "W",
+              "coord": "qc"
+            },
+            {
+              "number": 85,
+              "color": "B",
+              "coord": "ra",
+              "captured": [
+                "qa"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 2,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bq",
+              "captured": [
+                "cq"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cq",
+              "captured": [
+                "cr",
+                "cs",
+                "br",
+                "bs",
+                "ds",
+                "bq",
+                "ar",
+                "as",
+                "es",
+                "aq",
+                "fs",
+                "fr",
+                "gs",
+                "gr",
+                "hs"
+              ],
+              "captures": 15
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "cr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "kr"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "mr"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "mq"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "or"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "ls",
+              "captured": [
+                "lr",
+                "lq"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ml"
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "mn"
+            },
+            {
+              "number": 14,
+              "color": "W",
+              "coord": "kl",
+              "captured": [
+                "kk",
+                "jk",
+                "lk",
+                "lj",
+                "ll",
+                "mk",
+                "nk"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 15,
+              "color": "B",
+              "coord": "lk"
+            },
+            {
+              "number": 16,
+              "color": "W",
+              "coord": "lj"
+            },
+            {
+              "number": 17,
+              "color": "B",
+              "coord": "ll"
+            },
+            {
+              "number": 18,
+              "color": "W",
+              "coord": "pk"
+            },
+            {
+              "number": 19,
+              "color": "B",
+              "coord": "pj"
+            },
+            {
+              "number": 20,
+              "color": "W",
+              "coord": "sh",
+              "captured": [
+                "si",
+                "sj",
+                "ri",
+                "sk",
+                "rj",
+                "sl",
+                "rk",
+                "sm",
+                "rl",
+                "qk"
+              ],
+              "captures": 10
+            },
+            {
+              "number": 21,
+              "color": "B",
+              "coord": "rk"
+            },
+            {
+              "number": 22,
+              "color": "W",
+              "coord": "qk"
+            },
+            {
+              "number": 23,
+              "color": "B",
+              "coord": "ri"
+            },
+            {
+              "number": 24,
+              "color": "W",
+              "coord": "rj"
+            },
+            {
+              "number": 25,
+              "color": "B",
+              "coord": "sj"
+            },
+            {
+              "number": 26,
+              "color": "W",
+              "coord": "ni"
+            },
+            {
+              "number": 27,
+              "color": "B",
+              "coord": "oh"
+            },
+            {
+              "number": 28,
+              "color": "W",
+              "coord": "mg"
+            },
+            {
+              "number": 29,
+              "color": "B",
+              "coord": "lh"
+            },
+            {
+              "number": 30,
+              "color": "W",
+              "coord": "pb"
+            },
+            {
+              "number": 31,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 32,
+              "color": "W",
+              "coord": "qa",
+              "captured": [
+                "qb",
+                "qc",
+                "rb",
+                "pc",
+                "ra",
+                "sb",
+                "sa",
+                "sc",
+                "sd"
+              ],
+              "captures": 9
+            },
+            {
+              "number": 33,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 34,
+              "color": "W",
+              "coord": "hk"
+            },
+            {
+              "number": 35,
+              "color": "B",
+              "coord": "hj"
+            },
+            {
+              "number": 36,
+              "color": "W",
+              "coord": "gl"
+            },
+            {
+              "number": 37,
+              "color": "B",
+              "coord": "fk"
+            },
+            {
+              "number": 38,
+              "color": "W",
+              "coord": "fl"
+            },
+            {
+              "number": 39,
+              "color": "B",
+              "coord": "hl"
+            },
+            {
+              "number": 40,
+              "color": "W",
+              "coord": "fj",
+              "captured": [
+                "fk",
+                "ek",
+                "gk"
+              ],
+              "captures": 3
+            },
+            {
+              "number": 41,
+              "color": "B",
+              "coord": "dj"
+            },
+            {
+              "number": 42,
+              "color": "W",
+              "coord": "bk"
+            },
+            {
+              "number": 43,
+              "color": "B",
+              "coord": "bl"
+            },
+            {
+              "number": 44,
+              "color": "W",
+              "coord": "eh"
+            },
+            {
+              "number": 45,
+              "color": "B",
+              "coord": "eg"
+            },
+            {
+              "number": 46,
+              "color": "W",
+              "coord": "gg"
+            },
+            {
+              "number": 47,
+              "color": "B",
+              "coord": "gh"
+            },
+            {
+              "number": 48,
+              "color": "W",
+              "coord": "dg"
+            },
+            {
+              "number": 49,
+              "color": "B",
+              "coord": "cg"
+            },
+            {
+              "number": 50,
+              "color": "W",
+              "coord": "bh"
+            },
+            {
+              "number": 51,
+              "color": "B",
+              "coord": "bg"
+            },
+            {
+              "number": 52,
+              "color": "W",
+              "coord": "ah",
+              "captured": [
+                "ai",
+                "aj",
+                "bi",
+                "bj"
+              ],
+              "captures": 4
+            },
+            {
+              "number": 53,
+              "color": "B",
+              "coord": "bi"
+            },
+            {
+              "number": 54,
+              "color": "W",
+              "coord": "fe"
+            },
+            {
+              "number": 55,
+              "color": "B",
+              "coord": "df",
+              "captured": [
+                "dg"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 56,
+              "color": "W",
+              "coord": "dg",
+              "captured": [
+                "df",
+                "ef",
+                "ee",
+                "eg",
+                "ff"
+              ],
+              "captures": 5
+            },
+            {
+              "number": 57,
+              "color": "B",
+              "coord": "ef"
+            },
+            {
+              "number": 58,
+              "color": "W",
+              "coord": "eg"
+            },
+            {
+              "number": 59,
+              "color": "B",
+              "coord": "df"
+            },
+            {
+              "number": 60,
+              "color": "W",
+              "coord": "da"
+            },
+            {
+              "number": 61,
+              "color": "B",
+              "coord": "db"
+            },
+            {
+              "number": 62,
+              "color": "W",
+              "coord": "cb",
+              "captured": [
+                "ca",
+                "ba",
+                "bb",
+                "aa",
+                "ab",
+                "ac"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 63,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 64,
+              "color": "W",
+              "coord": "hb"
+            },
+            {
+              "number": 65,
+              "color": "B",
+              "coord": "ib",
+              "captured": [
+                "ic"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 66,
+              "color": "W",
+              "coord": "ic",
+              "captured": [
+                "ib",
+                "ia",
+                "jb",
+                "ha",
+                "ja",
+                "jc",
+                "kb",
+                "kc"
+              ],
+              "captures": 8
+            },
+            {
+              "number": 67,
+              "color": "B",
+              "coord": "ib"
+            },
+            {
+              "number": 68,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 69,
+              "color": "B",
+              "coord": "jb"
+            },
+            {
+              "number": 70,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 71,
+              "color": "B",
+              "coord": "kb"
+            },
+            {
+              "number": 72,
+              "color": "W",
+              "coord": "kc"
+            },
+            {
+              "number": 73,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 74,
+              "color": "W",
+              "coord": "gd",
+              "captured": [
+                "gc",
+                "hc"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 75,
+              "color": "B",
+              "coord": "hc"
+            },
+            {
+              "number": 76,
+              "color": "W",
+              "coord": "gc",
+              "captured": [
+                "hc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 77,
+              "color": "B",
+              "coord": "ja",
+              "captured": [
+                "ka"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 78,
+              "color": "W",
+              "coord": "ba"
+            },
+            {
+              "number": 79,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 80,
+              "color": "W",
+              "coord": "bq"
+            },
+            {
+              "number": 81,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 82,
+              "color": "W",
+              "coord": "qc"
+            },
+            {
+              "number": 83,
+              "color": "B",
+              "coord": "ra",
+              "captured": [
+                "qa"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 3,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bq",
+              "captured": [
+                "cq"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cq",
+              "captured": [
+                "cr",
+                "cs",
+                "br",
+                "bs",
+                "ds",
+                "bq",
+                "ar",
+                "as",
+                "es",
+                "aq",
+                "fs",
+                "fr",
+                "gs",
+                "gr",
+                "hs"
+              ],
+              "captures": 15
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "cr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "kr"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "mr"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "mq"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "nr"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "nq"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "or"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ls",
+              "captured": [
+                "lr",
+                "lq"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 14,
+              "color": "W",
+              "coord": "ml"
+            },
+            {
+              "number": 15,
+              "color": "B",
+              "coord": "mn"
+            },
+            {
+              "number": 16,
+              "color": "W",
+              "coord": "kl",
+              "captured": [
+                "kk",
+                "jk",
+                "lk",
+                "lj",
+                "ll",
+                "mk",
+                "nk"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 17,
+              "color": "B",
+              "coord": "lk"
+            },
+            {
+              "number": 18,
+              "color": "W",
+              "coord": "lj"
+            },
+            {
+              "number": 19,
+              "color": "B",
+              "coord": "ll"
+            },
+            {
+              "number": 20,
+              "color": "W",
+              "coord": "pk"
+            },
+            {
+              "number": 21,
+              "color": "B",
+              "coord": "pj"
+            },
+            {
+              "number": 22,
+              "color": "W",
+              "coord": "sh",
+              "captured": [
+                "si",
+                "sj",
+                "ri",
+                "sk",
+                "rj",
+                "sl",
+                "rk",
+                "sm",
+                "rl",
+                "qk"
+              ],
+              "captures": 10
+            },
+            {
+              "number": 23,
+              "color": "B",
+              "coord": "rk"
+            },
+            {
+              "number": 24,
+              "color": "W",
+              "coord": "qk"
+            },
+            {
+              "number": 25,
+              "color": "B",
+              "coord": "ri"
+            },
+            {
+              "number": 26,
+              "color": "W",
+              "coord": "rj"
+            },
+            {
+              "number": 27,
+              "color": "B",
+              "coord": "sj"
+            },
+            {
+              "number": 28,
+              "color": "W",
+              "coord": "ni"
+            },
+            {
+              "number": 29,
+              "color": "B",
+              "coord": "oh"
+            },
+            {
+              "number": 30,
+              "color": "W",
+              "coord": "mg"
+            },
+            {
+              "number": 31,
+              "color": "B",
+              "coord": "lh"
+            },
+            {
+              "number": 32,
+              "color": "W",
+              "coord": "pb"
+            },
+            {
+              "number": 33,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 34,
+              "color": "W",
+              "coord": "qa",
+              "captured": [
+                "qb",
+                "qc",
+                "rb",
+                "pc",
+                "ra",
+                "sb",
+                "sa",
+                "sc",
+                "sd"
+              ],
+              "captures": 9
+            },
+            {
+              "number": 35,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 36,
+              "color": "W",
+              "coord": "hk"
+            },
+            {
+              "number": 37,
+              "color": "B",
+              "coord": "hj"
+            },
+            {
+              "number": 38,
+              "color": "W",
+              "coord": "gl"
+            },
+            {
+              "number": 39,
+              "color": "B",
+              "coord": "fk"
+            },
+            {
+              "number": 40,
+              "color": "W",
+              "coord": "fl"
+            },
+            {
+              "number": 41,
+              "color": "B",
+              "coord": "hl"
+            },
+            {
+              "number": 42,
+              "color": "W",
+              "coord": "fj",
+              "captured": [
+                "fk",
+                "ek",
+                "gk"
+              ],
+              "captures": 3
+            },
+            {
+              "number": 43,
+              "color": "B",
+              "coord": "dj"
+            },
+            {
+              "number": 44,
+              "color": "W",
+              "coord": "bk"
+            },
+            {
+              "number": 45,
+              "color": "B",
+              "coord": "bl"
+            },
+            {
+              "number": 46,
+              "color": "W",
+              "coord": "eh"
+            },
+            {
+              "number": 47,
+              "color": "B",
+              "coord": "eg"
+            },
+            {
+              "number": 48,
+              "color": "W",
+              "coord": "gg"
+            },
+            {
+              "number": 49,
+              "color": "B",
+              "coord": "gh"
+            },
+            {
+              "number": 50,
+              "color": "W",
+              "coord": "dg"
+            },
+            {
+              "number": 51,
+              "color": "B",
+              "coord": "cg"
+            },
+            {
+              "number": 52,
+              "color": "W",
+              "coord": "bh"
+            },
+            {
+              "number": 53,
+              "color": "B",
+              "coord": "bg"
+            },
+            {
+              "number": 54,
+              "color": "W",
+              "coord": "ah",
+              "captured": [
+                "ai",
+                "aj",
+                "bi",
+                "bj"
+              ],
+              "captures": 4
+            },
+            {
+              "number": 55,
+              "color": "B",
+              "coord": "bi"
+            },
+            {
+              "number": 56,
+              "color": "W",
+              "coord": "fe"
+            },
+            {
+              "number": 57,
+              "color": "B",
+              "coord": "df",
+              "captured": [
+                "dg"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 58,
+              "color": "W",
+              "coord": "dg",
+              "captured": [
+                "df",
+                "ef",
+                "ee",
+                "eg",
+                "ff"
+              ],
+              "captures": 5
+            },
+            {
+              "number": 59,
+              "color": "B",
+              "coord": "ef"
+            },
+            {
+              "number": 60,
+              "color": "W",
+              "coord": "eg"
+            },
+            {
+              "number": 61,
+              "color": "B",
+              "coord": "df"
+            },
+            {
+              "number": 62,
+              "color": "W",
+              "coord": "da"
+            },
+            {
+              "number": 63,
+              "color": "B",
+              "coord": "db"
+            },
+            {
+              "number": 64,
+              "color": "W",
+              "coord": "cb",
+              "captured": [
+                "ca",
+                "ba",
+                "bb",
+                "aa",
+                "ab",
+                "ac"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 65,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 66,
+              "color": "W",
+              "coord": "hb"
+            },
+            {
+              "number": 67,
+              "color": "B",
+              "coord": "ib",
+              "captured": [
+                "ic"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 68,
+              "color": "W",
+              "coord": "ic",
+              "captured": [
+                "ib",
+                "ia",
+                "jb",
+                "ha",
+                "ja",
+                "jc",
+                "kb",
+                "kc"
+              ],
+              "captures": 8
+            },
+            {
+              "number": 69,
+              "color": "B",
+              "coord": "ib"
+            },
+            {
+              "number": 70,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 71,
+              "color": "B",
+              "coord": "jb"
+            },
+            {
+              "number": 72,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 73,
+              "color": "B",
+              "coord": "kb"
+            },
+            {
+              "number": 74,
+              "color": "W",
+              "coord": "kc"
+            },
+            {
+              "number": 75,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 76,
+              "color": "W",
+              "coord": "gd",
+              "captured": [
+                "gc",
+                "hc"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 77,
+              "color": "B",
+              "coord": "hc"
+            },
+            {
+              "number": 78,
+              "color": "W",
+              "coord": "gc",
+              "captured": [
+                "hc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 79,
+              "color": "B",
+              "coord": "je"
+            },
+            {
+              "number": 80,
+              "color": "W",
+              "coord": "hc"
+            },
+            {
+              "number": 81,
+              "color": "B",
+              "coord": "ja",
+              "captured": [
+                "ka"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 82,
+              "color": "W",
+              "coord": "ba"
+            },
+            {
+              "number": 83,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 84,
+              "color": "W",
+              "coord": "bq"
+            },
+            {
+              "number": 85,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 86,
+              "color": "W",
+              "coord": "qc"
+            },
+            {
+              "number": 87,
+              "color": "B",
+              "coord": "ra",
+              "captured": [
+                "qa"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        },
+        {
+          "id": 4,
+          "moves": [
+            {
+              "number": 1,
+              "color": "B",
+              "coord": "bq",
+              "captured": [
+                "cq"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 2,
+              "color": "W",
+              "coord": "cq",
+              "captured": [
+                "cr",
+                "cs",
+                "br",
+                "bs",
+                "ds",
+                "bq",
+                "ar",
+                "as",
+                "es",
+                "aq",
+                "fs",
+                "fr",
+                "gs",
+                "gr",
+                "hs"
+              ],
+              "captures": 15
+            },
+            {
+              "number": 3,
+              "color": "B",
+              "coord": "cr"
+            },
+            {
+              "number": 4,
+              "color": "W",
+              "coord": "kr"
+            },
+            {
+              "number": 5,
+              "color": "B",
+              "coord": "jr"
+            },
+            {
+              "number": 6,
+              "color": "W",
+              "coord": "mr"
+            },
+            {
+              "number": 7,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 8,
+              "color": "W",
+              "coord": "mq"
+            },
+            {
+              "number": 9,
+              "color": "B",
+              "coord": "nr"
+            },
+            {
+              "number": 10,
+              "color": "W",
+              "coord": "nq"
+            },
+            {
+              "number": 11,
+              "color": "B",
+              "coord": "or"
+            },
+            {
+              "number": 12,
+              "color": "W",
+              "coord": "ls",
+              "captured": [
+                "lr",
+                "lq"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 13,
+              "color": "B",
+              "coord": "lq"
+            },
+            {
+              "number": 14,
+              "color": "W",
+              "coord": "ml"
+            },
+            {
+              "number": 15,
+              "color": "B",
+              "coord": "mn"
+            },
+            {
+              "number": 16,
+              "color": "W",
+              "coord": "kl",
+              "captured": [
+                "kk",
+                "jk",
+                "lk",
+                "lj",
+                "ll",
+                "mk",
+                "nk"
+              ],
+              "captures": 7
+            },
+            {
+              "number": 17,
+              "color": "B",
+              "coord": "lk"
+            },
+            {
+              "number": 18,
+              "color": "W",
+              "coord": "lj"
+            },
+            {
+              "number": 19,
+              "color": "B",
+              "coord": "ll"
+            },
+            {
+              "number": 20,
+              "color": "W",
+              "coord": "pk"
+            },
+            {
+              "number": 21,
+              "color": "B",
+              "coord": "pj"
+            },
+            {
+              "number": 22,
+              "color": "W",
+              "coord": "sh",
+              "captured": [
+                "si",
+                "sj",
+                "ri",
+                "sk",
+                "rj",
+                "sl",
+                "rk",
+                "sm",
+                "rl",
+                "qk"
+              ],
+              "captures": 10
+            },
+            {
+              "number": 23,
+              "color": "B",
+              "coord": "rk"
+            },
+            {
+              "number": 24,
+              "color": "W",
+              "coord": "qk"
+            },
+            {
+              "number": 25,
+              "color": "B",
+              "coord": "ri"
+            },
+            {
+              "number": 26,
+              "color": "W",
+              "coord": "rj"
+            },
+            {
+              "number": 27,
+              "color": "B",
+              "coord": "sj"
+            },
+            {
+              "number": 28,
+              "color": "W",
+              "coord": "ni"
+            },
+            {
+              "number": 29,
+              "color": "B",
+              "coord": "oh"
+            },
+            {
+              "number": 30,
+              "color": "W",
+              "coord": "mg"
+            },
+            {
+              "number": 31,
+              "color": "B",
+              "coord": "lh"
+            },
+            {
+              "number": 32,
+              "color": "W",
+              "coord": "pb"
+            },
+            {
+              "number": 33,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 34,
+              "color": "W",
+              "coord": "qa",
+              "captured": [
+                "qb",
+                "qc",
+                "rb",
+                "pc",
+                "ra",
+                "sb",
+                "sa",
+                "sc",
+                "sd"
+              ],
+              "captures": 9
+            },
+            {
+              "number": 35,
+              "color": "B",
+              "coord": "qb"
+            },
+            {
+              "number": 36,
+              "color": "W",
+              "coord": "hk"
+            },
+            {
+              "number": 37,
+              "color": "B",
+              "coord": "hj"
+            },
+            {
+              "number": 38,
+              "color": "W",
+              "coord": "gl"
+            },
+            {
+              "number": 39,
+              "color": "B",
+              "coord": "fk"
+            },
+            {
+              "number": 40,
+              "color": "W",
+              "coord": "fl"
+            },
+            {
+              "number": 41,
+              "color": "B",
+              "coord": "hl"
+            },
+            {
+              "number": 42,
+              "color": "W",
+              "coord": "fj",
+              "captured": [
+                "fk",
+                "ek",
+                "gk"
+              ],
+              "captures": 3
+            },
+            {
+              "number": 43,
+              "color": "B",
+              "coord": "dj"
+            },
+            {
+              "number": 44,
+              "color": "W",
+              "coord": "bk"
+            },
+            {
+              "number": 45,
+              "color": "B",
+              "coord": "bl"
+            },
+            {
+              "number": 46,
+              "color": "W",
+              "coord": "eh"
+            },
+            {
+              "number": 47,
+              "color": "B",
+              "coord": "eg"
+            },
+            {
+              "number": 48,
+              "color": "W",
+              "coord": "gg"
+            },
+            {
+              "number": 49,
+              "color": "B",
+              "coord": "gh"
+            },
+            {
+              "number": 50,
+              "color": "W",
+              "coord": "dg"
+            },
+            {
+              "number": 51,
+              "color": "B",
+              "coord": "cg"
+            },
+            {
+              "number": 52,
+              "color": "W",
+              "coord": "bh"
+            },
+            {
+              "number": 53,
+              "color": "B",
+              "coord": "bg"
+            },
+            {
+              "number": 54,
+              "color": "W",
+              "coord": "ah",
+              "captured": [
+                "ai",
+                "aj",
+                "bi",
+                "bj"
+              ],
+              "captures": 4
+            },
+            {
+              "number": 55,
+              "color": "B",
+              "coord": "bi"
+            },
+            {
+              "number": 56,
+              "color": "W",
+              "coord": "fe"
+            },
+            {
+              "number": 57,
+              "color": "B",
+              "coord": "df",
+              "captured": [
+                "dg"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 58,
+              "color": "W",
+              "coord": "dg",
+              "captured": [
+                "df",
+                "ef",
+                "ee",
+                "eg",
+                "ff"
+              ],
+              "captures": 5
+            },
+            {
+              "number": 59,
+              "color": "B",
+              "coord": "ef"
+            },
+            {
+              "number": 60,
+              "color": "W",
+              "coord": "eg"
+            },
+            {
+              "number": 61,
+              "color": "B",
+              "coord": "df"
+            },
+            {
+              "number": 62,
+              "color": "W",
+              "coord": "da"
+            },
+            {
+              "number": 63,
+              "color": "B",
+              "coord": "db"
+            },
+            {
+              "number": 64,
+              "color": "W",
+              "coord": "cb",
+              "captured": [
+                "ca",
+                "ba",
+                "bb",
+                "aa",
+                "ab",
+                "ac"
+              ],
+              "captures": 6
+            },
+            {
+              "number": 65,
+              "color": "B",
+              "coord": "bb"
+            },
+            {
+              "number": 66,
+              "color": "W",
+              "coord": "hb"
+            },
+            {
+              "number": 67,
+              "color": "B",
+              "coord": "ib",
+              "captured": [
+                "ic"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 68,
+              "color": "W",
+              "coord": "ic",
+              "captured": [
+                "ib",
+                "ia",
+                "jb",
+                "ha",
+                "ja",
+                "jc",
+                "kb",
+                "kc"
+              ],
+              "captures": 8
+            },
+            {
+              "number": 69,
+              "color": "B",
+              "coord": "ib"
+            },
+            {
+              "number": 70,
+              "color": "W",
+              "coord": "jc"
+            },
+            {
+              "number": 71,
+              "color": "B",
+              "coord": "jb"
+            },
+            {
+              "number": 72,
+              "color": "W",
+              "coord": "fc"
+            },
+            {
+              "number": 73,
+              "color": "B",
+              "coord": "kb"
+            },
+            {
+              "number": 74,
+              "color": "W",
+              "coord": "kc"
+            },
+            {
+              "number": 75,
+              "color": "B",
+              "coord": "la"
+            },
+            {
+              "number": 76,
+              "color": "W",
+              "coord": "gd",
+              "captured": [
+                "gc",
+                "hc"
+              ],
+              "captures": 2
+            },
+            {
+              "number": 77,
+              "color": "B",
+              "coord": "hc"
+            },
+            {
+              "number": 78,
+              "color": "W",
+              "coord": "gc",
+              "captured": [
+                "hc"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 79,
+              "color": "B",
+              "coord": "ja",
+              "captured": [
+                "ka"
+              ],
+              "captures": 1
+            },
+            {
+              "number": 80,
+              "color": "W",
+              "coord": "ba"
+            },
+            {
+              "number": 81,
+              "color": "B",
+              "coord": "ab"
+            },
+            {
+              "number": 82,
+              "color": "W",
+              "coord": "bq"
+            },
+            {
+              "number": 83,
+              "color": "B",
+              "coord": "br"
+            },
+            {
+              "number": 84,
+              "color": "W",
+              "coord": "qc"
+            },
+            {
+              "number": 85,
+              "color": "B",
+              "coord": "ra",
+              "captured": [
+                "qa"
+              ],
+              "captures": 1,
+              "comment": "+"
+            }
+          ],
+          "result": "+"
+        }
+      ],
+      "totalVariations": 94,
+      "totalSolutions": 4
+    }
+  ],
+  "errores": 0
+}
