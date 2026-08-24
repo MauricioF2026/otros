@@ -1,0 +1,582 @@
+{
+  "titulo": "1984",
+  "autor": "George Orwell",
+  "partes": [
+    {
+      "id": "parte1",
+      "nombre": "Parte I",
+      "capitulos": [
+        {
+          "id": "p1c1",
+          "numero": 1,
+          "titulo": "El diario y el mundo de Oceanía",
+          "resumen": "Winston Smith comienza a escribir en secreto un diario. Se presenta el mundo de Oceanía, dominado por el Partido y la vigilancia constante.",
+          "personajes": ["winston", "gran_hermano", "o_brien"],
+          "conceptos": ["gran_hermano", "telespantalla", "crimental", "doblepensar"],
+          "acontecimientos": ["winston_escribe_diario", "dos_minutos_de_odio"],
+          "temas": ["vigilancia", "libertad", "memoria", "poder"],
+          "simbolos": ["diario"]
+        },
+        {
+          "id": "p1c2",
+          "numero": 2,
+          "titulo": "Los Parsons",
+          "resumen": "Winston ayuda a la familia Parsons y observa cómo la ideología del Partido ha penetrado incluso en los niños.",
+          "personajes": ["winston", "parsons", "sra_parsons"],
+          "conceptos": ["partido", "policia_del_pensamiento", "crimental"],
+          "acontecimientos": ["winston_ayuda_parsons"],
+          "temas": ["control", "familia", "adoctrinamiento"],
+          "simbolos": []
+        },
+        {
+          "id": "p1c3",
+          "numero": 3,
+          "titulo": "Recuerdos y contradicciones",
+          "resumen": "Winston recuerda fragmentos de su infancia y reflexiona sobre la manipulación del pasado y la dificultad de distinguir los recuerdos verdaderos de los falsificados.",
+          "personajes": ["winston", "madre_de_winston", "hermana_de_winston"],
+          "conceptos": ["memoria", "doblepensar", "pasado"],
+          "acontecimientos": ["recuerdo_de_la_madre"],
+          "temas": ["memoria", "verdad", "historia"],
+          "simbolos": []
+        },
+        {
+          "id": "p1c4",
+          "numero": 4,
+          "titulo": "El Ministerio de la Verdad",
+          "resumen": "Winston trabaja modificando documentos históricos para que el pasado coincida con las afirmaciones actuales del Partido.",
+          "personajes": ["winston"],
+          "conceptos": ["ministerio_de_la_verdad", "neolengua", "pasado"],
+          "acontecimientos": ["winston_reescribe_el_pasado"],
+          "temas": ["verdad", "historia", "propaganda", "poder"],
+          "simbolos": ["agujero_de_memoria"]
+        },
+        {
+          "id": "p1c5",
+          "numero": 5,
+          "titulo": "Syme y la neolengua",
+          "resumen": "Winston conversa con Syme sobre la reducción deliberada del lenguaje mediante la neolengua.",
+          "personajes": ["winston", "syme"],
+          "conceptos": ["neolengua", "crimental"],
+          "acontecimientos": ["conversacion_con_syme"],
+          "temas": ["lenguaje", "pensamiento", "control"],
+          "simbolos": []
+        },
+        {
+          "id": "p1c6",
+          "numero": 6,
+          "titulo": "Julia y la vida privada",
+          "resumen": "Winston recuerda aspectos de su matrimonio y reflexiona sobre la forma en que el Partido controla las relaciones personales y sexuales.",
+          "personajes": ["winston", "julia", "katharine"],
+          "conceptos": ["partido", "sexualidad", "control"],
+          "acontecimientos": ["recuerdo_de_katharine"],
+          "temas": ["amor", "control", "individualidad"],
+          "simbolos": []
+        },
+        {
+          "id": "p1c7",
+          "numero": 7,
+          "titulo": "Los proles y la esperanza",
+          "resumen": "Winston reflexiona sobre los proles y llega a pensar que, si existe alguna esperanza para la humanidad, está en ellos.",
+          "personajes": ["winston", "proles"],
+          "conceptos": ["proles", "partido", "revolucion"],
+          "acontecimientos": ["reflexion_sobre_los_proles"],
+          "temas": ["esperanza", "revolucion", "libertad"],
+          "simbolos": []
+        },
+        {
+          "id": "p1c8",
+          "numero": 8,
+          "titulo": "La tienda y el pasado",
+          "resumen": "Winston visita el barrio de los proles y entra en la tienda de Mr. Charrington. Compra un pisapapeles antiguo y alquila posteriormente una habitación.",
+          "personajes": ["winston", "mr_charrington"],
+          "conceptos": ["proles", "pasado", "memoria"],
+          "acontecimientos": ["compra_del_pisapapeles", "visita_a_la_tienda"],
+          "temas": ["pasado", "memoria", "individualidad"],
+          "simbolos": ["pisapapeles", "tienda"]
+        }
+      ]
+    },
+    {
+      "id": "parte2",
+      "nombre": "Parte II",
+      "capitulos": [
+        {
+          "id": "p2c1",
+          "numero": 1,
+          "titulo": "La nota de Julia",
+          "resumen": "Julia entrega secretamente a Winston una nota que dice que lo ama.",
+          "personajes": ["winston", "julia"],
+          "conceptos": ["amor", "rebeldia"],
+          "acontecimientos": ["julia_declara_su_amor"],
+          "temas": ["amor", "rebeldia", "individualidad"],
+          "simbolos": ["nota"]
+        },
+        {
+          "id": "p2c2",
+          "numero": 2,
+          "titulo": "El encuentro",
+          "resumen": "Winston y Julia encuentran una forma de verse y comienzan una relación clandestina.",
+          "personajes": ["winston", "julia"],
+          "conceptos": ["rebeldia", "amor", "partido"],
+          "acontecimientos": ["primer_encuentro"],
+          "temas": ["amor", "libertad", "rebeldia"],
+          "simbolos": []
+        },
+        {
+          "id": "p2c3",
+          "numero": 3,
+          "titulo": "La habitación",
+          "resumen": "Winston y Julia continúan su relación secreta y buscan un espacio privado lejos del control aparente del Partido.",
+          "personajes": ["winston", "julia"],
+          "conceptos": ["individualidad", "rebeldia"],
+          "acontecimientos": ["relacion_clandestina"],
+          "temas": ["amor", "libertad", "intimidad"],
+          "simbolos": ["habitacion"]
+        },
+        {
+          "id": "p2c4",
+          "numero": 4,
+          "titulo": "El pisapapeles",
+          "resumen": "La habitación alquilada se convierte para Winston y Julia en una representación de un pequeño mundo privado.",
+          "personajes": ["winston", "julia"],
+          "conceptos": ["pasado", "memoria", "individualidad"],
+          "acontecimientos": ["habitacion_como_refugio"],
+          "temas": ["pasado", "amor", "libertad"],
+          "simbolos": ["pisapapeles"]
+        },
+        {
+          "id": "p2c5",
+          "numero": 5,
+          "titulo": "Syme desaparece",
+          "resumen": "Winston observa que Syme ha desaparecido. Su ausencia demuestra que incluso un miembro leal del Partido puede convertirse en una persona inexistente.",
+          "personajes": ["winston", "syme"],
+          "conceptos": ["vaporizacion", "crimental", "neolengua"],
+          "acontecimientos": ["desaparicion_de_syme"],
+          "temas": ["miedo", "control", "memoria"],
+          "simbolos": []
+        },
+        {
+          "id": "p2c6",
+          "numero": 6,
+          "titulo": "La propuesta de O'Brien",
+          "resumen": "O'Brien invita a Winston a su casa y Winston interpreta el encuentro como una posible conexión con la resistencia.",
+          "personajes": ["winston", "o_brien"],
+          "conceptos": ["hermandad", "resistencia"],
+          "acontecimientos": ["invitacion_de_obrien"],
+          "temas": ["esperanza", "rebeldia", "engaño"],
+          "simbolos": []
+        },
+        {
+          "id": "p2c7",
+          "numero": 7,
+          "titulo": "Goldstein y la resistencia",
+          "resumen": "Winston y Julia creen estar entrando en contacto con una resistencia contra el Partido.",
+          "personajes": ["winston", "julia", "o_brien", "goldstein"],
+          "conceptos": ["goldstein", "hermandad", "resistencia"],
+          "acontecimientos": ["entrega_del_libro"],
+          "temas": ["poder", "rebeldia", "verdad"],
+          "simbolos": ["libro_de_goldstein"]
+        },
+        {
+          "id": "p2c8",
+          "numero": 8,
+          "titulo": "El libro",
+          "resumen": "Winston comienza a leer el supuesto libro de Goldstein y encuentra una explicación del funcionamiento del sistema político.",
+          "personajes": ["winston", "julia", "goldstein"],
+          "conceptos": ["guerra", "clases", "poder", "doblepensar"],
+          "acontecimientos": ["lectura_del_libro"],
+          "temas": ["poder", "historia", "guerra"],
+          "simbolos": ["libro_de_goldstein"]
+        },
+        {
+          "id": "p2c9",
+          "numero": 9,
+          "titulo": "La captura",
+          "resumen": "Winston y Julia son descubiertos y arrestados. La habitación que parecía segura era en realidad una trampa.",
+          "personajes": ["winston", "julia", "mr_charrington"],
+          "conceptos": ["policia_del_pensamiento", "vigilancia"],
+          "acontecimientos": ["captura_de_winston_y_julia"],
+          "temas": ["vigilancia", "traicion", "miedo"],
+          "simbolos": ["habitacion"]
+        },
+        {
+          "id": "p2c10",
+          "numero": 10,
+          "titulo": "El Ministerio del Amor",
+          "resumen": "Winston es llevado al Ministerio del Amor y descubre la verdadera función de O'Brien.",
+          "personajes": ["winston", "o_brien", "julia"],
+          "conceptos": ["ministerio_del_amor", "tortura", "doblepensar"],
+          "acontecimientos": ["encarcelamiento"],
+          "temas": ["poder", "tortura", "control"],
+          "simbolos": ["ministerio_del_amor"]
+        }
+      ]
+    },
+    {
+      "id": "parte3",
+      "nombre": "Parte III",
+      "capitulos": [
+        {
+          "id": "p3c1",
+          "numero": 1,
+          "titulo": "Interrogatorio",
+          "resumen": "O'Brien interroga a Winston y trata de destruir su capacidad de confiar en su propia percepción.",
+          "personajes": ["winston", "o_brien"],
+          "conceptos": ["doblepensar", "verdad", "poder"],
+          "acontecimientos": ["interrogatorio"],
+          "temas": ["verdad", "poder", "realidad"],
+          "simbolos": []
+        },
+        {
+          "id": "p3c2",
+          "numero": 2,
+          "titulo": "2 + 2 = 5",
+          "resumen": "O'Brien intenta imponer a Winston la idea de que la realidad depende del poder del Partido.",
+          "personajes": ["winston", "o_brien"],
+          "conceptos": ["doblepensar", "realidad", "poder"],
+          "acontecimientos": ["dos_mas_dos_cinco"],
+          "temas": ["verdad", "poder", "realidad"],
+          "simbolos": ["dos_mas_dos"]
+        },
+        {
+          "id": "p3c3",
+          "numero": 3,
+          "titulo": "La habitación 101",
+          "resumen": "O'Brien explica a Winston la verdadera naturaleza del poder del Partido y lo prepara para enfrentarse a su peor miedo.",
+          "personajes": ["winston", "o_brien"],
+          "conceptos": ["poder", "miedo", "habitacion_101"],
+          "acontecimientos": ["preparacion_room_101"],
+          "temas": ["miedo", "poder", "identidad"],
+          "simbolos": ["habitacion_101"]
+        },
+        {
+          "id": "p3c4",
+          "numero": 4,
+          "titulo": "La traición",
+          "resumen": "Winston es sometido a su mayor miedo y traiciona a Julia.",
+          "personajes": ["winston", "julia", "o_brien"],
+          "conceptos": ["habitacion_101", "miedo", "traicion"],
+          "acontecimientos": ["winston_traiciona_a_julia"],
+          "temas": ["miedo", "amor", "poder"],
+          "simbolos": ["habitacion_101"]
+        },
+        {
+          "id": "p3c5",
+          "numero": 5,
+          "titulo": "Después de la tortura",
+          "resumen": "Winston sale transformado de su experiencia. Se encuentra nuevamente con Julia, pero la relación ha quedado destruida.",
+          "personajes": ["winston", "julia"],
+          "conceptos": ["doblepensar", "partido"],
+          "acontecimientos": ["encuentro_final_con_julia"],
+          "temas": ["amor", "perdida", "control"],
+          "simbolos": []
+        },
+        {
+          "id": "p3c6",
+          "numero": 6,
+          "titulo": "El final",
+          "resumen": "Winston acepta finalmente el poder del Partido y su transformación interior queda completa.",
+          "personajes": ["winston", "gran_hermano"],
+          "conceptos": ["gran_hermano", "doblepensar", "poder"],
+          "acontecimientos": ["aceptacion_del_partido"],
+          "temas": ["poder", "identidad", "rendicion"],
+          "simbolos": ["gran_hermano"]
+        }
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "winston",
+      "nombre": "Winston Smith",
+      "tipo": "Protagonista",
+      "descripcion": "Empleado del Ministerio de la Verdad que comienza a cuestionar interiormente al Partido.",
+      "relaciones": ["julia", "o_brien", "mr_charrington", "syme"],
+      "evolucion": "Pasa de la rebeldía interior y la búsqueda de la verdad a la destrucción psicológica y aceptación del Partido."
+    },
+    {
+      "id": "julia",
+      "nombre": "Julia",
+      "tipo": "Personaje principal",
+      "descripcion": "Joven que mantiene una actitud rebelde y pragmática frente al Partido.",
+      "relaciones": ["winston"],
+      "evolucion": "Su relación con Winston representa una forma de rebelión privada que finalmente es destruida."
+    },
+    {
+      "id": "o_brien",
+      "nombre": "O'Brien",
+      "tipo": "Antagonista",
+      "descripcion": "Miembro poderoso del Partido Interior que manipula a Winston y participa en su destrucción.",
+      "relaciones": ["winston", "goldstein"],
+      "evolucion": "Pasa de ser interpretado por Winston como posible aliado a revelarse como instrumento del Partido."
+    },
+    {
+      "id": "mr_charrington",
+      "nombre": "Mr. Charrington",
+      "tipo": "Antagonista",
+      "descripcion": "Propietario de una tienda del barrio de los proles que proporciona a Winston un falso refugio.",
+      "relaciones": ["winston"],
+      "evolucion": "Su aparente amabilidad oculta su colaboración con el sistema de vigilancia."
+    },
+    {
+      "id": "syme",
+      "nombre": "Syme",
+      "tipo": "Miembro del Partido",
+      "descripcion": "Trabaja en la elaboración de la neolengua y comprende perfectamente el propósito de reducir el lenguaje.",
+      "relaciones": ["winston"],
+      "evolucion": "Desaparece a pesar de su lealtad al Partido."
+    },
+    {
+      "id": "parsons",
+      "nombre": "Tom Parsons",
+      "tipo": "Miembro del Partido",
+      "descripcion": "Vecino de Winston y ejemplo de ciudadano completamente integrado en la ideología del Partido.",
+      "relaciones": ["winston"],
+      "evolucion": "Incluso termina denunciado por su propia hija."
+    },
+    {
+      "id": "goldstein",
+      "nombre": "Emmanuel Goldstein",
+      "tipo": "Figura política",
+      "descripcion": "Enemigo oficial del Partido y supuesto líder de la resistencia.",
+      "relaciones": ["o_brien", "winston"],
+      "evolucion": "Funciona como figura utilizada por el Partido para canalizar el odio y justificar el control."
+    },
+    {
+      "id": "gran_hermano",
+      "nombre": "Gran Hermano",
+      "tipo": "Símbolo del poder",
+      "descripcion": "Figura omnipresente que representa el poder y la autoridad absoluta del Partido.",
+      "relaciones": ["winston"],
+      "evolucion": "Se convierte en el objeto final de aceptación por parte de Winston."
+    }
+  ],
+  "conceptos": [
+    {
+      "id": "gran_hermano",
+      "nombre": "Gran Hermano",
+      "descripcion": "Figura simbólica del poder absoluto del Partido.",
+      "relacionados": ["vigilancia", "partido", "doblepensar"]
+    },
+    {
+      "id": "doblepensar",
+      "nombre": "Doble pensar",
+      "descripcion": "Capacidad de aceptar simultáneamente dos ideas contradictorias y considerar ambas verdaderas.",
+      "relacionados": ["verdad", "neolengua", "poder"]
+    },
+    {
+      "id": "neolengua",
+      "nombre": "Neolengua",
+      "descripcion": "Lenguaje diseñado para reducir el vocabulario y limitar las posibilidades del pensamiento.",
+      "relacionados": ["pensamiento", "crimental", "control"]
+    },
+    {
+      "id": "crimental",
+      "nombre": "Crimental",
+      "descripcion": "Delito de pensamiento: tener ideas consideradas contrarias al Partido.",
+      "relacionados": ["policia_del_pensamiento", "neolengua", "vigilancia"]
+    },
+    {
+      "id": "policia_del_pensamiento",
+      "nombre": "Policía del Pensamiento",
+      "descripcion": "Institución encargada de detectar y eliminar pensamientos considerados peligrosos.",
+      "relacionados": ["vigilancia", "crimental", "partido"]
+    },
+    {
+      "id": "partido",
+      "nombre": "El Partido",
+      "descripcion": "Sistema político totalitario que controla la sociedad de Oceanía.",
+      "relacionados": ["poder", "vigilancia", "propaganda"]
+    },
+    {
+      "id": "memoria",
+      "nombre": "Memoria",
+      "descripcion": "Capacidad de recordar el pasado, convertida en una amenaza para el control del Partido.",
+      "relacionados": ["pasado", "verdad", "historia"]
+    },
+    {
+      "id": "poder",
+      "nombre": "Poder",
+      "descripcion": "En la novela, el poder no busca solamente gobernar, sino controlar la percepción de la realidad.",
+      "relacionados": ["doblepensar", "tortura", "verdad"]
+    },
+    {
+      "id": "habitacion_101",
+      "nombre": "Habitación 101",
+      "descripcion": "Lugar donde cada prisionero se enfrenta a aquello que más teme.",
+      "relacionados": ["miedo", "tortura", "poder"]
+    },
+    {
+      "id": "proles",
+      "nombre": "Los proles",
+      "descripcion": "La mayoría de la población, mantenida al margen de gran parte del control ideológico directo del Partido.",
+      "relacionados": ["esperanza", "revolucion", "libertad"]
+    }
+  ],
+  "acontecimientos": [
+    {
+      "id": "winston_escribe_diario",
+      "nombre": "Winston comienza su diario",
+      "descripcion": "Primer acto consciente de rebeldía de Winston."
+    },
+    {
+      "id": "dos_minutos_de_odio",
+      "nombre": "Dos Minutos de Odio",
+      "descripcion": "Ritual colectivo de odio dirigido contra los enemigos del Partido."
+    },
+    {
+      "id": "winston_reescribe_el_pasado",
+      "nombre": "Winston reescribe el pasado",
+      "descripcion": "Modifica documentos para adaptar la historia a las necesidades actuales del Partido."
+    },
+    {
+      "id": "julia_declara_su_amor",
+      "nombre": "Julia declara su amor",
+      "descripcion": "Julia entrega a Winston una nota que inicia su relación clandestina."
+    },
+    {
+      "id": "entrega_del_libro",
+      "nombre": "El libro de Goldstein",
+      "descripcion": "Winston recibe el supuesto texto de la resistencia."
+    },
+    {
+      "id": "captura_de_winston_y_julia",
+      "nombre": "Captura de Winston y Julia",
+      "descripcion": "La Policía del Pensamiento descubre su refugio y los arresta."
+    },
+    {
+      "id": "dos_mas_dos_cinco",
+      "nombre": "2 + 2 = 5",
+      "descripcion": "O'Brien intenta destruir la confianza de Winston en una verdad objetiva."
+    },
+    {
+      "id": "winston_traiciona_a_julia",
+      "nombre": "Winston traiciona a Julia",
+      "descripcion": "Ante su peor miedo, Winston pide que el castigo recaiga sobre Julia en lugar de él."
+    },
+    {
+      "id": "aceptacion_del_partido",
+      "nombre": "Aceptación del Partido",
+      "descripcion": "Winston termina aceptando interiormente al Gran Hermano."
+    }
+  ],
+  "temas": [
+    {
+      "id": "vigilancia",
+      "nombre": "Vigilancia",
+      "descripcion": "El Partido vigila las acciones, palabras e incluso pensamientos de los individuos."
+    },
+    {
+      "id": "libertad",
+      "nombre": "Libertad",
+      "descripcion": "La novela plantea qué queda de la libertad cuando incluso la percepción puede ser controlada."
+    },
+    {
+      "id": "memoria",
+      "nombre": "Memoria",
+      "descripcion": "Recordar constituye una forma de resistencia frente a la manipulación del pasado."
+    },
+    {
+      "id": "verdad",
+      "nombre": "Verdad",
+      "descripcion": "La novela cuestiona quién puede determinar qué es verdadero cuando una autoridad controla toda la información."
+    },
+    {
+      "id": "poder",
+      "nombre": "Poder",
+      "descripcion": "El Partido pretende controlar no solamente las acciones sino la mente humana."
+    },
+    {
+      "id": "amor",
+      "nombre": "Amor",
+      "descripcion": "La relación entre Winston y Julia representa una forma de intimidad que escapa al control del Partido."
+    },
+    {
+      "id": "lenguaje",
+      "nombre": "Lenguaje",
+      "descripcion": "La reducción del lenguaje se utiliza como instrumento para limitar el pensamiento."
+    },
+    {
+      "id": "miedo",
+      "nombre": "Miedo",
+      "descripcion": "El miedo es utilizado para quebrar la voluntad individual."
+    }
+  ],
+  "simbolos": [
+    {
+      "id": "diario",
+      "nombre": "El diario",
+      "descripcion": "Representa la memoria individual y el intento de Winston de afirmar su propia existencia."
+    },
+    {
+      "id": "pisapapeles",
+      "nombre": "El pisapapeles",
+      "descripcion": "Representa un fragmento del pasado y el pequeño mundo privado que Winston intenta preservar."
+    },
+    {
+      "id": "habitacion",
+      "nombre": "La habitación",
+      "descripcion": "Parece representar un refugio privado, pero termina siendo una trampa."
+    },
+    {
+      "id": "habitacion_101",
+      "nombre": "La habitación 101",
+      "descripcion": "Representa el punto en que el poder consigue penetrar en el miedo más íntimo del individuo."
+    },
+    {
+      "id": "agujero_de_memoria",
+      "nombre": "El agujero de memoria",
+      "descripcion": "Representa la destrucción física de documentos y la manipulación sistemática de la historia."
+    }
+  ],
+  "evolucion_winston": [
+    {
+      "etapa": 1,
+      "nombre": "Inconformidad",
+      "descripcion": "Winston siente que algo está profundamente mal en el mundo del Partido.",
+      "capitulos": ["p1c1", "p1c3"]
+    },
+    {
+      "etapa": 2,
+      "nombre": "Memoria",
+      "descripcion": "Comienza a cuestionar la versión oficial del pasado.",
+      "capitulos": ["p1c3", "p1c4", "p1c7"]
+    },
+    {
+      "etapa": 3,
+      "nombre": "Rebeldía",
+      "descripcion": "Escribe en su diario y comienza una relación clandestina con Julia.",
+      "capitulos": ["p1c1", "p2c1", "p2c2"]
+    },
+    {
+      "etapa": 4,
+      "nombre": "Esperanza",
+      "descripcion": "Cree que puede existir una resistencia organizada.",
+      "capitulos": ["p2c6", "p2c7", "p2c8"]
+    },
+    {
+      "etapa": 5,
+      "nombre": "Captura",
+      "descripcion": "La aparente rebelión es descubierta y Winston es detenido.",
+      "capitulos": ["p2c9", "p2c10"]
+    },
+    {
+      "etapa": 6,
+      "nombre": "Destrucción",
+      "descripcion": "O'Brien intenta destruir su capacidad de distinguir la realidad de la imposición del Partido.",
+      "capitulos": ["p3c1", "p3c2", "p3c3"]
+    },
+    {
+      "etapa": 7,
+      "nombre": "Traición",
+      "descripcion": "En la habitación 101, Winston traiciona a Julia para escapar de su peor miedo.",
+      "capitulos": ["p3c4"]
+    },
+    {
+      "etapa": 8,
+      "nombre": "Rendición",
+      "descripcion": "Winston acepta finalmente al Gran Hermano.",
+      "capitulos": ["p3c5", "p3c6"]
+    }
+  ]
+}
