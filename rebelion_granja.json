@@ -1,0 +1,615 @@
+{
+  "titulo": "Rebelión en la granja",
+  "tituloOriginal": "Animal Farm",
+  "autor": "George Orwell",
+  "capitulos": [
+    {
+      "id": "c1",
+      "numero": 1,
+      "titulo": "El discurso del Viejo Comandante",
+      "resumen": "El Viejo Comandante reúne a los animales de la Granja Solariega y les explica que la causa de su miseria es la explotación humana. Propone la rebelión y les enseña la canción Bestias de Inglaterra.",
+      "personajes": ["viejo_comandante", "senor_jones", "boxeador", "trebol", "benjamin", "marieta", "moises", "napoleon", "bola_de_nieve", "chillon"],
+      "conceptos": ["explotacion", "rebelion", "animalismo", "igualdad", "libertad"],
+      "acontecimientos": ["discurso_del_comandante", "cancion_bestias_de_inglaterra"],
+      "temas": ["libertad", "explotacion", "revolucion", "igualdad"],
+      "simbolos": ["bestias_de_inglaterra"]
+    },
+    {
+      "id": "c2",
+      "numero": 2,
+      "titulo": "La Rebelión",
+      "resumen": "Tras la muerte del Viejo Comandante, los cerdos desarrollan el animalismo. El hambre provoca una rebelión espontánea y los animales expulsan al señor Jones. La granja pasa a ser propiedad de los animales.",
+      "personajes": ["napoleon", "bola_de_nieve", "chillon", "senor_jones", "boxeador", "trebol", "benjamin", "marieta", "moises"],
+      "conceptos": ["animalismo", "rebelion", "igualdad", "propiedad"],
+      "acontecimientos": ["muerte_del_comandante", "expulsion_de_jones", "granja_en_manos_de_los_animales", "redaccion_de_los_siete_mandamientos"],
+      "temas": ["revolucion", "libertad", "igualdad", "poder"],
+      "simbolos": ["siete_mandamientos", "bandera_verde"]
+    },
+    {
+      "id": "c3",
+      "numero": 3,
+      "titulo": "La organización de la granja",
+      "resumen": "Los animales trabajan para poner en funcionamiento la granja. Los cerdos asumen las tareas de organización y educación. Boxeador destaca por su enorme capacidad de trabajo.",
+      "personajes": ["napoleon", "bola_de_nieve", "chillon", "boxeador", "trebol", "benjamin"],
+      "conceptos": ["trabajo", "animalismo", "educacion", "igualdad"],
+      "acontecimientos": ["cosecha_de_los_animales", "organizacion_de_la_granja", "aprendizaje_de_los_siete_mandamientos"],
+      "temas": ["trabajo", "igualdad", "educacion", "poder"],
+      "simbolos": ["siete_mandamientos"]
+    },
+    {
+      "id": "c4",
+      "numero": 4,
+      "titulo": "La batalla del Establo",
+      "resumen": "Jones y otros granjeros intentan recuperar la granja. Bola de Nieve organiza la defensa y los animales consiguen derrotarlos en la Batalla del Establo.",
+      "personajes": ["bola_de_nieve", "napoleon", "senor_jones", "boxeador", "chillon"],
+      "conceptos": ["revolucion", "defensa", "poder", "liderazgo"],
+      "acontecimientos": ["batalla_del_establo", "derrota_de_jones"],
+      "temas": ["revolucion", "guerra", "liderazgo"],
+      "simbolos": ["medalla_hombre_animal"]
+    },
+    {
+      "id": "c5",
+      "numero": 5,
+      "titulo": "La expulsión de Bola de Nieve",
+      "resumen": "Bola de Nieve y Napoleón entran en conflicto por el futuro de la granja. Napoleón utiliza a los perros que ha criado en secreto para expulsar violentamente a Bola de Nieve y hacerse con el poder.",
+      "personajes": ["napoleon", "bola_de_nieve", "chillon", "boxeador", "trebol", "benjamin", "marieta", "moises"],
+      "conceptos": ["poder", "propaganda", "dictadura", "miedo"],
+      "acontecimientos": ["expulsion_de_bola_de_nieve", "napoleon_toma_el_poder", "abandono_de_las_reuniones"],
+      "temas": ["poder", "dictadura", "traicion", "propaganda"],
+      "simbolos": ["perros"]
+    },
+    {
+      "id": "c6",
+      "numero": 6,
+      "titulo": "El molino y los privilegios",
+      "resumen": "Los animales trabajan duramente para construir el molino. Napoleón comienza a establecer relaciones comerciales con los humanos y los cerdos se trasladan a la casa y empiezan a dormir en camas.",
+      "personajes": ["napoleon", "chillon", "boxeador", "trebol", "benjamin"],
+      "conceptos": ["trabajo", "privilegios", "propaganda", "corrupcion"],
+      "acontecimientos": ["construccion_del_molino", "cerdos_se_mudan_a_la_casa", "cerdos_duermen_en_camas"],
+      "temas": ["explotacion", "corrupcion", "privilegios", "poder"],
+      "simbolos": ["molino", "casa"]
+    },
+    {
+      "id": "c7",
+      "numero": 7,
+      "titulo": "El hambre y las ejecuciones",
+      "resumen": "El invierno trae hambre y dificultades. Napoleón organiza una campaña de miedo y confesiones forzadas que termina con numerosas ejecuciones. Los animales descubren que los mandamientos están siendo modificados.",
+      "personajes": ["napoleon", "chillon", "boxeador", "trebol", "benjamin"],
+      "conceptos": ["terror", "propaganda", "miedo", "control"],
+      "acontecimientos": ["hambre", "confesiones", "ejecuciones", "modificacion_de_los_mandamientos"],
+      "temas": ["terror", "dictadura", "propaganda", "memoria"],
+      "simbolos": ["siete_mandamientos"]
+    },
+    {
+      "id": "c8",
+      "numero": 8,
+      "titulo": "El culto a Napoleón",
+      "resumen": "Napoleón concentra cada vez más poder. Se celebra su figura mediante poemas, ceremonias y homenajes. Frederick ataca la granja y destruye el molino, pero los animales finalmente recuperan el terreno.",
+      "personajes": ["napoleon", "chillon", "boxeador", "trebol", "benjamin", "frederick", "pilkington"],
+      "conceptos": ["culto_al_lider", "propaganda", "poder", "engaño"],
+      "acontecimientos": ["culto_a_napoleon", "ataque_de_frederick", "destruccion_del_molino", "batalla_del_molino"],
+      "temas": ["poder", "propaganda", "guerra", "engaño"],
+      "simbolos": ["molino", "poema_a_napoleon"]
+    },
+    {
+      "id": "c9",
+      "numero": 9,
+      "titulo": "Boxeador",
+      "resumen": "La vida de los animales empeora mientras Napoleón disfruta de privilegios. Boxeador, agotado por el trabajo, resulta herido y finalmente es enviado al matadero, aunque Chillón afirma que fue llevado a un hospital.",
+      "personajes": ["boxeador", "napoleon", "chillon", "trebol", "benjamin", "moises"],
+      "conceptos": ["explotacion", "propaganda", "traicion", "privilegios"],
+      "acontecimientos": ["agotamiento_de_boxeador", "venta_de_boxeador", "regreso_de_moises"],
+      "temas": ["explotacion", "traicion", "trabajo", "propaganda"],
+      "simbolos": ["boxeador"]
+    },
+    {
+      "id": "c10",
+      "numero": 10,
+      "titulo": "Todos son iguales",
+      "resumen": "Pasan los años y los cerdos se parecen cada vez más a los seres humanos. Napoleón y los demás cerdos caminan sobre dos patas, llevan látigos y negocian con los humanos. El mandamiento final queda reducido a una sola frase: todos los animales son iguales, pero algunos animales son más iguales que otros.",
+      "personajes": ["napoleon", "chillon", "benjamin", "trebol", "pilkington"],
+      "conceptos": ["corrupcion", "poder", "igualdad", "propaganda", "traicion"],
+      "acontecimientos": ["cerdos_caminan_en_dos_patas", "cambio_del_ultimo_mandamiento", "banquete_con_los_humanos"],
+      "temas": ["poder", "corrupcion", "igualdad", "revolucion"],
+      "simbolos": ["siete_mandamientos", "cerdos_en_dos_patas", "cartel_final"]
+    }
+  ],
+
+  "personajes": [
+    {
+      "id": "viejo_comandante",
+      "nombre": "El Viejo Comandante",
+      "tipo": "Inspirador de la revolución",
+      "descripcion": "Viejo cerdo respetado que expone la idea de una rebelión contra la explotación humana.",
+      "relaciones": ["napoleon", "bola_de_nieve", "boxeador"],
+      "evolucion": "Muere antes de la Rebelión, pero sus ideas se convierten en la base del animalismo."
+    },
+    {
+      "id": "napoleon",
+      "nombre": "Napoleón",
+      "tipo": "Líder",
+      "descripcion": "Cerdo que termina concentrando todo el poder de la granja.",
+      "relaciones": ["bola_de_nieve", "chillon", "boxeador", "perros"],
+      "evolucion": "Pasa de ser uno de los líderes de la revolución a convertirse en un gobernante autoritario que reproduce las prácticas de los humanos."
+    },
+    {
+      "id": "bola_de_nieve",
+      "nombre": "Bola de Nieve",
+      "tipo": "Líder revolucionario",
+      "descripcion": "Cerdo inteligente, elocuente e idealista que participa en la organización de la Rebelión.",
+      "relaciones": ["napoleon", "chillon", "boxeador"],
+      "evolucion": "Es expulsado por Napoleón y posteriormente convertido en enemigo imaginario y culpable de numerosos problemas."
+    },
+    {
+      "id": "chillon",
+      "nombre": "Chillón",
+      "tipo": "Propagandista",
+      "descripcion": "Cerdo hábil con las palabras que justifica las decisiones de Napoleón y manipula la percepción de los animales.",
+      "relaciones": ["napoleon", "bola_de_nieve", "boxeador"],
+      "evolucion": "Se convierte en el principal instrumento de propaganda del régimen."
+    },
+    {
+      "id": "boxeador",
+      "nombre": "Boxeador",
+      "tipo": "Trabajador",
+      "descripcion": "Caballo enorme, fuerte y trabajador que representa la entrega absoluta al trabajo.",
+      "relaciones": ["trebol", "benjamin", "napoleon"],
+      "evolucion": "Su lema de trabajar más se convierte en una herramienta de explotación hasta que ya no resulta útil para el régimen."
+    },
+    {
+      "id": "trebol",
+      "nombre": "Trébol",
+      "tipo": "Trabajadora",
+      "descripcion": "Yegua maternal que comprende que algo está mal, aunque no siempre puede identificar exactamente cómo.",
+      "relaciones": ["boxeador", "benjamin"],
+      "evolucion": "Percibe progresivamente la traición a los ideales originales de la Rebelión."
+    },
+    {
+      "id": "benjamin",
+      "nombre": "Benjamín",
+      "tipo": "Observador",
+      "descripcion": "Burro viejo, inteligente y cínico que comprende mucho de lo que ocurre, pero permanece pasivo durante gran parte de la historia.",
+      "relaciones": ["boxeador", "trebol"],
+      "evolucion": "Su escepticismo inicial se transforma finalmente en dolor cuando comprende el destino de Boxeador."
+    },
+    {
+      "id": "marieta",
+      "nombre": "Marieta",
+      "tipo": "Yegua",
+      "descripcion": "Yegua vanidosa que aprecia los lujos, las cintas y el azúcar.",
+      "relaciones": ["bola_de_nieve"],
+      "evolucion": "Abandona la granja cuando sus privilegios personales desaparecen."
+    },
+    {
+      "id": "moises",
+      "nombre": "Moisés",
+      "tipo": "Cuervo",
+      "descripcion": "Cuervo que habla de Monte Caramelo, un lugar paradisíaco al que supuestamente van los animales después de morir.",
+      "relaciones": ["senor_jones", "napoleon"],
+      "evolucion": "Primero es rechazado por los cerdos y después vuelve a ser tolerado cuando su relato resulta útil."
+    },
+    {
+      "id": "senor_jones",
+      "nombre": "Señor Jones",
+      "tipo": "Antiguo propietario",
+      "descripcion": "Granjero que explota a los animales y es expulsado durante la Rebelión.",
+      "relaciones": ["viejo_comandante", "napoleon", "bola_de_nieve"],
+      "evolucion": "Pasa de propietario de la granja a enemigo derrotado."
+    },
+    {
+      "id": "pilkington",
+      "nombre": "Señor Pilkington",
+      "tipo": "Granjero humano",
+      "descripcion": "Propietario de una granja vecina que termina relacionándose con Napoleón.",
+      "relaciones": ["napoleon", "frederick"],
+      "evolucion": "Termina participando en la nueva relación entre los cerdos y los humanos."
+    },
+    {
+      "id": "frederick",
+      "nombre": "Señor Frederick",
+      "tipo": "Granjero humano",
+      "descripcion": "Propietario de la Granja Pinchfield, presentado como un vecino hostil y engañoso.",
+      "relaciones": ["napoleon", "pilkington"],
+      "evolucion": "Ataca la granja y destruye el molino antes de ser derrotado."
+    }
+  ],
+
+  "conceptos": [
+    {
+      "id": "animalismo",
+      "nombre": "Animalismo",
+      "descripcion": "Sistema de pensamiento desarrollado por los cerdos a partir de las enseñanzas del Viejo Comandante.",
+      "relacionados": ["rebelion", "igualdad", "libertad"]
+    },
+    {
+      "id": "rebelion",
+      "nombre": "Rebelión",
+      "descripcion": "Levantamiento de los animales contra el dominio humano que permite expulsar al señor Jones.",
+      "relacionados": ["animalismo", "libertad", "poder"]
+    },
+    {
+      "id": "igualdad",
+      "nombre": "Igualdad",
+      "descripcion": "Principio central de la revolución que termina siendo destruido por los privilegios de los cerdos.",
+      "relacionados": ["animalismo", "poder", "privilegios"]
+    },
+    {
+      "id": "propaganda",
+      "nombre": "Propaganda",
+      "descripcion": "Uso sistemático del lenguaje y de la información para convencer a los animales de que las decisiones de Napoleón son necesarias.",
+      "relacionados": ["chillon", "napoleon", "memoria"]
+    },
+    {
+      "id": "poder",
+      "nombre": "Poder",
+      "descripcion": "La concentración del poder permite a Napoleón sustituir progresivamente los ideales revolucionarios por una nueva forma de dominación.",
+      "relacionados": ["napoleon", "perros", "propaganda"]
+    },
+    {
+      "id": "explotacion",
+      "nombre": "Explotación",
+      "descripcion": "Los animales trabajan para sostener un sistema cuyos beneficios terminan concentrándose en los cerdos.",
+      "relacionados": ["boxeador", "trabajo", "privilegios"]
+    },
+    {
+      "id": "privilegios",
+      "nombre": "Privilegios",
+      "descripcion": "Ventajas reservadas progresivamente a los cerdos mientras se mantiene la apariencia de igualdad.",
+      "relacionados": ["napoleon", "igualdad", "corrupcion"]
+    },
+    {
+      "id": "miedo",
+      "nombre": "Miedo",
+      "descripcion": "Instrumento utilizado por Napoleón para mantener obedientes a los demás animales.",
+      "relacionados": ["perros", "terror", "poder"]
+    },
+    {
+      "id": "terror",
+      "nombre": "Terror",
+      "descripcion": "Violencia y amenazas utilizadas para eliminar la oposición al régimen.",
+      "relacionados": ["napoleon", "perros", "miedo"]
+    },
+    {
+      "id": "corrupcion",
+      "nombre": "Corrupción del poder",
+      "descripcion": "Transformación de los ideales revolucionarios en un sistema de privilegios y dominación.",
+      "relacionados": ["poder", "igualdad", "propaganda"]
+    },
+    {
+      "id": "memoria",
+      "nombre": "Manipulación de la memoria",
+      "descripcion": "Alteración de los recuerdos y de las reglas originales para impedir que los animales comparen el presente con los ideales de la Rebelión.",
+      "relacionados": ["propaganda", "siete_mandamientos", "chillon"]
+    }
+  ],
+
+  "acontecimientos": [
+    {
+      "id": "discurso_del_comandante",
+      "nombre": "Discurso del Viejo Comandante",
+      "descripcion": "El Viejo Comandante denuncia la explotación humana y anuncia la futura Rebelión."
+    },
+    {
+      "id": "cancion_bestias_de_inglaterra",
+      "nombre": "Bestias de Inglaterra",
+      "descripcion": "Canción revolucionaria que expresa la esperanza de libertad."
+    },
+    {
+      "id": "muerte_del_comandante",
+      "nombre": "Muerte del Viejo Comandante",
+      "descripcion": "El Viejo Comandante muere tres noches después de su discurso."
+    },
+    {
+      "id": "expulsion_de_jones",
+      "nombre": "Expulsión del señor Jones",
+      "descripcion": "Los animales expulsan a Jones y toman el control de la granja."
+    },
+    {
+      "id": "granja_en_manos_de_los_animales",
+      "nombre": "La granja pertenece a los animales",
+      "descripcion": "Los animales pasan a administrar la Granja Solariega."
+    },
+    {
+      "id": "redaccion_de_los_siete_mandamientos",
+      "nombre": "Los siete mandamientos",
+      "descripcion": "Los animales escriben las reglas fundamentales del animalismo."
+    },
+    {
+      "id": "batalla_del_establo",
+      "nombre": "Batalla del Establo",
+      "descripcion": "Los animales derrotan a Jones y a los hombres que intentan recuperar la granja."
+    },
+    {
+      "id": "expulsion_de_bola_de_nieve",
+      "nombre": "Expulsión de Bola de Nieve",
+      "descripcion": "Los perros de Napoleón expulsan a Bola de Nieve de la granja."
+    },
+    {
+      "id": "napoleon_toma_el_poder",
+      "nombre": "Napoleón toma el poder",
+      "descripcion": "Napoleón elimina el sistema de reuniones y concentra la autoridad."
+    },
+    {
+      "id": "construccion_del_molino",
+      "nombre": "Construcción del molino",
+      "descripcion": "Los animales trabajan durante meses para construir el molino proyectado inicialmente por Bola de Nieve."
+    },
+    {
+      "id": "cerdos_se_mudan_a_la_casa",
+      "nombre": "Los cerdos se mudan a la casa",
+      "descripcion": "Los cerdos comienzan a disfrutar de comodidades reservadas anteriormente a los humanos."
+    },
+    {
+      "id": "cerdos_duermen_en_camas",
+      "nombre": "Los cerdos duermen en camas",
+      "descripcion": "Se produce una primera violación evidente de los principios originales."
+    },
+    {
+      "id": "hambre",
+      "nombre": "El hambre",
+      "descripcion": "La escasez obliga a los animales a trabajar mientras los cerdos mantienen sus privilegios."
+    },
+    {
+      "id": "confesiones",
+      "nombre": "Las confesiones",
+      "descripcion": "Varios animales confiesan supuestos delitos y son ejecutados."
+    },
+    {
+      "id": "ejecuciones",
+      "nombre": "Las ejecuciones",
+      "descripcion": "Napoleón utiliza la violencia para eliminar cualquier oposición."
+    },
+    {
+      "id": "culto_a_napoleon",
+      "nombre": "Culto a Napoleón",
+      "descripcion": "Napoleón es presentado como un líder extraordinario y casi infalible."
+    },
+    {
+      "id": "ataque_de_frederick",
+      "nombre": "Ataque de Frederick",
+      "descripcion": "Frederick y sus hombres atacan la granja y destruyen el molino."
+    },
+    {
+      "id": "destruccion_del_molino",
+      "nombre": "Destrucción del molino",
+      "descripcion": "Los hombres de Frederick vuelan el molino con explosivos."
+    },
+    {
+      "id": "batalla_del_molino",
+      "nombre": "Batalla del molino",
+      "descripcion": "Los animales contraatacan y consiguen expulsar a los hombres."
+    },
+    {
+      "id": "agotamiento_de_boxeador",
+      "nombre": "Agotamiento de Boxeador",
+      "descripcion": "El caballo pierde sus fuerzas después de años de trabajo."
+    },
+    {
+      "id": "venta_de_boxeador",
+      "nombre": "Venta de Boxeador",
+      "descripcion": "Napoleón permite que Boxeador sea llevado al matadero."
+    },
+    {
+      "id": "cerdos_caminan_en_dos_patas",
+      "nombre": "Los cerdos caminan sobre dos patas",
+      "descripcion": "Los cerdos adoptan abiertamente las costumbres humanas."
+    },
+    {
+      "id": "cambio_del_ultimo_mandamiento",
+      "nombre": "Cambio del último mandamiento",
+      "descripcion": "La igualdad queda convertida en una fórmula contradictoria que justifica los privilegios."
+    },
+    {
+      "id": "banquete_con_los_humanos",
+      "nombre": "El banquete con los humanos",
+      "descripcion": "Los cerdos se reúnen con los granjeros humanos y ya resulta imposible distinguirlos."
+    }
+  ],
+
+  "temas": [
+    {
+      "id": "libertad",
+      "nombre": "Libertad",
+      "descripcion": "La Rebelión comienza como una lucha por la libertad pero termina produciendo una nueva forma de dominación."
+    },
+    {
+      "id": "revolucion",
+      "nombre": "Revolución",
+      "descripcion": "La novela muestra cómo una revolución puede desviarse de sus ideales originales."
+    },
+    {
+      "id": "igualdad",
+      "nombre": "Igualdad",
+      "descripcion": "La promesa de igualdad es progresivamente sustituida por una jerarquía."
+    },
+    {
+      "id": "poder",
+      "nombre": "Poder",
+      "descripcion": "La concentración del poder transforma a quienes inicialmente prometían liberar a los demás."
+    },
+    {
+      "id": "propaganda",
+      "nombre": "Propaganda",
+      "descripcion": "El lenguaje se utiliza para modificar la percepción de la realidad."
+    },
+    {
+      "id": "explotacion",
+      "nombre": "Explotación",
+      "descripcion": "Los animales continúan trabajando para sostener a una clase privilegiada."
+    },
+    {
+      "id": "corrupcion",
+      "nombre": "Corrupción",
+      "descripcion": "Los dirigentes adoptan progresivamente las mismas prácticas que habían condenado."
+    },
+    {
+      "id": "traicion",
+      "nombre": "Traición",
+      "descripcion": "Los ideales originales de la Rebelión son traicionados por quienes concentran el poder."
+    },
+    {
+      "id": "memoria",
+      "nombre": "Memoria",
+      "descripcion": "Modificar o borrar el pasado permite controlar la interpretación del presente."
+    }
+  ],
+
+  "simbolos": [
+    {
+      "id": "bestias_de_inglaterra",
+      "nombre": "Bestias de Inglaterra",
+      "descripcion": "Canción que representa la esperanza revolucionaria y el sueño de una sociedad libre."
+    },
+    {
+      "id": "siete_mandamientos",
+      "nombre": "Los siete mandamientos",
+      "descripcion": "Código moral de la Rebelión que posteriormente es modificado para justificar los privilegios."
+    },
+    {
+      "id": "bandera_verde",
+      "nombre": "La bandera verde",
+      "descripcion": "Símbolo de la nueva sociedad animal."
+    },
+    {
+      "id": "molino",
+      "nombre": "El molino",
+      "descripcion": "Representa simultáneamente el progreso prometido, el trabajo explotado y la manipulación política."
+    },
+    {
+      "id": "perros",
+      "nombre": "Los perros",
+      "descripcion": "Representan la fuerza represiva utilizada por Napoleón para conservar el poder."
+    },
+    {
+      "id": "boxeador",
+      "nombre": "Boxeador",
+      "descripcion": "Representa al trabajador leal cuya fuerza y sacrificio son explotados por el régimen."
+    },
+    {
+      "id": "cerdos_en_dos_patas",
+      "nombre": "Los cerdos sobre dos patas",
+      "descripcion": "Representan la transformación final de los revolucionarios en aquello contra lo que se habían rebelado."
+    },
+    {
+      "id": "cartel_final",
+      "nombre": "El mandamiento final",
+      "descripcion": "La frase sobre la igualdad representa la corrupción definitiva del ideal revolucionario."
+    }
+  ],
+
+  "relaciones": [
+    {
+      "origen": "viejo_comandante",
+      "relacion": "inspira",
+      "destino": "animalismo"
+    },
+    {
+      "origen": "animalismo",
+      "relacion": "inspira",
+      "destino": "rebelion"
+    },
+    {
+      "origen": "napoleon",
+      "relacion": "expulsa",
+      "destino": "bola_de_nieve"
+    },
+    {
+      "origen": "napoleon",
+      "relacion": "utiliza",
+      "destino": "chillon"
+    },
+    {
+      "origen": "napoleon",
+      "relacion": "utiliza",
+      "destino": "perros"
+    },
+    {
+      "origen": "chillon",
+      "relacion": "representa",
+      "destino": "propaganda"
+    },
+    {
+      "origen": "boxeador",
+      "relacion": "representa",
+      "destino": "explotacion"
+    },
+    {
+      "origen": "molino",
+      "relacion": "representa",
+      "destino": "trabajo"
+    },
+    {
+      "origen": "siete_mandamientos",
+      "relacion": "representa",
+      "destino": "igualdad"
+    },
+    {
+      "origen": "siete_mandamientos",
+      "relacion": "es_modificado_por",
+      "destino": "napoleon"
+    }
+  ],
+
+  "evolucion": [
+    {
+      "etapa": 1,
+      "nombre": "La opresión",
+      "descripcion": "Los animales viven sometidos al señor Jones.",
+      "capitulos": ["c1"]
+    },
+    {
+      "etapa": 2,
+      "nombre": "La esperanza",
+      "descripcion": "El Viejo Comandante anuncia una futura sociedad libre.",
+      "capitulos": ["c1"]
+    },
+    {
+      "etapa": 3,
+      "nombre": "La Rebelión",
+      "descripcion": "Los animales expulsan a Jones y comienzan una nueva sociedad.",
+      "capitulos": ["c2"]
+    },
+    {
+      "etapa": 4,
+      "nombre": "La construcción",
+      "descripcion": "Los animales trabajan para construir su nueva sociedad.",
+      "capitulos": ["c3", "c4"]
+    },
+    {
+      "etapa": 5,
+      "nombre": "La lucha por el poder",
+      "descripcion": "Napoleón y Bola de Nieve entran en conflicto.",
+      "capitulos": ["c4", "c5"]
+    },
+    {
+      "etapa": 6,
+      "nombre": "La dictadura",
+      "descripcion": "Napoleón concentra el poder y elimina la oposición.",
+      "capitulos": ["c5", "c6", "c7"]
+    },
+    {
+      "etapa": 7,
+      "nombre": "El terror",
+      "descripcion": "El régimen utiliza propaganda, miedo y ejecuciones.",
+      "capitulos": ["c7", "c8"]
+    },
+    {
+      "etapa": 8,
+      "nombre": "La explotación",
+      "descripcion": "Los animales trabajan cada vez más mientras los cerdos acumulan privilegios.",
+      "capitulos": ["c6", "c7", "c9"]
+    },
+    {
+      "etapa": 9,
+      "nombre": "La corrupción final",
+      "descripcion": "Los cerdos adoptan completamente las costumbres humanas.",
+      "capitulos": ["c10"]
+    },
+    {
+      "etapa": 10,
+      "nombre": "La inversión de la Rebelión",
+      "descripcion": "La sociedad termina reproduciendo la misma desigualdad contra la que se había rebelado.",
+      "capitulos": ["c10"]
+    }
+  ]
+}
