@@ -455,5 +455,43 @@
     "significado": "ser demasiado débil",
     "categoria": "verbo/adjetivo + すぎる",
     "forma_base": "弱い"
+  },
+  {
+  "現在": {
+    "romaji": "genzai",
+    "significado": "presente; actual; actualmente",
+    "categoria": "sustantivo / expresión temporal",
+    "forma_base": "現在"
+  },
+  "の": {
+    "romaji": "no",
+    "significado": "partícula de posesión, relación o modificación",
+    "categoria": "partícula",
+    "forma_base": "の"
+  },
+  "盤面": {
+    "romaji": "banmen",
+    "significado": "tablero; posición del tablero",
+    "categoria": "sustantivo — Go",
+    "forma_base": "盤面"
+  },
+  "を": {
+    "romaji": "o",
+    "significado": "partícula que marca el objeto directo",
+    "categoria": "partícula",
+    "forma_base": "を"
+  },
+  "分析": {
+    "romaji": "bunseki",
+    "significado": "análisis; analizar",
+    "categoria": "sustantivo / verbo する",
+    "forma_base": "分析"
+  },
+  "しましょう": {
+    "romaji": "shimashou",
+    "significado": "hagamos; vamos a hacer",
+    "categoria": "verbo — forma volitiva/polite",
+    "forma_base": "する"
   }
+}
 }
