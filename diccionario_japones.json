@@ -1,0 +1,459 @@
+{
+  "これ": {
+    "romaji": "kore",
+    "significado": "esto; esta cosa; esta jugada",
+    "categoria": "pronombre",
+    "forma_base": "これ"
+  },
+  "も": {
+    "romaji": "mo",
+    "significado": "también; incluso",
+    "categoria": "partícula",
+    "forma_base": "も"
+  },
+  "来て": {
+    "romaji": "kite",
+    "significado": "venir y...; habiendo venido...",
+    "categoria": "verbo, forma -te",
+    "forma_base": "来る"
+  },
+  "読めた": {
+    "romaji": "yometa",
+    "significado": "pudo leer; logró leer; pudo calcular",
+    "categoria": "verbo, potencial pasado",
+    "forma_base": "読む"
+  },
+  "か": {
+    "romaji": "ka",
+    "significado": "partícula interrogativa",
+    "categoria": "partícula",
+    "forma_base": "か"
+  },
+
+  "現在": {
+    "romaji": "genzai",
+    "significado": "actual; presente; actualmente",
+    "categoria": "sustantivo",
+    "forma_base": "現在"
+  },
+  "の": {
+    "romaji": "no",
+    "significado": "partícula de posesión o relación",
+    "categoria": "partícula",
+    "forma_base": "の"
+  },
+  "盤面": {
+    "romaji": "banmen",
+    "significado": "posición del tablero",
+    "categoria": "sustantivo",
+    "forma_base": "盤面"
+  },
+  "を": {
+    "romaji": "o",
+    "significado": "partícula que marca el objeto directo",
+    "categoria": "partícula",
+    "forma_base": "を"
+  },
+  "分析": {
+    "romaji": "bunseki",
+    "significado": "análisis; analizar",
+    "categoria": "sustantivo / verbo",
+    "forma_base": "分析"
+  },
+  "し": {
+    "romaji": "shi",
+    "significado": "hacer; forma continuativa de する",
+    "categoria": "verbo",
+    "forma_base": "する"
+  },
+  "ましょう": {
+    "romaji": "mashou",
+    "significado": "hagamos; vamos a...",
+    "categoria": "forma volitiva",
+    "forma_base": "ます"
+  },
+
+  "この": {
+    "romaji": "kono",
+    "significado": "este; esta",
+    "categoria": "demostrativo",
+    "forma_base": "この"
+  },
+  "では": {
+    "romaji": "dewa",
+    "significado": "en; en este caso",
+    "categoria": "partícula",
+    "forma_base": "で + は"
+  },
+  "白": {
+    "romaji": "shiro",
+    "significado": "blanco",
+    "categoria": "sustantivo",
+    "forma_base": "白"
+  },
+  "が": {
+    "romaji": "ga",
+    "significado": "partícula que marca el sujeto",
+    "categoria": "partícula",
+    "forma_base": "が"
+  },
+  "有利": {
+    "romaji": "yuuri",
+    "significado": "ventaja; favorable",
+    "categoria": "adjetivo-na / sustantivo",
+    "forma_base": "有利"
+  },
+  "です": {
+    "romaji": "desu",
+    "significado": "ser; estar",
+    "categoria": "cópula",
+    "forma_base": "です"
+  },
+  "ね": {
+    "romaji": "ne",
+    "significado": "partícula que busca confirmación",
+    "categoria": "partícula",
+    "forma_base": "ね"
+  },
+
+  "黒": {
+    "romaji": "kuro",
+    "significado": "negro",
+    "categoria": "sustantivo",
+    "forma_base": "黒"
+  },
+  "全体": {
+    "romaji": "zentai",
+    "significado": "totalidad; conjunto",
+    "categoria": "sustantivo",
+    "forma_base": "全体"
+  },
+  "支配": {
+    "romaji": "shihai",
+    "significado": "dominio; control",
+    "categoria": "sustantivo / verbo",
+    "forma_base": "支配する"
+  },
+  "しよう": {
+    "romaji": "shiyou",
+    "significado": "hagamos; intentemos hacer",
+    "categoria": "forma volitiva",
+    "forma_base": "する"
+  },
+  "としている": {
+    "romaji": "to shite iru",
+    "significado": "estar intentando hacer; estar tratando de",
+    "categoria": "expresión gramatical",
+    "forma_base": "とする"
+  },
+
+  "隅": {
+    "romaji": "sumi",
+    "significado": "esquina",
+    "categoria": "sustantivo",
+    "forma_base": "隅"
+  },
+  "もっと": {
+    "romaji": "motto",
+    "significado": "más",
+    "categoria": "adverbio",
+    "forma_base": "もっと"
+  },
+  "注意深く": {
+    "romaji": "chuui-bukaku",
+    "significado": "con atención; cuidadosamente",
+    "categoria": "adverbio",
+    "forma_base": "注意深い"
+  },
+  "見て": {
+    "romaji": "mite",
+    "significado": "mirar; observar",
+    "categoria": "verbo, forma -te",
+    "forma_base": "見る"
+  },
+  "ください": {
+    "romaji": "kudasai",
+    "significado": "por favor; haga...",
+    "categoria": "expresión auxiliar",
+    "forma_base": "くださる"
+  },
+
+  "状況": {
+    "romaji": "joukyou",
+    "significado": "situación",
+    "categoria": "sustantivo",
+    "forma_base": "状況"
+  },
+  "から": {
+    "romaji": "kara",
+    "significado": "desde; a partir de",
+    "categoria": "partícula",
+    "forma_base": "から"
+  },
+  "次": {
+    "romaji": "tsugi",
+    "significado": "siguiente",
+    "categoria": "sustantivo",
+    "forma_base": "次"
+  },
+  "一手": {
+    "romaji": "itte",
+    "significado": "una jugada",
+    "categoria": "sustantivo de Go",
+    "forma_base": "一手"
+  },
+  "考え": {
+    "romaji": "kangae",
+    "significado": "pensamiento; considerar",
+    "categoria": "sustantivo / forma verbal",
+    "forma_base": "考える"
+  },
+
+  "中央": {
+    "romaji": "chuuou",
+    "significado": "centro",
+    "categoria": "sustantivo",
+    "forma_base": "中央"
+  },
+  "石": {
+    "romaji": "ishi",
+    "significado": "piedra",
+    "categoria": "sustantivo de Go",
+    "forma_base": "石"
+  },
+  "打つ": {
+    "romaji": "utsu",
+    "significado": "jugar; colocar una piedra",
+    "categoria": "verbo",
+    "forma_base": "打つ"
+  },
+  "良い": {
+    "romaji": "ii",
+    "significado": "bueno",
+    "categoria": "adjetivo-i",
+    "forma_base": "良い"
+  },
+  "戦略": {
+    "romaji": "senryaku",
+    "significado": "estrategia",
+    "categoria": "sustantivo",
+    "forma_base": "戦略"
+  },
+  "かもしれない": {
+    "romaji": "kamoshirenai",
+    "significado": "podría ser; quizá",
+    "categoria": "expresión",
+    "forma_base": "かもしれない"
+  },
+
+  "攻める": {
+    "romaji": "semeru",
+    "significado": "atacar",
+    "categoria": "verbo",
+    "forma_base": "攻める"
+  },
+  "より": {
+    "romaji": "yori",
+    "significado": "más que; en comparación con",
+    "categoria": "partícula",
+    "forma_base": "より"
+  },
+  "守る": {
+    "romaji": "mamoru",
+    "significado": "defender; proteger",
+    "categoria": "verbo",
+    "forma_base": "守る"
+  },
+  "べき": {
+    "romaji": "beki",
+    "significado": "deber; conviene",
+    "categoria": "auxiliar",
+    "forma_base": "べき"
+  },
+
+  "流れ": {
+    "romaji": "nagare",
+    "significado": "flujo; dinámica",
+    "categoria": "sustantivo",
+    "forma_base": "流れる"
+  },
+  "読む": {
+    "romaji": "yomu",
+    "significado": "leer; calcular variantes",
+    "categoria": "verbo",
+    "forma_base": "読む"
+  },
+  "こと": {
+    "romaji": "koto",
+    "significado": "hecho; acción",
+    "categoria": "sustantivo formal",
+    "forma_base": "こと"
+  },
+  "重要": {
+    "romaji": "juuyou",
+    "significado": "importante",
+    "categoria": "adjetivo-na",
+    "forma_base": "重要"
+  },
+
+  "終盤": {
+    "romaji": "shuuban",
+    "significado": "fase final; final de la partida",
+    "categoria": "sustantivo de Go",
+    "forma_base": "終盤"
+  },
+  "ミス": {
+    "romaji": "misu",
+    "significado": "error",
+    "categoria": "sustantivo",
+    "forma_base": "ミス"
+  },
+  "命取り": {
+    "romaji": "inochitori",
+    "significado": "fatal; que puede resultar mortal",
+    "categoria": "sustantivo / expresión",
+    "forma_base": "命取り"
+  },
+
+  "局面": {
+    "romaji": "kyokumen",
+    "significado": "posición; situación del tablero",
+    "categoria": "sustantivo de Go",
+    "forma_base": "局面"
+  },
+  "まるで": {
+    "romaji": "marude",
+    "significado": "como si; completamente como",
+    "categoria": "adverbio",
+    "forma_base": "まるで"
+  },
+  "迷路": {
+    "romaji": "meiro",
+    "significado": "laberinto",
+    "categoria": "sustantivo",
+    "forma_base": "迷路"
+  },
+  "みたい": {
+    "romaji": "mitai",
+    "significado": "parecido a; como",
+    "categoria": "expresión",
+    "forma_base": "みたい"
+  },
+  "複雑さ": {
+    "romaji": "fukuzatsusa",
+    "significado": "complejidad",
+    "categoria": "sustantivo",
+    "forma_base": "複雑"
+  },
+
+  "彼": {
+    "romaji": "kare",
+    "significado": "él",
+    "categoria": "pronombre",
+    "forma_base": "彼"
+  },
+  "手": {
+    "romaji": "te",
+    "significado": "jugada; movimiento",
+    "categoria": "sustantivo de Go",
+    "forma_base": "手"
+  },
+  "魔法": {
+    "romaji": "mahou",
+    "significado": "magia",
+    "categoria": "sustantivo",
+    "forma_base": "魔法"
+  },
+  "正確さ": {
+    "romaji": "seikakusa",
+    "significado": "precisión",
+    "categoria": "sustantivo",
+    "forma_base": "正確"
+  },
+  "配置": {
+    "romaji": "haichi",
+    "significado": "colocación; disposición",
+    "categoria": "sustantivo / verbo",
+    "forma_base": "配置する"
+  },
+
+  "詰碁": {
+    "romaji": "tsumego",
+    "significado": "tsumego; problema de vida y muerte",
+    "categoria": "sustantivo de Go",
+    "forma_base": "詰碁"
+  },
+  "解く": {
+    "romaji": "toku",
+    "significado": "resolver",
+    "categoria": "verbo",
+    "forma_base": "解く"
+  },
+  "パズル": {
+    "romaji": "pazuru",
+    "significado": "rompecabezas",
+    "categoria": "sustantivo",
+    "forma_base": "パズル"
+  },
+  "楽しさ": {
+    "romaji": "tanoshisa",
+    "significado": "diversión",
+    "categoria": "sustantivo",
+    "forma_base": "楽しい"
+  },
+  "ある": {
+    "romaji": "aru",
+    "significado": "haber; existir",
+    "categoria": "verbo",
+    "forma_base": "ある"
+  },
+
+  "本当に": {
+    "romaji": "hontou ni",
+    "significado": "realmente; de verdad",
+    "categoria": "adverbio",
+    "forma_base": "本当"
+  },
+  "まだまだ": {
+    "romaji": "madamada",
+    "significado": "todavía mucho; aún queda mucho",
+    "categoria": "adverbio",
+    "forma_base": "まだまだ"
+  },
+  "定石": {
+    "romaji": "jouseki",
+    "significado": "joseki; patrón establecido de apertura",
+    "categoria": "sustantivo de Go",
+    "forma_base": "定石"
+  },
+  "理解": {
+    "romaji": "rikai",
+    "significado": "comprensión; comprender",
+    "categoria": "sustantivo / verbo",
+    "forma_base": "理解する"
+  },
+  "しきれていない": {
+    "romaji": "shikirete inai",
+    "significado": "no haber podido hacer completamente",
+    "categoria": "expresión verbal",
+    "forma_base": "しきる"
+  },
+  "読み": {
+    "romaji": "yomi",
+    "significado": "lectura; cálculo de variantes",
+    "categoria": "sustantivo de Go",
+    "forma_base": "読む"
+  },
+  "力": {
+    "romaji": "chikara",
+    "significado": "fuerza; capacidad",
+    "categoria": "sustantivo",
+    "forma_base": "力"
+  },
+  "弱すぎる": {
+    "romaji": "yowasugiru",
+    "significado": "ser demasiado débil",
+    "categoria": "verbo/adjetivo + すぎる",
+    "forma_base": "弱い"
+  }
+}
