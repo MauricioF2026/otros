@@ -1,0 +1,393 @@
+{
+  "version": "1.0",
+  "generado": "2026-08-29T05:38:52.759Z",
+  "estadisticas": {
+    "enlaces_recibidos": 37,
+    "enlaces_unicos": 37,
+    "duplicados": 0,
+    "dominios": 24,
+    "categorias": 8
+  },
+  "categorias": {
+    "X": 1,
+    "YouTube": 8,
+    ".COM": 20,
+    "Facebook": 3,
+    "SoundCloud": 2,
+    ".GO.JP": 1,
+    "ChatGPT": 1,
+    "PDF": 1
+  },
+  "enlaces": [
+    {
+      "id": "link_m8phtl9c",
+      "url": "https://x.com/Gabrielaespiral",
+      "dominio": "x.com",
+      "categoria": "X",
+      "tipo": "red_social",
+      "titulo": "X",
+      "icono": "𝕏",
+      "extension": ".com"
+    },
+    {
+      "id": "link_t74t6oae",
+      "url": "https://www.youtube.com/channel/UCUTVouJ_3JJ61PAhBRZUgZA",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_6amioamn",
+      "url": "https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox/FMfcgzQhWBmqSvHbLLxGbdHzWDMTdPTl",
+      "dominio": "mail.google.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "mail.google.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_wyd75oy7",
+      "url": "https://drive.google.com/drive/home",
+      "dominio": "drive.google.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "drive.google.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_saxcbncv",
+      "url": "https://docs.google.com/spreadsheets/d/16-etRDZohyDHx_lD9QcPW1YsGSIyGO90-APgzv8hXo4/edit?pli=1&gid=0#gid=0",
+      "dominio": "docs.google.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "docs.google.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_xmd83wo0",
+      "url": "https://www.appsheet.com/template/AppDef?appName=APPENLACES-5043528&appId=f59b4c89-b655-4aeb-8cfa-b4e32b230364&quickStart=False#Home",
+      "dominio": "appsheet.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "appsheet.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_qlnmoy3e",
+      "url": "https://www.facebook.com/",
+      "dominio": "facebook.com",
+      "categoria": "Facebook",
+      "tipo": "red_social",
+      "titulo": "Facebook",
+      "icono": "f",
+      "extension": ".com"
+    },
+    {
+      "id": "link_w0tz9k87",
+      "url": "https://soundcloud.com/lykkeli/little-bit-1?utm_id=97757_v0_s00_e0_tv2_a1demoo4k0vr96&fbclid=IwcGRvZgFleHRuA2FlbQIxMABicmlkETFEaElmMXdWNjZhclRJbnpDc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnBHaLjFgDnAmhYl4UJuaWl2l2gLqXZoOhoXBTf606Cg2pYS_FxzcK8_qQjG_aem_665CbnYT0r0jHwZ9-yl2gA",
+      "dominio": "soundcloud.com",
+      "categoria": "SoundCloud",
+      "tipo": "audio",
+      "titulo": "SoundCloud",
+      "icono": "🎵",
+      "extension": ".com"
+    },
+    {
+      "id": "link_y48kfdmt",
+      "url": "https://soundcloud.com/othaotha/tired-and-sick?utm_id=97757_v0_s00_e0_tv2_a1demoo4k0vr96&fbclid=IwcGRvZgFleHRuA2FlbQIxMABicmlkETFEaElmMXdWNjZhclRJbnpDc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHia3eCvpkhv1mMi8MB3YnyfUce3ipu6isPzGrihAQfMQ6uDWEksHXS12POWz_aem_RDkvP-2mCW5OP8tOgf19oQ",
+      "dominio": "soundcloud.com",
+      "categoria": "SoundCloud",
+      "tipo": "audio",
+      "titulo": "SoundCloud",
+      "icono": "🎵",
+      "extension": ".com"
+    },
+    {
+      "id": "link_dedn85qx",
+      "url": "https://es.jff.jpf.go.jp/movie/sbb-hana-matsuri/",
+      "dominio": "es.jff.jpf.go.jp",
+      "categoria": ".GO.JP",
+      "tipo": "web",
+      "titulo": "es.jff.jpf.go.jp",
+      "icono": "🌐",
+      "extension": ".jp"
+    },
+    {
+      "id": "link_rvw8o9ip",
+      "url": "https://www.facebook.com/profile.php?id=61566520244279",
+      "dominio": "facebook.com",
+      "categoria": "Facebook",
+      "tipo": "red_social",
+      "titulo": "Facebook",
+      "icono": "f",
+      "extension": ".com"
+    },
+    {
+      "id": "link_85rjiyzd",
+      "url": "https://www.facebook.com/elsamurai1",
+      "dominio": "facebook.com",
+      "categoria": "Facebook",
+      "tipo": "red_social",
+      "titulo": "Facebook",
+      "icono": "f",
+      "extension": ".com"
+    },
+    {
+      "id": "link_pl1kosq8",
+      "url": "https://www.blogger.com/blog/post/edit/2959506298431255787/1718554440287946664",
+      "dominio": "blogger.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "Blogger",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_xnkm6zcp",
+      "url": "https://online-go.com/game/90193926",
+      "dominio": "online-go.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "online-go.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_hjrd4npd",
+      "url": "https://picture-todos.blogspot.com/",
+      "dominio": "picture-todos.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "picture-todos.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_k2na4xkk",
+      "url": "https://github.com/MauricioF2026/otros/blob/main/gallery.json",
+      "dominio": "github.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "GitHub",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_h7bdyo99",
+      "url": "https://github.com/MauricioF2026/otros/edit/main/diccionario_japones.json",
+      "dominio": "github.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "GitHub",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_su483a4g",
+      "url": "https://www.blogger.com/profile/10351405041545178369",
+      "dominio": "blogger.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "Blogger",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_w45zxmxj",
+      "url": "https://kyujitsu-day.blogspot.com/",
+      "dominio": "kyujitsu-day.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "kyujitsu-day.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_e152fpk3",
+      "url": "https://tablero-go.blogspot.com/",
+      "dominio": "tablero-go.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "tablero-go.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_d4od20tf",
+      "url": "https://partidas8.blogspot.com/",
+      "dominio": "partidas8.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "partidas8.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_iid1m6hn",
+      "url": "https://doskanjiken.blogspot.com/",
+      "dominio": "doskanjiken.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "doskanjiken.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_hrm0ds8c",
+      "url": "https://go-seigen-selector.blogspot.com/",
+      "dominio": "go-seigen-selector.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "go-seigen-selector.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_3of37jvb",
+      "url": "https://insta-fav.blogspot.com/",
+      "dominio": "insta-fav.blogspot.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "insta-fav.blogspot.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_nfg74o31",
+      "url": "https://outlook.live.com/mail/?deeplink=mail%2F",
+      "dominio": "outlook.live.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "outlook.live.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_sk8zqdma",
+      "url": "https://chatgpt.com/c/6a91dc0d-1e2c-83e9-aa4b-cc5f18c7be5a",
+      "dominio": "chatgpt.com",
+      "categoria": "ChatGPT",
+      "tipo": "ia",
+      "titulo": "ChatGPT",
+      "icono": "🤖",
+      "extension": ".com"
+    },
+    {
+      "id": "link_b7sf07x9",
+      "url": "https://www.blogger.com/blog/posts/8866090327237433533",
+      "dominio": "blogger.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "Blogger",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_37f4t34r",
+      "url": "https://www.youtube.com/watch?v=Qo8jFpzFNYk&t=15887s",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_5mgvj6xa",
+      "url": "https://www.youtube.com/watch?v=Bh3z_fkuSXY",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_wm7m1yms",
+      "url": "https://www.youtube.com/watch?v=1XsPTMXReZ8",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_o30zlsrk",
+      "url": "https://www.youtube.com/watch?v=4Jnc2-DkHm8",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_nq7vt4s8",
+      "url": "https://www.youtube.com/watch?v=wgSBtXNJjhs",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_r7wynp1k",
+      "url": "https://www.youtube.com/watch?v=1Gb9twrn5o8",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_8hq5prl1",
+      "url": "https://www.youtube.com/@La.Inercia/shorts",
+      "dominio": "youtube.com",
+      "categoria": "YouTube",
+      "tipo": "video",
+      "titulo": "YouTube",
+      "icono": "▶",
+      "extension": ".com"
+    },
+    {
+      "id": "link_1f38l0bh",
+      "url": "https://liveweave.com/",
+      "dominio": "liveweave.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "liveweave.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_fpqd0ch7",
+      "url": "https://missourireview.com/",
+      "dominio": "missourireview.com",
+      "categoria": ".COM",
+      "tipo": "web",
+      "titulo": "missourireview.com",
+      "icono": "🌐",
+      "extension": ".com"
+    },
+    {
+      "id": "link_vnls2ft7",
+      "url": "https://www.redalyc.org/pdf/267/26701106.pdf",
+      "dominio": "redalyc.org",
+      "categoria": "PDF",
+      "tipo": "pdf",
+      "titulo": "redalyc.org",
+      "icono": "📄",
+      "extension": ".pdf"
+    }
+  ]
+}
