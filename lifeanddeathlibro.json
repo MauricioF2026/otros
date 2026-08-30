@@ -1,0 +1,18 @@
+{
+  "titulo": "Tsumegos",
+  "descripcion": "",
+  "version": "1.0",
+  "totalProblemas": 1,
+  "problemas": [
+    {
+      "id": 1,
+      "tema": "Tiger Mouth Vital Point",
+      "accion": "Save Black",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": "8",
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][cq][eq][gq][cr][gr]AW[cn][do][eo][io][bp][cp][fp][gp][bq][hq][br][hr])"
+    }
+  ]
+}
