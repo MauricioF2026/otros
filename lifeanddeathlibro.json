@@ -643,6 +643,216 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cp][dp][bq][dq][dr][bs]AW[cm][bn][fn][co][do][ep][cq][eq][cr][er][cs][ds])"
+  },
+    {
+    "id": 65,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cp][dp][bq][dq][br][dr][bs]AW[cm][bn][fn][co][do][ep][cq][eq][cr][er][cs][ds][es])"
+  },
+  {
+    "id": 66,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][bn][fn][co][do][ep][cq][eq][cr][er][ds]AW[bo][bp][cp][dp][bq][dq][br][dr])"
+  },
+  {
+    "id": 67,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][bn][fn][co][do][ep][eq][er][bs][ds]AW[bo][bp][cp][dp][bq][dq][br][dr][cs])"
+  },
+  {
+    "id": 68,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][cq][cr][dr][er]AW[bo][co][do][go][ap][dp][bq][dq][fq][fr])"
+  },
+  {
+    "id": 69,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][cq][ar][cr][dr][er]AW[bo][co][do][go][ap][dp][bq][dq][fq][br][fr])"
+  },
+  {
+    "id": 70,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][cq][ar][cr][dr][er]AW[bo][co][do][go][ap][dp][aq][bq][dq][fq][fr])"
+  },
+  {
+    "id": 71,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][cq][ar][br][cr][dr][er]AW[ao][bo][co][do][go][ap][dp][aq][bq][dq][fq][fr])"
+  },
+  {
+    "id": 72,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][go][ap][dp][bq][dq][fq][fr]AW[bp][cp][cq][br][cr][dr][er])"
+  },
+  {
+    "id": 73,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][dp][bq][dq][eq][gq][fr]AW[cp][cq][br][cr][dr][er][es])"
+  },
+  {
+    "id": 74,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Sabe black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][br][cr][dr][ds]AW[co][ap][bp][cq][dq][eq][er][es])"
+  },
+  {
+    "id": 75,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][ap][bp][cq][dq][eq][er][es]AW[aq][bq][br][cr][dr][ds])"
+  },
+  {
+    "id": 76,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][cr][dr]AW[co][ap][bp][cq][dq][eq][ar][er][gr])"
+  },
+  {
+    "id": 77,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][ap][bp][cq][dq][eq][ar][er][gr]AW[aq][bq][br][cr][dr][ds])"
+  },
+  {
+    "id": 78,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][ar][br]AW[ho][bp][cp][dp][ep][fp][bq][gq][er][gr])"
+  },
+  {
+    "id": 79,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][ar][br][fr]AW[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][fs])"
+  },
+  {
+    "id": 80,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][ar][br][fr][ds]AW[ho][bp][cp][dp][ep][fp][bq][gq][dr][er][gr][fs])"
+  },
+  {
+    "id": 81,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][ar][br][fr][ds]AW[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][es][fs])"
+  },
+  {
+    "id": 82,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][fs]AW[cq][dq][eq][fq][ar][br][dr][fr])"
+  },
+  {
+    "id": 83,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ho][bp][cp][dp][ep][fp][bq][gq][er][gr]AW[cq][dq][eq][fq][ar][br][dr])"
+  },
+  {
+    "id": 84,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][ds]AW[cq][dq][eq][fq][ar][br][dr][cs])"
+  },
+  {
+    "id": 85,
+    "tema": "Beware of a Pae (ko) 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][ds]AW[cq][dq][eq][fq][ar][br][dr][fr])"
   }
   ]
 }
