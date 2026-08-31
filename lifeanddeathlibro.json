@@ -93,7 +93,287 @@
       "fuente": "",
       "pagina": null,
       "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][gq]AW[bq][cq][ar][dr])"
-    }
+    },
+    {
+    "id": 10,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][gq][bs]AW[bq][cq][ar][dr][cs])"
+  },
+  {
+    "id": 11,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][gq]AW[bq][cq][ar][cr])"
+  },
+  {
+    "id": 12,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Save Black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][ar][dr]AW[ap][bp][cp][dp][aq][eq][gq][br])"
+  },
+  {
+    "id": 13,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][gq][fr]AW[bq][cq][ar][bs])"
+  },
+  {
+    "id": 14,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][gq][cr][fr]AW[bq][cq][ar][dr][bs])"
+  },
+  {
+    "id": 15,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][dq][eq][gq][cr][fr]AW[bq][cq][ar][br][dr][bs])"
+  },
+  {
+    "id": 16,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][fq][cr][gr]AW[bq][cq][ar][dr][bs])"
+  },
+  {
+    "id": 17,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][fq][gr]AW[bq][cq][ar][bs])"
+  },
+  {
+    "id": 18,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][fq][gr]AW[bq][cq][ar][bs])"
+  },
+  {
+    "id": 19,
+    "tema": "Vital Point of Eye Shapes",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][dq][eq][fq][cr][gr]AW[bq][cq][ar][br][dr][bs])"
+  },
+  {
+    "id": 20,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][cq][dq][br]AW[dn][co][bp][dp][ep][bq][fq][hq])"
+  },
+  {
+    "id": 21,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][aq][cq][dq][br]AW[dn][bo][co][bp][dp][ep][bq][fq][hq])"
+  },
+  {
+    "id": 22,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][aq][cq][dq][br][cs]AW[dn][bo][co][bp][dp][ep][bq][fq][hq][dr])"
+  },
+  {
+    "id": 23,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][aq][cq][dq][br][cs]AW[dn][bo][co][bp][dp][ep][bq][fq][hq][er])"
+  },
+  {
+    "id": 24,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][bp][dp][ep][bq][fq][hq]AW[cp][aq][cq][dq][br][dr])"
+  },
+  {
+    "id": 25,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white by Pae ( ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][co][bp][dp][ep][bq][fq][hq]AW[cp][cq][dq][br][er])"
+  },
+  {
+    "id": 26,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr]AW[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][gr][hr])"
+  },
+  {
+    "id": 27,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][bs]AW[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][ar][br][gr][hr])"
+  },
+  {
+    "id": 28,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][bs][es]AW[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][ar][br][dr][gr][hr])"
+  },
+  {
+    "id": 29,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][bs]AW[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][dr][gr][hr])"
+  },
+  {
+    "id": 30,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][dq][eq][fq][gq][ar][cr][bs]AW[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][dr][er][gr][hr])"
+  },
+  {
+    "id": 31,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][gr][hr]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][ds])"
+  },
+  {
+    "id": 32,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][gr][hr][bs]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][ds])"
+  },
+  {
+    "id": 33,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][gr][hr][bs]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][fr][ds])"
+  },
+  {
+    "id": 34,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][gr][hr][bs][fs]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][fr][ds][es])"
+  },
+  {
+    "id": 35,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][br][gr][hr][bs]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][cs][ds])"
+  },
+  {
+    "id": 36,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][ar][br][gr][hr]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][er][bs])"
+  },
+  {
+    "id": 37,
+    "tema": "Using Seonsu (Sente)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][ar][br][gr][hr][ds]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][er][bs][cs])"
+  }
   ]
 }
 
