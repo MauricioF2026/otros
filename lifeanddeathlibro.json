@@ -849,7 +849,7 @@
     "tema": "Beware of a Pae (ko) 1",
     "accion": "Capture White by Pae (ko)",
     "colorJuega": "B",
-    "rango": "",
+    "rango": "15",
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][ds]AW[cq][dq][eq][fq][ar][br][dr][fr])"
