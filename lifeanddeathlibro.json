@@ -14,5 +14,93 @@
       "pagina": "8",
       "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][cq][eq][gq][cr][gr]AW[cn][do][eo][io][bp][cp][fp][gp][bq][hq][br][hr])"
     }
+  ],
+  {
+  "titulo": "Tsumegos",
+  "descripcion": "",
+  "version": "1.0",
+  "totalProblemas": 8,
+  "problemas": [
+    {
+      "id": 1,
+      "tema": "Tiger Mouth Vital Point",
+      "accion": "Sabe Black",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][cq][eq][gq][cr][dr][gr]AW[cn][do][eo][io][bp][cp][fp][gp][bq][hq][br][fr][hr])"
+    },
+    {
+      "id": 2,
+      "tema": "Tiger Mouth Vital Point",
+      "accion": "Capture white",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][eo][io][bp][cp][fp][gp][bq][hq][br][hr]AW[dp][ep][cq][eq][gq][cr][er][gr])"
+    },
+    {
+      "id": 3,
+      "tema": "Tiger Mouth Vital Point",
+      "accion": "Capture white",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][eo][io][bp][cp][fp][gp][bq][fq][hq][br][hr]AW[dp][ep][cq][eq][gq][cr][er][fr][gr])"
+    },
+    {
+      "id": 4,
+      "tema": "Tiger Mouth Vital Point",
+      "accion": "Capture white",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][eo][io][bp][cp][fp][gp][bq][fq][hq][br][hr][gs]AW[dp][ep][cq][eq][gq][cr][er][fr][gr][fs])"
+    },
+    {
+      "id": 5,
+      "tema": "Tiger Mouth Vital Point",
+      "accion": "Capture white",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][eo][io][bp][cp][fp][gp][bq][hq][br][hr]AW[dp][ep][cq][eq][fq][gq][cr][gr])"
+    },
+    {
+      "id": 6,
+      "tema": "Vital Point of Eye Shapes",
+      "accion": "Save Black",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][ar]AW[ap][bp][cp][dp][aq][eq][gq])"
+    },
+    {
+      "id": 7,
+      "tema": "Vital Point of Eye Shapes",
+      "accion": "Save Black",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][ar][bs]AW[ap][bp][cp][dp][aq][eq][gq][cr])"
+    },
+    {
+      "id": 8,
+      "tema": "Vital Point of Eye Shapes",
+      "accion": "Capture white",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][gq]AW[bq][cq][ar][dr])"
+    }
   ]
+}
 }
