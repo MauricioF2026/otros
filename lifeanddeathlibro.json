@@ -373,6 +373,276 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][dn][gn][do][go][bp][cp][gp][cq][hq][ar][br][gr][hr][ds]AW[eo][fo][dp][fp][bq][dq][eq][fq][gq][cr][er][bs][cs])"
+  },
+    {
+    "id": 38,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][er][gr]AW[co][dp][fp][gp][bq][cq][gq][iq][ar][hr][bs])"
+  },
+  {
+    "id": 39,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][er][gr][fs]AW[co][dp][fp][gp][bq][cq][gq][iq][ar][hr][bs][ds])"
+  },
+  {
+    "id": 40,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][er][gr][fs]AW[co][dp][fp][gp][bq][cq][gq][iq][ar][hr][bs][cs])"
+  },
+  {
+    "id": 41,
+    "tema": "Making a Sacrifice",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][dp][fp][gp][bq][cq][gq][iq][ar][hr][bs]AW[dq][eq][fq][br][cr][er][gr][gs])"
+  },
+  {
+    "id": 42,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][dq][ar][br][cr][er][fr][gs]AW[co][do][eo][bq][cq][eq][fq][gq][gr][ir][fs])"
+  },
+  {
+    "id": 43,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][dq][ar][br][cr][er][fr][bs][gs]AW[co][do][eo][bq][cq][eq][fq][gq][gr][ir][ds][fs])"
+  },
+  {
+    "id": 44,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][dq][fq][cr][dr][fr]AW[dm][en][fn][co][do][go][cp][gp][cq][gq][br][gr][cs])"
+  },
+  {
+    "id": 45,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][dq][eq][fq][cr][dr][fr]AW[dm][en][fn][co][do][go][cp][gp][cq][gq][br][gr][cs][es])"
+  },
+  {
+    "id": 46,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][dq][eq][fq][cr][dr][fr][fs]AW[dm][en][fn][co][do][go][cp][gp][cq][gq][br][gr][cs][ds][es])"
+  },
+  {
+    "id": 47,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][dp][fp][fq][dr][fr]AW[cm][hm][dn][en][fn][co][go][cp][gp][cq][gq][br][gr])"
+  },
+  {
+    "id": 48,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][dp][fp][eq][fq][dr][fr]AW[cm][hm][dn][en][fn][co][go][cp][gp][cq][gq][br][gr][es])"
+  },
+  {
+    "id": 49,
+    "tema": "Making a Sacrifice",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][dp][fp][eq][fq][dr][fr][fs]AW[cm][hm][dn][en][fn][co][go][cp][gp][cq][gq][br][gr][ds][es])"
+  },
+  {
+    "id": 50,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dr][er]AW[ap][bp][cp][dq][eq][fq][fr][fs])"
+  },
+  {
+    "id": 51,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dr][er][cs]AW[ap][bp][cp][dq][eq][fq][fr][es][fs])"
+  },
+  {
+    "id": 52,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][br][dr][er][cs]AW[ap][bp][cp][dq][eq][fq][fr][ds][es][fs])"
+  },
+  {
+    "id": 53,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][br][as][cs]AW[ap][bp][cp][dq][eq][fq][cr][fr][ds][es][fs])"
+  },
+  {
+    "id": 54,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dr][er][cs]AW[ap][bp][cp][dq][eq][fq][br][fr][fs])"
+  },
+  {
+    "id": 55,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][ar][dr][er][cs]AW[ap][bp][cp][dq][eq][fq][br][fr][es][fs])"
+  },
+  {
+    "id": 56,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][eq][fq][fr][fs]AW[aq][bq][cq][br][dr][er])"
+  },
+  {
+    "id": 57,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][eq][fq][fr][cs][fs]AW[aq][bq][cq][br][dr][er][ds])"
+  },
+  {
+    "id": 58,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][eq][fq][fr][fs]AW[aq][bq][cq][dr][er][bs])"
+  },
+  {
+    "id": 59,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][eq][fq][cr][fr][fs]AW[aq][bq][cq][dr][er][bs][cs])"
+  },
+  {
+    "id": 60,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][eq][fq][fr][fs]AW[aq][bq][cq][dr][er][ds])"
+  },
+  {
+    "id": 61,
+    "tema": "Paired Moves (Miai) Tesuji",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][eq][fq][fr][fs]AW[aq][bq][cq][cr][dr][er])"
+  },
+  {
+    "id": 62,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cp][dp][bq][dq][dr]AW[cm][bn][fn][co][do][ep][cq][eq][cr][er][ds])"
+  },
+  {
+    "id": 63,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cp][dp][bq][dq][dr][bs]AW[cm][bn][fn][co][do][ep][cq][eq][br][cr][er][ds])"
+  },
+  {
+    "id": 64,
+    "tema": "Playing Dansu (Atari) Fails",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cp][dp][bq][dq][dr][bs]AW[cm][bn][fn][co][do][ep][cq][eq][cr][er][cs][ds])"
   }
   ]
 }
