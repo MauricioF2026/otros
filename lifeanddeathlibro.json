@@ -2,7 +2,7 @@
   "titulo": "Tsumegos",
   "descripcion": "",
   "version": "1.0",
-  "totalProblemas": 1,
+  "totalProblemas": 9,
   "problemas": [
     {
       "id": 1,
@@ -17,7 +17,7 @@
   {
         "id": 2,
       "tema": "Tiger Mouth Vital Point",
-      "accion": "Sabe Black",
+      "accion": "Save Black",
       "colorJuega": "B",
       "rango": "",
       "fuente": "",
