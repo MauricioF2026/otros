@@ -853,6 +853,186 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ho][bp][cp][dp][ep][fp][bq][gq][er][gr][ds]AW[cq][dq][eq][fq][ar][br][dr][fr])"
+  },
+    {
+    "id": 86,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cr][dr][ds]AW[ap][bp][cq][dq][eq][er][es])"
+  },
+  {
+    "id": 87,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][bq][cq][ar]AW[bn][co][do][ap][bp][dp][aq][eq][gq])"
+  },
+  {
+    "id": 88,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][cp][cq][dq][br]AW[bn][co][bp][dp][ep][bq][fq][hq])"
+  },
+  {
+    "id": 89,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dr][er][fs]AW[do][bp][cp][dq][eq][fr][gr][es])"
+  },
+  {
+    "id": 90,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][ar][cr][dr]AW[cn][bo][cp][fp][cq][dq][er][ds][es])"
+  },
+  {
+    "id": 91,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][bq][dq][dr]AW[bm][fn][bo][co][do][ep][cq][eq][cr][er][ds])"
+  },
+  {
+    "id": 92,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][cq][dq][eq][fq][ar][br][fr]AW[dn][co][bp][dp][ep][fp][bq][gq][iq][er][gr][fs])"
+  },
+  {
+    "id": 93,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][dr][bs]AW[bp][cp][dp][eq][er][ds])"
+  },
+  {
+    "id": 94,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][cq][eq][br]AW[cl][cn][do][eo][ep][dq][fq][cr][dr])"
+  },
+  {
+    "id": 95,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][dq][fq][br][cr][dr][er][fr]AW[hn][co][eo][fo][dp][gp][bq][cq][gq][ar][gr][bs][cs])"
+  },
+  {
+    "id": 96,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][fp][cq][dq][eq][fr][gs]AW[cn][dn][en][fn][bo][go][bp][gp][bq][fq][gq][br][gr][ir])"
+  },
+  {
+    "id": 97,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][cr][dr]AW[co][ap][bp][cq][dq][eq][er][es])"
+  },
+  {
+    "id": 98,
+    "tema": "Using Jachung",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][dq][eq][gq][cr]AW[bq][cq][br][dr])"
+  },
+  {
+    "id": 99,
+    "tema": "Using Jachung",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][dq][eq][gq][cr][cs]AW[bq][cq][br][dr][bs])"
+  },
+  {
+    "id": 100,
+    "tema": "Using Jachung",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][aq][dq][eq][gq]AW[bq][cq][br][dr][bs][ds])"
+  },
+  {
+    "id": 101,
+    "tema": "Using Jachung",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][aq][dq][eq][gq][ar]AW[bq][cq][br][dr][fr][bs][ds])"
+  },
+  {
+    "id": 102,
+    "tema": "Using Jachung",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][dq][eq][gq][cr][cs]AW[bq][cq][br][dr][ds])"
+  },
+  {
+    "id": 103,
+    "tema": "Using Jachung",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][aq][dq][eq][gq][cr][cs]AW[bq][cq][ar][br][dr][ds])"
   }
   ]
 }
