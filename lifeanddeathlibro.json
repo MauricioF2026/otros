@@ -1693,6 +1693,126 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][ap][bp][cp][dq][eq][er][es]AW[aq][bq][cq][br][dr][ds])"
+  },
+    {
+    "id": 170,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][dq][eq][fq][cr][fr]AW[bq][cq][br][dr][er])"
+  },
+  {
+    "id": 171,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][cr]AW[bp][cp][dp][eq][gq])"
+  },
+  {
+    "id": 172,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dq][br][er][fr][bs][es]AW[eo][bp][cp][dp][eq][fq][gq][cr][dr][gr][fs][gs])"
+  },
+  {
+    "id": 173,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fq][gq][hq][cr][dr][er]AW[eo][fp][hp][ip][bq][cq][dq][eq][iq][br][ir])"
+  },
+  {
+    "id": 174,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][dr][bs][ds]AW[fo][ap][bp][cp][dp][eq][er][es])"
+  },
+  {
+    "id": 175,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][fo][ap][cp][dp][eq][er]AW[bp][bq][cq][dq][dr][bs])"
+  },
+  {
+    "id": 176,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][bp][fp][gp][bq][gq][iq][hr]AW[cp][dp][ep][fq][er][gr][fs])"
+  },
+  {
+    "id": 177,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][co][cp][ep][bq][dq][dr]AW[bp][cq][br][cr])"
+  },
+  {
+    "id": 178,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][cr][er][ds]AW[cp][dp][ep][fp][gp][bq][hq][br][hr])"
+  },
+  {
+    "id": 179,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][cr][fr][gr][hr][ds]AW[cn][cp][ep][fp][cq][fq][hq][iq][br][ir][bs])"
+  },
+  {
+    "id": 180,
+    "tema": "Review (write 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][bq][dq][eq][cr]AW[bn][dn][co][eo][ap][bp][ep][fq][er][fr])"
+  },
+  {
+    "id": 181,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fl][cm][dm][en][eo][ep][dq][fq][dr]AW[dn][do][dp][bq][cq][cr])"
   }
   ]
 }
