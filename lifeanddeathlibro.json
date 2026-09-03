@@ -2473,6 +2473,486 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][eq][ar][br][cr][dr][fr][ds][fs]AW[dn][bp][cp][dp][fp][bq][dq][fq][gq][er][gr])"
+  },
+    {
+    "id": 248,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][gp][bq][cq][gq][iq][br][hr][cs]AW[eo][fo][dp][fp][dq][fq][cr][dr][fr][gr])"
+  },
+  {
+    "id": 249,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][dn][ao][cp][dp][fp][gq][hq][hr]AW[bo][bp][bq][cq][fr][gr])"
+  },
+  {
+    "id": 250,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][bq][eq][fq][hq][gr]AW[cq][dq][ar][br][er][cs])"
+  },
+  {
+    "id": 251,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][eq][fq][dr][fr]AW[aq][bq][cq][dq][ar][cr][er])"
+  },
+  {
+    "id": 252,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][fn][gn][hn][do][bp][cp][hp][aq][gq][iq][ar][br][dr][fr][gr][cs][ds]AW[eo][fo][go][dp][gp][bq][cq][dq][eq][fq][cr][er][bs])"
+  },
+  {
+    "id": 253,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bm][cm][cn][en][fn][fo][fp][cq][fq][ar][br][cr][dr][er]AW[bn][ao][co][do][eo][ap][cp][ep][bq][dq][eq])"
+  },
+  {
+    "id": 254,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bm][cm][dn][cp][dp][dq][cr][dr]AW[bn][bp][bq][cq][br][bs])"
+  },
+  {
+    "id": 255,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[gn][bo][do][eo][cp][fp][bq][fq][hq][ar][gr][bs]AW[dp][ep][cq][eq][br][cr][dr][er][fr])"
+  },
+  {
+    "id": 256,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][eq][fq][fr][fs]AW[bp][bq][cq][dq][ar][cr][er][ds])"
+  },
+  {
+    "id": 257,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cl][dm][em][fm][bn][cn][fn][gp][aq][dq][eq][fq][br][dr][bs][cs]AW[dn][en][bo][co][eo][dp][ep][bq][cq][cr])"
+  },
+  {
+    "id": 258,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][en][fn][co][fo][bp][bq][fq][gq][br][gr][cs]AW[do][eo][cp][ep][cq][dq][eq][fr][ds][es])"
+  },
+  {
+    "id": 259,
+    "tema": "Review (write 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][en][gn][co][fo][bp][bq][fq][gq][br][gr][gs]AW[do][eo][cp][ep][cq][dq][eq][cr][fr][es])"
+  },
+  {
+    "id": 260,
+    "tema": "Finding the Vital Point 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr]AW[co][dp][ep][fp][gp][ip][bq][cq][hq][gr])"
+  },
+  {
+    "id": 261,
+    "tema": "Finding the Vital Point 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][ds]AW[co][dp][ep][fp][gp][ip][bq][cq][hq][ar][gr])"
+  },
+  {
+    "id": 262,
+    "tema": "Finding the Vital Point 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][bs][ds]AW[co][dp][ep][fp][gp][ip][bq][cq][hq][ar][gr][fs])"
+  },
+  {
+    "id": 263,
+    "tema": "Finding the Vital Point 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][bs][ds]AW[co][dp][ep][fp][gp][ip][bq][cq][hq][ar][fr][gr])"
+  },
+  {
+    "id": 264,
+    "tema": "Finding the Vital Point 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][bs][ds]AW[co][dp][ep][fp][gp][ip][bq][cq][hq][ar][er][gr])"
+  },
+  {
+    "id": 265,
+    "tema": "Finding the Vital Point 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][br][cr][bs][ds]AW[co][dp][ep][fp][gp][ip][bq][cq][hq][ar][gr])"
+  },
+  {
+    "id": 266,
+    "tema": "Finding the Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][dr][ds]AW[bn][fo][bp][cp][dp][eq][cr][er][es])"
+  },
+  {
+    "id": 267,
+    "tema": "Finding the Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][br][dr][ds]AW[bn][fo][bp][cp][dp][aq][eq][cr][er][es])"
+  },
+  {
+    "id": 268,
+    "tema": "Finding the Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][fo][bp][cp][dp][eq][cr][er][es]AW[aq][bq][cq][dq][dr][ds])"
+  },
+  {
+    "id": 269,
+    "tema": "Finding the Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][fo][bp][cp][dp][eq][br][cr][er][es]AW[aq][bq][cq][dq][ar][dr][ds])"
+  },
+  {
+    "id": 270,
+    "tema": "Finding the Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][fo][bp][cp][dp][eq][br][cr][er][es]AW[aq][bq][cq][dq][dr][bs][ds])"
+  },
+  {
+    "id": 271,
+    "tema": "Finding the Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][fo][bp][cp][dp][eq][cr][er][es]AW[bq][cq][dq][dr][bs][ds])"
+  },
+  {
+    "id": 272,
+    "tema": "Finding the Vital Point 3",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][dq][fq][cr][dr][cs]AW[co][eo][fo][go][dp][hp][bq][cq][hq][br][hr][hs])"
+  },
+  {
+    "id": 273,
+    "tema": "Finding the Vital Point 3",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][dq][fq][cr][dr][cs][fs]AW[co][eo][fo][go][dp][hp][bq][cq][hq][br][gr][hr][hs])"
+  },
+  {
+    "id": 274,
+    "tema": "Finding the Vital Point 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][eo][fo][go][dp][hp][bq][cq][hq][br][hr][hs]AW[ep][fp][dq][fq][cr][dr][fr][cs])"
+  },
+  {
+    "id": 275,
+    "tema": "Finding the Vital Point 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][eo][fo][go][dp][hp][bq][cq][hq][br][hr][hs]AW[ep][fp][dq][fq][cr][dr][er][cs])"
+  },
+  {
+    "id": 276,
+    "tema": "Finding the Vital Point 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][eo][fo][go][dp][hp][bq][cq][hq][br][fr][hr][hs]AW[ep][fp][dq][fq][cr][dr][er][gr][cs])"
+  },
+  {
+    "id": 277,
+    "tema": "Finding the Vital Point 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][eo][fo][go][dp][hp][bq][cq][hq][br][hr][hs]AW[ep][fp][dq][fq][cr][dr][cs][es])"
+  },
+  {
+    "id": 278,
+    "tema": "Finding the Vital Point 4",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dr][er]AW[bn][go][bp][cp][dp][dq][fq][fr][fs])"
+  },
+  {
+    "id": 279,
+    "tema": "Finding the Vital Point 4",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][br][dr][er]AW[bn][go][bp][cp][dp][fq][fr][cs][fs])"
+  },
+  {
+    "id": 280,
+    "tema": "Finding the Vital Point 4",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][br][dr][er][bs]AW[bn][go][bp][cp][dp][dq][fq][fr][cs][es][fs])"
+  },
+  {
+    "id": 281,
+    "tema": "Finding the Vital Point 4",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][go][bp][cp][dp][dq][fq][fr][fs]AW[bq][cq][dr][er][bs])"
+  },
+  {
+    "id": 282,
+    "tema": "Finding the Vital Point 4",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][go][bp][cp][dp][dq][fq][cr][fr][fs]AW[bq][cq][br][dr][er][bs])"
+  },
+  {
+    "id": 283,
+    "tema": "Finding the Vital Point 4",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][go][bp][cp][dp][dq][fq][fr][ds][fs]AW[bq][cq][br][dr][er][bs][cs])"
+  },
+  {
+    "id": 284,
+    "tema": "Finding the Vital Point 5",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eq][fq][hq][cr][dr][er][hr]AW[jo][ep][fp][gp][hp][bq][cq][dq][iq][br][ir])"
+  },
+  {
+    "id": 285,
+    "tema": "Finding the Vital Point 5",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eq][fq][hq][cr][dr][er][hr][fs]AW[jo][ep][fp][gp][hp][bq][cq][dq][iq][br][gr][ir])"
+  },
+  {
+    "id": 286,
+    "tema": "Finding the Vital Point 5",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eq][fq][gq][hq][cr][dr][er][hr][fs]AW[jo][ep][fp][gp][hp][bq][cq][dq][iq][br][gr][ir][cs])"
+  },
+  {
+    "id": 287,
+    "tema": "Finding the Vital Point 5",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[jo][ep][fp][gp][hp][bq][cq][dq][iq][br][ir]AW[eq][fq][gq][hq][cr][dr][er][hr])"
+  },
+  {
+    "id": 288,
+    "tema": "Finding the Vital Point 5",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[jo][ep][fp][gp][hp][bq][cq][dq][iq][br][ir][cs]AW[eq][fq][gq][hq][cr][dr][er][hr][ds])"
+  },
+  {
+    "id": 289,
+    "tema": "Finding the Vital Point 5",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[jo][ep][fp][gp][hp][bq][cq][dq][iq][br][ir][cs][fs]AW[eq][fq][gq][hq][cr][dr][er][hr][ds][gs])"
+  },
+  {
+    "id": 290,
+    "tema": "Finding the Vital Point 6",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][hm][dn][en][fn][co][go][cp][ep][gp][bq][eq][gq][br][dr][gr]AW[do][eo][fo][fp][cq][dq][fq][cr][er][fr][fs])"
+  },
+  {
+    "id": 291,
+    "tema": "Finding the Vital Point 6",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][hm][dn][en][fn][co][go][cp][ep][gp][bq][eq][gq][br][dr][gr]AW[do][eo][fo][dp][fp][cq][fq][cr][er][fr][fs])"
+  },
+  {
+    "id": 292,
+    "tema": "Finding the Vital Point 6",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][fp][cq][fq][cr][er][fr][fs]AW[cm][hm][dn][en][fn][co][go][cp][ep][gp][bq][eq][gq][br][dr][gr])"
+  },
+  {
+    "id": 293,
+    "tema": "Finding the Vital Point 6",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][em][gm][bn][en][bo][go][ho][bp][dp][fp][hp][bq][hq][br][fr][gr][hr]AW[cn][dn][cp][ep][gp][cq][dq][eq][fq][gq][cr][er][cs][es])"
+  },
+  {
+    "id": 294,
+    "tema": "Finding the Vital Point 6",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][cp][gp][cq][dq][eq][fq][gq][cr][er][cs][es]AW[cm][dm][em][gm][bn][en][bo][go][ho][bp][dp][fp][hp][bq][hq][br][fr][gr][hr])"
+  },
+  {
+    "id": 295,
+    "tema": "Finding the Vital Point 6",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][eo][cp][gp][cq][dq][eq][fq][gq][cr][er][cs][es]AW[cm][dm][em][gm][bn][en][bo][fo][go][ho][bp][dp][fp][hp][bq][hq][br][fr][gr][hr])"
   }
   ]
 }
