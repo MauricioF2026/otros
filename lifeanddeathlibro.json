@@ -1813,6 +1813,666 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fl][cm][dm][en][eo][ep][dq][fq][dr]AW[dn][do][dp][bq][cq][cr])"
+  },
+    {
+    "id": 182,
+    "tema": "Where to Reduce the Eye Space",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][br][gr]AW[cp][dp][ep][fp][cq][fq][cr][er][fr])"
+  },
+  {
+    "id": 183,
+    "tema": "Where to Reduce the Eye Space",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][br][gr][fs]AW[cp][dp][ep][fp][cq][fq][cr][er][fr][es])"
+  },
+  {
+    "id": 184,
+    "tema": "Where to Reduce the Eye Space",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][br][gr][fs]AW[cp][dp][ep][fp][cq][dq][fq][cr][er][fr])"
+  },
+  {
+    "id": 185,
+    "tema": "Where to Reduce the Eye Space",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][cq][fq][cr][er][fr]AW[co][do][eo][fo][bp][gp][bq][gq][br][gr][cs])"
+  },
+  {
+    "id": 186,
+    "tema": "Where to Reduce the Eye Space",
+    "accion": "Save black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][cq][fq][cr][er][fr]AW[co][do][eo][fo][bp][gp][bq][dq][gq][br][gr])"
+  },
+  {
+    "id": 187,
+    "tema": "Where to Reduce the Eye Space",
+    "accion": "Save black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][cq][fq][cr][er][fr][fs]AW[co][do][eo][fo][bp][gp][bq][dq][gq][br][gr][ds])"
+  },
+  {
+    "id": 188,
+    "tema": "Large Knight Vital Point",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][fp][gq][hq][hr]AW[bp][bq][cq][br][fr][gr])"
+  },
+  {
+    "id": 189,
+    "tema": "Large Knight Vital Point",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][fp][gq][hq][dr][hr]AW[bp][bq][cq][dq][br][fr][gr])"
+  },
+  {
+    "id": 190,
+    "tema": "Large Knight Vital Point",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][fp][gq][hq][dr][er][hr]AW[bp][bq][cq][dq][eq][br][fr][gr])"
+  },
+  {
+    "id": 191,
+    "tema": "Large Knight Vital Point",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][cq][br][fr][gr]AW[cn][bo][ap][cp][dp][fp][gq][hq][er][hr])"
+  },
+  {
+    "id": 192,
+    "tema": "Large Knight Vital Point",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][cq][br][dr][fr][gr]AW[cn][bo][ap][cp][dp][fp][eq][gq][hq][er][hr])"
+  },
+  {
+    "id": 193,
+    "tema": "Large Knight Vital Point",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][cq][dq][br][fr][gr]AW[cn][bo][ap][cp][dp][fp][eq][gq][hq][dr][hr])"
+  },
+  {
+    "id": 194,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][bp][ep][fp][hp][iq]AW[cp][dp][bq][eq][cr])"
+  },
+  {
+    "id": 195,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][bp][ep][fp][hp][dq][iq]AW[cp][dp][bq][cq][eq][cr])"
+  },
+  {
+    "id": 196,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][bp][ep][fp][hp][dq][iq][er]AW[cp][dp][bq][cq][eq][fq][cr])"
+  },
+  {
+    "id": 197,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][bp][ep][fp][hp][dq][iq][er][fr]AW[cp][dp][bq][cq][eq][fq][gq][cr])"
+  },
+  {
+    "id": 198,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][bp][ep][fp][hp][iq][er][fr][gr]AW[cp][dp][bq][cq][eq][fq][gq][cr][dr])"
+  },
+  {
+    "id": 199,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][bq][eq][cr]AW[bo][co][do][bp][ep][fp][hp][iq][er])"
+  },
+  {
+    "id": 200,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][ho][hp][bq][cq][dq][iq][br][hr][ir][bs]AW[eo][fo][ep][gp][eq][fq][gq][hq][cr][dr][gr])"
+  },
+  {
+    "id": 201,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][ho][hp][bq][cq][dq][iq][br][hr][ir][bs][gs]AW[eo][fo][ep][gp][eq][fq][gq][hq][cr][dr][gr][fs])"
+  },
+  {
+    "id": 202,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][ho][hp][bq][cq][dq][iq][br][er][hr][ir][bs][gs]AW[eo][fo][ep][gp][eq][fq][gq][hq][cr][dr][gr][ds][fs])"
+  },
+  {
+    "id": 203,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][ho][hp][bq][cq][dq][iq][br][er][hr][ir][bs][gs]AW[eo][fo][ep][gp][eq][fq][gq][hq][cr][dr][gr][es][fs])"
+  },
+    {
+    "id": 204,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][ho][hp][bq][cq][dq][iq][br][hr][ir][bs][ds][gs]AW[eo][fo][ep][gp][eq][fq][gq][hq][cr][dr][fr][gr][es][fs])"
+  },
+  {
+    "id": 205,
+    "tema": "Vital Point to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][co][go][ho][hp][bq][cq][dq][iq][br][hr][ir][bs][gs]AW[eo][fo][ep][gp][eq][fq][gq][hq][cr][dr][er][gr])"
+  },
+  {
+    "id": 206,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][bp][cp][dp][eq][fq][dr][fr]AW[ap][bq][cq][dq][ar][cr][er])"
+  },
+  {
+    "id": 207,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][bp][cp][dp][eq][fq][fr][bs]AW[ap][bq][cq][dq][ar][cr][er][ds])"
+  },
+  {
+    "id": 208,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][bp][cp][dp][eq][fq][fr][bs][fs]AW[ap][bq][cq][dq][ar][cr][er][ds][es])"
+  },
+  {
+    "id": 209,
+    "tema": "False Eye after Placement 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bq][cq][dq][ar][cr]AW[bn][bp][cp][dp][eq][fq][dr][fr][es])"
+  },
+  {
+    "id": 210,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][eq][fq][gq][gr][bs][gs]AW[bq][cq][dq][ar][cr][er][fr][ds])"
+  },
+  {
+    "id": 211,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][co][eo][bp][dp][eq][dr][er]AW[cp][bq][cq][dq][cr][bs])"
+  },
+  {
+    "id": 212,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][en][fn][do][go][bp][cp][gp][aq][gq][ar][br][fr][gr][cs]AW[eo][fo][dp][fp][bq][cq][eq][fq][cr][er])"
+  },
+  {
+    "id": 213,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][en][fn][do][go][bp][cp][gp][aq][gq][ar][br][dr][fr][gr][cs]AW[eo][fo][dp][fp][bq][cq][dq][eq][fq][cr][er])"
+  },
+  {
+    "id": 214,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][en][fn][do][go][bp][cp][gp][aq][gq][ar][br][dr][fr][gr][cs][ds]AW[eo][fo][dp][fp][bq][cq][dq][eq][fq][cr][er][bs])"
+  },
+  {
+    "id": 215,
+    "tema": "False Eye after Placement 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][en][fn][do][go][bp][cp][gp][aq][gq][ar][br][fr][gr]AW[eo][fo][dp][fp][bq][cq][dq][eq][fq][cr][er][bs][fs])"
+  },
+  {
+    "id": 216,
+    "tema": "False Eye after Placement 1",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][cq][dq][eq][fq][cr][er]AW[bn][dn][en][fn][do][go][bp][cp][gp][aq][gq][ar][br][dr][fr][gr][cs][es])"
+  },
+  {
+    "id": 217,
+    "tema": "False Eye after Placement 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][dp][fp][bq][cq][dq][eq][fq][cr][er]AW[bn][dn][en][fn][do][go][bp][cp][gp][aq][gq][ar][br][dr][fr][gr][as][cs][ds])"
+  },
+  {
+    "id": 218,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][cn][fn][gn][co][go][gp][bq][cq][fq][gq][br][gr][bs]AW[do][eo][fo][dp][fp][dq][eq][cr][fr][ds][es])"
+  },
+  {
+    "id": 219,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][cn][fn][gn][co][go][gp][bq][cq][fq][gq][br][gr][bs][gs]AW[do][eo][fo][dp][fp][dq][eq][cr][fr][ds][es][fs])"
+  },
+  {
+    "id": 220,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][cn][fn][gn][co][go][gp][bq][cq][fq][gq][br][gr][bs][gs]AW[do][eo][fo][dp][fp][dq][eq][cr][fr][cs][ds][es])"
+  },
+  {
+    "id": 221,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][cn][fn][gn][co][go][gp][bq][cq][gq][br][gr][ir][bs]AW[do][eo][fo][dp][fp][dq][eq][fq][cr][fr][ds])"
+  },
+  {
+    "id": 222,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][cn][fn][gn][co][go][gp][bq][cq][gq][br][gr][ir][bs][fs]AW[do][eo][fo][dp][fp][dq][eq][fq][cr][fr][ds][es])"
+  },
+  {
+    "id": 223,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][cn][fn][gn][co][go][gp][bq][cq][gq][br][dr][gr][ir][bs]AW[do][eo][fo][dp][fp][dq][eq][fq][cr][fr][ds][es][gs])"
+  },
+  {
+    "id": 224,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][hm][dn][en][fn][co][go][cp][gp][bq][fq][gq][br][gr]AW[do][eo][fo][dp][fp][ip][cq][dq][eq][fr][ir][es])"
+  },
+  {
+    "id": 225,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][hm][dn][en][fn][co][go][cp][gp][bq][fq][gq][br][gr][gs]AW[do][eo][fo][dp][fp][ip][cq][dq][eq][cr][fr][ir][es])"
+  },
+  {
+    "id": 226,
+    "tema": "How to Make a False Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][hm][dn][en][fn][co][go][cp][gp][bq][fq][gq][br][gr][cs][gs]AW[do][eo][fo][dp][fp][ip][cq][dq][eq][cr][fr][ir][ds][es])"
+  },
+  {
+    "id": 227,
+    "tema": "How to Make a False Eye",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][dp][fp][ip][cq][dq][eq][fr][ir][es]AW[cm][hm][dn][en][fn][co][go][cp][gp][bq][fq][gq][br][dr][gr])"
+  },
+  {
+    "id": 228,
+    "tema": "How to Make a False Eye",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][dp][fp][ip][cq][dq][eq][fr][ir][es]AW[cm][hm][dn][en][fn][co][go][cp][gp][bq][fq][gq][br][gr][cs])"
+  },
+  {
+    "id": 229,
+    "tema": "How to Make a False Eye",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][dp][fp][ip][cq][dq][eq][fr][ir][es][gs]AW[cm][hm][dn][en][fn][co][go][cp][gp][bq][fq][gq][br][gr][cs][hs])"
+  },
+  {
+    "id": 230,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][gr]AW[cq][ar][br][cr][dr][fr])"
+  },
+  {
+    "id": 231,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][gr][bs]AW[cq][ar][br][cr][dr][fr][cs])"
+  },
+  {
+    "id": 232,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][gr][bs][es]AW[cq][ar][br][cr][dr][er][fr][cs])"
+  },
+  {
+    "id": 233,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][gr][bs][es]AW[cq][ar][br][cr][dr][fr][cs][fs])"
+  },
+  {
+    "id": 234,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][er][gr][bs][es]AW[cq][eq][ar][br][cr][dr][fr][cs][fs])"
+  },
+  {
+    "id": 235,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][fq][gq][gr][bs]AW[cq][eq][ar][br][cr][dr][fr][cs][ds][fs])"
+  },
+  {
+    "id": 236,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][gr]AW[cq][ar][br][cr][dr][fr])"
+  },
+  {
+    "id": 237,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][gq][gr][bs]AW[cq][eq][ar][br][cr][dr][fr])"
+  },
+  {
+    "id": 238,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][fq][gq][gr][bs]AW[cq][eq][ar][br][cr][dr][fr][fs])"
+  },
+  {
+    "id": 239,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][fq][gq][gr][bs]AW[cq][eq][ar][br][cr][dr][fr][es][fs])"
+  },
+  {
+    "id": 240,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][fq][gq][gr][bs]AW[cq][eq][ar][br][cr][dr][er][fr])"
+  },
+  {
+    "id": 241,
+    "tema": "False Eye after Placement 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bp][cp][dp][fp][bq][dq][fq][gq][gr][bs][fs]AW[eq][ar][br][cr][dr][er][fr][es])"
+  },
+  {
+    "id": 242,
+    "tema": "Play Inside and Make a False Eye 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][ar][br][cr][dr][fr]AW[dn][bp][cp][dp][fp][bq][dq][gq][gr][fs])"
+  },
+  {
+    "id": 243,
+    "tema": "Play Inside and Make a False Eye 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][ar][br][cr][dr][fr][es]AW[dn][bp][cp][dp][fp][bq][dq][gq][gr][bs][fs])"
+  },
+  {
+    "id": 244,
+    "tema": "Play Inside and Make a False Eye 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][ar][br][cr][dr][fr]AW[dn][bp][cp][dp][fp][bq][dq][gq][er][gr])"
+  },
+  {
+    "id": 245,
+    "tema": "Play Inside and Make a False Eye 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][eq][ar][br][cr][dr][fr]AW[dn][bp][cp][dp][fp][bq][dq][gq][er][gr][es])"
+  },
+  {
+    "id": 246,
+    "tema": "Play Inside and Make a False Eye 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][eq][ar][br][cr][dr][fr][fs]AW[dn][bp][cp][dp][fp][bq][dq][fq][gq][er][gr][es])"
+  },
+  {
+    "id": 247,
+    "tema": "Play Inside and Make a False Eye 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][eq][ar][br][cr][dr][fr][ds][fs]AW[dn][bp][cp][dp][fp][bq][dq][fq][gq][er][gr])"
   }
   ]
 }
