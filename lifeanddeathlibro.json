@@ -2,7 +2,7 @@
   "titulo": "Tsumegos",
   "descripcion": "",
   "version": "1.0",
-  "totalProblemas": 85,
+  "totalProblemas": 337,
   "problemas": [
     {
       "id": 1,
@@ -3366,6 +3366,66 @@
   },
   {
     "id": 337,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][cn][dn][en][bo][eo][bq][cq][dq]AW[bm][cm][dm][em][fn][co][do][fo][bp][ep][gp][eq][br][cr][dr])"
+  },
+    {
+    "id": 338,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][co][cp][bq][ar][br]AW[bm][cm][dm][dn][dp][cq][eq][cr][bs])"
+  },
+  {
+    "id": 339,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][cq][dq][cr]AW[ao][bo][co][do][dp][bq][eq][dr][er])"
+  },
+  {
+    "id": 340,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][dp][bq][cq][ar][br]AW[am][bm][cm][dn][en][eo][ep][dq][fq][cr][dr][bs])"
+  },
+  {
+    "id": 341,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cq][cr]AW[an][bn][cn][en][cp][dp][dq][dr])"
+  },
+  {
+    "id": 342,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][io][cp][fp][gp][bq][gq][iq][br][ir]AW[cq][dq][eq][fq][cr][fr][gr][hr])"
+  },
+  {
+    "id": 343,
     "tema": "Review (white 3 moves)",
     "accion": "Save black",
     "colorJuega": "B",
