@@ -2953,6 +2953,426 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][eo][cp][gp][cq][dq][eq][fq][gq][cr][er][cs][es]AW[cm][dm][em][gm][bn][en][bo][fo][go][ho][bp][dp][fp][hp][bq][hq][br][fr][gr][hr])"
+  },
+    {
+    "id": 296,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][gq][cr][er][gr]AW[dn][fo][cp][dp][gp][hp][bq][hq][br][dr][fr][hr][cs][gs])"
+  },
+  {
+    "id": 297,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][gq][cr][er][gr][es]AW[dn][fo][cp][dp][gp][hp][bq][hq][br][dr][fr][hr][bs][cs][gs])"
+  },
+  {
+    "id": 298,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][gq][cr][er][gr][es]AW[dn][fo][cp][dp][gp][hp][bq][hq][br][dr][fr][hr][cs][gs][hs])"
+  },
+  {
+    "id": 299,
+    "tema": "Center of Symmetry",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][fo][cp][dp][gp][hp][bq][hq][br][fr][hr][cs][gs]AW[cq][dq][eq][fq][gq][cr][er][gr][ds])"
+  },
+  {
+    "id": 300,
+    "tema": "Center of Symmetry",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][fo][cp][dp][gp][hp][bq][hq][br][dr][hr][cs][gs]AW[cq][dq][eq][fq][gq][cr][er][gr][fs])"
+  },
+  {
+    "id": 301,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][gp][cq][eq][gq][cr][er][gr]AW[dm][fn][co][do][go][ho][bp][hp][bq][dq][fq][hq][br][dr][fr][hr][cs][gs])"
+  },
+  {
+    "id": 302,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][gp][eq][gq]AW[en][gn][do][ho][bq][cq][dq][hq][iq][jq])"
+  },
+  {
+    "id": 303,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][gp][eq][gq][fr]AW[en][gn][do][ho][bq][cq][dq][hq][iq][jq][dr])"
+  },
+  {
+    "id": 304,
+    "tema": "Center of Symmetry",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][gp][eq][gq][fr]AW[en][gn][do][ho][bq][cq][dq][hq][iq][jq][hr])"
+  },
+  {
+    "id": 305,
+    "tema": "Center of Symmetry",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][gn][do][ho][bq][cq][dq][hq][iq][jq]AW[ep][gp][eq][gq][dr])"
+  },
+  {
+    "id": 306,
+    "tema": "Center of Symmetry",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][gn][do][ho][bq][cq][dq][hq][iq][jq]AW[ep][gp][eq][gq][hr])"
+  },
+  {
+    "id": 307,
+    "tema": "Center of Symmetry",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][gn][do][ho][bq][cq][dq][hq][iq][jq][fr]AW[ep][gp][eq][gq][dr][er])"
+  },
+  {
+    "id": 308,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Save Black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][fp][cq][fq][cr][fr][gr]AW[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr])"
+  },
+  {
+    "id": 309,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Save Black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][fp][cq][fq][cr][er][fr][gr]AW[co][do][eo][fo][bp][gp][bq][dq][gq][iq][br][hr])"
+  },
+  {
+    "id": 310,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Save Black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][cq][fq][cr][er][fr][gr]AW[co][do][eo][fo][bp][gp][bq][dq][gq][iq][br][hr][gs])"
+  },
+  {
+    "id": 311,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Save Black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][cq][fq][cr][er][fr][gr][fs]AW[co][do][eo][fo][bp][gp][bq][dq][gq][iq][br][hr][ds][gs])"
+  },
+  {
+    "id": 312,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Save Black by seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][fp][cq][fq][cr][fr][gr]AW[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr])"
+  },
+  {
+    "id": 313,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][fp][cq][fq][cr][er][fr][gr]AW[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr][gs])"
+  },
+  {
+    "id": 314,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr]AW[cp][dp][ep][fp][cq][fq][cr][fr][gr])"
+  },
+  {
+    "id": 315,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr][gs]AW[cp][dp][ep][fp][cq][fq][cr][fr][gr][fs])"
+  },
+  {
+    "id": 316,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr][cs][gs]AW[cp][dp][ep][fp][cq][fq][cr][fr][gr][ds][fs])"
+  },
+  {
+    "id": 317,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr][gs]AW[cp][dp][ep][fp][cq][fq][cr][dr][fr][gr])"
+  },
+  {
+    "id": 318,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr][cs][gs]AW[cp][dp][ep][fp][cq][eq][fq][cr][dr][fr][gr])"
+  },
+  {
+    "id": 319,
+    "tema": "Finding the Vital Point 7",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][bp][gp][bq][gq][iq][br][hr][cs][es][gs]AW[cp][dp][ep][fp][cq][eq][fq][cr][dr][fr][gr][fs])"
+  },
+  {
+    "id": 320,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq]AW[dp][ep][fp][bq][cq][dr])"
+  },
+  {
+    "id": 321,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq][er]AW[dp][ep][fp][bq][cq][eq][dr])"
+  },
+  {
+    "id": 322,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq][er]AW[dp][ep][fp][bq][cq][fq][dr])"
+  },
+  {
+    "id": 323,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq][er]AW[dp][ep][fp][bq][cq][dr][fr])"
+  },
+  {
+    "id": 324,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq]AW[dp][ep][fp][bq][cq][br][dr])"
+  },
+  {
+    "id": 325,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq][er][cs]AW[dp][ep][fp][bq][cq][br][dr][ds])"
+  },
+  {
+    "id": 326,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][hn][do][eo][fo][bp][cp][gp][gq][er]AW[dp][ep][fp][bq][cq][dr][bs])"
+  },
+  {
+    "id": 327,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][bq][cq][dr]AW[cn][hn][do][eo][fo][bp][cp][gp][eq][gq])"
+  },
+  {
+    "id": 328,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][bq][cq][dr][er]AW[cn][hn][do][eo][fo][bp][cp][gp][eq][gq][fr])"
+  },
+  {
+    "id": 329,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][bq][cq][dq][dr][er]AW[cn][hn][do][eo][fo][bp][cp][gp][eq][fq][gq][fr])"
+  },
+  {
+    "id": 330,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][bq][cq][dr]AW[cn][hn][do][eo][fo][bp][cp][gp][fq][gq])"
+  },
+  {
+    "id": 331,
+    "tema": "Large Diagonal Vital Point 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][bq][cq][dr]AW[cn][hn][do][eo][fo][bp][cp][gp][gq][fr])"
+  },
+  {
+    "id": 332,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][co][cp][bq][ar][br]AW[bm][cm][dm][dn][dp][cq][eq][cr][bs])"
+  },
+  {
+    "id": 333,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black (1 moves)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][cq][dq][cr]AW[ao][bo][co][do][dp][bq][eq][dr][er])"
+  },
+  {
+    "id": 334,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black (1 moves)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][dp][bq][cq][ar][br]AW[am][bm][cm][dn][en][eo][ep][dq][fq][cr][dr][bs])"
+  },
+  {
+    "id": 335,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cq][cr]AW[an][bn][cn][en][cp][dp][dq][dr])"
+  },
+  {
+    "id": 336,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][io][cp][fp][gp][bq][gq][iq][br][ir]AW[cq][dq][eq][fq][cr][fr][gr][hr])"
+  },
+  {
+    "id": 337,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][cn][dn][en][bo][eo][bq][cq][dq]AW[bm][cm][dm][em][fn][co][do][fo][bp][ep][gp][eq][br][cr][dr])"
   }
   ]
 }
