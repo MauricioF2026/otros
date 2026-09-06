@@ -4103,16 +4103,7 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][fn][hn][bo][eo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr])"
-  },
-  {
-    "id": 411,
-    "tema": "Wedging-in Tesuji",
-    "accion": "Save black",
-    "colorJuega": "B",
-    "rango": "",
-    "fuente": "",
-    "pagina": null,
-    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][dn][hn][bo][eo][ho][b
+  }
   ]
 }
 
