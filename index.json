@@ -1,0 +1,9585 @@
+{
+  "source": "Waltheri",
+  "player": "Shin Jinseo",
+  "generated": "2026-09-07T04:04:19.903Z",
+  "boardSize": 19,
+  "totalGames": 504,
+  "games": [
+    {
+      "id": "86139",
+      "black": {
+        "name": "Kang Dongyun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-06-01",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2245,
+      "file": "86139.json"
+    },
+    {
+      "id": "86101",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Weiqing",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-05-27",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 3039,
+      "file": "86101.json"
+    },
+    {
+      "id": "86022",
+      "black": {
+        "name": "Zhang Tao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-04-27",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2696,
+      "file": "86022.json"
+    },
+    {
+      "id": "86000",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhao Chenyu",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-04-25",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 3103,
+      "file": "86000.json"
+    },
+    {
+      "id": "85959",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Myounghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-04-15",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2551,
+      "file": "85959.json"
+    },
+    {
+      "id": "85943",
+      "black": {
+        "name": "Kim Myounghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-04-09",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1904,
+      "file": "85943.json"
+    },
+    {
+      "id": "85946",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Minkyu",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-04-06",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1541,
+      "file": "85946.json"
+    },
+    {
+      "id": "85951",
+      "black": {
+        "name": "Kim Myounghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-04-04",
+      "result": "W+4.5",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 3255,
+      "file": "85951.json"
+    },
+    {
+      "id": "85913",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-25",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2410,
+      "file": "85913.json"
+    },
+    {
+      "id": "85889",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Rong Yi",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-23",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2025,
+      "file": "85889.json"
+    },
+    {
+      "id": "85861",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Kaiwen",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-21",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1863,
+      "file": "85861.json"
+    },
+    {
+      "id": "85840",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Ding Hao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-17",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 3277,
+      "file": "85840.json"
+    },
+    {
+      "id": "85848",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Xia Chenkun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-15",
+      "result": "W+0.25",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 3642,
+      "file": "85848.json"
+    },
+    {
+      "id": "85823",
+      "black": {
+        "name": "Kim Seongjae",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-12",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1552,
+      "file": "85823.json"
+    },
+    {
+      "id": "85833",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Seol Hyunjun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-03-10",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1365,
+      "file": "85833.json"
+    },
+    {
+      "id": "85771",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-02-29",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2234,
+      "file": "85771.json"
+    },
+    {
+      "id": "85740",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Myounghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-02-09",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1886,
+      "file": "85740.json"
+    },
+    {
+      "id": "85744",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Han Sanghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-02-06",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2240,
+      "file": "85744.json"
+    },
+    {
+      "id": "85731",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Kang Dongyun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-02-02",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1822,
+      "file": "85731.json"
+    },
+    {
+      "id": "85737",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-31",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2549,
+      "file": "85737.json"
+    },
+    {
+      "id": "85709",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-29",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2944,
+      "file": "85709.json"
+    },
+    {
+      "id": "85639",
+      "black": {
+        "name": "Fan Tingyu",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-22",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2212,
+      "file": "85639.json"
+    },
+    {
+      "id": "85621",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Weon Seongjin",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-18",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1917,
+      "file": "85621.json"
+    },
+    {
+      "id": "85623",
+      "black": {
+        "name": "Weon Seongjin",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-18",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2836,
+      "file": "85623.json"
+    },
+    {
+      "id": "85606",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Tuo Jiaxi",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-16",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 3809,
+      "file": "85606.json"
+    },
+    {
+      "id": "85583",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "An Sungjoon",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-11",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1820,
+      "file": "85583.json"
+    },
+    {
+      "id": "85585",
+      "black": {
+        "name": "Seol Hyunjun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-11",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1746,
+      "file": "85585.json"
+    },
+    {
+      "id": "85569",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Cheolhan",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-08",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1844,
+      "file": "85569.json"
+    },
+    {
+      "id": "85571",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Junghyun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-07",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1763,
+      "file": "85571.json"
+    },
+    {
+      "id": "85574",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-07",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2049,
+      "file": "85574.json"
+    },
+    {
+      "id": "85578",
+      "black": {
+        "name": "Xia Chenkun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2024-01-05",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2221,
+      "file": "85578.json"
+    },
+    {
+      "id": "85479",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Kang Dongyun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-23",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1979,
+      "file": "85479.json"
+    },
+    {
+      "id": "85488",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Fan Yin",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-21",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1670,
+      "file": "85488.json"
+    },
+    {
+      "id": "85473",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-16",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2516,
+      "file": "85473.json"
+    },
+    {
+      "id": "85477",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-15",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1476,
+      "file": "85477.json"
+    },
+    {
+      "id": "85451",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-13",
+      "result": "B+1.5",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2673,
+      "file": "85451.json"
+    },
+    {
+      "id": "85453",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-11",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1475,
+      "file": "85453.json"
+    },
+    {
+      "id": "85390",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Xie Erhao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-12-04",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1431,
+      "file": "85390.json"
+    },
+    {
+      "id": "85350",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Mi Yuting",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-11-28",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1465,
+      "file": "85350.json"
+    },
+    {
+      "id": "85340",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Xie Erhao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-11-22",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1919,
+      "file": "85340.json"
+    },
+    {
+      "id": "85277",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-11-10",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2566,
+      "file": "85277.json"
+    },
+    {
+      "id": "85229",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Zhengxun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-11-06",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1927,
+      "file": "85229.json"
+    },
+    {
+      "id": "85087",
+      "black": {
+        "name": "Heo Yongho",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-10-12",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2249,
+      "file": "85087.json"
+    },
+    {
+      "id": "85071",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-10-10",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 100,
+      "file": "85071.json"
+    },
+    {
+      "id": "85056",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-10-08",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1705,
+      "file": "85056.json"
+    },
+    {
+      "id": "85031",
+      "black": {
+        "name": "Yang Dingxin",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-10-03",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2619,
+      "file": "85031.json"
+    },
+    {
+      "id": "85004",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Sada Atsushi",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-09-30",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1510,
+      "file": "85004.json"
+    },
+    {
+      "id": "85009",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-09-30",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2241,
+      "file": "85009.json"
+    },
+    {
+      "id": "85015",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Wang Yuanjun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-09-29",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2734,
+      "file": "85015.json"
+    },
+    {
+      "id": "84984",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Ichiriki Ryo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-09-28",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1465,
+      "file": "84984.json"
+    },
+    {
+      "id": "84991",
+      "black": {
+        "name": "Shibano Toramaru",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-09-25",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1800,
+      "file": "84991.json"
+    },
+    {
+      "id": "84994",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-09-24",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2184,
+      "file": "84994.json"
+    },
+    {
+      "id": "84869",
+      "black": {
+        "name": "Xie Ke",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-08-23",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2188,
+      "file": "84869.json"
+    },
+    {
+      "id": "84875",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Xie Ke",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-08-21",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2846,
+      "file": "84875.json"
+    },
+    {
+      "id": "84751",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Xuanhao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-08-06",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2131,
+      "file": "84751.json"
+    },
+    {
+      "id": "84759",
+      "black": {
+        "name": "Fan Tingyu",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-08-04",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1606,
+      "file": "84759.json"
+    },
+    {
+      "id": "84715",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-28",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1656,
+      "file": "84715.json"
+    },
+    {
+      "id": "84717",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shibano Toramaru",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-27",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2494,
+      "file": "84717.json"
+    },
+    {
+      "id": "84688",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Myounghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-26",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2442,
+      "file": "84688.json"
+    },
+    {
+      "id": "84722",
+      "black": {
+        "name": "Ida Athushi",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-26",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1391,
+      "file": "84722.json"
+    },
+    {
+      "id": "84670",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-21",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1856,
+      "file": "84670.json"
+    },
+    {
+      "id": "84633",
+      "black": {
+        "name": "Kim Myounghoon",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-10",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2225,
+      "file": "84633.json"
+    },
+    {
+      "id": "84637",
+      "black": {
+        "name": "Jen Youngkyu",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-08",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1817,
+      "file": "84637.json"
+    },
+    {
+      "id": "84609",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-05",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1757,
+      "file": "84609.json"
+    },
+    {
+      "id": "84618",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-04",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1704,
+      "file": "84618.json"
+    },
+    {
+      "id": "84622",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-07-03",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2346,
+      "file": "84622.json"
+    },
+    {
+      "id": "84585",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-27",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1901,
+      "file": "84585.json"
+    },
+    {
+      "id": "84552",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-25",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1712,
+      "file": "84552.json"
+    },
+    {
+      "id": "84543",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-17",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1618,
+      "file": "84543.json"
+    },
+    {
+      "id": "84544",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Gu Zihao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-16",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1891,
+      "file": "84544.json"
+    },
+    {
+      "id": "84510",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-14",
+      "result": "W+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 108,
+      "file": "84510.json"
+    },
+    {
+      "id": "84514",
+      "black": {
+        "name": "Kang Dongyun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-11",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1505,
+      "file": "84514.json"
+    },
+    {
+      "id": "84517",
+      "black": {
+        "name": "Han Seungjoo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-10",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1502,
+      "file": "84517.json"
+    },
+    {
+      "id": "84519",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Cho Hanseung",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-09",
+      "result": "B+1.5",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 3233,
+      "file": "84519.json"
+    },
+    {
+      "id": "84495",
+      "black": {
+        "name": "Lee Changho",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-07",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1797,
+      "file": "84495.json"
+    },
+    {
+      "id": "84479",
+      "black": {
+        "name": "Choi Cheolhan",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-03",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2001,
+      "file": "84479.json"
+    },
+    {
+      "id": "84483",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Cheolhan",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-06-02",
+      "result": "B+7.5",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2688,
+      "file": "84483.json"
+    },
+    {
+      "id": "84452",
+      "black": {
+        "name": "Li Xuanhao",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-31",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1381,
+      "file": "84452.json"
+    },
+    {
+      "id": "84439",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-24",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1683,
+      "file": "84439.json"
+    },
+    {
+      "id": "84443",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-22",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2121,
+      "file": "84443.json"
+    },
+    {
+      "id": "84414",
+      "black": {
+        "name": "Kang Dongyun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-19",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2239,
+      "file": "84414.json"
+    },
+    {
+      "id": "84418",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Hong Seongji",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-18",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1724,
+      "file": "84418.json"
+    },
+    {
+      "id": "84401",
+      "black": {
+        "name": "Kang Dongyun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-16",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2395,
+      "file": "84401.json"
+    },
+    {
+      "id": "84384",
+      "black": {
+        "name": "Paek Hongseok",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-12",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 2033,
+      "file": "84384.json"
+    },
+    {
+      "id": "84358",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Tan Xiao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-09",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1648,
+      "file": "84358.json"
+    },
+    {
+      "id": "84361",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Weiqing",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-08",
+      "result": "B+0.75",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 3022,
+      "file": "84361.json"
+    },
+    {
+      "id": "84366",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Ding Hao",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-06",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 1305,
+      "file": "84366.json"
+    },
+    {
+      "id": "84371",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-05-05",
+      "result": "B+R",
+      "komi": 375,
+      "handicap": 0,
+      "moves": 2053,
+      "file": "84371.json"
+    },
+    {
+      "id": "84327",
+      "black": {
+        "name": "Wang Yuanjun",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-04-26",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1730,
+      "file": "84327.json"
+    },
+    {
+      "id": "84294",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-04-17",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1418,
+      "file": "84294.json"
+    },
+    {
+      "id": "84264",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Yeongkyu",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-04-15",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1986,
+      "file": "84264.json"
+    },
+    {
+      "id": "84251",
+      "black": {
+        "name": "Lee Wonyoung",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-04-10",
+      "result": "W+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1999,
+      "file": "84251.json"
+    },
+    {
+      "id": "84226",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Weon Seongjin",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-04-05",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1440,
+      "file": "84226.json"
+    },
+    {
+      "id": "84233",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Wonyoung",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2023-04-03",
+      "result": "B+R",
+      "komi": 650,
+      "handicap": 0,
+      "moves": 1433,
+      "file": "84233.json"
+    },
+    {
+      "id": "84217",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2023-02-24",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "84217.json"
+    },
+    {
+      "id": "84196",
+      "black": {
+        "name": "Huang Yunsong",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2023-02-18",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 226,
+      "file": "84196.json"
+    },
+    {
+      "id": "84206",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Huang Yunsong",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2023-02-17",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "84206.json"
+    },
+    {
+      "id": "84214",
+      "black": {
+        "name": "Xu Jiayang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2023-02-15",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 214,
+      "file": "84214.json"
+    },
+    {
+      "id": "84181",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Xu Jiayang",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2023-02-14",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 223,
+      "file": "84181.json"
+    },
+    {
+      "id": "84150",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Xuanhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-12-21",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 170,
+      "file": "84150.json"
+    },
+    {
+      "id": "84151",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-12-19",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 181,
+      "file": "84151.json"
+    },
+    {
+      "id": "84136",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-11-16",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 252,
+      "file": "84136.json"
+    },
+    {
+      "id": "84120",
+      "black": {
+        "name": "Choi Jeong",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-11-08",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 184,
+      "file": "84120.json"
+    },
+    {
+      "id": "84121",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Jeong",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-11-07",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 205,
+      "file": "84121.json"
+    },
+    {
+      "id": "84122",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Myounghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-11-05",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 233,
+      "file": "84122.json"
+    },
+    {
+      "id": "84127",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-11-02",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 148,
+      "file": "84127.json"
+    },
+    {
+      "id": "84114",
+      "black": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-10-27",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 180,
+      "file": "84114.json"
+    },
+    {
+      "id": "84078",
+      "black": {
+        "name": "Xu Jiayang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-09-18",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 196,
+      "file": "84078.json"
+    },
+    {
+      "id": "84020",
+      "black": {
+        "name": "Xie Erhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-09-09",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 315,
+      "file": "84020.json"
+    },
+    {
+      "id": "83976",
+      "black": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-08-25",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 166,
+      "file": "83976.json"
+    },
+    {
+      "id": "83969",
+      "black": {
+        "name": "Zhou Ruiyang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-08-11",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 196,
+      "file": "83969.json"
+    },
+    {
+      "id": "83961",
+      "black": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-08-10",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 321,
+      "file": "83961.json"
+    },
+    {
+      "id": "83936",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Xiangyu",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2022-08-08",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 179,
+      "file": "83936.json"
+    },
+    {
+      "id": "83926",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Weiqing",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-08-06",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 176,
+      "file": "83926.json"
+    },
+    {
+      "id": "83913",
+      "black": {
+        "name": "Jiang Qirun",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-08-05",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 182,
+      "file": "83913.json"
+    },
+    {
+      "id": "83894",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-08-04",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 284,
+      "file": "83894.json"
+    },
+    {
+      "id": "83827",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yu Zhengqi",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-05-31",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "83827.json"
+    },
+    {
+      "id": "83821",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-03-24",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 193,
+      "file": "83821.json"
+    },
+    {
+      "id": "83781",
+      "black": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-02-25",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 228,
+      "file": "83781.json"
+    },
+    {
+      "id": "83782",
+      "black": {
+        "name": "Yu Zhengqi",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-02-24",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 152,
+      "file": "83782.json"
+    },
+    {
+      "id": "83783",
+      "black": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-02-23",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 214,
+      "file": "83783.json"
+    },
+    {
+      "id": "83796",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-02-09",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 247,
+      "file": "83796.json"
+    },
+    {
+      "id": "83797",
+      "black": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-02-07",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 226,
+      "file": "83797.json"
+    },
+    {
+      "id": "83799",
+      "black": {
+        "name": "Ding Hao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2022-01-20",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 198,
+      "file": "83799.json"
+    },
+    {
+      "id": "83674",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ichiriki Ryo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-11-08",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 145,
+      "file": "83674.json"
+    },
+    {
+      "id": "83678",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-11-03",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 166,
+      "file": "83678.json"
+    },
+    {
+      "id": "83679",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-11-02",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 191,
+      "file": "83679.json"
+    },
+    {
+      "id": "83640",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-11-01",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 185,
+      "file": "83640.json"
+    },
+    {
+      "id": "83641",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-10-28",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 277,
+      "file": "83641.json"
+    },
+    {
+      "id": "83643",
+      "black": {
+        "name": "Han Seungjoo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-10-26",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 158,
+      "file": "83643.json"
+    },
+    {
+      "id": "83646",
+      "black": {
+        "name": "Fan Tingyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-10-23",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 170,
+      "file": "83646.json"
+    },
+    {
+      "id": "83656",
+      "black": {
+        "name": "Xie Erhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-10-20",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 170,
+      "file": "83656.json"
+    },
+    {
+      "id": "83602",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tao Xinran",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-09-30",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 223,
+      "file": "83602.json"
+    },
+    {
+      "id": "83610",
+      "black": {
+        "name": "Xu Jiayang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-09-29",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 180,
+      "file": "83610.json"
+    },
+    {
+      "id": "83591",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Hu Yuhan",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2021-09-28",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 141,
+      "file": "83591.json"
+    },
+    {
+      "id": "83597",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-09-15",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 173,
+      "file": "83597.json"
+    },
+    {
+      "id": "83598",
+      "black": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-09-13",
+      "result": "W+0.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 271,
+      "file": "83598.json"
+    },
+    {
+      "id": "83545",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ding Shixiong",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2021-06-11",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 153,
+      "file": "83545.json"
+    },
+    {
+      "id": "83515",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-06-08",
+      "result": "B+3.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 316,
+      "file": "83515.json"
+    },
+    {
+      "id": "83506",
+      "black": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-06-07",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "83506.json"
+    },
+    {
+      "id": "83468",
+      "black": {
+        "name": "Ding Hao",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-05-12",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 191,
+      "file": "83468.json"
+    },
+    {
+      "id": "83426",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Weiqing",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2021-05-08",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 179,
+      "file": "83426.json"
+    },
+    {
+      "id": "83412",
+      "black": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-05-07",
+      "result": "W+1.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 307,
+      "file": "83412.json"
+    },
+    {
+      "id": "83323",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-02-25",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 185,
+      "file": "83323.json"
+    },
+    {
+      "id": "83324",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ichiriki Ryo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-02-24",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 135,
+      "file": "83324.json"
+    },
+    {
+      "id": "83325",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-02-23",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 157,
+      "file": "83325.json"
+    },
+    {
+      "id": "83326",
+      "black": {
+        "name": "Iyama Yuuta",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-02-22",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 192,
+      "file": "83326.json"
+    },
+    {
+      "id": "83314",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lian Xiao",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-01-20",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 207,
+      "file": "83314.json"
+    },
+    {
+      "id": "83317",
+      "black": {
+        "name": "Fan Tingyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2021-01-18",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 190,
+      "file": "83317.json"
+    },
+    {
+      "id": "83320",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhao Chenyu",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2021-01-10",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 211,
+      "file": "83320.json"
+    },
+    {
+      "id": "83288",
+      "black": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-12-22",
+      "result": "W+1.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 237,
+      "file": "83288.json"
+    },
+    {
+      "id": "83272",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Xu Jiayang",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2020-12-21",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "83272.json"
+    },
+    {
+      "id": "83254",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Xu Jiayang",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2020-12-20",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 246,
+      "file": "83254.json"
+    },
+    {
+      "id": "83193",
+      "black": {
+        "name": "Jiang Qirun",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-12-11",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 184,
+      "file": "83193.json"
+    },
+    {
+      "id": "83163",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2020-12-09",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 142,
+      "file": "83163.json"
+    },
+    {
+      "id": "83068",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-11-02",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 120,
+      "file": "83068.json"
+    },
+    {
+      "id": "83069",
+      "black": {
+        "name": "Xie Erhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-10-31",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 204,
+      "file": "83069.json"
+    },
+    {
+      "id": "83072",
+      "black": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-10-30",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 210,
+      "file": "83072.json"
+    },
+    {
+      "id": "83062",
+      "black": {
+        "name": "Lian Xiao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-10-28",
+      "result": "W+Time",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "83062.json"
+    },
+    {
+      "id": "83055",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Liao Yuanhe",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2020-10-27",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 221,
+      "file": "83055.json"
+    },
+    {
+      "id": "83001",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Xie Erhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-09-08",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 199,
+      "file": "83001.json"
+    },
+    {
+      "id": "82985",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-08-31",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 211,
+      "file": "82985.json"
+    },
+    {
+      "id": "82965",
+      "black": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-08-29",
+      "result": "W+0.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 276,
+      "file": "82965.json"
+    },
+    {
+      "id": "82953",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-08-27",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 183,
+      "file": "82953.json"
+    },
+    {
+      "id": "82937",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Jiang Weijie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-08-25",
+      "result": "B+3.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 308,
+      "file": "82937.json"
+    },
+    {
+      "id": "82928",
+      "black": {
+        "name": "Li Weiqing",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-08-24",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 178,
+      "file": "82928.json"
+    },
+    {
+      "id": "82910",
+      "black": {
+        "name": "Xu Jiayang",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-07-31",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 146,
+      "file": "82910.json"
+    },
+    {
+      "id": "82874",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-06-08",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 174,
+      "file": "82874.json"
+    },
+    {
+      "id": "82877",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-06-03",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 168,
+      "file": "82877.json"
+    },
+    {
+      "id": "82840",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-04-08",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 153,
+      "file": "82840.json"
+    },
+    {
+      "id": "82620",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-02-12",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 161,
+      "file": "82620.json"
+    },
+    {
+      "id": "82606",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2020-02-10",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 236,
+      "file": "82606.json"
+    },
+    {
+      "id": "82578",
+      "black": {
+        "name": "Wu Guangya",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-12-11",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 283,
+      "file": "82578.json"
+    },
+    {
+      "id": "82583",
+      "black": {
+        "name": "Ding Hao",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-12-09",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 244,
+      "file": "82583.json"
+    },
+    {
+      "id": "82527",
+      "black": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-11-6",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 212,
+      "file": "82527.json"
+    },
+    {
+      "id": "82505",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-11-04",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 297,
+      "file": "82505.json"
+    },
+    {
+      "id": "82516",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-10-30",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 195,
+      "file": "82516.json"
+    },
+    {
+      "id": "82487",
+      "black": {
+        "name": "Xu Jiayang",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-10-28",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 202,
+      "file": "82487.json"
+    },
+    {
+      "id": "82446",
+      "black": {
+        "name": "Ding Hao",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-10-11",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 233,
+      "file": "82446.json"
+    },
+    {
+      "id": "82457",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Gu Lingyi",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2019-10-10",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 167,
+      "file": "82457.json"
+    },
+    {
+      "id": "82417",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-10-02",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 237,
+      "file": "82417.json"
+    },
+    {
+      "id": "82346",
+      "black": {
+        "name": "Liao Yuanhe",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-09-01",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 253,
+      "file": "82346.json"
+    },
+    {
+      "id": "82312",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-31",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 165,
+      "file": "82312.json"
+    },
+    {
+      "id": "82323",
+      "black": {
+        "name": "Gao Xing",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-30",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 158,
+      "file": "82323.json"
+    },
+    {
+      "id": "82271",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-26",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 233,
+      "file": "82271.json"
+    },
+    {
+      "id": "82263",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-24",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 168,
+      "file": "82263.json"
+    },
+    {
+      "id": "82217",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-12",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "82217.json"
+    },
+    {
+      "id": "82194",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhao Chenyu",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2019-08-10",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 237,
+      "file": "82194.json"
+    },
+    {
+      "id": "82201",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-08",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "82201.json"
+    },
+    {
+      "id": "82207",
+      "black": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-04",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "82207.json"
+    },
+    {
+      "id": "82210",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-08-04",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 156,
+      "file": "82210.json"
+    },
+    {
+      "id": "82158",
+      "black": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-07-29",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "82158.json"
+    },
+    {
+      "id": "82145",
+      "black": {
+        "name": "Zhang Tao",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-07-22",
+      "result": "W+1.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 294,
+      "file": "82145.json"
+    },
+    {
+      "id": "82125",
+      "black": {
+        "name": "Yang Dingxin",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-07-20",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 146,
+      "file": "82125.json"
+    },
+    {
+      "id": "82021",
+      "black": {
+        "name": "Ding Hao",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-06-23",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 276,
+      "file": "82021.json"
+    },
+    {
+      "id": "82022",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-06-22",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 233,
+      "file": "82022.json"
+    },
+    {
+      "id": "82026",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Xu Jiayang",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2019-06-21",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 227,
+      "file": "82026.json"
+    },
+    {
+      "id": "81970",
+      "black": {
+        "name": "Zhou Ruiyang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-06-10",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 153,
+      "file": "81970.json"
+    },
+    {
+      "id": "81907",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tuo Jiaxi",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-06-1",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 179,
+      "file": "81907.json"
+    },
+    {
+      "id": "81898",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-05-29",
+      "result": "B+3.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 307,
+      "file": "81898.json"
+    },
+    {
+      "id": "81874",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Liao Yuanhe",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2019-05-27",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 165,
+      "file": "81874.json"
+    },
+    {
+      "id": "81860",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-05-22",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 158,
+      "file": "81860.json"
+    },
+    {
+      "id": "81835",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-05-21",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 185,
+      "file": "81835.json"
+    },
+    {
+      "id": "81838",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-05-20",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 96,
+      "file": "81838.json"
+    },
+    {
+      "id": "81807",
+      "black": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-05-14",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 221,
+      "file": "81807.json"
+    },
+    {
+      "id": "81799",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Meng Tailing",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2019-05-11",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 285,
+      "file": "81799.json"
+    },
+    {
+      "id": "81725",
+      "black": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-05-06",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 227,
+      "file": "81725.json"
+    },
+    {
+      "id": "81719",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ding Hao",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2019-04-29",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 259,
+      "file": "81719.json"
+    },
+    {
+      "id": "81688",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-27",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 257,
+      "file": "81688.json"
+    },
+    {
+      "id": "81689",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-26",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 134,
+      "file": "81689.json"
+    },
+    {
+      "id": "81649",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-22",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 246,
+      "file": "81649.json"
+    },
+    {
+      "id": "81634",
+      "black": {
+        "name": "Ding Hao",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-21",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 235,
+      "file": "81634.json"
+    },
+    {
+      "id": "81651",
+      "black": {
+        "name": "Wang Zejin",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-21",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 194,
+      "file": "81651.json"
+    },
+    {
+      "id": "81636",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Zijian",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2019-04-20",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 171,
+      "file": "81636.json"
+    },
+    {
+      "id": "81626",
+      "black": {
+        "name": "Mutsuura Yuta",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-19",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 142,
+      "file": "81626.json"
+    },
+    {
+      "id": "81627",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ding Hao",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2019-04-19",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 187,
+      "file": "81627.json"
+    },
+    {
+      "id": "81579",
+      "black": {
+        "name": "Xie Erhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-17",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 306,
+      "file": "81579.json"
+    },
+    {
+      "id": "81573",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Fan Tingyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-15",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 263,
+      "file": "81573.json"
+    },
+    {
+      "id": "81535",
+      "black": {
+        "name": "Cho Hanseung",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-12",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 132,
+      "file": "81535.json"
+    },
+    {
+      "id": "81515",
+      "black": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-04-08",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 260,
+      "file": "81515.json"
+    },
+    {
+      "id": "81413",
+      "black": {
+        "name": "Paek Hongseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-03-26",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 194,
+      "file": "81413.json"
+    },
+    {
+      "id": "81365",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-03-19",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 182,
+      "file": "81365.json"
+    },
+    {
+      "id": "81342",
+      "black": {
+        "name": "Cho U",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-03-18",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 202,
+      "file": "81342.json"
+    },
+    {
+      "id": "81309",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "You Byungyong",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2019-03-12",
+      "result": "B+2.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 226,
+      "file": "81309.json"
+    },
+    {
+      "id": "81314",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-03-11",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 211,
+      "file": "81314.json"
+    },
+    {
+      "id": "81232",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Na Hyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-02-25",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 231,
+      "file": "81232.json"
+    },
+    {
+      "id": "81223",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Seongjae",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2019-02-15",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 245,
+      "file": "81223.json"
+    },
+    {
+      "id": "81192",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-01-17",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 162,
+      "file": "81192.json"
+    },
+    {
+      "id": "81167",
+      "black": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-01-15",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "81167.json"
+    },
+    {
+      "id": "81171",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Gu Zihao",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-01-13",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 175,
+      "file": "81171.json"
+    },
+    {
+      "id": "81147",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2019-01-07",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 98,
+      "file": "81147.json"
+    },
+    {
+      "id": "81084",
+      "black": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-12-26",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 207,
+      "file": "81084.json"
+    },
+    {
+      "id": "81090",
+      "black": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-12-25",
+      "result": "W+1.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 286,
+      "file": "81090.json"
+    },
+    {
+      "id": "81094",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-12-23",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "81094.json"
+    },
+    {
+      "id": "81069",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Jiang Weijie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-12-21",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 265,
+      "file": "81069.json"
+    },
+    {
+      "id": "80991",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-12-11",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 204,
+      "file": "80991.json"
+    },
+    {
+      "id": "80964",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Jeong",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-12-07",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 207,
+      "file": "80964.json"
+    },
+    {
+      "id": "80860",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Byun Sangil",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-11-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 188,
+      "file": "80860.json"
+    },
+    {
+      "id": "80819",
+      "black": {
+        "name": "Kim Myounghoon",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-11-13",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 180,
+      "file": "80819.json"
+    },
+    {
+      "id": "80770",
+      "black": {
+        "name": "Heo Yongho",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-11-11",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 156,
+      "file": "80770.json"
+    },
+    {
+      "id": "80773",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-11-10",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 116,
+      "file": "80773.json"
+    },
+    {
+      "id": "80733",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-11-09",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 206,
+      "file": "80733.json"
+    },
+    {
+      "id": "80697",
+      "black": {
+        "name": "Qin Yuexin",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-11-02",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 239,
+      "file": "80697.json"
+    },
+    {
+      "id": "80637",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-27",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "80637.json"
+    },
+    {
+      "id": "80595",
+      "black": {
+        "name": "Park Minkyu",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-23",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 170,
+      "file": "80595.json"
+    },
+    {
+      "id": "80549",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-15",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 232,
+      "file": "80549.json"
+    },
+    {
+      "id": "80531",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Fan Yunruo",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2018-10-14",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "80531.json"
+    },
+    {
+      "id": "80533",
+      "black": {
+        "name": "Hsu Chiayuan",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-14",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "80533.json"
+    },
+    {
+      "id": "80450",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Fan Tingyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-10",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 177,
+      "file": "80450.json"
+    },
+    {
+      "id": "80427",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-06",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 171,
+      "file": "80427.json"
+    },
+    {
+      "id": "80380",
+      "black": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-10-02",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 203,
+      "file": "80380.json"
+    },
+    {
+      "id": "80386",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Xiangyu",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2018-10-01",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 179,
+      "file": "80386.json"
+    },
+    {
+      "id": "80367",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-30",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 202,
+      "file": "80367.json"
+    },
+    {
+      "id": "80321",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-26",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 221,
+      "file": "80321.json"
+    },
+    {
+      "id": "80299",
+      "black": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-25",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 250,
+      "file": "80299.json"
+    },
+    {
+      "id": "80277",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-23",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 143,
+      "file": "80277.json"
+    },
+    {
+      "id": "80184",
+      "black": {
+        "name": "Yun Junsang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-15",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 176,
+      "file": "80184.json"
+    },
+    {
+      "id": "80152",
+      "black": {
+        "name": "Yang Dingxin",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-12",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 152,
+      "file": "80152.json"
+    },
+    {
+      "id": "80100",
+      "black": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-10",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 224,
+      "file": "80100.json"
+    },
+    {
+      "id": "80079",
+      "black": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-08",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 238,
+      "file": "80079.json"
+    },
+    {
+      "id": "80045",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Xiangyu",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2018-09-05",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 215,
+      "file": "80045.json"
+    },
+    {
+      "id": "80013",
+      "black": {
+        "name": "Wu Guangya",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-09-04",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 222,
+      "file": "80013.json"
+    },
+    {
+      "id": "79987",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-08-30",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 197,
+      "file": "79987.json"
+    },
+    {
+      "id": "79939",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Gu Zihao",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-08-25",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 246,
+      "file": "79939.json"
+    },
+    {
+      "id": "79860",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Weon Seongjin",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-08-17",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 199,
+      "file": "79860.json"
+    },
+    {
+      "id": "79799",
+      "black": {
+        "name": "Xie Erhao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-08-13",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 168,
+      "file": "79799.json"
+    },
+    {
+      "id": "79749",
+      "black": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-08-10",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 208,
+      "file": "79749.json"
+    },
+    {
+      "id": "79674",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-08-02",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 238,
+      "file": "79674.json"
+    },
+    {
+      "id": "79639",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-28",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 161,
+      "file": "79639.json"
+    },
+    {
+      "id": "79644",
+      "black": {
+        "name": "Yuki Satoshi",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-28",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 199,
+      "file": "79644.json"
+    },
+    {
+      "id": "79628",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-26",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 273,
+      "file": "79628.json"
+    },
+    {
+      "id": "79604",
+      "black": {
+        "name": "Wang Yuanjun",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-24",
+      "result": "W+1.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 315,
+      "file": "79604.json"
+    },
+    {
+      "id": "79568",
+      "black": {
+        "name": "Kang Dongyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-19",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 183,
+      "file": "79568.json"
+    },
+    {
+      "id": "79577",
+      "black": {
+        "name": "Jin Siyoung",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-19",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 236,
+      "file": "79577.json"
+    },
+    {
+      "id": "79535",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yun Chanhee",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2018-07-17",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 165,
+      "file": "79535.json"
+    },
+    {
+      "id": "79523",
+      "black": {
+        "name": "Na Hyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-16",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 172,
+      "file": "79523.json"
+    },
+    {
+      "id": "79499",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-13",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 211,
+      "file": "79499.json"
+    },
+    {
+      "id": "79392",
+      "black": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-07-01",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 236,
+      "file": "79392.json"
+    },
+    {
+      "id": "79333",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Qin Yuexin",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2018-06-25",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 207,
+      "file": "79333.json"
+    },
+    {
+      "id": "79295",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-06-21",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 212,
+      "file": "79295.json"
+    },
+    {
+      "id": "79277",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Na Hyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-06-20",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 157,
+      "file": "79277.json"
+    },
+    {
+      "id": "79257",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Sedong",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2018-06-18",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 121,
+      "file": "79257.json"
+    },
+    {
+      "id": "79098",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-06-16",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 176,
+      "file": "79098.json"
+    },
+    {
+      "id": "79062",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-06-11",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 156,
+      "file": "79062.json"
+    },
+    {
+      "id": "79022",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-06-02",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 172,
+      "file": "79022.json"
+    },
+    {
+      "id": "78955",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Peng Liyao",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2018-05-30",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 170,
+      "file": "78955.json"
+    },
+    {
+      "id": "78963",
+      "black": {
+        "name": "Fan Yin",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-28",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 184,
+      "file": "78963.json"
+    },
+    {
+      "id": "78922",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-23",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 257,
+      "file": "78922.json"
+    },
+    {
+      "id": "78875",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-19",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 201,
+      "file": "78875.json"
+    },
+    {
+      "id": "78883",
+      "black": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-18",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 278,
+      "file": "78883.json"
+    },
+    {
+      "id": "78858",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 242,
+      "file": "78858.json"
+    },
+    {
+      "id": "78829",
+      "black": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-16",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 284,
+      "file": "78829.json"
+    },
+    {
+      "id": "78809",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-15",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 180,
+      "file": "78809.json"
+    },
+    {
+      "id": "78820",
+      "black": {
+        "name": "Lee Sedol",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-05-14",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 218,
+      "file": "78820.json"
+    },
+    {
+      "id": "78659",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-04-27",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 162,
+      "file": "78659.json"
+    },
+    {
+      "id": "78609",
+      "black": {
+        "name": "Ding Shixiong",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-04-25",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 128,
+      "file": "78609.json"
+    },
+    {
+      "id": "78596",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2018-04-22",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 300,
+      "file": "78596.json"
+    },
+    {
+      "id": "78597",
+      "black": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-04-22",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 222,
+      "file": "78597.json"
+    },
+    {
+      "id": "78584",
+      "black": {
+        "name": "Fujisawa Rina",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-04-21",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 206,
+      "file": "78584.json"
+    },
+    {
+      "id": "78575",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mutsuura Yuta",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2018-04-20",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 161,
+      "file": "78575.json"
+    },
+    {
+      "id": "78539",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Yeongkyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-04-18",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 204,
+      "file": "78539.json"
+    },
+    {
+      "id": "78536",
+      "black": {
+        "name": "Heo Yongho",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-04-13",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 192,
+      "file": "78536.json"
+    },
+    {
+      "id": "78400",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Jeong",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-04-02",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 157,
+      "file": "78400.json"
+    },
+    {
+      "id": "78370",
+      "black": {
+        "name": "Lee Changseok",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-03-30",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 178,
+      "file": "78370.json"
+    },
+    {
+      "id": "78320",
+      "black": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-03-28",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 172,
+      "file": "78320.json"
+    },
+    {
+      "id": "78313",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-03-26",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 232,
+      "file": "78313.json"
+    },
+    {
+      "id": "78265",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-03-21",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 204,
+      "file": "78265.json"
+    },
+    {
+      "id": "78213",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-03-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 230,
+      "file": "78213.json"
+    },
+    {
+      "id": "78086",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-02-27",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 212,
+      "file": "78086.json"
+    },
+    {
+      "id": "78025",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-02-11",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 135,
+      "file": "78025.json"
+    },
+    {
+      "id": "78026",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-02-10",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 203,
+      "file": "78026.json"
+    },
+    {
+      "id": "78011",
+      "black": {
+        "name": "Choi Cheolhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-02-06",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 116,
+      "file": "78011.json"
+    },
+    {
+      "id": "77992",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-02-03",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 213,
+      "file": "77992.json"
+    },
+    {
+      "id": "77909",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-01-20",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 164,
+      "file": "77909.json"
+    },
+    {
+      "id": "77896",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tuo Jiaxi",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2018-01-18",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 175,
+      "file": "77896.json"
+    },
+    {
+      "id": "77814",
+      "black": {
+        "name": "Lee Donghoon",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2018-01-06",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 196,
+      "file": "77814.json"
+    },
+    {
+      "id": "77744",
+      "black": {
+        "name": "Chen Seuyen",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-12-13",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 176,
+      "file": "77744.json"
+    },
+    {
+      "id": "77709",
+      "black": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-12-10",
+      "result": "W+3.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 257,
+      "file": "77709.json"
+    },
+    {
+      "id": "77683",
+      "black": {
+        "name": "Na Hyun",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-12-08",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 220,
+      "file": "77683.json"
+    },
+    {
+      "id": "77655",
+      "black": {
+        "name": "Choi Cheolhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-12-03",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 156,
+      "file": "77655.json"
+    },
+    {
+      "id": "77646",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-12-02",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 208,
+      "file": "77646.json"
+    },
+    {
+      "id": "77625",
+      "black": {
+        "name": "Choi Cheolhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-12-01",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 183,
+      "file": "77625.json"
+    },
+    {
+      "id": "77462",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-11-13",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 154,
+      "file": "77462.json"
+    },
+    {
+      "id": "77317",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ke Jie",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-10-30",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 221,
+      "file": "77317.json"
+    },
+    {
+      "id": "77291",
+      "black": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-10-28",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 292,
+      "file": "77291.json"
+    },
+    {
+      "id": "77196",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Yeongkyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-10-22",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 114,
+      "file": "77196.json"
+    },
+    {
+      "id": "77106",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Xie Ke",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2017-10-15",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 188,
+      "file": "77106.json"
+    },
+    {
+      "id": "77077",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ma Yichao",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2017-10-14",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 189,
+      "file": "77077.json"
+    },
+    {
+      "id": "76986",
+      "black": {
+        "name": "Li Weiqing",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-10-08",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 264,
+      "file": "76986.json"
+    },
+    {
+      "id": "76918",
+      "black": {
+        "name": "Park Yeonghun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-09-29",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 227,
+      "file": "76918.json"
+    },
+    {
+      "id": "76870",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-09-26",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 276,
+      "file": "76870.json"
+    },
+    {
+      "id": "76843",
+      "black": {
+        "name": "Iyama Yuuta",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-09-25",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 118,
+      "file": "76843.json"
+    },
+    {
+      "id": "76831",
+      "black": {
+        "name": "Paek Hongseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-09-23",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 226,
+      "file": "76831.json"
+    },
+    {
+      "id": "76665",
+      "black": {
+        "name": "An Sungjoon",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-09-06",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 150,
+      "file": "76665.json"
+    },
+    {
+      "id": "76588",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Minho",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2017-09-02",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 181,
+      "file": "76588.json"
+    },
+    {
+      "id": "76543",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-08-31",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 160,
+      "file": "76543.json"
+    },
+    {
+      "id": "76490",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Donghoon",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-08-26",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 221,
+      "file": "76490.json"
+    },
+    {
+      "id": "76431",
+      "black": {
+        "name": "Gu Zihao",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-08-22",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 153,
+      "file": "76431.json"
+    },
+    {
+      "id": "76393",
+      "black": {
+        "name": "Kang Dongyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-08-17",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 262,
+      "file": "76393.json"
+    },
+    {
+      "id": "76313",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2017-08-14",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 196,
+      "file": "76313.json"
+    },
+    {
+      "id": "76258",
+      "black": {
+        "name": "Lee Taehyun",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-08-10",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 146,
+      "file": "76258.json"
+    },
+    {
+      "id": "76176",
+      "black": {
+        "name": "Han Seungjoo",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-08-06",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 144,
+      "file": "76176.json"
+    },
+    {
+      "id": "76142",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2017-07-31",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 300,
+      "file": "76142.json"
+    },
+    {
+      "id": "76100",
+      "black": {
+        "name": "Fujita Akihiko",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-07-29",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 110,
+      "file": "76100.json"
+    },
+    {
+      "id": "76084",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Seongjae",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2017-07-23",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 247,
+      "file": "76084.json"
+    },
+    {
+      "id": "76053",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-07-21",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 249,
+      "file": "76053.json"
+    },
+    {
+      "id": "76003",
+      "black": {
+        "name": "Liao Xingwen",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-07-19",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "76003.json"
+    },
+    {
+      "id": "75959",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Fan Tingyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-07-17",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 136,
+      "file": "75959.json"
+    },
+    {
+      "id": "75917",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Seol Hyunjun",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2017-07-15",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 143,
+      "file": "75917.json"
+    },
+    {
+      "id": "75887",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kang Yootaek",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-07-14",
+      "result": "B+3.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 269,
+      "file": "75887.json"
+    },
+    {
+      "id": "75852",
+      "black": {
+        "name": "Yun Junsang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-07-13",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 238,
+      "file": "75852.json"
+    },
+    {
+      "id": "75839",
+      "black": {
+        "name": "Lee Changho",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-07-10",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 154,
+      "file": "75839.json"
+    },
+    {
+      "id": "75831",
+      "black": {
+        "name": "Hong Kipyo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-07-07",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 146,
+      "file": "75831.json"
+    },
+    {
+      "id": "75679",
+      "black": {
+        "name": "Wang Haoyang",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-06-19",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 243,
+      "file": "75679.json"
+    },
+    {
+      "id": "75646",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shi Yue",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-06-17",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 191,
+      "file": "75646.json"
+    },
+    {
+      "id": "75575",
+      "black": {
+        "name": "Yun Chanhee",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-06-08",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 186,
+      "file": "75575.json"
+    },
+    {
+      "id": "75569",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Han Sanghoon",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-06-02",
+      "result": "B+3.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 280,
+      "file": "75569.json"
+    },
+    {
+      "id": "75516",
+      "black": {
+        "name": "Ida Athushi",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-05-31",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 150,
+      "file": "75516.json"
+    },
+    {
+      "id": "75527",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "An Sungjoon",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2017-05-29",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 215,
+      "file": "75527.json"
+    },
+    {
+      "id": "75446",
+      "black": {
+        "name": "Lee Jihyun",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2017-05-19",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 118,
+      "file": "75446.json"
+    },
+    {
+      "id": "75347",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "An Dongxu",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2017-05-14",
+      "result": "B+1.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 309,
+      "file": "75347.json"
+    },
+    {
+      "id": "75094",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2017-03-17",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 206,
+      "file": "75094.json"
+    },
+    {
+      "id": "74865",
+      "black": {
+        "name": "Mi Yuting",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2017-01-04",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 219,
+      "file": "74865.json"
+    },
+    {
+      "id": "74867",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Byun Sangil",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2017-01-03",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 173,
+      "file": "74867.json"
+    },
+    {
+      "id": "74870",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2017-01-02",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 252,
+      "file": "74870.json"
+    },
+    {
+      "id": "74879",
+      "black": {
+        "name": "Hsu Chiayuan",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2017-01-01",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 140,
+      "file": "74879.json"
+    },
+    {
+      "id": "74846",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Jeong",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2016-12-31",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 219,
+      "file": "74846.json"
+    },
+    {
+      "id": "74737",
+      "black": {
+        "name": "Gu Li",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-12-03",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 190,
+      "file": "74737.json"
+    },
+    {
+      "id": "74720",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhang Tao",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-12-01",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 267,
+      "file": "74720.json"
+    },
+    {
+      "id": "74587",
+      "black": {
+        "name": "Kim Seongjae",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-11-18",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 148,
+      "file": "74587.json"
+    },
+    {
+      "id": "74577",
+      "black": {
+        "name": "Dang Yifei",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-11-16",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 165,
+      "file": "74577.json"
+    },
+    {
+      "id": "74550",
+      "black": {
+        "name": "Meng Tailing",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-11-14",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "74550.json"
+    },
+    {
+      "id": "74525",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Fang Tianfeng",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2016-11-10",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 53,
+      "file": "74525.json"
+    },
+    {
+      "id": "74492",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Huang Yunsong",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-11-08",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 296,
+      "file": "74492.json"
+    },
+    {
+      "id": "74482",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tao Xinran",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-11-06",
+      "result": "B+1.5",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 256,
+      "file": "74482.json"
+    },
+    {
+      "id": "74378",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-10-28",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 216,
+      "file": "74378.json"
+    },
+    {
+      "id": "74242",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "An Sungjoon",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2016-10-13",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 149,
+      "file": "74242.json"
+    },
+    {
+      "id": "74205",
+      "black": {
+        "name": "Dang Yifei",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-10-10",
+      "result": "W+1.5",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 271,
+      "file": "74205.json"
+    },
+    {
+      "id": "74180",
+      "black": {
+        "name": "Yun Junsang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "8p",
+        "team": ""
+      },
+      "date": "2016-10-07",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 181,
+      "file": "74180.json"
+    },
+    {
+      "id": "74160",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-10-04",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 253,
+      "file": "74160.json"
+    },
+    {
+      "id": "74142",
+      "black": {
+        "name": "Lee Hobum",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-10-01",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 240,
+      "file": "74142.json"
+    },
+    {
+      "id": "74100",
+      "black": {
+        "name": "Lee Jihyun",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-09-25",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 208,
+      "file": "74100.json"
+    },
+    {
+      "id": "73993",
+      "black": {
+        "name": "Ahn Kukhyun",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-09-15",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 218,
+      "file": "73993.json"
+    },
+    {
+      "id": "73921",
+      "black": {
+        "name": "Cai Jing",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-09-07",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 188,
+      "file": "73921.json"
+    },
+    {
+      "id": "73898",
+      "black": {
+        "name": "Cho Chikun",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-09-06",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 122,
+      "file": "73898.json"
+    },
+    {
+      "id": "73874",
+      "black": {
+        "name": "Li Qincheng",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-09-04",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 263,
+      "file": "73874.json"
+    },
+    {
+      "id": "73806",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-08-29",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 254,
+      "file": "73806.json"
+    },
+    {
+      "id": "73820",
+      "black": {
+        "name": "Chen Yaoye",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-08-27",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 151,
+      "file": "73820.json"
+    },
+    {
+      "id": "73801",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lian Xiao",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2016-08-25",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 193,
+      "file": "73801.json"
+    },
+    {
+      "id": "73763",
+      "black": {
+        "name": "Lee Donghoon",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-08-21",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 132,
+      "file": "73763.json"
+    },
+    {
+      "id": "73630",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kang Seungmin",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2016-07-31",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 143,
+      "file": "73630.json"
+    },
+    {
+      "id": "73573",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-07-28",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 180,
+      "file": "73573.json"
+    },
+    {
+      "id": "73560",
+      "black": {
+        "name": "Na Hyun",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2016-07-26",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 198,
+      "file": "73560.json"
+    },
+    {
+      "id": "73541",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Kiyoung",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2016-07-23",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 163,
+      "file": "73541.json"
+    },
+    {
+      "id": "73472",
+      "black": {
+        "name": "Lee Jihyun",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-07-12",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 252,
+      "file": "73472.json"
+    },
+    {
+      "id": "73457",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mok Jinseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-07-08",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 189,
+      "file": "73457.json"
+    },
+    {
+      "id": "73401",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Kyuongkeun",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2016-07-06",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 201,
+      "file": "73401.json"
+    },
+    {
+      "id": "73373",
+      "black": {
+        "name": "Peng Quan",
+        "rank": "7p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-07-02",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 184,
+      "file": "73373.json"
+    },
+    {
+      "id": "73352",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-06-30",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 120,
+      "file": "73352.json"
+    },
+    {
+      "id": "73314",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kang Dongyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-06-28",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 295,
+      "file": "73314.json"
+    },
+    {
+      "id": "73253",
+      "black": {
+        "name": "Hu Yuhan",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-06-25",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 173,
+      "file": "73253.json"
+    },
+    {
+      "id": "73234",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Ryu Minhyung",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2016-06-23",
+      "result": "B+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 151,
+      "file": "73234.json"
+    },
+    {
+      "id": "73176",
+      "black": {
+        "name": "Paek Hongseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-06-19",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 134,
+      "file": "73176.json"
+    },
+    {
+      "id": "73124",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhou Ruiyang",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-06-16",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 186,
+      "file": "73124.json"
+    },
+    {
+      "id": "73086",
+      "black": {
+        "name": "Park Cheongsang",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-06-11",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 146,
+      "file": "73086.json"
+    },
+    {
+      "id": "73051",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Hu Yuefeng",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-06-06",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 206,
+      "file": "73051.json"
+    },
+    {
+      "id": "72999",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Tuo Jiaxi",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-06-01",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 207,
+      "file": "72999.json"
+    },
+    {
+      "id": "72965",
+      "black": {
+        "name": "Zhong Wenjing",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-05-22",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 254,
+      "file": "72965.json"
+    },
+    {
+      "id": "72906",
+      "black": {
+        "name": "Li Qincheng",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-05-16",
+      "result": "W+R",
+      "komi": 0,
+      "handicap": 0,
+      "moves": 286,
+      "file": "72906.json"
+    },
+    {
+      "id": "72843",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Dang Yifei",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2016-05-09",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 231,
+      "file": "72843.json"
+    },
+    {
+      "id": "72782",
+      "black": {
+        "name": "Liu Xing",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-04-30",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 166,
+      "file": "72782.json"
+    },
+    {
+      "id": "72745",
+      "black": {
+        "name": "Yang Dingxin",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-04-23",
+      "result": "B+7.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 258,
+      "file": "72745.json"
+    },
+    {
+      "id": "72701",
+      "black": {
+        "name": "Li Qincheng",
+        "rank": "?",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-04-22",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 234,
+      "file": "72701.json"
+    },
+    {
+      "id": "72736",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mutsuura Yuta",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2016-04-22",
+      "result": "B+5.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 293,
+      "file": "72736.json"
+    },
+    {
+      "id": "72674",
+      "black": {
+        "name": "Tang Weixing",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-04-13",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 115,
+      "file": "72674.json"
+    },
+    {
+      "id": "72659",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhao Chenyu",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2016-04-11",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 144,
+      "file": "72659.json"
+    },
+    {
+      "id": "72562",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Heo Yongho",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-03-30",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 241,
+      "file": "72562.json"
+    },
+    {
+      "id": "72545",
+      "black": {
+        "name": "Yun Chanhee",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-03-24",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 155,
+      "file": "72545.json"
+    },
+    {
+      "id": "72499",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Junghyun",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-02-25",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 193,
+      "file": "72499.json"
+    },
+    {
+      "id": "72472",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Wang Yuanjun",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2016-02-21",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 230,
+      "file": "72472.json"
+    },
+    {
+      "id": "72477",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2016-02-20",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 199,
+      "file": "72477.json"
+    },
+    {
+      "id": "72447",
+      "black": {
+        "name": "Ida Athushi",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2016-02-19",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 226,
+      "file": "72447.json"
+    },
+    {
+      "id": "72398",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kang Dongyun",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-01-11",
+      "result": "W+0.5",
+      "komi": 8,
+      "handicap": 0,
+      "moves": 222,
+      "file": "72398.json"
+    },
+    {
+      "id": "72367",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yun Junsang",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2016-01-08",
+      "result": "B+0.5",
+      "komi": 8,
+      "handicap": 0,
+      "moves": 135,
+      "file": "72367.json"
+    },
+    {
+      "id": "72352",
+      "black": {
+        "name": "Kim Myounghoon",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-12-21",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 206,
+      "file": "72352.json"
+    },
+    {
+      "id": "72330",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Myounghoon",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-12-16",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 222,
+      "file": "72330.json"
+    },
+    {
+      "id": "72300",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Gu Zihao",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2015-11-29",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 208,
+      "file": "72300.json"
+    },
+    {
+      "id": "72308",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Kaiwen",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-11-28",
+      "result": "B+3.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 319,
+      "file": "72308.json"
+    },
+    {
+      "id": "72312",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Han Taehee",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2015-11-23",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 163,
+      "file": "72312.json"
+    },
+    {
+      "id": "72200",
+      "black": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-10-30",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 142,
+      "file": "72200.json"
+    },
+    {
+      "id": "72067",
+      "black": {
+        "name": "Han Taehee",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-09-05",
+      "result": "B+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 293,
+      "file": "72067.json"
+    },
+    {
+      "id": "71931",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Park Siyeol",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2015-08-13",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 225,
+      "file": "71931.json"
+    },
+    {
+      "id": "71797",
+      "black": {
+        "name": "Choi Cheolhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-07-20",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 327,
+      "file": "71797.json"
+    },
+    {
+      "id": "71781",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Seo Bongsoo",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2015-07-16",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 181,
+      "file": "71781.json"
+    },
+    {
+      "id": "71788",
+      "black": {
+        "name": "An Joyeong",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-07-15",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 78,
+      "file": "71788.json"
+    },
+    {
+      "id": "71702",
+      "black": {
+        "name": "Min Sangyoun",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-07-05",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 265,
+      "file": "71702.json"
+    },
+    {
+      "id": "71592",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Hobum",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2015-06-27",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 267,
+      "file": "71592.json"
+    },
+    {
+      "id": "71478",
+      "black": {
+        "name": "Zhao Chenyu",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-06-18",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 168,
+      "file": "71478.json"
+    },
+    {
+      "id": "71464",
+      "black": {
+        "name": "Yu Zhiying",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-06-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 150,
+      "file": "71464.json"
+    },
+    {
+      "id": "71401",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Jiseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2015-06-12",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 186,
+      "file": "71401.json"
+    },
+    {
+      "id": "71316",
+      "black": {
+        "name": "Zhao Chenyu",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-06-03",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 178,
+      "file": "71316.json"
+    },
+    {
+      "id": "71317",
+      "black": {
+        "name": "Liao Yuanhe",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-06-03",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 180,
+      "file": "71317.json"
+    },
+    {
+      "id": "71320",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yu Zhiying",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2015-06-02",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 129,
+      "file": "71320.json"
+    },
+    {
+      "id": "71307",
+      "black": {
+        "name": "Ahn Kukhyun",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-05-31",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 176,
+      "file": "71307.json"
+    },
+    {
+      "id": "71205",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Rong Yi",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2015-05-20",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 183,
+      "file": "71205.json"
+    },
+    {
+      "id": "71184",
+      "black": {
+        "name": "Kim Seongjae",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-05-19",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 158,
+      "file": "71184.json"
+    },
+    {
+      "id": "71155",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Zhang Yabo",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2015-05-17",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 147,
+      "file": "71155.json"
+    },
+    {
+      "id": "71148",
+      "black": {
+        "name": "Huang Chen",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-05-16",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 273,
+      "file": "71148.json"
+    },
+    {
+      "id": "71128",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Gu Lingyi",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2015-05-14",
+      "result": "W+0.5",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 280,
+      "file": "71128.json"
+    },
+    {
+      "id": "71100",
+      "black": {
+        "name": "Murakawa Daisuke",
+        "rank": "8p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-05-12",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 164,
+      "file": "71100.json"
+    },
+    {
+      "id": "71059",
+      "black": {
+        "name": "Motoki Katsuya",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-05-09",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 198,
+      "file": "71059.json"
+    },
+    {
+      "id": "71062",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Huang Yunsong",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-05-09",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 216,
+      "file": "71062.json"
+    },
+    {
+      "id": "71035",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2015-05-08",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 190,
+      "file": "71035.json"
+    },
+    {
+      "id": "70894",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Na Hyun",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2015-04-26",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 256,
+      "file": "70894.json"
+    },
+    {
+      "id": "70849",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "?",
+        "team": ""
+      },
+      "date": "2015-04-10",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 238,
+      "file": "70849.json"
+    },
+    {
+      "id": "70772",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Jinhyu",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-03-26",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 235,
+      "file": "70772.json"
+    },
+    {
+      "id": "70737",
+      "black": {
+        "name": "Kim Jinhyu",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-03-25",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 224,
+      "file": "70737.json"
+    },
+    {
+      "id": "70738",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Jinhyu",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-03-24",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "70738.json"
+    },
+    {
+      "id": "70707",
+      "black": {
+        "name": "Byun Sangil",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2015-03-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 230,
+      "file": "70707.json"
+    },
+    {
+      "id": "70668",
+      "black": {
+        "name": "Hwang Jaeyeon",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-03-03",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 174,
+      "file": "70668.json"
+    },
+    {
+      "id": "70596",
+      "black": {
+        "name": "Lee Taehyun",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-01-29",
+      "result": "B+3.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 375,
+      "file": "70596.json"
+    },
+    {
+      "id": "70486",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Liao Yuanhe",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-01-18",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 243,
+      "file": "70486.json"
+    },
+    {
+      "id": "70488",
+      "black": {
+        "name": "Chang Hao",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-01-17",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 221,
+      "file": "70488.json"
+    },
+    {
+      "id": "70462",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-01-11",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 162,
+      "file": "70462.json"
+    },
+    {
+      "id": "70464",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Minjun",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-01-10",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 193,
+      "file": "70464.json"
+    },
+    {
+      "id": "70467",
+      "black": {
+        "name": "Shin Minjun",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2015-01-09",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 237,
+      "file": "70467.json"
+    },
+    {
+      "id": "70428",
+      "black": {
+        "name": "Yang Dingxin",
+        "rank": "3p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-12-22",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 181,
+      "file": "70428.json"
+    },
+    {
+      "id": "70430",
+      "black": {
+        "name": "Li Xuanhao",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-12-21",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "70430.json"
+    },
+    {
+      "id": "70432",
+      "black": {
+        "name": "Ke Jie",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-12-19",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 274,
+      "file": "70432.json"
+    },
+    {
+      "id": "70283",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-11-13",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 175,
+      "file": "70283.json"
+    },
+    {
+      "id": "70264",
+      "black": {
+        "name": "Tong Mengcheng",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-11-11",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 191,
+      "file": "70264.json"
+    },
+    {
+      "id": "70257",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-11-09",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 225,
+      "file": "70257.json"
+    },
+    {
+      "id": "69997",
+      "black": {
+        "name": "Mao Ruilong",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-09-14",
+      "result": "W+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "69997.json"
+    },
+    {
+      "id": "69847",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yu Zhiying",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2014-08-18",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 149,
+      "file": "69847.json"
+    },
+    {
+      "id": "69689",
+      "black": {
+        "name": "Mok Jinseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-07-16",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 262,
+      "file": "69689.json"
+    },
+    {
+      "id": "69581",
+      "black": {
+        "name": "Wang Zejin",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "2p",
+        "team": ""
+      },
+      "date": "2014-06-28",
+      "result": "B+R",
+      "komi": 7.5,
+      "handicap": 0,
+      "moves": 173,
+      "file": "69581.json"
+    },
+    {
+      "id": "68656",
+      "black": {
+        "name": "Kim Junghyun",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-11-09",
+      "result": "B+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 315,
+      "file": "68656.json"
+    },
+    {
+      "id": "68557",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Han Taehee",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2013-10-31",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 190,
+      "file": "68557.json"
+    },
+    {
+      "id": "68479",
+      "black": {
+        "name": "Lee Yeongkyu",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-10-20",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 190,
+      "file": "68479.json"
+    },
+    {
+      "id": "68372",
+      "black": {
+        "name": "Park Jungwhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-10-01",
+      "result": "B+7.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 275,
+      "file": "68372.json"
+    },
+    {
+      "id": "68327",
+      "black": {
+        "name": "Han Wonggyu",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-09-27",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 190,
+      "file": "68327.json"
+    },
+    {
+      "id": "68173",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Kim Sedong",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2013-08-29",
+      "result": "W+8.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 259,
+      "file": "68173.json"
+    },
+    {
+      "id": "67899",
+      "black": {
+        "name": "Fan Yunruo",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-08-06",
+      "result": "B+3.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 235,
+      "file": "67899.json"
+    },
+    {
+      "id": "67886",
+      "black": {
+        "name": "Ida Athushi",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-08-03",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 142,
+      "file": "67886.json"
+    },
+    {
+      "id": "67884",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "On Sojin",
+        "rank": "7p",
+        "team": ""
+      },
+      "date": "2013-08-02",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 148,
+      "file": "67884.json"
+    },
+    {
+      "id": "67824",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Choi Cheolhan",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2013-07-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 194,
+      "file": "67824.json"
+    },
+    {
+      "id": "67770",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Changho",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2013-07-05",
+      "result": "W+1.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 240,
+      "file": "67770.json"
+    },
+    {
+      "id": "67754",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Taehyun",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2013-07-02",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 229,
+      "file": "67754.json"
+    },
+    {
+      "id": "67771",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Huiseong",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2013-06-27",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 259,
+      "file": "67771.json"
+    },
+    {
+      "id": "67732",
+      "black": {
+        "name": "Han Sanghoon",
+        "rank": "6p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "6p",
+        "team": ""
+      },
+      "date": "2013-06-21",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 217,
+      "file": "67732.json"
+    },
+    {
+      "id": "67702",
+      "black": {
+        "name": "Han Wonggyu",
+        "rank": "5p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-06-16",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 191,
+      "file": "67702.json"
+    },
+    {
+      "id": "67448",
+      "black": {
+        "name": "Min Sangyoun",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-05-16",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 206,
+      "file": "67448.json"
+    },
+    {
+      "id": "67710",
+      "black": {
+        "name": "Hong Seongji",
+        "rank": "9p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-05-06",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 161,
+      "file": "67710.json"
+    },
+    {
+      "id": "67366",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Jihyun",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2013-04-28",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 146,
+      "file": "67366.json"
+    },
+    {
+      "id": "67312",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Mok Jinseok",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2013-04-12",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 281,
+      "file": "67312.json"
+    },
+    {
+      "id": "67207",
+      "black": {
+        "name": "Rong Yi",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-02-27",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 200,
+      "file": "67207.json"
+    },
+    {
+      "id": "67199",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Chen Hao",
+        "rank": "4p",
+        "team": ""
+      },
+      "date": "2013-02-26",
+      "result": "W+6.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 258,
+      "file": "67199.json"
+    },
+    {
+      "id": "67050",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Wang Tao",
+        "rank": "5p",
+        "team": ""
+      },
+      "date": "2013-01-23",
+      "result": "B+1.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 264,
+      "file": "67050.json"
+    },
+    {
+      "id": "67098",
+      "black": {
+        "name": "Zhang Qiang",
+        "rank": "4p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-01-20",
+      "result": "W+0.5",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 310,
+      "file": "67098.json"
+    },
+    {
+      "id": "67029",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Li Qincheng",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2013-01-18",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 172,
+      "file": "67029.json"
+    },
+    {
+      "id": "67020",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Yang Dingxin",
+        "rank": "3p",
+        "team": ""
+      },
+      "date": "2013-01-17",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 196,
+      "file": "67020.json"
+    },
+    {
+      "id": "67006",
+      "black": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "white": {
+        "name": "Lee Changho",
+        "rank": "9p",
+        "team": ""
+      },
+      "date": "2013-01-11",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 179,
+      "file": "67006.json"
+    },
+    {
+      "id": "66697",
+      "black": {
+        "name": "Xia Chenkun",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2012-09-13",
+      "result": "B+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 163,
+      "file": "66697.json"
+    },
+    {
+      "id": "66695",
+      "black": {
+        "name": "Yu Zhengqi",
+        "rank": "2p",
+        "team": ""
+      },
+      "white": {
+        "name": "Shin Jinseo",
+        "rank": "1p",
+        "team": ""
+      },
+      "date": "2012-09-12",
+      "result": "W+R",
+      "komi": 6.5,
+      "handicap": 0,
+      "moves": 192,
+      "file": "66695.json"
+    }
+  ]
+}
