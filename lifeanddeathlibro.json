@@ -4103,6 +4103,236 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][fn][hn][bo][eo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr])"
+  },
+    {
+    "id": 411,
+    "tema": "Wedging-in Tesuji",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][dn][hn][bo][eo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr])"
+  },
+  {
+    "id": 412,
+    "tema": "Wedging-in Tesuji",
+    "accion": "Save black by Seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][hn][bo][eo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr])"
+  },
+  {
+    "id": 413,
+    "tema": "Wedging-in Tesuji",
+    "accion": "Save black by Seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][hn][bo][eo][fo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr])"
+  },
+  {
+    "id": 414,
+    "tema": "Wedging-in Tesuji",
+    "accion": "Save black by Seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][fn][gn][co][go][cp][ep][gp][cq][dq][eq][fq][gq]AW[cm][dm][em][fm][gm][bn][hn][bo][do][eo][fo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr])"
+  },
+  {
+    "id": 415,
+    "tema": "Wedging-in Tesuji",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][em][fm][gm][bn][hn][bo][eo][ho][bp][hp][bq][hq][cr][dr][er][fr][gr]AW[cn][gn][co][fo][go][cp][ep][gp][cq][dq][eq][fq][gq])"
+  },
+  {
+    "id": 416,
+    "tema": "Using One Eye vs No Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][an][bn][co][do][ep][aq][eq][ar][dr][er]AW[ao][bo][bp][cp][dp][bq][dq][cr])"
+  },
+  {
+    "id": 417,
+    "tema": "Using One Eye vs No Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][an][bn][co][do][ep][aq][eq][ar][dr][er][bs]AW[ao][bo][bp][cp][dp][bq][dq][cr][cs])"
+  },
+  {
+    "id": 418,
+    "tema": "Using One Eye vs No Eye",
+    "accion": "Save black by Seki (dual life)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][bp][cp][dp][bq][dq][cr]AW[cm][an][bn][co][do][ep][aq][eq][ar][br][dr][er])"
+  },
+  {
+    "id": 419,
+    "tema": "Using One Eye vs No Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][eq][fq][fr][bs]AW[bq][cq][dq][cr][er][ds][es])"
+  },
+  {
+    "id": 420,
+    "tema": "Using One Eye vs No Eye",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][eq][fq][ar][fr][bs]AW[aq][bq][cq][dq][cr][er][ds][es])"
+  },
+  {
+    "id": 421,
+    "tema": "Using One Eye vs No Eye",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][cr][er][ds][es]AW[ap][bp][cp][dp][aq][eq][fq][fr][bs])"
+  },
+  {
+    "id": 422,
+    "tema": "Using a Throw-in",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][in][eo][go][dp][ep][gp][ip][bq][cq][eq][iq][kq][er][jr][is]AW[em][cn][en][bo][do][bp][cp][dq][fq][gq][hq][dr][fr][hr][ir][es][gs])"
+  },
+  {
+    "id": 423,
+    "tema": "Using a Throw-in",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][in][eo][go][dp][ep][gp][ip][bq][cq][eq][iq][kq][er][jr][is]AW[em][cn][en][bo][do][bp][cp][dq][fq][gq][hq][dr][fr][hr][ir][cs][es][gs])"
+  },
+  {
+    "id": 424,
+    "tema": "Using a Throw-in",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][in][eo][go][dp][ep][gp][ip][bq][cq][eq][iq][kq][cr][er][jr][is]AW[em][cn][en][bo][do][bp][cp][dq][fq][gq][hq][dr][fr][hr][ir][cs][ds][es][gs])"
+  },
+  {
+    "id": 425,
+    "tema": "Using a Throw-in",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][in][eo][go][dp][ep][gp][ip][bq][cq][eq][iq][kq][cr][er][jr][bs][is]AW[em][cn][en][bo][do][bp][cp][dq][fq][gq][hq][dr][fr][hr][ir][cs][ds][es][fs][gs])"
+  },
+  {
+    "id": 426,
+    "tema": "Using a Throw-in",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][in][eo][go][dp][ep][gp][ip][bq][cq][eq][iq][kq][er][jr][is]AW[em][cn][en][bo][do][bp][cp][dq][fq][gq][hq][dr][fr][hr][ir][es][gs])"
+  },
+  {
+    "id": 427,
+    "tema": "Using a Throw-in",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][in][eo][go][dp][ep][gp][ip][bq][cq][eq][iq][kq][er][jr][ds][is]AW[em][cn][en][bo][do][bp][cp][dq][fq][gq][hq][cr][dr][fr][hr][ir][es][gs])"
+  },
+  {
+    "id": 428,
+    "tema": "Using a Throw-in",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][eq][gq][br][gr][bs]AW[dn][fn][hn][go][bp][cp][dp][hp][bq][fq][hq][ar][fr][hr][gs])"
+  },
+  {
+    "id": 429,
+    "tema": "Using a Throw-in",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][eq][gq][br][gr][bs]AW[dn][fn][hn][go][bp][cp][dp][hp][bq][fq][hq][ar][fr][hr][es][gs])"
+  },
+  {
+    "id": 430,
+    "tema": "Using a Throw-in",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][eq][gq][br][gr][bs][ds]AW[dn][fn][hn][go][bp][cp][dp][hp][bq][fq][hq][ar][fr][hr][es][gs][hs])"
+  },
+  {
+    "id": 431,
+    "tema": "Using a Throw-in",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][eq][gq][br][gr][bs]AW[dn][fn][hn][go][bp][cp][dp][hp][bq][fq][hq][ar][fr][hr][gs])"
+  },
+  {
+    "id": 432,
+    "tema": "Using a Throw-in",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][eq][gq][br][gr][bs]AW[dn][fn][hn][go][bp][cp][dp][hp][bq][fq][hq][ar][fr][hr][es][gs])"
+  },
+  {
+    "id": 433,
+    "tema": "Using a Throw-in",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][eq][gq][br][gr][bs][ds]AW[dn][fn][hn][go][bp][cp][dp][hp][bq][fq][hq][ar][dr][fr][hr][es][gs])"
   }
   ]
 }
