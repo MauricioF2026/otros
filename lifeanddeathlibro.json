@@ -737,7 +737,7 @@
   {
     "id": 74,
     "tema": "Beware of a Pae (ko) 1",
-    "accion": "Sabe black",
+    "accion": "Save black",
     "colorJuega": "B",
     "rango": "",
     "fuente": "",
@@ -4397,7 +4397,7 @@
   {
     "id": 440,
     "tema": "Review (white 3 moves)",
-    "accion": "Sabe black",
+    "accion": "Save black",
     "colorJuega": "B",
     "rango": "",
     "fuente": "",
@@ -4813,6 +4813,306 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][fn][co][do][ap][bp][ep][eq][ar][er][ds][es]AW[dp][aq][bq][dq][br][dr][bs][cs])"
+  },
+    {
+    "id": 482,
+    "tema": "Jachung using Placement",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][aq][bq][dq][dr][bs][cs]AW[bn][fn][co][do][ap][bp][ep][cq][eq][er][ds][es])"
+  },
+  {
+    "id": 483,
+    "tema": "Jachung using Placement",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][aq][bq][dq][dr][bs][cs]AW[bn][fn][co][do][ap][bp][ep][eq][br][er][ds][es])"
+  },
+  {
+    "id": 484,
+    "tema": "Jachung using Placement",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][ep][eq][dr][er]AW[ap][bp][cp][dq][br][cr])"
+  },
+  {
+    "id": 485,
+    "tema": "Jachung using Placement",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][ep][eq][dr][er][cs]AW[ap][bp][cp][dq][br][cr][bs])"
+  },
+  {
+    "id": 486,
+    "tema": "Jachung using Placement",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][ep][eq][ar][dr][er][cs]AW[ap][bp][cp][dp][dq][br][cr][bs])"
+  },
+  {
+    "id": 487,
+    "tema": "Jachung using Placement",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][ep][eq][ar][dr][er][cs]AW[ap][bp][cp][aq][dq][br][cr][bs])"
+  },
+  {
+    "id": 488,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][bp][cp][dp][eq][fq][fr][fs]AW[aq][bq][cq][dq][er][ds])"
+  },
+  {
+    "id": 489,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][bp][cp][dp][eq][fq][fr][as][bs][fs]AW[aq][bq][cq][dq][br][dr][er][ds])"
+  },
+  {
+    "id": 490,
+    "tema": "False Eye after Placement 3",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dq][cr][er][ds]AW[eo][bp][cp][dp][eq][fq][fr][bs][fs])"
+  },
+  {
+    "id": 491,
+    "tema": "False Eye after Placement 3",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dq][br][cr][er][ds]AW[eo][bp][cp][dp][eq][fq][fr][bs][es][fs])"
+  },
+  {
+    "id": 492,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir]AW[dq][eq][fq][gq][cr][gr][hr][ds][hs])"
+  },
+  {
+    "id": 493,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][fs]AW[dq][eq][fq][gq][cr][gr][hr][ds][es][hs])"
+  },
+  {
+    "id": 494,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][bs][fs]AW[dq][eq][fq][gq][cr][fr][gr][hr][ds][es][hs])"
+  },
+  {
+    "id": 495,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir]AW[dq][eq][fq][gq][cr][gr][hr][ds][hs])"
+  },
+  {
+    "id": 496,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][fs]AW[dq][eq][fq][gq][cr][er][gr][hr][ds][hs])"
+  },
+  {
+    "id": 497,
+    "tema": "False Eye after Placement 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][bs][fs]AW[dq][eq][fq][gq][cr][er][gr][hr][cs][ds][hs])"
+  },
+  {
+    "id": 498,
+    "tema": "Play Inside and Make a False Eye 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][bs][fs]AW[dq][eq][fq][gq][cr][er][gr][hr][ds][es][hs])"
+  },
+  {
+    "id": 499,
+    "tema": "Play Inside and Make a False Eye 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir]AW[dq][eq][fq][gq][cr][gr][hr][ds][hs])"
+  },
+  {
+    "id": 500,
+    "tema": "Play Inside and Make a False Eye 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][fs]AW[dq][eq][fq][gq][cr][gr][hr][ds][es][hs])"
+  },
+  {
+    "id": 501,
+    "tema": "Play Inside and Make a False Eye 3",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][bs][fs]AW[dq][eq][fq][gq][cr][gr][hr][cs][ds][es][hs])"
+  },
+  {
+    "id": 502,
+    "tema": "Play Inside and Make a False Eye 3",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gq][cr][gr][hr][ds][hs]AW[dp][ep][fp][gp][bq][cq][hq][iq][br][er][ir])"
+  },
+  {
+    "id": 503,
+    "tema": "Play Inside and Make a False Eye 3",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gq][cr][gr][hr][ds][hs]AW[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][bs])"
+  },
+  {
+    "id": 504,
+    "tema": "First Línea Tesuji (Skillful Move)",
+    "accion": "Captura White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dq][eq][gq]AW[aq][bq][br][dr][bs])"
+  },
+  {
+    "id": 505,
+    "tema": "First Línea Tesuji (Skillful Move)",
+    "accion": "Captura White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dq][eq][gq][ds]AW[aq][bq][br][dr][er][bs])"
+  },
+  {
+    "id": 506,
+    "tema": "First Línea Tesuji (Skillful Move)",
+    "accion": "Captura White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dq][eq][gq][fr][ds]AW[aq][bq][br][dr][er][bs][es])"
+  },
+  {
+    "id": 507,
+    "tema": "First Línea Tesuji (Skillful Move)",
+    "accion": "Captura White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dq][eq][gq][cr][fr]AW[aq][bq][br][dr][er][bs][cs][es])"
+  },
+  {
+    "id": 508,
+    "tema": "First Línea Tesuji (Skillful Move)",
+    "accion": "Captura White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dq][eq][gq][fr][ds]AW[aq][bq][br][dr][er][bs][cs])"
+  },
+  {
+    "id": 509,
+    "tema": "First Línea Tesuji (Skillful Move)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][dr][bs]AW[bp][cp][dq][eq][gq][er])"
+  },
+  {
+    "id": 510,
+    "tema": "White to Make a Tigers Mouth",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][cr][dr]AW[cn][bo][fo][cp][cq][eq][er])"
+  },
+  {
+    "id": 511,
+    "tema": "White to Make a Tigers Mouth",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][fo][cp][cq][eq][ar][er]AW[bp][bq][cr][dr][bs][ds])"
   }
   ]
 }
