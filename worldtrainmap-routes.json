@@ -1,0 +1,4437 @@
+[
+  {
+    "id": "eurostar-london-paris",
+    "name": "Eurostar",
+    "from": "London",
+    "to": "Paris",
+    "train": "e320 · Class 374",
+    "operator": "Eurostar",
+    "category": "high-speed",
+    "km": 492,
+    "topSpeedKmh": 300,
+    "duration": "2 h 18 min",
+    "paxPerYear": 7500000,
+    "opened": 1994,
+    "countries": [
+      "GB",
+      "FR"
+    ],
+    "regions": [
+      "GB-ENG",
+      "FR"
+    ]
+  },
+  {
+    "id": "tgv-paris-marseille",
+    "name": "TGV inOui",
+    "from": "Paris",
+    "to": "Marseille",
+    "train": "TGV Duplex",
+    "operator": "SNCF Voyageurs",
+    "category": "high-speed",
+    "km": 750,
+    "topSpeedKmh": 320,
+    "duration": "3 h 05 min",
+    "paxPerYear": 3500000,
+    "opened": 1981,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "ave-madrid-barcelona",
+    "name": "AVE",
+    "from": "Madrid",
+    "to": "Barcelona",
+    "train": "S-103 Velaro E",
+    "operator": "Renfe",
+    "category": "high-speed",
+    "km": 621,
+    "topSpeedKmh": 300,
+    "duration": "2 h 30 min",
+    "paxPerYear": 9000000,
+    "opened": 2008,
+    "countries": [
+      "ES"
+    ]
+  },
+  {
+    "id": "ave-madrid-seville",
+    "name": "AVE",
+    "from": "Madrid",
+    "to": "Seville",
+    "train": "S-100 (Alstom)",
+    "operator": "Renfe",
+    "category": "high-speed",
+    "km": 471,
+    "topSpeedKmh": 300,
+    "duration": "2 h 20 min",
+    "paxPerYear": 3000000,
+    "opened": 1992,
+    "countries": [
+      "ES"
+    ]
+  },
+  {
+    "id": "ice-berlin-munich",
+    "name": "ICE Sprinter",
+    "from": "Berlin",
+    "to": "Munich",
+    "train": "ICE 3",
+    "operator": "Deutsche Bahn",
+    "category": "high-speed",
+    "km": 623,
+    "topSpeedKmh": 300,
+    "duration": "3 h 55 min",
+    "paxPerYear": 5000000,
+    "opened": 2017,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "ice-cologne-frankfurt",
+    "name": "ICE",
+    "from": "Cologne",
+    "to": "Frankfurt",
+    "train": "ICE 3neo",
+    "operator": "Deutsche Bahn",
+    "category": "high-speed",
+    "km": 180,
+    "topSpeedKmh": 300,
+    "duration": "1 h 08 min",
+    "paxPerYear": null,
+    "opened": 2002,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "frecciarossa-milan-rome",
+    "name": "Frecciarossa",
+    "from": "Milan",
+    "to": "Rome",
+    "train": "Frecciarossa 1000",
+    "operator": "Trenitalia",
+    "category": "high-speed",
+    "km": 562,
+    "topSpeedKmh": 300,
+    "duration": "2 h 59 min",
+    "paxPerYear": 8000000,
+    "opened": 2009,
+    "countries": [
+      "IT"
+    ]
+  },
+  {
+    "id": "eurostar-paris-amsterdam",
+    "name": "Eurostar (Thalys)",
+    "from": "Paris",
+    "to": "Amsterdam",
+    "train": "TGV PBKA",
+    "operator": "Eurostar",
+    "category": "high-speed",
+    "km": 524,
+    "topSpeedKmh": 300,
+    "duration": "3 h 25 min",
+    "paxPerYear": 3000000,
+    "opened": 1996,
+    "countries": [
+      "FR",
+      "BE",
+      "NL"
+    ]
+  },
+  {
+    "id": "lner-london-edinburgh",
+    "name": "LNER Azuma",
+    "from": "London",
+    "to": "Edinburgh",
+    "train": "Class 800 Azuma",
+    "operator": "LNER",
+    "category": "classic",
+    "km": 632,
+    "topSpeedKmh": 201,
+    "duration": "4 h 20 min",
+    "paxPerYear": null,
+    "opened": 1862,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-ENG",
+      "GB-SCT"
+    ]
+  },
+  {
+    "id": "alfa-lisbon-porto",
+    "name": "Alfa Pendular",
+    "from": "Lisbon",
+    "to": "Braga",
+    "train": "CP 4000 Pendolino",
+    "operator": "Comboios de Portugal",
+    "category": "classic",
+    "km": 390,
+    "topSpeedKmh": 220,
+    "duration": "≈ 3 h 30 min",
+    "paxPerYear": null,
+    "opened": 1999,
+    "countries": [
+      "PT"
+    ]
+  },
+  {
+    "id": "eip-warsaw-krakow",
+    "name": "EIP Pendolino",
+    "from": "Warsaw",
+    "to": "Kraków",
+    "train": "ED250 Pendolino",
+    "operator": "PKP Intercity",
+    "category": "classic",
+    "km": 293,
+    "topSpeedKmh": 200,
+    "duration": "2 h 21 min",
+    "paxPerYear": null,
+    "opened": 2014,
+    "countries": [
+      "PL"
+    ]
+  },
+  {
+    "id": "railjet-vienna-budapest",
+    "name": "Railjet",
+    "from": "Vienna",
+    "to": "Budapest",
+    "train": "Railjet",
+    "operator": "ÖBB · MÁV",
+    "category": "classic",
+    "km": 243,
+    "topSpeedKmh": 230,
+    "duration": "2 h 20 min",
+    "paxPerYear": null,
+    "opened": 2008,
+    "countries": [
+      "AT",
+      "HU"
+    ]
+  },
+  {
+    "id": "x2000-stockholm-gothenburg",
+    "name": "SJ X2000",
+    "from": "Stockholm",
+    "to": "Gothenburg",
+    "train": "X2 tilting EMU",
+    "operator": "SJ",
+    "category": "classic",
+    "km": 455,
+    "topSpeedKmh": 200,
+    "duration": "3 h 05 min",
+    "paxPerYear": null,
+    "opened": 1990,
+    "countries": [
+      "SE"
+    ]
+  },
+  {
+    "id": "euronight-stockholm-hamburg",
+    "name": "EuroNight",
+    "from": "Stockholm",
+    "to": "Hamburg",
+    "train": "EuroNight sleeper",
+    "operator": "SJ",
+    "category": "night",
+    "km": 1150,
+    "topSpeedKmh": 200,
+    "duration": "≈ 13 h",
+    "paxPerYear": null,
+    "opened": 2022,
+    "countries": [
+      "SE",
+      "DK",
+      "DE"
+    ]
+  },
+  {
+    "id": "santa-claus-express",
+    "name": "Santa Claus Express",
+    "from": "Helsinki",
+    "to": "Rovaniemi",
+    "train": "Double-deck sleeper",
+    "operator": "VR",
+    "category": "night",
+    "km": 900,
+    "topSpeedKmh": 160,
+    "duration": "≈ 12 h",
+    "paxPerYear": null,
+    "opened": 1909,
+    "countries": [
+      "FI"
+    ]
+  },
+  {
+    "id": "vsoe-paris-venice",
+    "name": "Venice Simplon-Orient-Express",
+    "from": "Paris",
+    "to": "Venice",
+    "train": "1920s CIWL carriages",
+    "operator": "Belmond",
+    "category": "luxury",
+    "km": 1270,
+    "topSpeedKmh": 160,
+    "duration": "≈ 21 h",
+    "paxPerYear": null,
+    "opened": 1982,
+    "countries": [
+      "FR",
+      "CH",
+      "LI",
+      "AT",
+      "IT"
+    ]
+  },
+  {
+    "id": "glacier-express",
+    "name": "Glacier Express",
+    "from": "Zermatt",
+    "to": "St. Moritz",
+    "train": "Panorama cars · metre gauge",
+    "operator": "RhB · MGB",
+    "category": "scenic",
+    "km": 291,
+    "topSpeedKmh": 90,
+    "duration": "≈ 8 h",
+    "paxPerYear": 250000,
+    "opened": 1930,
+    "countries": [
+      "CH"
+    ]
+  },
+  {
+    "id": "bernina-express",
+    "name": "Bernina Express",
+    "from": "Chur",
+    "to": "Tirano",
+    "train": "Allegra panorama",
+    "operator": "RhB",
+    "category": "scenic",
+    "km": 144,
+    "topSpeedKmh": 70,
+    "duration": "≈ 4 h",
+    "paxPerYear": 400000,
+    "opened": 1910,
+    "countries": [
+      "CH",
+      "IT"
+    ]
+  },
+  {
+    "id": "bergensbanen",
+    "name": "Bergensbanen",
+    "from": "Oslo",
+    "to": "Bergen",
+    "train": "Vy long-distance",
+    "operator": "Vy",
+    "category": "scenic",
+    "km": 496,
+    "topSpeedKmh": 160,
+    "duration": "6 h 30 min",
+    "paxPerYear": 1000000,
+    "opened": 1909,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "west-highland-line",
+    "name": "West Highland Line",
+    "from": "Glasgow",
+    "to": "Mallaig",
+    "train": "Class 156 · Jacobite steam",
+    "operator": "ScotRail",
+    "category": "scenic",
+    "km": 264,
+    "topSpeedKmh": 100,
+    "duration": "5 h 20 min",
+    "paxPerYear": null,
+    "opened": 1901,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "id": "tokaido-shinkansen",
+    "name": "Tokaido Shinkansen",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "train": "N700S",
+    "operator": "JR Central",
+    "category": "high-speed",
+    "km": 515,
+    "topSpeedKmh": 285,
+    "duration": "2 h 21 min",
+    "paxPerYear": 150000000,
+    "opened": 1964,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "beijing-shanghai-hsr",
+    "name": "Jinghu High-Speed",
+    "from": "Beijing",
+    "to": "Shanghai",
+    "train": "CR400 Fuxing",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 1318,
+    "topSpeedKmh": 350,
+    "duration": "4 h 18 min",
+    "paxPerYear": 200000000,
+    "opened": 2011,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "trans-siberian",
+    "name": "Trans-Siberian Railway",
+    "from": "Moscow",
+    "to": "Vladivostok",
+    "train": "Rossiya № 1/2",
+    "operator": "RZD",
+    "category": "night",
+    "km": 9289,
+    "topSpeedKmh": 120,
+    "duration": "≈ 7 days",
+    "paxPerYear": null,
+    "opened": 1916,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "qinghai-tibet",
+    "name": "Qinghai–Tibet Railway",
+    "from": "Xining",
+    "to": "Lhasa",
+    "train": "Oxygen-enriched coaches",
+    "operator": "China Railway",
+    "category": "scenic",
+    "km": 1956,
+    "topSpeedKmh": 160,
+    "duration": "≈ 21 h",
+    "paxPerYear": null,
+    "opened": 2006,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "ktx-seoul-busan",
+    "name": "KTX",
+    "from": "Seoul",
+    "to": "Busan",
+    "train": "KTX · KTX-Sancheon",
+    "operator": "Korail",
+    "category": "high-speed",
+    "km": 417,
+    "topSpeedKmh": 305,
+    "duration": "2 h 15 min",
+    "paxPerYear": 89000000,
+    "opened": 2004,
+    "countries": [
+      "KR"
+    ]
+  },
+  {
+    "id": "rajdhani-delhi-mumbai",
+    "name": "Mumbai Rajdhani",
+    "from": "New Delhi",
+    "to": "Mumbai",
+    "train": "Tejas Rajdhani rake",
+    "operator": "Indian Railways",
+    "category": "night",
+    "km": 1384,
+    "topSpeedKmh": 140,
+    "duration": "≈ 16 h",
+    "paxPerYear": null,
+    "opened": 1972,
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "acela-boston-washington",
+    "name": "Acela",
+    "from": "Boston",
+    "to": "Washington, D.C.",
+    "train": "Avelia Liberty",
+    "operator": "Amtrak",
+    "category": "high-speed",
+    "km": 735,
+    "topSpeedKmh": 257,
+    "duration": "6 h 42 min",
+    "paxPerYear": 3500000,
+    "opened": 2000,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "california-zephyr",
+    "name": "California Zephyr",
+    "from": "Chicago",
+    "to": "San Francisco",
+    "train": "Amtrak Superliner",
+    "operator": "Amtrak",
+    "category": "scenic",
+    "km": 3924,
+    "topSpeedKmh": 127,
+    "duration": "≈ 52 h",
+    "paxPerYear": 400000,
+    "opened": 1949,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "rocky-mountaineer",
+    "name": "Rocky Mountaineer",
+    "from": "Vancouver",
+    "to": "Banff",
+    "train": "GoldLeaf dome cars",
+    "operator": "Rocky Mountaineer",
+    "category": "luxury",
+    "km": 957,
+    "topSpeedKmh": 100,
+    "duration": "2 days, daylight only",
+    "paxPerYear": null,
+    "opened": 1990,
+    "countries": [
+      "CA"
+    ]
+  },
+  {
+    "id": "cusco-machu-picchu",
+    "name": "Cusco–Machu Picchu",
+    "from": "Cusco",
+    "to": "Machu Picchu",
+    "train": "Vistadome panorama",
+    "operator": "PeruRail",
+    "category": "scenic",
+    "km": 92,
+    "topSpeedKmh": 50,
+    "duration": "≈ 3 h 30 min",
+    "paxPerYear": null,
+    "opened": 1928,
+    "countries": [
+      "PE"
+    ]
+  },
+  {
+    "id": "blue-train",
+    "name": "The Blue Train",
+    "from": "Pretoria",
+    "to": "Cape Town",
+    "train": "Luxury sleeper stock",
+    "operator": "Transnet",
+    "category": "luxury",
+    "km": 1600,
+    "topSpeedKmh": 90,
+    "duration": "≈ 31 h",
+    "paxPerYear": null,
+    "opened": 1946,
+    "countries": [
+      "ZA"
+    ]
+  },
+  {
+    "id": "al-boraq",
+    "name": "Al Boraq",
+    "from": "Tangier",
+    "to": "Casablanca",
+    "train": "Alstom Euroduplex",
+    "operator": "ONCF",
+    "category": "high-speed",
+    "km": 323,
+    "topSpeedKmh": 320,
+    "duration": "2 h 10 min",
+    "paxPerYear": 3000000,
+    "opened": 2018,
+    "countries": [
+      "MA"
+    ]
+  },
+  {
+    "id": "the-ghan",
+    "name": "The Ghan",
+    "from": "Adelaide",
+    "to": "Darwin",
+    "train": "Expedition sleeper",
+    "operator": "Journey Beyond",
+    "category": "luxury",
+    "km": 2979,
+    "topSpeedKmh": 115,
+    "duration": "≈ 54 h",
+    "paxPerYear": null,
+    "opened": 2004,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "indian-pacific",
+    "name": "Indian Pacific",
+    "from": "Sydney",
+    "to": "Perth",
+    "train": "Expedition sleeper",
+    "operator": "Journey Beyond",
+    "category": "luxury",
+    "km": 4352,
+    "topSpeedKmh": 115,
+    "duration": "≈ 65 h",
+    "paxPerYear": null,
+    "opened": 1970,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "tranzalpine",
+    "name": "TranzAlpine",
+    "from": "Christchurch",
+    "to": "Greymouth",
+    "train": "AK panorama cars",
+    "operator": "KiwiRail",
+    "category": "scenic",
+    "km": 223,
+    "topSpeedKmh": 100,
+    "duration": "≈ 5 h",
+    "paxPerYear": 200000,
+    "opened": 1987,
+    "countries": [
+      "NZ"
+    ]
+  },
+  {
+    "id": "tgv-paris-bordeaux",
+    "name": "TGV inOui",
+    "from": "Paris",
+    "to": "Bordeaux",
+    "train": "TGV Duplex",
+    "operator": "SNCF Voyageurs",
+    "category": "high-speed",
+    "km": 537,
+    "topSpeedKmh": 320,
+    "duration": "2 h 04 min",
+    "paxPerYear": null,
+    "opened": 2017,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "tgv-paris-strasbourg",
+    "name": "TGV Est",
+    "from": "Paris",
+    "to": "Strasbourg",
+    "train": "TGV Euroduplex",
+    "operator": "SNCF Voyageurs",
+    "category": "high-speed",
+    "km": 439,
+    "topSpeedKmh": 320,
+    "duration": "1 h 46 min",
+    "paxPerYear": null,
+    "opened": 2007,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "ave-madrid-valencia",
+    "name": "AVE",
+    "from": "Madrid",
+    "to": "Valencia",
+    "train": "S-112 “Pato”",
+    "operator": "Renfe · Ouigo · iryo",
+    "category": "high-speed",
+    "km": 391,
+    "topSpeedKmh": 300,
+    "duration": "1 h 40 min",
+    "paxPerYear": null,
+    "opened": 2010,
+    "countries": [
+      "ES"
+    ]
+  },
+  {
+    "id": "ave-madrid-malaga",
+    "name": "AVE",
+    "from": "Madrid",
+    "to": "Málaga",
+    "train": "S-102 Talgo 350",
+    "operator": "Renfe · iryo",
+    "category": "high-speed",
+    "km": 513,
+    "topSpeedKmh": 300,
+    "duration": "2 h 20 min",
+    "paxPerYear": null,
+    "opened": 2007,
+    "countries": [
+      "ES"
+    ]
+  },
+  {
+    "id": "frecciarossa-rome-naples",
+    "name": "Frecciarossa",
+    "from": "Rome",
+    "to": "Naples",
+    "train": "Frecciarossa 1000",
+    "operator": "Trenitalia",
+    "category": "high-speed",
+    "km": 225,
+    "topSpeedKmh": 300,
+    "duration": "1 h 10 min",
+    "paxPerYear": null,
+    "opened": 2005,
+    "countries": [
+      "IT"
+    ]
+  },
+  {
+    "id": "ice-hamburg-berlin",
+    "name": "ICE",
+    "from": "Hamburg",
+    "to": "Berlin",
+    "train": "ICE 4",
+    "operator": "Deutsche Bahn",
+    "category": "classic",
+    "km": 286,
+    "topSpeedKmh": 230,
+    "duration": "1 h 45 min",
+    "paxPerYear": null,
+    "opened": 1846,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "caledonian-sleeper",
+    "name": "Caledonian Sleeper",
+    "from": "London",
+    "to": "Fort William",
+    "train": "Mk 5 sleeper",
+    "operator": "Caledonian Sleeper",
+    "category": "night",
+    "km": 911,
+    "topSpeedKmh": 140,
+    "duration": "12 h 42 min",
+    "paxPerYear": null,
+    "opened": 1873,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-ENG",
+      "GB-SCT"
+    ]
+  },
+  {
+    "id": "flamsbana",
+    "name": "Flåmsbana",
+    "from": "Myrdal",
+    "to": "Flåm",
+    "train": "El 18-hauled panorama",
+    "operator": "Vy · Flåm AS",
+    "category": "scenic",
+    "km": 20,
+    "topSpeedKmh": 40,
+    "duration": "≈ 1 h",
+    "paxPerYear": 1000000,
+    "opened": 1940,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "rhine-valley",
+    "name": "Rhine Valley Line",
+    "from": "Mainz",
+    "to": "Koblenz",
+    "train": "MittelrheinBahn",
+    "operator": "DB · trans regio",
+    "category": "scenic",
+    "km": 92,
+    "topSpeedKmh": 120,
+    "duration": "≈ 1 h 30 min",
+    "paxPerYear": null,
+    "opened": 1859,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "semmering-railway",
+    "name": "Semmeringbahn",
+    "from": "Vienna",
+    "to": "Graz",
+    "train": "Railjet",
+    "operator": "ÖBB",
+    "category": "scenic",
+    "km": 224,
+    "topSpeedKmh": 230,
+    "duration": "2 h 35 min",
+    "paxPerYear": null,
+    "opened": 1854,
+    "countries": [
+      "AT"
+    ]
+  },
+  {
+    "id": "belgrade-bar",
+    "name": "Belgrade–Bar Railway",
+    "from": "Belgrade",
+    "to": "Bar",
+    "train": "ŽS / ŽPCG loco-hauled",
+    "operator": "Srbija Voz · ŽPCG",
+    "category": "scenic",
+    "km": 476,
+    "topSpeedKmh": 80,
+    "duration": "≈ 11 h",
+    "paxPerYear": null,
+    "opened": 1976,
+    "countries": [
+      "RS",
+      "ME"
+    ]
+  },
+  {
+    "id": "nightjet-vienna-zurich",
+    "name": "Nightjet",
+    "from": "Vienna",
+    "to": "Zurich",
+    "train": "Nightjet sleeper",
+    "operator": "ÖBB",
+    "category": "night",
+    "km": 780,
+    "topSpeedKmh": 200,
+    "duration": "≈ 9 h",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "AT",
+      "DE",
+      "LI",
+      "CH"
+    ]
+  },
+  {
+    "id": "gotthard-zurich-milan",
+    "name": "Gotthard Express",
+    "from": "Zurich",
+    "to": "Milan",
+    "train": "Giruno / Astoro",
+    "operator": "SBB · Trenitalia",
+    "category": "classic",
+    "km": 280,
+    "topSpeedKmh": 200,
+    "duration": "3 h 17 min",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "CH",
+      "IT"
+    ]
+  },
+  {
+    "id": "arctic-stockholm-narvik",
+    "name": "Arctic Circle Train",
+    "from": "Stockholm",
+    "to": "Narvik",
+    "train": "Vy sleeper",
+    "operator": "Vy Tåg",
+    "category": "night",
+    "km": 1470,
+    "topSpeedKmh": 135,
+    "duration": "≈ 18 h",
+    "paxPerYear": null,
+    "opened": 1902,
+    "countries": [
+      "SE",
+      "NO"
+    ]
+  },
+  {
+    "id": "sapsan-moscow-petersburg",
+    "name": "Sapsan",
+    "from": "Moscow",
+    "to": "St. Petersburg",
+    "train": "Siemens Velaro RUS",
+    "operator": "RZD",
+    "category": "high-speed",
+    "km": 650,
+    "topSpeedKmh": 250,
+    "duration": "3 h 30 min",
+    "paxPerYear": 5000000,
+    "opened": 2009,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "eip-warsaw-gdansk",
+    "name": "EIP Pendolino",
+    "from": "Warsaw",
+    "to": "Gdańsk",
+    "train": "ED250 Pendolino",
+    "operator": "PKP Intercity",
+    "category": "classic",
+    "km": 328,
+    "topSpeedKmh": 200,
+    "duration": "2 h 39 min",
+    "paxPerYear": null,
+    "opened": 2014,
+    "countries": [
+      "PL"
+    ]
+  },
+  {
+    "id": "railjet-prague-vienna",
+    "name": "Railjet",
+    "from": "Prague",
+    "to": "Vienna",
+    "train": "Railjet",
+    "operator": "ČD · ÖBB",
+    "category": "classic",
+    "km": 404,
+    "topSpeedKmh": 160,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 1839,
+    "countries": [
+      "CZ",
+      "AT"
+    ]
+  },
+  {
+    "id": "ister-budapest-bucharest",
+    "name": "EN Ister",
+    "from": "Budapest",
+    "to": "Bucharest",
+    "train": "CFR sleepers · couchettes",
+    "operator": "MÁV · CFR",
+    "category": "night",
+    "km": 874,
+    "topSpeedKmh": 160,
+    "duration": "≈ 16 h",
+    "paxPerYear": null,
+    "opened": 1883,
+    "countries": [
+      "HU",
+      "RO"
+    ]
+  },
+  {
+    "id": "athens-thessaloniki",
+    "name": "Hellenic InterCity",
+    "from": "Athens",
+    "to": "Thessaloniki",
+    "train": "ETR 470 “White Arrow”",
+    "operator": "Hellenic Train",
+    "category": "classic",
+    "km": 481,
+    "topSpeedKmh": 200,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 1916,
+    "countries": [
+      "GR"
+    ]
+  },
+  {
+    "id": "dublin-cork",
+    "name": "InterCity",
+    "from": "Dublin",
+    "to": "Cork",
+    "train": "Mark 4 push-pull",
+    "operator": "Iarnród Éireann",
+    "category": "classic",
+    "km": 266,
+    "topSpeedKmh": 160,
+    "duration": "2 h 15 min",
+    "paxPerYear": null,
+    "opened": 1849,
+    "countries": [
+      "IE"
+    ]
+  },
+  {
+    "id": "oslo-trondheim",
+    "name": "Dovrebanen",
+    "from": "Oslo",
+    "to": "Trondheim",
+    "train": "SJ Nord long-distance",
+    "operator": "SJ Norge",
+    "category": "scenic",
+    "km": 553,
+    "topSpeedKmh": 200,
+    "duration": "≈ 6 h 40 min",
+    "paxPerYear": null,
+    "opened": 1921,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "wcml-london-glasgow",
+    "name": "Avanti West Coast",
+    "from": "London",
+    "to": "Glasgow",
+    "train": "Class 390 Pendolino",
+    "operator": "Avanti West Coast",
+    "category": "classic",
+    "km": 645,
+    "topSpeedKmh": 200,
+    "duration": "4 h 30 min",
+    "paxPerYear": null,
+    "opened": 1974,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-ENG",
+      "GB-SCT"
+    ]
+  },
+  {
+    "id": "golden-pass",
+    "name": "GoldenPass Line",
+    "from": "Montreux",
+    "to": "Lucerne",
+    "train": "GPX panorama + Luzern–Interlaken Express",
+    "operator": "MOB · BLS · zb",
+    "category": "scenic",
+    "km": 191,
+    "topSpeedKmh": 100,
+    "duration": "≈ 5 h 15 min · 2 trains",
+    "paxPerYear": null,
+    "opened": 1901,
+    "countries": [
+      "CH"
+    ]
+  },
+  {
+    "id": "jungfrau-railway",
+    "name": "Jungfraubahn",
+    "from": "Grindelwald",
+    "to": "Jungfraujoch",
+    "train": "Rack railway",
+    "operator": "Jungfraubahnen",
+    "category": "mountain",
+    "km": 18,
+    "topSpeedKmh": 30,
+    "duration": "≈ 1 h 30 min",
+    "paxPerYear": 1000000,
+    "opened": 1912,
+    "countries": [
+      "CH"
+    ]
+  },
+  {
+    "id": "hokuriku-shinkansen",
+    "name": "Hokuriku Shinkansen",
+    "from": "Tokyo",
+    "to": "Tsuruga",
+    "train": "E7 / W7 Series",
+    "operator": "JR East · JR West",
+    "category": "high-speed",
+    "km": 576,
+    "topSpeedKmh": 260,
+    "duration": "3 h 8 min",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "tohoku-hokkaido-shinkansen",
+    "name": "Hayabusa",
+    "from": "Tokyo",
+    "to": "Hakodate",
+    "train": "E5 / H5 Series",
+    "operator": "JR East · JR Hokkaido",
+    "category": "high-speed",
+    "km": 862,
+    "topSpeedKmh": 320,
+    "duration": "3 h 57 min",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "sanyo-shinkansen",
+    "name": "Sanyo Shinkansen",
+    "from": "Osaka",
+    "to": "Fukuoka",
+    "train": "N700S · N700A",
+    "operator": "JR West",
+    "category": "high-speed",
+    "km": 553,
+    "topSpeedKmh": 300,
+    "duration": "2 h 21 min",
+    "paxPerYear": null,
+    "opened": 1975,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "kyushu-shinkansen",
+    "name": "Kyushu Shinkansen",
+    "from": "Fukuoka",
+    "to": "Kagoshima",
+    "train": "N700-8000 “Sakura”",
+    "operator": "JR Kyushu",
+    "category": "high-speed",
+    "km": 257,
+    "topSpeedKmh": 260,
+    "duration": "1 h 16 min",
+    "paxPerYear": null,
+    "opened": 2011,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "beijing-guangzhou-hsr",
+    "name": "Jingguang High-Speed",
+    "from": "Beijing",
+    "to": "Guangzhou",
+    "train": "CR400 Fuxing",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 2230,
+    "topSpeedKmh": 350,
+    "duration": "≈ 8 h",
+    "paxPerYear": null,
+    "opened": 2012,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "beijing-harbin-hsr",
+    "name": "Jingha High-Speed",
+    "from": "Beijing",
+    "to": "Harbin",
+    "train": "CR400BF-G “Fuxing”",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 1198,
+    "topSpeedKmh": 350,
+    "duration": "≈ 5 h",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "shanghai-maglev",
+    "name": "Shanghai Maglev",
+    "from": "Shanghai",
+    "to": "Pudong Airport",
+    "train": "Transrapid maglev",
+    "operator": "SMT",
+    "category": "high-speed",
+    "km": 30,
+    "topSpeedKmh": 431,
+    "duration": "≈ 8 min",
+    "paxPerYear": null,
+    "opened": 2004,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "lanzhou-urumqi-hsr",
+    "name": "Lanxin High-Speed",
+    "from": "Lanzhou",
+    "to": "Ürümqi",
+    "train": "CR200J / CRH5",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 1776,
+    "topSpeedKmh": 250,
+    "duration": "≈ 11 h",
+    "paxPerYear": null,
+    "opened": 2014,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "lanxin-lanzhou-urumqi",
+    "name": "Lanxin Railway",
+    "from": "Lanzhou",
+    "to": "Ürümqi",
+    "train": "K/T-series sleepers",
+    "operator": "China Railway",
+    "category": "classic",
+    "km": 1892,
+    "topSpeedKmh": null,
+    "duration": "≈ 22 h",
+    "paxPerYear": null,
+    "opened": 1962,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "thsr-taipei-kaohsiung",
+    "name": "THSR",
+    "from": "Taipei",
+    "to": "Kaohsiung",
+    "train": "700T Series",
+    "operator": "Taiwan High Speed Rail",
+    "category": "high-speed",
+    "km": 345,
+    "topSpeedKmh": 300,
+    "duration": "1 h 34 min",
+    "paxPerYear": 67000000,
+    "opened": 2007,
+    "countries": [
+      "TW"
+    ]
+  },
+  {
+    "id": "darjeeling-himalayan",
+    "name": "Darjeeling Toy Train",
+    "from": "New Jalpaiguri",
+    "to": "Darjeeling",
+    "train": "B-Class steam · diesel",
+    "operator": "Indian Railways",
+    "category": "scenic",
+    "km": 88,
+    "topSpeedKmh": 25,
+    "duration": "≈ 7 h",
+    "paxPerYear": null,
+    "opened": 1881,
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "kalka-shimla",
+    "name": "Kalka–Shimla Railway",
+    "from": "Kalka",
+    "to": "Shimla",
+    "train": "Rail motor · Himalayan Queen",
+    "operator": "Indian Railways",
+    "category": "scenic",
+    "km": 96,
+    "topSpeedKmh": 25,
+    "duration": "≈ 5 h 30 min",
+    "paxPerYear": null,
+    "opened": 1903,
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "konkan-mumbai-goa",
+    "name": "Konkan Railway",
+    "from": "Mumbai",
+    "to": "Mangalore",
+    "train": "Vande Bharat · Matsyagandha Express",
+    "operator": "Indian Railways",
+    "category": "scenic",
+    "km": 914,
+    "topSpeedKmh": 120,
+    "duration": "≈ 16 h",
+    "paxPerYear": null,
+    "opened": 1998,
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "srilanka-main-line",
+    "name": "Sri Lanka Main Line",
+    "from": "Colombo",
+    "to": "Badulla",
+    "train": "Class S12 · observation car",
+    "operator": "Sri Lanka Railways",
+    "category": "scenic",
+    "km": 292,
+    "topSpeedKmh": 60,
+    "duration": "≈ 10 h",
+    "paxPerYear": null,
+    "opened": 1924,
+    "countries": [
+      "LK"
+    ]
+  },
+  {
+    "id": "bangkok-chiangmai",
+    "name": "Chiang Mai Express",
+    "from": "Bangkok",
+    "to": "Chiang Mai",
+    "train": "CNR sleeper",
+    "operator": "State Railway of Thailand",
+    "category": "night",
+    "km": 751,
+    "topSpeedKmh": 100,
+    "duration": "≈ 13 h",
+    "paxPerYear": null,
+    "opened": 1922,
+    "countries": [
+      "TH"
+    ]
+  },
+  {
+    "id": "eastern-oriental-express",
+    "name": "Eastern & Oriental Express",
+    "from": "Singapore",
+    "to": "Bangkok",
+    "train": "Belmond luxury sleeper",
+    "operator": "Belmond",
+    "category": "luxury",
+    "km": 2000,
+    "topSpeedKmh": 100,
+    "duration": "3 days",
+    "paxPerYear": null,
+    "opened": 1993,
+    "countries": [
+      "SG",
+      "MY",
+      "TH"
+    ]
+  },
+  {
+    "id": "reunification-express",
+    "name": "Reunification Express",
+    "from": "Hanoi",
+    "to": "Ho Chi Minh City",
+    "train": "SE sleeper",
+    "operator": "Vietnam Railways",
+    "category": "night",
+    "km": 1726,
+    "topSpeedKmh": 90,
+    "duration": "≈ 33 h",
+    "paxPerYear": null,
+    "opened": 1936,
+    "countries": [
+      "VN"
+    ]
+  },
+  {
+    "id": "whoosh-jakarta-bandung",
+    "name": "Whoosh",
+    "from": "Jakarta",
+    "to": "Bandung",
+    "train": "KCIC400AF (CR400 derivative)",
+    "operator": "KCIC",
+    "category": "high-speed",
+    "km": 142,
+    "topSpeedKmh": 350,
+    "duration": "47 min",
+    "paxPerYear": 5000000,
+    "opened": 2023,
+    "countries": [
+      "ID"
+    ]
+  },
+  {
+    "id": "laos-china-railway",
+    "name": "Laos–China Railway",
+    "from": "Kunming",
+    "to": "Vientiane",
+    "train": "Lane Xang EMU",
+    "operator": "LCR",
+    "category": "classic",
+    "km": 1035,
+    "topSpeedKmh": 160,
+    "duration": "≈ 10 h",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "CN",
+      "LA"
+    ]
+  },
+  {
+    "id": "afrosiyob-tashkent-samarkand",
+    "name": "Afrosiyob",
+    "from": "Tashkent",
+    "to": "Samarkand",
+    "train": "Talgo 250",
+    "operator": "Uzbekistan Railways",
+    "category": "high-speed",
+    "km": 344,
+    "topSpeedKmh": 250,
+    "duration": "2 h 08 min",
+    "paxPerYear": null,
+    "opened": 2011,
+    "countries": [
+      "UZ"
+    ]
+  },
+  {
+    "id": "yht-istanbul-ankara",
+    "name": "YHT",
+    "from": "Istanbul",
+    "to": "Ankara",
+    "train": "Siemens Velaro TR",
+    "operator": "TCDD Taşımacılık",
+    "category": "high-speed",
+    "km": 533,
+    "topSpeedKmh": 250,
+    "duration": "≈ 4 h 30 min",
+    "paxPerYear": null,
+    "opened": 2014,
+    "countries": [
+      "TR"
+    ]
+  },
+  {
+    "id": "haramain-hsr",
+    "name": "Haramain High-Speed",
+    "from": "Mecca",
+    "to": "Medina",
+    "train": "Talgo 350 SRO",
+    "operator": "SAR",
+    "category": "high-speed",
+    "km": 450,
+    "topSpeedKmh": 300,
+    "duration": "2 h 20 min",
+    "paxPerYear": null,
+    "opened": 2018,
+    "countries": [
+      "SA"
+    ]
+  },
+  {
+    "id": "trans-mongolian",
+    "name": "Trans-Mongolian",
+    "from": "Ulaanbaatar",
+    "to": "Beijing",
+    "train": "K23/K24 international sleeper",
+    "operator": "UBTZ · CR",
+    "category": "night",
+    "km": 1553,
+    "topSpeedKmh": 100,
+    "duration": "≈ 31 h",
+    "paxPerYear": null,
+    "opened": 1956,
+    "countries": [
+      "MN",
+      "CN"
+    ]
+  },
+  {
+    "id": "empire-builder",
+    "name": "Empire Builder",
+    "from": "Chicago",
+    "to": "Seattle",
+    "train": "Amtrak Superliner",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 3550,
+    "topSpeedKmh": 127,
+    "duration": "≈ 46 h",
+    "paxPerYear": 400000,
+    "opened": 1929,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "coast-starlight",
+    "name": "Coast Starlight",
+    "from": "Seattle",
+    "to": "Los Angeles",
+    "train": "Amtrak Superliner",
+    "operator": "Amtrak",
+    "category": "scenic",
+    "km": 2216,
+    "topSpeedKmh": 127,
+    "duration": "≈ 35 h",
+    "paxPerYear": 400000,
+    "opened": 1971,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "brightline-miami-orlando",
+    "name": "Brightline",
+    "from": "Miami",
+    "to": "Orlando",
+    "train": "Siemens Charger sets",
+    "operator": "Brightline",
+    "category": "high-speed",
+    "km": 376,
+    "topSpeedKmh": 200,
+    "duration": "≈ 3 h 30 min",
+    "paxPerYear": 2800000,
+    "opened": 2023,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "canadian-toronto-vancouver",
+    "name": "The Canadian",
+    "from": "Toronto",
+    "to": "Vancouver",
+    "train": "Budd stainless dome cars",
+    "operator": "VIA Rail",
+    "category": "night",
+    "km": 4466,
+    "topSpeedKmh": 130,
+    "duration": "≈ 4 days",
+    "paxPerYear": null,
+    "opened": 1955,
+    "countries": [
+      "CA"
+    ]
+  },
+  {
+    "id": "chepe-copper-canyon",
+    "name": "El Chepe",
+    "from": "Los Mochis",
+    "to": "Chihuahua",
+    "train": "Chepe Regional",
+    "operator": "Ferromex",
+    "category": "scenic",
+    "km": 653,
+    "topSpeedKmh": 70,
+    "duration": "≈ 16 h",
+    "paxPerYear": null,
+    "opened": 1961,
+    "countries": [
+      "MX"
+    ]
+  },
+  {
+    "id": "tren-maya",
+    "name": "Tren Maya (Gulf side)",
+    "from": "Cancún",
+    "to": "Palenque",
+    "train": "Alstom X’trapolis",
+    "operator": "Tren Maya",
+    "category": "classic",
+    "km": 900,
+    "topSpeedKmh": 160,
+    "duration": "≈ 11 h",
+    "paxPerYear": null,
+    "opened": 2023,
+    "countries": [
+      "MX"
+    ]
+  },
+  {
+    "id": "tren-maya-caribe",
+    "name": "Tren Maya (Caribbean coast)",
+    "from": "Cancún",
+    "to": "Chetumal",
+    "train": "Alstom X’trapolis",
+    "operator": "Tren Maya",
+    "category": "classic",
+    "km": 366,
+    "topSpeedKmh": 160,
+    "duration": "5 h 15 min",
+    "paxPerYear": null,
+    "opened": 2024,
+    "countries": [
+      "MX"
+    ]
+  },
+  {
+    "id": "tren-a-las-nubes",
+    "name": "Tren a las Nubes",
+    "from": "Salta",
+    "to": "San Antonio de los Cobres",
+    "train": "Tourist consist",
+    "operator": "Tren a las Nubes",
+    "category": "scenic",
+    "km": 217,
+    "topSpeedKmh": 35,
+    "duration": "≈ 7 h",
+    "paxPerYear": null,
+    "opened": 1948,
+    "countries": [
+      "AR"
+    ]
+  },
+  {
+    "id": "serra-verde-express",
+    "name": "Serra Verde Express",
+    "from": "Curitiba",
+    "to": "Morretes",
+    "train": "Tourist consist",
+    "operator": "Serra Verde Express",
+    "category": "scenic",
+    "km": 110,
+    "topSpeedKmh": 40,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 1885,
+    "countries": [
+      "BR"
+    ]
+  },
+  {
+    "id": "alaska-denali-star",
+    "name": "Denali Star",
+    "from": "Anchorage",
+    "to": "Fairbanks",
+    "train": "Alaska Railroad domes",
+    "operator": "Alaska Railroad",
+    "category": "scenic",
+    "km": 570,
+    "topSpeedKmh": 95,
+    "duration": "≈ 12 h",
+    "paxPerYear": 500000,
+    "opened": 1923,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "andean-explorer",
+    "name": "Andean Explorer",
+    "from": "Cusco",
+    "to": "Arequipa",
+    "train": "Belmond luxury sleeper",
+    "operator": "Belmond · PeruRail",
+    "category": "luxury",
+    "km": 600,
+    "topSpeedKmh": 90,
+    "duration": "2 days",
+    "paxPerYear": null,
+    "opened": 2017,
+    "countries": [
+      "PE"
+    ]
+  },
+  {
+    "id": "rovos-pretoria-victoria-falls",
+    "name": "Rovos Rail",
+    "from": "Pretoria",
+    "to": "Victoria Falls",
+    "train": "Restored Edwardian stock",
+    "operator": "Rovos Rail",
+    "category": "luxury",
+    "km": 1600,
+    "topSpeedKmh": 90,
+    "duration": "≈ 3 days",
+    "paxPerYear": null,
+    "opened": 1989,
+    "countries": [
+      "ZA",
+      "BW",
+      "ZW"
+    ]
+  },
+  {
+    "id": "cairo-aswan-sleeper",
+    "name": "Nile Valley Sleeper",
+    "from": "Cairo",
+    "to": "Aswan",
+    "train": "Watania sleeping cars",
+    "operator": "ENR · Watania",
+    "category": "night",
+    "km": 879,
+    "topSpeedKmh": 120,
+    "duration": "≈ 13 h",
+    "paxPerYear": null,
+    "opened": 1898,
+    "countries": [
+      "EG"
+    ]
+  },
+  {
+    "id": "casablanca-marrakech",
+    "name": "Al Atlas",
+    "from": "Casablanca",
+    "to": "Marrakech",
+    "train": "ONCF intercity",
+    "operator": "ONCF",
+    "category": "classic",
+    "km": 240,
+    "topSpeedKmh": 160,
+    "duration": "≈ 3 h",
+    "paxPerYear": null,
+    "opened": 1928,
+    "countries": [
+      "MA"
+    ]
+  },
+  {
+    "id": "madaraka-express",
+    "name": "Madaraka Express",
+    "from": "Nairobi",
+    "to": "Mombasa",
+    "train": "SGR coaches",
+    "operator": "Kenya Railways",
+    "category": "classic",
+    "km": 472,
+    "topSpeedKmh": 120,
+    "duration": "≈ 5 h",
+    "paxPerYear": 2000000,
+    "opened": 2017,
+    "countries": [
+      "KE"
+    ]
+  },
+  {
+    "id": "addis-djibouti",
+    "name": "Addis–Djibouti Railway",
+    "from": "Addis Ababa",
+    "to": "Djibouti",
+    "train": "Electric SGR sets",
+    "operator": "EDR",
+    "category": "classic",
+    "km": 756,
+    "topSpeedKmh": 120,
+    "duration": "≈ 12 h",
+    "paxPerYear": null,
+    "opened": 2018,
+    "countries": [
+      "ET",
+      "DJ"
+    ]
+  },
+  {
+    "id": "xpt-sydney-melbourne",
+    "name": "Melbourne XPT",
+    "from": "Sydney",
+    "to": "Melbourne",
+    "train": "XPT (HST derivative)",
+    "operator": "NSW TrainLink",
+    "category": "night",
+    "km": 960,
+    "topSpeedKmh": 160,
+    "duration": "≈ 11 h",
+    "paxPerYear": null,
+    "opened": 1982,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "spirit-of-queensland",
+    "name": "Spirit of Queensland",
+    "from": "Brisbane",
+    "to": "Cairns",
+    "train": "Diesel tilt train",
+    "operator": "Queensland Rail",
+    "category": "classic",
+    "km": 1681,
+    "topSpeedKmh": 160,
+    "duration": "≈ 25 h",
+    "paxPerYear": null,
+    "opened": 2014,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "northern-explorer",
+    "name": "Northern Explorer",
+    "from": "Auckland",
+    "to": "Wellington",
+    "train": "AK panorama cars",
+    "operator": "KiwiRail",
+    "category": "scenic",
+    "km": 681,
+    "topSpeedKmh": 100,
+    "duration": "≈ 11 h",
+    "paxPerYear": null,
+    "opened": 1908,
+    "countries": [
+      "NZ"
+    ]
+  },
+  {
+    "id": "settle-carlisle",
+    "name": "Settle–Carlisle Line",
+    "from": "Leeds",
+    "to": "Carlisle",
+    "train": "Class 158 Sprinter",
+    "operator": "Northern",
+    "category": "scenic",
+    "km": 181,
+    "topSpeedKmh": 100,
+    "duration": "≈ 2 h 40 min",
+    "paxPerYear": null,
+    "opened": 1876,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-ENG"
+    ]
+  },
+  {
+    "id": "night-riviera",
+    "name": "Night Riviera",
+    "from": "London",
+    "to": "Penzance",
+    "train": "Class 57 with Mk3 sleepers",
+    "operator": "Great Western Railway",
+    "category": "night",
+    "km": 491,
+    "topSpeedKmh": 150,
+    "duration": "8 h",
+    "paxPerYear": null,
+    "opened": 1877,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-ENG"
+    ]
+  },
+  {
+    "id": "enterprise-dublin-belfast",
+    "name": "Enterprise",
+    "from": "Dublin",
+    "to": "Belfast",
+    "train": "De Dietrich sets · ICR railcars",
+    "operator": "Iarnród Éireann · NI Railways",
+    "category": "classic",
+    "km": 181,
+    "topSpeedKmh": 145,
+    "duration": "2 h 10 min",
+    "paxPerYear": null,
+    "opened": 1947,
+    "countries": [
+      "IE",
+      "GB"
+    ],
+    "regions": [
+      "IE",
+      "GB-NIR"
+    ]
+  },
+  {
+    "id": "nordlandsbanen",
+    "name": "Nordlandsbanen",
+    "from": "Trondheim",
+    "to": "Bodø",
+    "train": "Di 4 diesel-hauled",
+    "operator": "SJ Norge",
+    "category": "scenic",
+    "km": 729,
+    "topSpeedKmh": 120,
+    "duration": "9 h 50 min",
+    "paxPerYear": null,
+    "opened": 1962,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "rauma-line",
+    "name": "Rauma Line",
+    "from": "Dombås",
+    "to": "Åndalsnes",
+    "train": "Class 93 Talent DMU",
+    "operator": "SJ Norge",
+    "category": "scenic",
+    "km": 114,
+    "topSpeedKmh": 100,
+    "duration": "1 h 40 min",
+    "paxPerYear": null,
+    "opened": 1924,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "linha-do-douro",
+    "name": "Linha do Douro",
+    "from": "Porto",
+    "to": "Pocinho",
+    "train": "Série 592 railcar",
+    "operator": "CP Comboios de Portugal",
+    "category": "scenic",
+    "km": 170,
+    "topSpeedKmh": 120,
+    "duration": "3 h 20 min",
+    "paxPerYear": null,
+    "opened": 1887,
+    "countries": [
+      "PT"
+    ]
+  },
+  {
+    "id": "euromed-barcelona-valencia",
+    "name": "Euromed",
+    "from": "Barcelona",
+    "to": "Alicante",
+    "train": "Talgo 250 (S-130)",
+    "operator": "Renfe",
+    "category": "high-speed",
+    "km": 543,
+    "topSpeedKmh": 250,
+    "duration": "≈ 5 h 18 min",
+    "paxPerYear": null,
+    "opened": 1997,
+    "countries": [
+      "ES"
+    ]
+  },
+  {
+    "id": "intercites-nuit-paris-nice",
+    "name": "Intercités de Nuit Paris–Nice",
+    "from": "Paris",
+    "to": "Nice",
+    "train": "Corail couchette cars",
+    "operator": "SNCF Voyageurs",
+    "category": "night",
+    "km": 1088,
+    "topSpeedKmh": 160,
+    "duration": "12 h 20 min",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "schwarzwaldbahn",
+    "name": "Schwarzwaldbahn",
+    "from": "Offenburg",
+    "to": "Konstanz",
+    "train": "Class 146 double-decker",
+    "operator": "DB Regio",
+    "category": "scenic",
+    "km": 179,
+    "topSpeedKmh": 120,
+    "duration": "2 h 30 min",
+    "paxPerYear": null,
+    "opened": 1873,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "mariazellerbahn",
+    "name": "Mariazellerbahn",
+    "from": "St. Pölten",
+    "to": "Mariazell",
+    "train": "Himmelstreppe (Stadler)",
+    "operator": "Niederösterreich Bahnen",
+    "category": "scenic",
+    "km": 84,
+    "topSpeedKmh": 80,
+    "duration": "2 h 30 min",
+    "paxPerYear": null,
+    "opened": 1907,
+    "countries": [
+      "AT"
+    ]
+  },
+  {
+    "id": "european-sleeper-brussels-prague",
+    "name": "European Sleeper",
+    "from": "Brussels",
+    "to": "Prague",
+    "train": "Refurbished couchette & sleeper cars",
+    "operator": "European Sleeper",
+    "category": "night",
+    "km": 1200,
+    "topSpeedKmh": 160,
+    "duration": "15 h 30 min",
+    "paxPerYear": null,
+    "opened": 2023,
+    "countries": [
+      "BE",
+      "NL",
+      "DE",
+      "CZ"
+    ]
+  },
+  {
+    "id": "nightjet-hamburg-vienna",
+    "name": "Nightjet",
+    "from": "Hamburg",
+    "to": "Vienna",
+    "train": "Nightjet new generation",
+    "operator": "ÖBB",
+    "category": "night",
+    "km": 1100,
+    "topSpeedKmh": 230,
+    "duration": "13 h",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "DE",
+      "AT"
+    ]
+  },
+  {
+    "id": "kyiv-warsaw-night",
+    "name": "Kyiv–Warsaw Sleeper",
+    "from": "Kyiv",
+    "to": "Warsaw",
+    "train": "UZ sleeping cars",
+    "operator": "Ukrzaliznytsia",
+    "category": "night",
+    "km": 780,
+    "topSpeedKmh": 120,
+    "duration": "14 h",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "UA",
+      "PL"
+    ]
+  },
+  {
+    "id": "regiojet-night-prague-kosice",
+    "name": "RegioJet Night Train",
+    "from": "Prague",
+    "to": "Košice",
+    "train": "RegioJet couchette & sleeper cars",
+    "operator": "RegioJet",
+    "category": "night",
+    "km": 700,
+    "topSpeedKmh": 160,
+    "duration": "10 h",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "CZ",
+      "SK"
+    ]
+  },
+  {
+    "id": "icn-zagreb-split",
+    "name": "ICN Zagreb–Split",
+    "from": "Zagreb",
+    "to": "Split",
+    "train": "RegioSwinger tilting DMU",
+    "operator": "HŽPP",
+    "category": "scenic",
+    "km": 424,
+    "topSpeedKmh": 140,
+    "duration": "7 h",
+    "paxPerYear": null,
+    "opened": 2004,
+    "countries": [
+      "HR"
+    ]
+  },
+  {
+    "id": "bohinj-railway",
+    "name": "Bohinj Railway",
+    "from": "Jesenice",
+    "to": "Nova Gorica",
+    "train": "Diesel railcar",
+    "operator": "Slovenske železnice",
+    "category": "scenic",
+    "km": 89,
+    "topSpeedKmh": 75,
+    "duration": "1 h 50 min",
+    "paxPerYear": null,
+    "opened": 1906,
+    "countries": [
+      "SI"
+    ]
+  },
+  {
+    "id": "bucharest-brasov-prahova",
+    "name": "Prahova Valley Railway",
+    "from": "Bucharest",
+    "to": "Brașov",
+    "train": "Loco-hauled InterRegio",
+    "operator": "CFR Călători",
+    "category": "classic",
+    "km": 166,
+    "topSpeedKmh": 140,
+    "duration": "2 h 30 min",
+    "paxPerYear": null,
+    "opened": 1879,
+    "countries": [
+      "RO"
+    ]
+  },
+  {
+    "id": "zssk-ic-bratislava-kosice",
+    "name": "ZSSK InterCity",
+    "from": "Bratislava",
+    "to": "Košice",
+    "train": "ZSSK InterCity",
+    "operator": "ZSSK",
+    "category": "classic",
+    "km": 445,
+    "topSpeedKmh": 160,
+    "duration": "4 h 51 min",
+    "paxPerYear": null,
+    "opened": 1872,
+    "countries": [
+      "SK"
+    ]
+  },
+  {
+    "id": "westbahn-vienna-salzburg",
+    "name": "WESTbahn",
+    "from": "Vienna",
+    "to": "Salzburg",
+    "train": "Stadler KISS double-decker",
+    "operator": "WESTbahn",
+    "category": "classic",
+    "km": 315,
+    "topSpeedKmh": 200,
+    "duration": "2 h 30 min",
+    "paxPerYear": null,
+    "opened": 2011,
+    "countries": [
+      "AT"
+    ]
+  },
+  {
+    "id": "soko-belgrade-subotica",
+    "name": "Soko",
+    "from": "Belgrade",
+    "to": "Subotica",
+    "train": "Soko (Stadler KISS 200)",
+    "operator": "Srbija Voz",
+    "category": "high-speed",
+    "km": 182,
+    "topSpeedKmh": 200,
+    "duration": "1 h 19 min",
+    "paxPerYear": null,
+    "opened": 2022,
+    "countries": [
+      "RS"
+    ]
+  },
+  {
+    "id": "sunrise-seto-izumo",
+    "name": "Sunrise Express",
+    "from": "Tokyo",
+    "to": "Izumo",
+    "train": "285 series",
+    "operator": "JR West · JR East",
+    "category": "night",
+    "km": 953,
+    "topSpeedKmh": 130,
+    "duration": "12 h 8 min",
+    "paxPerYear": null,
+    "opened": 1998,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "tadami-line",
+    "name": "Tadami Line",
+    "from": "Aizu-Wakamatsu",
+    "to": "Koide",
+    "train": "KiHa E120 DMU",
+    "operator": "JR East",
+    "category": "scenic",
+    "km": 135,
+    "topSpeedKmh": 65,
+    "duration": "4 h 30 min",
+    "paxPerYear": null,
+    "opened": 1971,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "hongkong-beijing-hsr-sleeper",
+    "name": "Hong Kong–Beijing High-Speed Sleeper",
+    "from": "Hong Kong",
+    "to": "Beijing",
+    "train": "Fuxing high-speed sleeper",
+    "operator": "China Railway Guangzhou · MTR",
+    "category": "night",
+    "km": 2439,
+    "topSpeedKmh": 350,
+    "duration": "10 h 28 min",
+    "paxPerYear": null,
+    "opened": 2024,
+    "countries": [
+      "HK",
+      "CN"
+    ]
+  },
+  {
+    "id": "alishan-forest-railway",
+    "name": "Alishan Forest Railway",
+    "from": "Chiayi",
+    "to": "Alishan",
+    "train": "DL-class diesel, 762 mm",
+    "operator": "Alishan Forest Railway & Cultural Heritage Office",
+    "category": "scenic",
+    "km": 71,
+    "topSpeedKmh": 30,
+    "duration": "5 h",
+    "paxPerYear": null,
+    "opened": 1912,
+    "countries": [
+      "TW"
+    ]
+  },
+  {
+    "id": "nilgiri-mountain-railway",
+    "name": "Nilgiri Mountain Railway",
+    "from": "Mettupalayam",
+    "to": "Ooty",
+    "train": "X-class steam rack loco",
+    "operator": "Indian Railways (Southern Railway)",
+    "category": "mountain",
+    "km": 46,
+    "topSpeedKmh": 30,
+    "duration": "4 h 50 min",
+    "paxPerYear": null,
+    "opened": 1899,
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "vande-bharat-delhi-varanasi",
+    "name": "Vande Bharat Express",
+    "from": "New Delhi",
+    "to": "Varanasi",
+    "train": "Vande Bharat EMU",
+    "operator": "Indian Railways",
+    "category": "classic",
+    "km": 759,
+    "topSpeedKmh": 130,
+    "duration": "8 h",
+    "paxPerYear": null,
+    "opened": 2019,
+    "countries": [
+      "IN"
+    ]
+  },
+  {
+    "id": "death-railway",
+    "name": "Death Railway",
+    "from": "Bangkok (Thonburi)",
+    "to": "Nam Tok",
+    "train": "SRT ordinary (diesel)",
+    "operator": "State Railway of Thailand",
+    "category": "classic",
+    "km": 194,
+    "topSpeedKmh": 60,
+    "duration": "4 h 45 min",
+    "paxPerYear": null,
+    "opened": 1943,
+    "countries": [
+      "TH"
+    ]
+  },
+  {
+    "id": "ktm-ets-kl-butterworth",
+    "name": "KTM ETS",
+    "from": "Kuala Lumpur",
+    "to": "Butterworth",
+    "train": "Class 93 EMU",
+    "operator": "Keretapi Tanah Melayu (KTMB)",
+    "category": "classic",
+    "km": 380,
+    "topSpeedKmh": 140,
+    "duration": "4 h",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "MY"
+    ]
+  },
+  {
+    "id": "tulpar-talgo-almaty-astana",
+    "name": "Tulpar Talgo",
+    "from": "Almaty",
+    "to": "Astana",
+    "train": "Tulpar-Talgo",
+    "operator": "Kazakhstan Temir Zholy (KTZ)",
+    "category": "night",
+    "km": 1300,
+    "topSpeedKmh": 140,
+    "duration": "16 h 19 min",
+    "paxPerYear": null,
+    "opened": 2002,
+    "countries": [
+      "KZ"
+    ]
+  },
+  {
+    "id": "telaviv-jerusalem-hsr",
+    "name": "Jerusalem High-Speed Link",
+    "from": "Tel Aviv",
+    "to": "Jerusalem",
+    "train": "TRAXX-hauled Twindexx",
+    "operator": "Israel Railways",
+    "category": "classic",
+    "km": 57,
+    "topSpeedKmh": 160,
+    "duration": "32 min",
+    "paxPerYear": null,
+    "opened": 2018,
+    "countries": [
+      "IL"
+    ]
+  },
+  {
+    "id": "city-of-new-orleans",
+    "name": "City of New Orleans",
+    "from": "Chicago",
+    "to": "New Orleans",
+    "train": "Superliner",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 1500,
+    "topSpeedKmh": 127,
+    "duration": "19 h 30 min",
+    "paxPerYear": null,
+    "opened": 1947,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "southwest-chief",
+    "name": "Southwest Chief",
+    "from": "Chicago",
+    "to": "Los Angeles",
+    "train": "Superliner",
+    "operator": "Amtrak",
+    "category": "classic",
+    "km": 3645,
+    "topSpeedKmh": 145,
+    "duration": "43 h",
+    "paxPerYear": null,
+    "opened": 1936,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "sunset-limited",
+    "name": "Sunset Limited",
+    "from": "New Orleans",
+    "to": "Los Angeles",
+    "train": "Superliner",
+    "operator": "Amtrak",
+    "category": "classic",
+    "km": 3210,
+    "topSpeedKmh": 127,
+    "duration": "46 h 30 min",
+    "paxPerYear": null,
+    "opened": 1894,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "pacific-surfliner",
+    "name": "Pacific Surfliner",
+    "from": "San Diego",
+    "to": "San Luis Obispo",
+    "train": "Surfliner bilevel cars",
+    "operator": "Amtrak",
+    "category": "scenic",
+    "km": 565,
+    "topSpeedKmh": 145,
+    "duration": "8 h 45 min",
+    "paxPerYear": 2000000,
+    "opened": 2000,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "auto-train",
+    "name": "Auto Train",
+    "from": "Lorton",
+    "to": "Sanford",
+    "train": "Superliner",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 1376,
+    "topSpeedKmh": 127,
+    "duration": "17 h 30 min",
+    "paxPerYear": null,
+    "opened": 1971,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "durango-silverton",
+    "name": "Durango & Silverton",
+    "from": "Durango",
+    "to": "Silverton",
+    "train": "Coal-fired K-36 steam",
+    "operator": "Durango & Silverton Narrow Gauge Railroad",
+    "category": "heritage",
+    "km": 72,
+    "topSpeedKmh": 29,
+    "duration": "3 h 30 min",
+    "paxPerYear": 200000,
+    "opened": 1882,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "ocean-montreal-halifax",
+    "name": "Ocean",
+    "from": "Montréal",
+    "to": "Halifax",
+    "train": "Renaissance",
+    "operator": "VIA Rail",
+    "category": "night",
+    "km": 1346,
+    "topSpeedKmh": 130,
+    "duration": "24 h",
+    "paxPerYear": null,
+    "opened": 1904,
+    "countries": [
+      "CA"
+    ]
+  },
+  {
+    "id": "winnipeg-churchill",
+    "name": "Winnipeg–Churchill",
+    "from": "Winnipeg",
+    "to": "Churchill",
+    "train": "Budd stainless cars",
+    "operator": "VIA Rail",
+    "category": "classic",
+    "km": 1697,
+    "topSpeedKmh": 90,
+    "duration": "45 h",
+    "paxPerYear": null,
+    "opened": 1929,
+    "countries": [
+      "CA"
+    ]
+  },
+  {
+    "id": "la-trochita",
+    "name": "La Trochita",
+    "from": "Esquel",
+    "to": "Nahuel Pan",
+    "train": "1922 Henschel steam",
+    "operator": "Provincia del Chubut",
+    "category": "heritage",
+    "km": 19,
+    "topSpeedKmh": 45,
+    "duration": "3 h round trip",
+    "paxPerYear": null,
+    "opened": 1945,
+    "countries": [
+      "AR"
+    ]
+  },
+  {
+    "id": "vitoria-minas",
+    "name": "Trem Vitória a Minas",
+    "from": "Vitória",
+    "to": "Belo Horizonte",
+    "train": "Vale passenger consist",
+    "operator": "Vale",
+    "category": "classic",
+    "km": 664,
+    "topSpeedKmh": 80,
+    "duration": "13 h 30 min",
+    "paxPerYear": 1000000,
+    "opened": 1904,
+    "countries": [
+      "BR"
+    ]
+  },
+  {
+    "id": "tazara-dar-kapiri",
+    "name": "TAZARA",
+    "from": "Dar es Salaam",
+    "to": "Kapiri Mposhi",
+    "train": "Mukuba Express sleeper",
+    "operator": "TAZARA",
+    "category": "classic",
+    "km": 1860,
+    "topSpeedKmh": 100,
+    "duration": "46 h",
+    "paxPerYear": null,
+    "opened": 1976,
+    "countries": [
+      "TZ",
+      "ZM"
+    ]
+  },
+  {
+    "id": "dakar-ter",
+    "name": "Dakar TER",
+    "from": "Dakar",
+    "to": "Diamniadio",
+    "train": "Coradia Polyvalent bi-mode",
+    "operator": "SETER",
+    "category": "classic",
+    "km": 36,
+    "topSpeedKmh": 160,
+    "duration": "45 min",
+    "paxPerYear": 22600000,
+    "opened": 2021,
+    "countries": [
+      "SN"
+    ]
+  },
+  {
+    "id": "lagos-ibadan-sgr",
+    "name": "Lagos–Ibadan Train Service",
+    "from": "Lagos",
+    "to": "Ibadan",
+    "train": "CRRC standard-gauge express",
+    "operator": "Nigerian Railway Corporation",
+    "category": "classic",
+    "km": 157,
+    "topSpeedKmh": 150,
+    "duration": "2 h 45 min",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "NG"
+    ]
+  },
+  {
+    "id": "abuja-kaduna-sgr",
+    "name": "Abuja–Kaduna Train Service",
+    "from": "Abuja",
+    "to": "Kaduna",
+    "train": "CRRC standard-gauge express",
+    "operator": "Nigerian Railway Corporation",
+    "category": "classic",
+    "km": 186,
+    "topSpeedKmh": 150,
+    "duration": "3 h",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "NG"
+    ]
+  },
+  {
+    "id": "gautrain",
+    "name": "Gautrain",
+    "from": "Johannesburg",
+    "to": "Pretoria",
+    "train": "Electrostar EMU",
+    "operator": "Gautrain (Bombela)",
+    "category": "classic",
+    "km": 56,
+    "topSpeedKmh": 160,
+    "duration": "45 min",
+    "paxPerYear": 7900000,
+    "opened": 2010,
+    "countries": [
+      "ZA"
+    ]
+  },
+  {
+    "id": "kuranda-scenic",
+    "name": "Kuranda Scenic Railway",
+    "from": "Cairns",
+    "to": "Kuranda",
+    "train": "Heritage diesel tourist train",
+    "operator": "Queensland Rail",
+    "category": "scenic",
+    "km": 37,
+    "topSpeedKmh": 40,
+    "duration": "1 h 55 min",
+    "paxPerYear": null,
+    "opened": 1891,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "the-overland",
+    "name": "The Overland",
+    "from": "Melbourne",
+    "to": "Adelaide",
+    "train": "Journey Beyond day train",
+    "operator": "Journey Beyond",
+    "category": "classic",
+    "km": 828,
+    "topSpeedKmh": 115,
+    "duration": "11 h",
+    "paxPerYear": null,
+    "opened": 1887,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "coastal-pacific",
+    "name": "Coastal Pacific",
+    "from": "Picton",
+    "to": "Christchurch",
+    "train": "Great Journeys scenic day train",
+    "operator": "KiwiRail",
+    "category": "scenic",
+    "km": 348,
+    "topSpeedKmh": 100,
+    "duration": "5 h 30 min",
+    "paxPerYear": null,
+    "opened": 1945,
+    "countries": [
+      "NZ"
+    ]
+  },
+  {
+    "id": "xpt-sydney-brisbane",
+    "name": "Brisbane XPT",
+    "from": "Sydney",
+    "to": "Brisbane",
+    "train": "XPT (HST derivative)",
+    "operator": "NSW TrainLink",
+    "category": "night",
+    "km": 988,
+    "topSpeedKmh": 160,
+    "duration": "14 h",
+    "paxPerYear": null,
+    "opened": 1990,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "prospector-perth-kalgoorlie",
+    "name": "The Prospector",
+    "from": "Perth",
+    "to": "Kalgoorlie",
+    "train": "WDA/WDB diesel railcar",
+    "operator": "Transwa",
+    "category": "classic",
+    "km": 653,
+    "topSpeedKmh": 160,
+    "duration": "6 h 45 min",
+    "paxPerYear": null,
+    "opened": 1971,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "joetsu-shinkansen",
+    "name": "Joetsu Shinkansen",
+    "from": "Tokyo",
+    "to": "Niigata",
+    "train": "E7 “Toki”",
+    "operator": "JR East",
+    "category": "high-speed",
+    "km": 300,
+    "topSpeedKmh": 275,
+    "duration": "1 h 29 min",
+    "paxPerYear": null,
+    "opened": 1982,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "akita-shinkansen",
+    "name": "Akita Shinkansen",
+    "from": "Tokyo",
+    "to": "Akita",
+    "train": "E6 “Komachi”",
+    "operator": "JR East",
+    "category": "high-speed",
+    "km": 663,
+    "topSpeedKmh": 320,
+    "duration": "3 h 37 min",
+    "paxPerYear": null,
+    "opened": 1997,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "yamagata-shinkansen",
+    "name": "Yamagata Shinkansen",
+    "from": "Tokyo",
+    "to": "Shinjo",
+    "train": "E8 “Tsubasa”",
+    "operator": "JR East",
+    "category": "high-speed",
+    "km": 421,
+    "topSpeedKmh": 300,
+    "duration": "3 h 10 min",
+    "paxPerYear": null,
+    "opened": 1992,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "nishi-kyushu-shinkansen",
+    "name": "Nishi-Kyushu Shinkansen",
+    "from": "Takeo-Onsen",
+    "to": "Nagasaki",
+    "train": "N700S-8000 “Kamome”",
+    "operator": "JR Kyushu",
+    "category": "high-speed",
+    "km": 66,
+    "topSpeedKmh": 260,
+    "duration": "23 min",
+    "paxPerYear": null,
+    "opened": 2022,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "kurobe-gorge-railway",
+    "name": "Kurobe Gorge Railway",
+    "from": "Unazuki Onsen",
+    "to": "Keyakidaira",
+    "train": "Open torokko cars",
+    "operator": "Kurobe Gorge Railway",
+    "category": "scenic",
+    "km": 20,
+    "topSpeedKmh": 25,
+    "duration": "1 h 20 min",
+    "paxPerYear": null,
+    "opened": 1953,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "hakone-tozan-railway",
+    "name": "Hakone Tozan Railway",
+    "from": "Hakone-Yumoto",
+    "to": "Gora",
+    "train": "3000 “Allegra”",
+    "operator": "Hakone Tozan Railway (Odakyu)",
+    "category": "scenic",
+    "km": 9,
+    "topSpeedKmh": 40,
+    "duration": "38 min",
+    "paxPerYear": null,
+    "opened": 1919,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "resort-shirakami",
+    "name": "Resort Shirakami",
+    "from": "Akita",
+    "to": "Aomori",
+    "train": "HB-E300 “Buna” hybrid",
+    "operator": "JR East",
+    "category": "scenic",
+    "km": 250,
+    "topSpeedKmh": 100,
+    "duration": "≈ 5 h",
+    "paxPerYear": null,
+    "opened": 1997,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "sagano-scenic-railway",
+    "name": "Sagano Scenic Railway",
+    "from": "Kyoto (Arashiyama)",
+    "to": "Kameoka",
+    "train": "Torokko open coaches",
+    "operator": "Sagano Scenic Railway (JR West)",
+    "category": "heritage",
+    "km": 7,
+    "topSpeedKmh": 25,
+    "duration": "25 min",
+    "paxPerYear": 1000000,
+    "opened": 1991,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "yufuin-no-mori",
+    "name": "Yufuin no Mori",
+    "from": "Fukuoka",
+    "to": "Yufuin",
+    "train": "Kiha 71/72 “Yufuin no Mori”",
+    "operator": "JR Kyushu",
+    "category": "scenic",
+    "km": 135,
+    "topSpeedKmh": 95,
+    "duration": "2 h 10 min",
+    "paxPerYear": null,
+    "opened": 1989,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "saphir-odoriko",
+    "name": "Saphir Odoriko",
+    "from": "Tokyo",
+    "to": "Izukyu-Shimoda",
+    "train": "E261 all-Green-Car EMU",
+    "operator": "JR East · Izukyu",
+    "category": "scenic",
+    "km": 168,
+    "topSpeedKmh": 120,
+    "duration": "2 h 30 min",
+    "paxPerYear": null,
+    "opened": 2020,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "sl-gunma",
+    "name": "SL Gunma",
+    "from": "Takasaki",
+    "to": "Minakami",
+    "train": "D51 498 · C61 20 steam",
+    "operator": "JR East",
+    "category": "heritage",
+    "km": 59,
+    "topSpeedKmh": 65,
+    "duration": "≈ 2 h",
+    "paxPerYear": null,
+    "opened": 1988,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "seven-stars-kyushu",
+    "name": "Seven Stars in Kyushu",
+    "from": "Fukuoka",
+    "to": "Fukuoka",
+    "train": "DF200-hauled 77 series suites",
+    "operator": "JR Kyushu",
+    "category": "luxury",
+    "km": 1000,
+    "topSpeedKmh": 100,
+    "duration": "≈ 4 days",
+    "paxPerYear": null,
+    "opened": 2013,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "twilight-express-mizukaze",
+    "name": "Twilight Express Mizukaze",
+    "from": "Osaka",
+    "to": "Shimonoseki",
+    "train": "87 series sleeper",
+    "operator": "JR West",
+    "category": "luxury",
+    "km": 720,
+    "topSpeedKmh": 110,
+    "duration": "≈ 27 h",
+    "paxPerYear": null,
+    "opened": 2017,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "hida-limited-express",
+    "name": "Limited Express Hida",
+    "from": "Nagoya",
+    "to": "Toyama",
+    "train": "HC85 hybrid DMU",
+    "operator": "JR Central",
+    "category": "scenic",
+    "km": 256,
+    "topSpeedKmh": 120,
+    "duration": "3 h 50 min",
+    "paxPerYear": null,
+    "opened": 1968,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "azusa-shinjuku-matsumoto",
+    "name": "Limited Express Azusa",
+    "from": "Tokyo (Shinjuku)",
+    "to": "Matsumoto",
+    "train": "E353 EMU",
+    "operator": "JR East",
+    "category": "classic",
+    "km": 225,
+    "topSpeedKmh": 130,
+    "duration": "2 h 23 min",
+    "paxPerYear": null,
+    "opened": 1966,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "sonic-hakata-oita",
+    "name": "Limited Express Sonic",
+    "from": "Fukuoka",
+    "to": "Oita",
+    "train": "883 “Sonic” tilting EMU",
+    "operator": "JR Kyushu",
+    "category": "classic",
+    "km": 200,
+    "topSpeedKmh": 130,
+    "duration": "2 h 05 min",
+    "paxPerYear": null,
+    "opened": 1995,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "spacia-x-nikko",
+    "name": "Spacia X",
+    "from": "Tokyo (Asakusa)",
+    "to": "Nikko",
+    "train": "Tobu N100 “Spacia X”",
+    "operator": "Tobu Railway",
+    "category": "classic",
+    "km": 136,
+    "topSpeedKmh": 120,
+    "duration": "1 h 50 min",
+    "paxPerYear": null,
+    "opened": 2023,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "odakyu-romancecar-hakone",
+    "name": "Odakyu Romancecar",
+    "from": "Tokyo (Shinjuku)",
+    "to": "Hakone-Yumoto",
+    "train": "70000 “GSE” observation EMU",
+    "operator": "Odakyu Electric Railway",
+    "category": "classic",
+    "km": 89,
+    "topSpeedKmh": 110,
+    "duration": "1 h 15 min",
+    "paxPerYear": null,
+    "opened": 1957,
+    "countries": [
+      "JP"
+    ]
+  },
+  {
+    "id": "ktx-honam",
+    "name": "KTX Honam",
+    "from": "Seoul",
+    "to": "Mokpo",
+    "train": "KTX-Sancheon",
+    "operator": "Korail",
+    "category": "high-speed",
+    "km": 370,
+    "topSpeedKmh": 305,
+    "duration": "2 h 15 min",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "KR"
+    ]
+  },
+  {
+    "id": "srt-suseo-busan",
+    "name": "SRT",
+    "from": "Seoul (Suseo)",
+    "to": "Busan",
+    "train": "SRT 120000 series",
+    "operator": "SR",
+    "category": "high-speed",
+    "km": 400,
+    "topSpeedKmh": 300,
+    "duration": "2 h 10 min",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "KR"
+    ]
+  },
+  {
+    "id": "ktx-seoul-gangneung",
+    "name": "KTX Gangneung Line",
+    "from": "Seoul",
+    "to": "Gangneung",
+    "train": "KTX-Sancheon · KTX-Eum",
+    "operator": "Korail",
+    "category": "high-speed",
+    "km": 223,
+    "topSpeedKmh": 250,
+    "duration": "1 h 54 min",
+    "paxPerYear": null,
+    "opened": 2017,
+    "countries": [
+      "KR"
+    ]
+  },
+  {
+    "id": "v-train-baekdudaegan",
+    "name": "Baekdudaegan Canyon Train",
+    "from": "Buncheon",
+    "to": "Cheoram",
+    "train": "V-train open-window coaches",
+    "operator": "Korail",
+    "category": "scenic",
+    "km": 28,
+    "topSpeedKmh": 30,
+    "duration": "1 h 10 min",
+    "paxPerYear": null,
+    "opened": 2013,
+    "countries": [
+      "KR"
+    ]
+  },
+  {
+    "id": "south-link-line",
+    "name": "South-Link Line",
+    "from": "Kaohsiung",
+    "to": "Taitung",
+    "train": "EMU3000 Tze-Chiang",
+    "operator": "Taiwan Railway",
+    "category": "scenic",
+    "km": 160,
+    "topSpeedKmh": 130,
+    "duration": "2 h 10 min",
+    "paxPerYear": null,
+    "opened": 1992,
+    "countries": [
+      "TW"
+    ]
+  },
+  {
+    "id": "pingxi-line",
+    "name": "Pingxi Line",
+    "from": "Ruifang",
+    "to": "Jingtong",
+    "train": "DR1000 railcar",
+    "operator": "Taiwan Railway",
+    "category": "scenic",
+    "km": 13,
+    "topSpeedKmh": 60,
+    "duration": "≈ 50 min",
+    "paxPerYear": null,
+    "opened": 1921,
+    "countries": [
+      "TW"
+    ]
+  },
+  {
+    "id": "puyuma-express",
+    "name": "Puyuma Express",
+    "from": "Taipei",
+    "to": "Taitung",
+    "train": "TEMU2000 tilting EMU",
+    "operator": "Taiwan Railway",
+    "category": "classic",
+    "km": 347,
+    "topSpeedKmh": 150,
+    "duration": "3 h 55 min",
+    "paxPerYear": null,
+    "opened": 2013,
+    "countries": [
+      "TW"
+    ]
+  },
+  {
+    "id": "mauritania-iron-ore",
+    "name": "Mauritania Iron Ore Train",
+    "from": "Nouadhibou",
+    "to": "Zouérat",
+    "train": "SNIM ore consist + passenger coach",
+    "operator": "SNIM",
+    "category": "classic",
+    "km": 704,
+    "topSpeedKmh": 60,
+    "duration": "≈ 18 h",
+    "paxPerYear": null,
+    "opened": 1963,
+    "countries": [
+      "MR"
+    ]
+  },
+  {
+    "id": "benguela-lobito-luau",
+    "name": "Benguela Railway Express",
+    "from": "Lobito",
+    "to": "Luau",
+    "train": "CFB air-con sleeper express",
+    "operator": "CFB",
+    "category": "night",
+    "km": 1344,
+    "topSpeedKmh": 90,
+    "duration": "≈ 30 h",
+    "paxPerYear": null,
+    "opened": 1929,
+    "countries": [
+      "AO"
+    ]
+  },
+  {
+    "id": "camrail-yaounde-ngaoundere",
+    "name": "Transcamerounais",
+    "from": "Yaoundé",
+    "to": "Ngaoundéré",
+    "train": "Train 191/192 couchette",
+    "operator": "Camrail",
+    "category": "night",
+    "km": 622,
+    "topSpeedKmh": 70,
+    "duration": "12 h 10 min",
+    "paxPerYear": null,
+    "opened": 1974,
+    "countries": [
+      "CM"
+    ]
+  },
+  {
+    "id": "la-gazelle-brazzaville",
+    "name": "La Gazelle",
+    "from": "Brazzaville",
+    "to": "Pointe-Noire",
+    "train": "Korean-built air-con express",
+    "operator": "CFCO",
+    "category": "classic",
+    "km": 510,
+    "topSpeedKmh": 70,
+    "duration": "≈ 16 h",
+    "paxPerYear": null,
+    "opened": 1934,
+    "countries": [
+      "CG"
+    ]
+  },
+  {
+    "id": "algiers-oran-express",
+    "name": "Algiers–Oran Express",
+    "from": "Algiers",
+    "to": "Oran",
+    "train": "Alstom Coradia Polyvalent",
+    "operator": "SNTF",
+    "category": "classic",
+    "km": 421,
+    "topSpeedKmh": 160,
+    "duration": "5 h 30 min",
+    "paxPerYear": null,
+    "opened": 1871,
+    "countries": [
+      "DZ"
+    ]
+  },
+  {
+    "id": "algiers-constantine-express",
+    "name": "Algiers–Constantine Express",
+    "from": "Algiers",
+    "to": "Constantine",
+    "train": "Alstom Coradia Polyvalent",
+    "operator": "SNTF",
+    "category": "classic",
+    "km": 464,
+    "topSpeedKmh": 160,
+    "duration": "6 h 44 min",
+    "paxPerYear": null,
+    "opened": 1886,
+    "countries": [
+      "DZ"
+    ]
+  },
+  {
+    "id": "alexandria-aswan-express",
+    "name": "Alexandria–Aswan Express",
+    "from": "Alexandria",
+    "to": "Aswan",
+    "train": "ENR air-con express coaches",
+    "operator": "Egyptian National Railways",
+    "category": "night",
+    "km": 1090,
+    "topSpeedKmh": 120,
+    "duration": "16 h 40 min",
+    "paxPerYear": null,
+    "opened": 1856,
+    "countries": [
+      "EG"
+    ]
+  },
+  {
+    "id": "al-atlas-tangier-marrakech",
+    "name": "Al Atlas Night",
+    "from": "Tangier",
+    "to": "Marrakech",
+    "train": "ONCF couchette train",
+    "operator": "ONCF",
+    "category": "night",
+    "km": 620,
+    "topSpeedKmh": 120,
+    "duration": "9 h 36 min",
+    "paxPerYear": null,
+    "opened": 1928,
+    "countries": [
+      "MA"
+    ]
+  },
+  {
+    "id": "bulawayo-victoria-falls",
+    "name": "Victoria Falls Overnight",
+    "from": "Bulawayo",
+    "to": "Victoria Falls",
+    "train": "NRZ loco-hauled coaches",
+    "operator": "National Railways of Zimbabwe",
+    "category": "night",
+    "km": 472,
+    "topSpeedKmh": 70,
+    "duration": "≈ 13 h",
+    "paxPerYear": null,
+    "opened": 1904,
+    "countries": [
+      "ZW"
+    ]
+  },
+  {
+    "id": "lezard-rouge",
+    "name": "Lézard Rouge",
+    "from": "Metlaoui",
+    "to": "Selja Gorges",
+    "train": "Restored beylical saloons (1910)",
+    "operator": "SNCFT",
+    "category": "heritage",
+    "km": 43,
+    "topSpeedKmh": 30,
+    "duration": "≈ 1 h 45 min (round trip)",
+    "paxPerYear": null,
+    "opened": 1910,
+    "countries": [
+      "TN"
+    ]
+  },
+  {
+    "id": "tanzania-sgr-dar-dodoma",
+    "name": "Tanzania SGR",
+    "from": "Dar es Salaam",
+    "to": "Dodoma",
+    "train": "CRRC EMU & loco-hauled sets",
+    "operator": "Tanzania Railways Corporation",
+    "category": "classic",
+    "km": 460,
+    "topSpeedKmh": 160,
+    "duration": "3 h 42 min",
+    "paxPerYear": null,
+    "opened": 2024,
+    "countries": [
+      "TZ"
+    ]
+  },
+  {
+    "id": "warri-itakpe-express",
+    "name": "Warri–Itakpe Train",
+    "from": "Warri",
+    "to": "Itakpe",
+    "train": "NRC standard-gauge coaches",
+    "operator": "Nigerian Railway Corporation",
+    "category": "classic",
+    "km": 326,
+    "topSpeedKmh": 100,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 2020,
+    "countries": [
+      "NG"
+    ]
+  },
+  {
+    "id": "puffing-billy",
+    "name": "Puffing Billy Railway",
+    "from": "Belgrave",
+    "to": "Gembrook",
+    "train": "NA-class steam, open-sided cars",
+    "operator": "Puffing Billy Railway",
+    "category": "heritage",
+    "km": 24,
+    "topSpeedKmh": 25,
+    "duration": "1 h 50 min",
+    "paxPerYear": 400000,
+    "opened": 1900,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "spirit-of-the-outback",
+    "name": "Spirit of the Outback",
+    "from": "Brisbane",
+    "to": "Longreach",
+    "train": "Loco-hauled sleeper, Tuckerbox diner",
+    "operator": "Queensland Rail",
+    "category": "night",
+    "km": 1325,
+    "topSpeedKmh": 100,
+    "duration": "≈ 25 h",
+    "paxPerYear": null,
+    "opened": 1993,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "gulflander-normanton-croydon",
+    "name": "The Gulflander",
+    "from": "Normanton",
+    "to": "Croydon",
+    "train": "RM93 railmotor (1950)",
+    "operator": "Queensland Rail",
+    "category": "scenic",
+    "km": 152,
+    "topSpeedKmh": 40,
+    "duration": "≈ 5 h",
+    "paxPerYear": null,
+    "opened": 1891,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "west-coast-wilderness-railway",
+    "name": "West Coast Wilderness Railway",
+    "from": "Queenstown",
+    "to": "Strahan",
+    "train": "Abt rack steam locomotives",
+    "operator": "West Coast Wilderness Railway",
+    "category": "mountain",
+    "km": 35,
+    "topSpeedKmh": 20,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 1896,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "taieri-gorge-railway",
+    "name": "Taieri Gorge Railway",
+    "from": "Dunedin",
+    "to": "Pukerangi",
+    "train": "Heritage carriages, DJ diesels",
+    "operator": "Dunedin Railways",
+    "category": "heritage",
+    "km": 58,
+    "topSpeedKmh": 50,
+    "duration": "2 h 5 min",
+    "paxPerYear": null,
+    "opened": 1889,
+    "countries": [
+      "NZ"
+    ]
+  },
+  {
+    "id": "capital-connection",
+    "name": "Capital Connection",
+    "from": "Palmerston North",
+    "to": "Wellington",
+    "train": "Refurbished loco-hauled carriages",
+    "operator": "KiwiRail",
+    "category": "classic",
+    "km": 136,
+    "topSpeedKmh": 100,
+    "duration": "2 h 15 min",
+    "paxPerYear": null,
+    "opened": 1991,
+    "countries": [
+      "NZ"
+    ]
+  },
+  {
+    "id": "pichi-richi-railway",
+    "name": "Pichi Richi Railway",
+    "from": "Port Augusta",
+    "to": "Quorn",
+    "train": "Afghan Express steam",
+    "operator": "Pichi Richi Railway Preservation Society",
+    "category": "heritage",
+    "km": 39,
+    "topSpeedKmh": 30,
+    "duration": "2 h 20 min",
+    "paxPerYear": null,
+    "opened": 1879,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "mary-valley-rattler",
+    "name": "Mary Valley Rattler",
+    "from": "Gympie",
+    "to": "Amamoor",
+    "train": "C17 steam No. 45",
+    "operator": "Rattler Railway Company",
+    "category": "heritage",
+    "km": 20,
+    "topSpeedKmh": 25,
+    "duration": "1 h",
+    "paxPerYear": null,
+    "opened": 1915,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "inlander-townsville-mount-isa",
+    "name": "The Inlander",
+    "from": "Townsville",
+    "to": "Mount Isa",
+    "train": "Loco-hauled outback train",
+    "operator": "Queensland Rail",
+    "category": "night",
+    "km": 977,
+    "topSpeedKmh": 80,
+    "duration": "≈ 21 h",
+    "paxPerYear": null,
+    "opened": 1953,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "westlander-brisbane-charleville",
+    "name": "The Westlander",
+    "from": "Brisbane",
+    "to": "Charleville",
+    "train": "Loco-hauled night train",
+    "operator": "Queensland Rail",
+    "category": "night",
+    "km": 777,
+    "topSpeedKmh": 80,
+    "duration": "≈ 17 h",
+    "paxPerYear": null,
+    "opened": 1954,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "byron-bay-solar-train",
+    "name": "Byron Bay Solar Train",
+    "from": "Byron Beach",
+    "to": "North Beach",
+    "train": "1949 600-class railcar, solar-powered",
+    "operator": "Byron Bay Railroad Company",
+    "category": "heritage",
+    "km": 3,
+    "topSpeedKmh": 25,
+    "duration": "10 min",
+    "paxPerYear": 100000,
+    "opened": 2017,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "great-southern-adelaide-brisbane",
+    "name": "Great Southern",
+    "from": "Adelaide",
+    "to": "Brisbane",
+    "train": "Gold & Platinum sleeper",
+    "operator": "Journey Beyond",
+    "category": "luxury",
+    "km": 2885,
+    "topSpeedKmh": 115,
+    "duration": "≈ 3 days",
+    "paxPerYear": null,
+    "opened": 2019,
+    "countries": [
+      "AU"
+    ]
+  },
+  {
+    "id": "shanghai-kunming-hsr",
+    "name": "Shanghai–Kunming HSR",
+    "from": "Shanghai",
+    "to": "Kunming",
+    "train": "CR400AF Fuxing",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 2252,
+    "topSpeedKmh": 350,
+    "duration": "≈ 11 h",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "hangzhou-shenzhen-hsr",
+    "name": "Southeast Coastal HSR",
+    "from": "Hangzhou",
+    "to": "Shenzhen",
+    "train": "CRH & Fuxing EMUs",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 1450,
+    "topSpeedKmh": 300,
+    "duration": "≈ 6 h",
+    "paxPerYear": null,
+    "opened": 2013,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "chengdu-chongqing-hsr",
+    "name": "Chengdu–Chongqing HSR",
+    "from": "Chengdu",
+    "to": "Chongqing",
+    "train": "CR400AF Fuxing",
+    "operator": "China Railway Chengdu Group",
+    "category": "high-speed",
+    "km": 307,
+    "topSpeedKmh": 350,
+    "duration": "1 h 02 min",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "xian-chengdu-hsr",
+    "name": "Xi’an–Chengdu HSR",
+    "from": "Xi’an",
+    "to": "Chengdu",
+    "train": "CRH3A",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 658,
+    "topSpeedKmh": 250,
+    "duration": "3 h 07 min",
+    "paxPerYear": null,
+    "opened": 2017,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "hainan-ring-hsr",
+    "name": "Hainan Ring HSR",
+    "from": "Haikou",
+    "to": "Sanya",
+    "train": "CR300AF Fuxing",
+    "operator": "China Railway Guangzhou Group",
+    "category": "high-speed",
+    "km": 653,
+    "topSpeedKmh": 250,
+    "duration": "≈ 4 h 30 min",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "guangzhou-hongkong-xrl",
+    "name": "Guangzhou–Hong Kong XRL",
+    "from": "Guangzhou",
+    "to": "Hong Kong",
+    "train": "Vibrant Express (CRH380A)",
+    "operator": "China Railway Guangzhou · MTR",
+    "category": "high-speed",
+    "km": 142,
+    "topSpeedKmh": 300,
+    "duration": "47 min",
+    "paxPerYear": null,
+    "opened": 2018,
+    "countries": [
+      "CN",
+      "HK"
+    ]
+  },
+  {
+    "id": "beijing-zhangjiakou-hsr",
+    "name": "Beijing–Zhangjiakou HSR",
+    "from": "Beijing",
+    "to": "Zhangjiakou",
+    "train": "CR400BF-C smart Fuxing",
+    "operator": "China Railway Beijing Group",
+    "category": "high-speed",
+    "km": 174,
+    "topSpeedKmh": 350,
+    "duration": "47 min",
+    "paxPerYear": null,
+    "opened": 2019,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "harbin-dalian-hsr",
+    "name": "Harbin–Dalian HSR",
+    "from": "Harbin",
+    "to": "Dalian",
+    "train": "CRH380BG (cold-climate)",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 921,
+    "topSpeedKmh": 350,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 2012,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "guiyang-guangzhou-hsr",
+    "name": "Guiyang–Guangzhou HSR",
+    "from": "Guiyang",
+    "to": "Guangzhou",
+    "train": "CRH & Fuxing EMUs",
+    "operator": "China Railway",
+    "category": "high-speed",
+    "km": 857,
+    "topSpeedKmh": 300,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 2014,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "lhasa-nyingchi-railway",
+    "name": "Lhasa–Nyingchi Railway",
+    "from": "Lhasa",
+    "to": "Nyingchi",
+    "train": "CR200J Fuxing",
+    "operator": "China Railway Qingzang Group",
+    "category": "scenic",
+    "km": 435,
+    "topSpeedKmh": 160,
+    "duration": "3 h 29 min",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "chengdu-kunming-railway",
+    "name": "Chengdu–Kunming Railway",
+    "from": "Chengdu",
+    "to": "Kunming",
+    "train": "CR200J Fuxing & slow trains",
+    "operator": "China Railway Chengdu Group",
+    "category": "classic",
+    "km": 915,
+    "topSpeedKmh": 160,
+    "duration": "≈ 7 h",
+    "paxPerYear": null,
+    "opened": 1970,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "urumqi-kashgar-railway",
+    "name": "Southern Xinjiang Railway",
+    "from": "Urumqi",
+    "to": "Kashgar",
+    "train": "K/T-series sleepers",
+    "operator": "China Railway Urumqi Group",
+    "category": "night",
+    "km": 1475,
+    "topSpeedKmh": 140,
+    "duration": "≈ 15 h",
+    "paxPerYear": null,
+    "opened": 1999,
+    "countries": [
+      "CN"
+    ]
+  },
+  {
+    "id": "arktika-moscow-murmansk",
+    "name": "Arktika",
+    "from": "Moscow",
+    "to": "Murmansk",
+    "train": "Arktika № 16/15",
+    "operator": "RZD",
+    "category": "night",
+    "km": 1940,
+    "topSpeedKmh": 120,
+    "duration": "≈ 35 h",
+    "paxPerYear": null,
+    "opened": 1916,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "moscow-kazan-night",
+    "name": "Moscow–Kazan Double-Decker",
+    "from": "Moscow",
+    "to": "Kazan",
+    "train": "Double-deck sleeper № 23/24",
+    "operator": "RZD",
+    "category": "night",
+    "km": 793,
+    "topSpeedKmh": 120,
+    "duration": "≈ 11 h 30 min",
+    "paxPerYear": null,
+    "opened": 2015,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "red-arrow-moscow-petersburg",
+    "name": "Red Arrow",
+    "from": "Moscow",
+    "to": "Saint Petersburg",
+    "train": "Krasnaya Strela № 1/2",
+    "operator": "RZD",
+    "category": "night",
+    "km": 650,
+    "topSpeedKmh": 160,
+    "duration": "≈ 8 h",
+    "paxPerYear": null,
+    "opened": 1931,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "circum-baikal-express",
+    "name": "Circum-Baikal Express",
+    "from": "Irkutsk",
+    "to": "Port Baikal",
+    "train": "Retro excursion train",
+    "operator": "RZD Travel",
+    "category": "scenic",
+    "km": 215,
+    "topSpeedKmh": 40,
+    "duration": "≈ 9 h",
+    "paxPerYear": null,
+    "opened": 1905,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "baikal-amur-mainline",
+    "name": "Baikal–Amur Mainline",
+    "from": "Tayshet",
+    "to": "Komsomolsk-on-Amur",
+    "train": "RZD sleeper trains",
+    "operator": "RZD",
+    "category": "night",
+    "km": 3800,
+    "topSpeedKmh": 100,
+    "duration": "≈ 4 days",
+    "paxPerYear": null,
+    "opened": 1984,
+    "countries": [
+      "RU"
+    ]
+  },
+  {
+    "id": "tbilisi-batumi-intercity",
+    "name": "Tbilisi–Batumi Intercity",
+    "from": "Tbilisi",
+    "to": "Batumi",
+    "train": "Stadler KISS double-decker",
+    "operator": "Georgian Railway",
+    "category": "classic",
+    "km": 378,
+    "topSpeedKmh": 120,
+    "duration": "4 h 59 min",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "GE"
+    ]
+  },
+  {
+    "id": "baku-tbilisi-night",
+    "name": "Baku–Tbilisi Night Train",
+    "from": "Baku",
+    "to": "Tbilisi",
+    "train": "Stadler sleeper",
+    "operator": "ADY · Georgian Railway",
+    "category": "night",
+    "km": 551,
+    "topSpeedKmh": 90,
+    "duration": "≈ 9 h 30 min",
+    "paxPerYear": null,
+    "opened": 2026,
+    "countries": [
+      "AZ",
+      "GE"
+    ]
+  },
+  {
+    "id": "baku-ganja-express",
+    "name": "Baku–Ganja Express",
+    "from": "Baku",
+    "to": "Ganja",
+    "train": "Stadler KISS",
+    "operator": "Azerbaijan Railways (ADY)",
+    "category": "classic",
+    "km": 363,
+    "topSpeedKmh": 160,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "AZ"
+    ]
+  },
+  {
+    "id": "yerevan-tbilisi-night",
+    "name": "Yerevan–Tbilisi Night Train",
+    "from": "Yerevan",
+    "to": "Tbilisi",
+    "train": "Sleeper № 371/372",
+    "operator": "South Caucasus Railway",
+    "category": "night",
+    "km": 370,
+    "topSpeedKmh": 80,
+    "duration": "≈ 10 h 30 min",
+    "paxPerYear": null,
+    "opened": 1902,
+    "countries": [
+      "AM",
+      "GE"
+    ]
+  },
+  {
+    "id": "almaty-tashkent-talgo",
+    "name": "Almaty–Tashkent Talgo",
+    "from": "Almaty",
+    "to": "Tashkent",
+    "train": "Talgo wide-body sleeper",
+    "operator": "Kazakhstan Temir Zholy (KTZ)",
+    "category": "night",
+    "km": 1000,
+    "topSpeedKmh": 140,
+    "duration": "≈ 16 h",
+    "paxPerYear": null,
+    "opened": 2024,
+    "countries": [
+      "KZ",
+      "UZ"
+    ]
+  },
+  {
+    "id": "tashkent-khiva-night",
+    "name": "Tashkent–Khiva Night Train",
+    "from": "Tashkent",
+    "to": "Khiva",
+    "train": "UTY night sleeper",
+    "operator": "Uzbekistan Railways",
+    "category": "night",
+    "km": 1120,
+    "topSpeedKmh": 90,
+    "duration": "≈ 14 h",
+    "paxPerYear": null,
+    "opened": 2018,
+    "countries": [
+      "UZ"
+    ]
+  },
+  {
+    "id": "bishkek-issyk-kul",
+    "name": "Issyk-Kul Summer Train",
+    "from": "Bishkek",
+    "to": "Balykchy",
+    "train": "Panoramic tourist cars",
+    "operator": "Kyrgyz Temir Zholu",
+    "category": "scenic",
+    "km": 185,
+    "topSpeedKmh": 60,
+    "duration": "4 h 05 min",
+    "paxPerYear": null,
+    "opened": 1948,
+    "countries": [
+      "KG"
+    ]
+  },
+  {
+    "id": "ashgabat-turkmenabat-night",
+    "name": "Ashgabat–Türkmenabat Night Train",
+    "from": "Ashgabat",
+    "to": "Türkmenabat",
+    "train": "TDY sleeper",
+    "operator": "Türkmendemirýollary (TDY)",
+    "category": "night",
+    "km": 560,
+    "topSpeedKmh": 100,
+    "duration": "≈ 13 h",
+    "paxPerYear": null,
+    "opened": 1886,
+    "countries": [
+      "TM"
+    ]
+  },
+  {
+    "id": "gornergrat-bahn",
+    "name": "Gornergrat Bahn",
+    "from": "Zermatt",
+    "to": "Gornergrat",
+    "train": "Rack railway",
+    "operator": "Gornergrat Bahn",
+    "category": "mountain",
+    "km": 9,
+    "topSpeedKmh": 30,
+    "duration": "33 min",
+    "paxPerYear": null,
+    "opened": 1898,
+    "countries": [
+      "CH"
+    ]
+  },
+  {
+    "id": "pilatus-railway",
+    "name": "Pilatus Railway",
+    "from": "Alpnachstad",
+    "to": "Pilatus Kulm",
+    "train": "Stadler rack railcars",
+    "operator": "Pilatus-Bahnen",
+    "category": "mountain",
+    "km": 5,
+    "topSpeedKmh": 12,
+    "duration": "≈ 30 min",
+    "paxPerYear": null,
+    "opened": 1889,
+    "countries": [
+      "CH"
+    ]
+  },
+  {
+    "id": "rigi-railways",
+    "name": "Rigi Railways",
+    "from": "Vitznau",
+    "to": "Rigi Kulm",
+    "train": "Rack railway",
+    "operator": "Rigi Bahnen",
+    "category": "mountain",
+    "km": 7,
+    "topSpeedKmh": 20,
+    "duration": "≈ 30 min",
+    "paxPerYear": null,
+    "opened": 1871,
+    "countries": [
+      "CH"
+    ]
+  },
+  {
+    "id": "brocken-railway",
+    "name": "Brockenbahn",
+    "from": "Wernigerode",
+    "to": "Brocken",
+    "train": "Class 99 2-10-2T steam",
+    "operator": "Harzer Schmalspurbahnen",
+    "category": "scenic",
+    "km": 34,
+    "topSpeedKmh": 40,
+    "duration": "≈ 1 h 45 min",
+    "paxPerYear": null,
+    "opened": 1899,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "zugspitze-rack-railway",
+    "name": "Bayerische Zugspitzbahn",
+    "from": "Garmisch-Partenkirchen",
+    "to": "Zugspitzplatt",
+    "train": "Rack railway",
+    "operator": "Bayerische Zugspitzbahn",
+    "category": "mountain",
+    "km": 19,
+    "topSpeedKmh": 40,
+    "duration": "≈ 1 h 15 min",
+    "paxPerYear": null,
+    "opened": 1930,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "centovalli-express",
+    "name": "Centovalli Railway",
+    "from": "Domodossola",
+    "to": "Locarno",
+    "train": "Panoramic railcars",
+    "operator": "SSIF · FART",
+    "category": "scenic",
+    "km": 52,
+    "topSpeedKmh": 60,
+    "duration": "≈ 2 h",
+    "paxPerYear": null,
+    "opened": 1923,
+    "countries": [
+      "IT",
+      "CH"
+    ]
+  },
+  {
+    "id": "hollentalbahn",
+    "name": "Höllentalbahn",
+    "from": "Freiburg",
+    "to": "Donaueschingen",
+    "train": "Breisgau S-Bahn EMU",
+    "operator": "DB Regio",
+    "category": "scenic",
+    "km": 75,
+    "topSpeedKmh": 100,
+    "duration": "≈ 1 h 30 min",
+    "paxPerYear": null,
+    "opened": 1887,
+    "countries": [
+      "DE"
+    ]
+  },
+  {
+    "id": "ffestiniog-welsh-highland",
+    "name": "Ffestiniog & Welsh Highland",
+    "from": "Caernarfon",
+    "to": "Blaenau Ffestiniog",
+    "train": "Double Fairlie steam",
+    "operator": "Ffestiniog & Welsh Highland Railways",
+    "category": "heritage",
+    "km": 62,
+    "topSpeedKmh": 40,
+    "duration": "≈ 4 h",
+    "paxPerYear": null,
+    "opened": 1836,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-WLS"
+    ]
+  },
+  {
+    "id": "jacobite-steam-train",
+    "name": "The Jacobite",
+    "from": "Fort William",
+    "to": "Mallaig",
+    "train": "Black Five steam",
+    "operator": "West Coast Railways",
+    "category": "heritage",
+    "km": 67,
+    "topSpeedKmh": 60,
+    "duration": "2 h 10 min",
+    "paxPerYear": null,
+    "opened": 1901,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "id": "snowdon-mountain-railway",
+    "name": "Snowdon Mountain Railway",
+    "from": "Llanberis",
+    "to": "Snowdon Summit",
+    "train": "Steam & diesel rack",
+    "operator": "Snowdon Mountain Railway",
+    "category": "mountain",
+    "km": 8,
+    "topSpeedKmh": 12,
+    "duration": "≈ 1 h",
+    "paxPerYear": null,
+    "opened": 1896,
+    "countries": [
+      "GB"
+    ],
+    "regions": [
+      "GB-WLS"
+    ]
+  },
+  {
+    "id": "train-jaune",
+    "name": "Train Jaune",
+    "from": "Villefranche-de-Conflent",
+    "to": "Latour-de-Carol",
+    "train": "Z 100 yellow railcars",
+    "operator": "SNCF Voyageurs",
+    "category": "scenic",
+    "km": 63,
+    "topSpeedKmh": 55,
+    "duration": "≈ 3 h",
+    "paxPerYear": null,
+    "opened": 1910,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "le-cevenol",
+    "name": "Le Cévenol",
+    "from": "Clermont-Ferrand",
+    "to": "Nîmes",
+    "train": "TER railcar",
+    "operator": "SNCF Voyageurs",
+    "category": "scenic",
+    "km": 303,
+    "topSpeedKmh": 100,
+    "duration": "≈ 5 h",
+    "paxPerYear": null,
+    "opened": 1870,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "ligne-des-hirondelles",
+    "name": "Ligne des Hirondelles",
+    "from": "Dole",
+    "to": "Saint-Claude",
+    "train": "TER Mobigo railcar",
+    "operator": "SNCF Voyageurs",
+    "category": "scenic",
+    "km": 123,
+    "topSpeedKmh": 90,
+    "duration": "≈ 3 h",
+    "paxPerYear": null,
+    "opened": 1912,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "intercites-nuit-paris-briancon",
+    "name": "Intercités de Nuit Paris–Briançon",
+    "from": "Paris",
+    "to": "Briançon",
+    "train": "Corail couchette cars",
+    "operator": "SNCF Voyageurs",
+    "category": "night",
+    "km": 860,
+    "topSpeedKmh": 160,
+    "duration": "≈ 11 h 30 min",
+    "paxPerYear": null,
+    "opened": 1884,
+    "countries": [
+      "FR"
+    ]
+  },
+  {
+    "id": "cinque-terre-express",
+    "name": "Cinque Terre Express",
+    "from": "Levanto",
+    "to": "La Spezia",
+    "train": "Rock double-deck EMU",
+    "operator": "Trenitalia",
+    "category": "scenic",
+    "km": 20,
+    "topSpeedKmh": 100,
+    "duration": "≈ 30 min",
+    "paxPerYear": null,
+    "opened": 1874,
+    "countries": [
+      "IT"
+    ]
+  },
+  {
+    "id": "frecciarossa-milan-venice",
+    "name": "Frecciarossa Milan–Venice",
+    "from": "Milan",
+    "to": "Venice",
+    "train": "Frecciarossa 1000",
+    "operator": "Trenitalia",
+    "category": "high-speed",
+    "km": 267,
+    "topSpeedKmh": 300,
+    "duration": "2 h 13 min",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "IT"
+    ]
+  },
+  {
+    "id": "nightjet-munich-rome",
+    "name": "Nightjet Munich–Rome",
+    "from": "Munich",
+    "to": "Rome",
+    "train": "New-generation Nightjet",
+    "operator": "ÖBB",
+    "category": "night",
+    "km": 1100,
+    "topSpeedKmh": 230,
+    "duration": "13 h 58 min",
+    "paxPerYear": null,
+    "opened": 2016,
+    "countries": [
+      "DE",
+      "AT",
+      "IT"
+    ]
+  },
+  {
+    "id": "nightjet-zurich-amsterdam",
+    "name": "Nightjet Zurich–Amsterdam",
+    "from": "Zurich",
+    "to": "Amsterdam",
+    "train": "Nightjet sleeper",
+    "operator": "ÖBB · NS",
+    "category": "night",
+    "km": 840,
+    "topSpeedKmh": 200,
+    "duration": "11 h 15 min",
+    "paxPerYear": null,
+    "opened": 2021,
+    "countries": [
+      "CH",
+      "DE",
+      "NL"
+    ]
+  },
+  {
+    "id": "kyiv-lviv-intercity",
+    "name": "Kyiv–Lviv Intercity+",
+    "from": "Kyiv",
+    "to": "Lviv",
+    "train": "HRCS2 Hyundai Rotem",
+    "operator": "Ukrzaliznytsia",
+    "category": "classic",
+    "km": 575,
+    "topSpeedKmh": 160,
+    "duration": "≈ 5 h",
+    "paxPerYear": null,
+    "opened": 2012,
+    "countries": [
+      "UA"
+    ]
+  },
+  {
+    "id": "helsinki-turku-ic",
+    "name": "Rantarata Coastal Line",
+    "from": "Helsinki",
+    "to": "Turku",
+    "train": "Sr3-hauled InterCity",
+    "operator": "VR",
+    "category": "classic",
+    "km": 193,
+    "topSpeedKmh": 200,
+    "duration": "1 h 57 min",
+    "paxPerYear": null,
+    "opened": 1903,
+    "countries": [
+      "FI"
+    ]
+  },
+  {
+    "id": "copenhagen-aarhus-lyn",
+    "name": "Lyntog Copenhagen–Aarhus",
+    "from": "Copenhagen",
+    "to": "Aarhus",
+    "train": "IC3 Lyntog",
+    "operator": "DSB",
+    "category": "classic",
+    "km": 330,
+    "topSpeedKmh": 180,
+    "duration": "2 h 39 min",
+    "paxPerYear": null,
+    "opened": 1997,
+    "countries": [
+      "DK"
+    ]
+  },
+  {
+    "id": "sorlandsbanen",
+    "name": "Sørlandsbanen",
+    "from": "Oslo",
+    "to": "Stavanger",
+    "train": "Type 73 tilting EMU",
+    "operator": "Go-Ahead Nordic",
+    "category": "classic",
+    "km": 598,
+    "topSpeedKmh": 160,
+    "duration": "≈ 8 h",
+    "paxPerYear": null,
+    "opened": 1944,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "rorosbanen",
+    "name": "Rørosbanen",
+    "from": "Hamar",
+    "to": "Trondheim",
+    "train": "Type 93 Talent DMU",
+    "operator": "SJ Norge",
+    "category": "scenic",
+    "km": 431,
+    "topSpeedKmh": 120,
+    "duration": "≈ 6 h",
+    "paxPerYear": null,
+    "opened": 1877,
+    "countries": [
+      "NO"
+    ]
+  },
+  {
+    "id": "inlandsbanan",
+    "name": "Inlandsbanan",
+    "from": "Mora",
+    "to": "Gällivare",
+    "train": "Y1 diesel railcars",
+    "operator": "Inlandståg",
+    "category": "scenic",
+    "km": 1070,
+    "topSpeedKmh": 80,
+    "duration": "2 days",
+    "paxPerYear": null,
+    "opened": 1937,
+    "countries": [
+      "SE"
+    ]
+  },
+  {
+    "id": "tren-de-soller",
+    "name": "Tren de Sóller",
+    "from": "Palma",
+    "to": "Sóller",
+    "train": "Vintage wooden electrics",
+    "operator": "Ferrocarril de Sóller",
+    "category": "heritage",
+    "km": 27,
+    "topSpeedKmh": 40,
+    "duration": "≈ 1 h",
+    "paxPerYear": null,
+    "opened": 1912,
+    "countries": [
+      "ES"
+    ]
+  },
+  {
+    "id": "crescent",
+    "name": "Crescent",
+    "from": "New York",
+    "to": "New Orleans",
+    "train": "Amtrak Viewliner II",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 2216,
+    "topSpeedKmh": 201,
+    "duration": "≈ 30 h",
+    "paxPerYear": 300000,
+    "opened": 1925,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "cardinal",
+    "name": "Cardinal",
+    "from": "New York",
+    "to": "Chicago",
+    "train": "Amtrak Amfleet & Viewliner",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 1844,
+    "topSpeedKmh": 201,
+    "duration": "≈ 28 h",
+    "paxPerYear": 110000,
+    "opened": 1977,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "lake-shore-limited",
+    "name": "Lake Shore Limited",
+    "from": "New York",
+    "to": "Chicago",
+    "train": "Amtrak Viewliner II",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 1543,
+    "topSpeedKmh": 177,
+    "duration": "≈ 19 h",
+    "paxPerYear": 350000,
+    "opened": 1897,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "silver-meteor",
+    "name": "Silver Meteor",
+    "from": "New York",
+    "to": "Miami",
+    "train": "Amtrak Viewliner II",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 2235,
+    "topSpeedKmh": 201,
+    "duration": "≈ 28 h",
+    "paxPerYear": 300000,
+    "opened": 1939,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "texas-eagle",
+    "name": "Texas Eagle",
+    "from": "Chicago",
+    "to": "San Antonio",
+    "train": "Amtrak Superliner",
+    "operator": "Amtrak",
+    "category": "night",
+    "km": 2102,
+    "topSpeedKmh": 177,
+    "duration": "≈ 32 h",
+    "paxPerYear": 300000,
+    "opened": 1948,
+    "countries": [
+      "US"
+    ]
+  },
+  {
+    "id": "amtrak-cascades",
+    "name": "Amtrak Cascades",
+    "from": "Vancouver",
+    "to": "Eugene",
+    "train": "Siemens Airo (from 2026)",
+    "operator": "Amtrak / WSDOT & ODOT",
+    "category": "classic",
+    "km": 752,
+    "topSpeedKmh": 127,
+    "duration": "≈ 11 h",
+    "paxPerYear": 800000,
+    "opened": 1998,
+    "countries": [
+      "CA",
+      "US"
+    ]
+  }
+]
