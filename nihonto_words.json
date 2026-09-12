@@ -1461,7 +1461,1075 @@
         "Observar ejemplos de horimono en nihontō."
       ],
       "sources": []
-    }
+    },
+    
+  {
+    "id": "gendaito",
+    "term": "Gendaitō",
+    "kanji": "現代刀",
+    "romaji": "Gendaitō",
+    "english": "Japanese swords produced after 1876",
+    "spanish": "Espadas japonesas producidas después de 1876.",
+    "category": "historia",
+    "subcategory": "",
+    "definition": "Término utilizado para designar las espadas japonesas producidas después de 1876.",
+    "recognition": [
+      "Corresponde a espadas japonesas fabricadas después de 1876.",
+      "El término se utiliza para distinguirlas de las espadas históricas anteriores.",
+      "Su producción pertenece al período moderno de la fabricación de espadas japonesas."
+    ],
+    "tags": [
+      "gendaito",
+      "現代刀",
+      "modern sword",
+      "espada moderna"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "koto",
+      "shinto"
+    ],
+    "deepening": [
+      "Estudiar la clasificación histórica de las espadas japonesas.",
+      "Comparar gendaitō con shintō y kotō.",
+      "Estudiar la evolución de la fabricación de espadas después de 1876."
+    ],
+    "sources": []
+  },
+  {
+    "id": "goban-kaji",
+    "term": "Goban-kaji",
+    "kanji": "御番鍛冶",
+    "romaji": "Goban-kaji",
+    "english": "Swordsmiths summoned to work for the retired Emperor Gotoba",
+    "spanish": "Grupo de herreros de espadas convocados para trabajar para el emperador retirado Gotoba.",
+    "category": "historia",
+    "subcategory": "",
+    "definition": "Nombre dado a los herreros de espada convocados por el emperador retirado Gotoba para trabajar bajo su patrocinio.",
+    "recognition": [
+      "Está relacionado con el emperador retirado Gotoba.",
+      "Designa un grupo de destacados herreros de espada.",
+      "Pertenece al contexto histórico de la producción de espadas de finales del período Heian y comienzos del Kamakura."
+    ],
+    "tags": [
+      "goban-kaji",
+      "御番鍛冶",
+      "gotoba",
+      "smiths"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "goka-den"
+    ],
+    "deepening": [
+      "Estudiar la relación entre el emperador Gotoba y los herreros de espada.",
+      "Investigar los nombres de los Goban-kaji.",
+      "Relacionar los Goban-kaji con el desarrollo temprano de las tradiciones de forja."
+    ],
+    "sources": []
+  },
+  {
+    "id": "goka-den",
+    "term": "Goka-den",
+    "kanji": "五箇伝",
+    "romaji": "Goka-den",
+    "english": "The five original traditions of swordmaking from the Koto period",
+    "spanish": "Las cinco grandes tradiciones originales de fabricación de espadas del período Kotō.",
+    "category": "escuelas-tradiciones",
+    "subcategory": "",
+    "definition": "Las cinco grandes tradiciones de fabricación de espadas desarrolladas durante el período Kotō: Bizen, Sōshū, Yamashiro, Yamato y Mino.",
+    "recognition": [
+      "Comprende cinco grandes tradiciones de fabricación de espadas.",
+      "Las cinco tradiciones son Bizen, Sōshū, Yamashiro, Yamato y Mino.",
+      "Se utiliza como sistema fundamental para estudiar las escuelas y estilos del nihontō."
+    ],
+    "tags": [
+      "goka-den",
+      "五箇伝",
+      "bizen",
+      "soshu",
+      "yamashiro",
+      "yamato",
+      "mino"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "bizen",
+      "yamashiro",
+      "soshu",
+      "mino"
+    ],
+    "deepening": [
+      "Estudiar las características de cada una de las cinco tradiciones.",
+      "Comparar jihada, hamon y sugata entre las cinco tradiciones.",
+      "Aprender a identificar una tradición mediante sus características visuales."
+    ],
+    "sources": []
+  },
+  {
+    "id": "goki-shichido",
+    "term": "Goki shichidō",
+    "kanji": "五畿七道",
+    "romaji": "Goki shichidō",
+    "english": "The five home provinces and seven main roads",
+    "spanish": "Las cinco provincias centrales y las siete grandes rutas administrativas de Japón.",
+    "category": "geografia",
+    "subcategory": "",
+    "definition": "Antigua división territorial de Japón formada por las cinco provincias centrales y siete grandes regiones o rutas administrativas. En el estudio del nihontō se utiliza para clasificar a los herreros según su región y tradición.",
+    "recognition": [
+      "Está formado por cinco provincias centrales y siete grandes regiones o rutas.",
+      "Fue utilizado históricamente como sistema de administración territorial.",
+      "En el estudio de las espadas permite relacionar herreros con regiones y tradiciones."
+    ],
+    "tags": [
+      "goki-shichido",
+      "五畿七道",
+      "geografia",
+      "provincias",
+      "regiones"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "goka-den"
+    ],
+    "deepening": [
+      "Estudiar la antigua división administrativa de Japón.",
+      "Relacionar las provincias japonesas con las escuelas de espada.",
+      "Observar la distribución geográfica de los principales centros de fabricación."
+    ],
+    "sources": []
+  },
+  {
+    "id": "gomabashi",
+    "term": "Gomabashi",
+    "kanji": "護摩箸",
+    "romaji": "Gomabashi",
+    "english": "A horimono in the form of ritual chopsticks",
+    "spanish": "Horimono con la forma de los palillos rituales utilizados en ceremonias sintoístas y budistas.",
+    "category": "horimono",
+    "subcategory": "",
+    "definition": "Tipo de horimono que representa los palillos rituales utilizados en ceremonias religiosas sintoístas y budistas.",
+    "recognition": [
+      "Tiene la forma de dos palillos rituales.",
+      "Se encuentra tallado sobre la hoja.",
+      "Está relacionado con la iconografía religiosa del horimono."
+    ],
+    "tags": [
+      "gomabashi",
+      "護摩箸",
+      "horimono",
+      "ritual"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "horimono",
+      "bonji"
+    ],
+    "deepening": [
+      "Estudiar los diferentes tipos de horimono religiosos.",
+      "Comparar gomabashi con otros motivos rituales.",
+      "Investigar el significado de los grabados budistas y sintoístas en las espadas."
+    ],
+    "sources": []
+  },
+  {
+    "id": "gunome",
+    "term": "Gunome",
+    "kanji": "互の目",
+    "romaji": "Gunome",
+    "english": "A type of hamon formed by a series of semicircular undulations",
+    "spanish": "Tipo de hamon formado por una sucesión de ondulaciones semicirculares.",
+    "category": "hamon",
+    "subcategory": "",
+    "definition": "Patrón de hamon que presenta una sucesión de ondulaciones semejantes a semicirculos.",
+    "recognition": [
+      "Presenta ondulaciones sucesivas a lo largo del hamon.",
+      "Las formas recuerdan a una serie de semicirculos.",
+      "Puede aparecer combinado con otros elementos del hamon."
+    ],
+    "tags": [
+      "gunome",
+      "互の目",
+      "hamon",
+      "midare"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "hamon",
+      "choji",
+      "suguha"
+    ],
+    "deepening": [
+      "Comparar gunome con chōji y otros hamon midare.",
+      "Estudiar las diferentes variantes de gunome.",
+      "Observar gunome en hojas de diferentes escuelas."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha",
+    "term": "Ha",
+    "kanji": "刃",
+    "romaji": "Ha",
+    "english": "The hardened part of the blade along the cutting edge",
+    "spanish": "Parte endurecida de la hoja situada a lo largo del filo.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "La parte endurecida de la hoja que se extiende a lo largo del filo de corte.",
+    "recognition": [
+      "Se encuentra a lo largo del filo.",
+      "Corresponde a la zona endurecida mediante el proceso de temple.",
+      "Es una de las partes fundamentales de la hoja."
+    ],
+    "tags": [
+      "ha",
+      "刃",
+      "filo",
+      "anatomia"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "ha-saki",
+      "ha-machi",
+      "hamon"
+    ],
+    "deepening": [
+      "Estudiar la diferencia entre ha, ha-saki y hamon.",
+      "Observar la relación entre el filo y la zona templada."
+    ],
+    "sources": []
+  },
+  {
+    "id": "habaki",
+    "term": "Habaki",
+    "kanji": "鎺",
+    "romaji": "Habaki",
+    "english": "Metal collar that buffers the tsuba and secures the blade in the saya",
+    "spanish": "Pequeño collar metálico, a menudo decorado, que sirve de apoyo a la tsuba y asegura la hoja dentro de la saya.",
+    "category": "monturas",
+    "subcategory": "",
+    "definition": "Collar metálico ajustado alrededor de la base de la hoja que proporciona apoyo a la tsuba y ayuda a fijar la hoja dentro de la saya.",
+    "recognition": [
+      "Se encuentra en la base de la hoja.",
+      "Queda inmediatamente delante de la tsuba.",
+      "Actúa como punto de apoyo y fijación de la hoja en la saya."
+    ],
+    "tags": [
+      "habaki",
+      "鎺",
+      "tsuba",
+      "saya"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "habaki-moto",
+      "tsuba",
+      "fuchi"
+    ],
+    "deepening": [
+      "Estudiar los diferentes tipos de habaki.",
+      "Observar la construcción y decoración del habaki.",
+      "Comparar habaki de cobre, plata y otros materiales."
+    ],
+    "sources": []
+  },
+  {
+    "id": "habaki-moto",
+    "term": "Habaki-moto",
+    "kanji": "鎺元",
+    "romaji": "Habaki-moto",
+    "english": "The part of the blade that sits under the habaki",
+    "spanish": "Parte de la hoja que queda situada debajo del habaki.",
+    "category": "anatomia",
+    "subcategory": "Habaki",
+    "definition": "Zona de la hoja que queda cubierta por el habaki.",
+    "recognition": [
+      "Se encuentra inmediatamente debajo del habaki.",
+      "Normalmente queda oculta cuando el habaki está instalado.",
+      "Corresponde a la zona de la base de la hoja."
+    ],
+    "tags": [
+      "habaki-moto",
+      "鎺元",
+      "habaki"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "habaki",
+      "nakago"
+    ],
+    "deepening": [
+      "Estudiar la estructura de la base de la hoja.",
+      "Observar cómo encaja el habaki sobre esta zona."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha-buchi",
+    "term": "Ha-buchi",
+    "kanji": "刃縁",
+    "romaji": "Ha-buchi",
+    "english": "The line dividing the ha and ji",
+    "spanish": "Línea que divide el ha y el ji.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "Línea o zona de transición que separa el área del ha de la superficie ji de la hoja.",
+    "recognition": [
+      "Marca la transición entre el ha y el ji.",
+      "Se encuentra longitudinalmente a lo largo de la hoja.",
+      "Está relacionada con la estructura visible de la hoja y su temple."
+    ],
+    "tags": [
+      "ha-buchi",
+      "刃縁",
+      "ha",
+      "ji"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "ha",
+      "hira-ji",
+      "hamon"
+    ],
+    "deepening": [
+      "Estudiar la relación entre ha, ji y hamon.",
+      "Observar esta transición en hojas pulidas."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha-cho",
+    "term": "Ha-chō",
+    "kanji": "刃長",
+    "romaji": "Ha-chō",
+    "english": "Length of the cutting edge",
+    "spanish": "Longitud del filo de corte, medida en línea recta desde el mune-machi hasta la punta del kissaki.",
+    "category": "sugata",
+    "subcategory": "",
+    "definition": "Longitud de la hoja determinada mediante una medición en línea recta desde el mune-machi hasta la punta del kissaki. Véase nagasa.",
+    "recognition": [
+      "Se mide en línea recta.",
+      "La medición comienza en el mune-machi.",
+      "Termina en la punta del kissaki."
+    ],
+    "tags": [
+      "ha-cho",
+      "刃長",
+      "nagasa",
+      "medidas"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "nagasa",
+      "mune-machi",
+      "kissaki"
+    ],
+    "deepening": [
+      "Comparar ha-chō con nagasa.",
+      "Estudiar los métodos tradicionales de medición de una hoja."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hada",
+    "term": "Hada",
+    "kanji": "肌",
+    "romaji": "Hada",
+    "english": "The pattern in the steel skin of the blade, also called jihada",
+    "spanish": "Patrón visible en la superficie del acero de la hoja, también denominado jihada.",
+    "category": "jihada",
+    "subcategory": "",
+    "definition": "Patrón o textura visible en la superficie del acero de la hoja, producido por la estructura del acero y el proceso de forja.",
+    "recognition": [
+      "Es visible en la superficie pulida de la hoja.",
+      "También recibe el nombre de jihada.",
+      "Puede presentar patrones como itame, mokume o masame."
+    ],
+    "tags": [
+      "hada",
+      "肌",
+      "jihada",
+      "itame",
+      "mokume"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "jihada",
+      "itame",
+      "mokume",
+      "masame"
+    ],
+    "deepening": [
+      "Aprender a distinguir los principales tipos de jihada.",
+      "Comparar itame, mokume y masame.",
+      "Observar fotografías de hojas con diferentes estructuras de hada."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hadori",
+    "term": "Hadori",
+    "kanji": "刃取り",
+    "romaji": "Hadori",
+    "english": "A polishing technique that highlights the hamon",
+    "spanish": "Técnica de pulido que resalta visualmente el hamon, también conocida como keshō.",
+    "category": "mantenimiento",
+    "subcategory": "",
+    "definition": "Técnica de pulido en la que el hamon se realza visualmente mediante el acabado de la hoja.",
+    "recognition": [
+      "Realza visualmente el hamon.",
+      "Forma parte de determinados estilos de pulido.",
+      "También se conoce como keshō."
+    ],
+    "tags": [
+      "hadori",
+      "刃取り",
+      "kesho",
+      "hamon",
+      "pulido"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "hamon",
+      "kesho",
+      "nugui"
+    ],
+    "deepening": [
+      "Comparar hadori con sashikomi.",
+      "Estudiar cómo diferentes técnicas de pulido afectan la apariencia del hamon.",
+      "Observar ejemplos de hojas terminadas mediante hadori."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hagire",
+    "term": "Hagire",
+    "kanji": "刃切れ",
+    "romaji": "Hagire",
+    "english": "A hairline crack in the blade rising from the cutting edge",
+    "spanish": "Grieta muy fina en la hoja que se extiende desde el filo hacia el interior.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "Grieta fina que se inicia en el filo de la hoja y se extiende hacia el interior del acero.",
+    "recognition": [
+      "Se origina en el filo.",
+      "Puede aparecer como una línea extremadamente fina.",
+      "Es un defecto grave en una hoja de nihontō."
+    ],
+    "tags": [
+      "hagire",
+      "刃切れ",
+      "defecto",
+      "grieta"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "ha",
+      "ha-saki"
+    ],
+    "deepening": [
+      "Estudiar los principales defectos de una hoja japonesa.",
+      "Aprender a diferenciar hagire de otras marcas superficiales.",
+      "Observar ejemplos documentados de hagire."
+    ],
+    "sources": []
+  },
+  {
+    "id": "haitorei",
+    "term": "Haitōrei",
+    "kanji": "廃刀令",
+    "romaji": "Haitōrei",
+    "english": "1876 law banning the wearing of swords in public",
+    "spanish": "Edicto de 1876 que prohibió llevar espadas en público.",
+    "category": "historia",
+    "subcategory": "",
+    "definition": "Edicto promulgado en Japón en 1876 que prohibió a la población llevar espadas en público, marcando un momento decisivo en la historia moderna del nihontō.",
+    "recognition": [
+      "Fue promulgado en 1876.",
+      "Restringió el porte público de espadas.",
+      "Tuvo una gran influencia en la producción y uso posterior de espadas japonesas."
+    ],
+    "tags": [
+      "haitorei",
+      "廃刀令",
+      "1876",
+      "historia"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "gendaito"
+    ],
+    "deepening": [
+      "Estudiar la relación entre Haitōrei y la producción de gendaitō.",
+      "Investigar los cambios sociales producidos durante la era Meiji.",
+      "Estudiar la situación de los herreros después de 1876."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hakikake",
+    "term": "Hakikake",
+    "kanji": "掃掛",
+    "romaji": "Hakikake",
+    "english": "Activity resembling brush strokes, similar to sunagashi",
+    "spanish": "Actividad del hamon semejante a pinceladas, similar al sunagashi.",
+    "category": "hamon",
+    "subcategory": "",
+    "definition": "Fenómeno del hamon que presenta líneas o estructuras semejantes a pinceladas y que recuerda al sunagashi.",
+    "recognition": [
+      "Presenta líneas finas semejantes a pinceladas.",
+      "Se observa dentro o alrededor del hamon.",
+      "Tiene una apariencia comparable al sunagashi."
+    ],
+    "tags": [
+      "hakikake",
+      "掃掛",
+      "hamon",
+      "sunagashi"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "sunagashi",
+      "hataraki"
+    ],
+    "deepening": [
+      "Comparar hakikake con sunagashi.",
+      "Estudiar las diferentes actividades visibles dentro del hamon."
+    ],
+    "sources": []
+  },
+  {
+    "id": "haki-omote",
+    "term": "Haki-omote",
+    "kanji": "佩表",
+    "romaji": "Haki-omote",
+    "english": "The outward-facing side of a sword when worn edge-down",
+    "spanish": "Cara de la espada que queda orientada hacia el exterior cuando se lleva con el filo hacia abajo, como en el tachi.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "Lado de la espada que queda hacia el exterior cuando se lleva montada con el filo orientado hacia abajo.",
+    "recognition": [
+      "Se relaciona principalmente con la forma de portar un tachi.",
+      "El filo queda orientado hacia abajo.",
+      "La cara exterior recibe la denominación haki-omote."
+    ],
+    "tags": [
+      "haki-omote",
+      "佩表",
+      "tachi",
+      "montaje"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "tachi"
+    ],
+    "deepening": [
+      "Estudiar la diferencia entre haki-omote y haki-ura.",
+      "Comparar la forma de portar tachi y katana."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha-machi",
+    "term": "Ha-machi",
+    "kanji": "刃区",
+    "romaji": "Ha-machi",
+    "english": "The notch where the cutting edge begins",
+    "spanish": "Muesca donde comienza el filo de corte de la hoja.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "Muesca situada en la base de la hoja que marca el punto donde comienza el filo de corte.",
+    "recognition": [
+      "Se encuentra en la base de la hoja.",
+      "Marca el inicio del filo.",
+      "Está situada junto al área del machi."
+    ],
+    "tags": [
+      "ha-machi",
+      "刃区",
+      "machi",
+      "ha"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "mune-machi",
+      "ha",
+      "ha-saki"
+    ],
+    "deepening": [
+      "Comparar ha-machi y mune-machi.",
+      "Estudiar las diferentes partes del machi."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha-mon",
+    "term": "Ha-mon",
+    "kanji": "刃紋",
+    "romaji": "Ha-mon",
+    "english": "The hardened crystalline structure along the cutting edge",
+    "spanish": "Estructura cristalina que se forma a lo largo del filo como resultado del proceso de endurecimiento.",
+    "category": "hamon",
+    "subcategory": "",
+    "definition": "Patrón visible en la zona templada de la hoja, producido por el proceso de endurecimiento y la transformación del acero.",
+    "recognition": [
+      "Se observa a lo largo del filo.",
+      "Es consecuencia del proceso de temple.",
+      "Puede adoptar numerosos patrones como suguha, gunome o chōji."
+    ],
+    "tags": [
+      "hamon",
+      "ha-mon",
+      "刃紋",
+      "temple"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "suguha",
+      "gunome",
+      "choji",
+      "nioi",
+      "nie"
+    ],
+    "deepening": [
+      "Estudiar los principales tipos de hamon.",
+      "Comparar nie y nioi.",
+      "Aprender a reconocer patrones de hamon en fotografías."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha-saki",
+    "term": "Ha-saki",
+    "kanji": "刃先",
+    "romaji": "Ha-saki",
+    "english": "The cutting edge from the ha-machi to the kissaki",
+    "spanish": "Filo de corte que se extiende desde el ha-machi hasta la punta del kissaki.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "Borde cortante de la hoja que se extiende desde el ha-machi hasta la punta del kissaki.",
+    "recognition": [
+      "Se extiende desde el ha-machi.",
+      "Termina en la punta del kissaki.",
+      "Constituye el borde efectivo de corte de la hoja."
+    ],
+    "tags": [
+      "ha-saki",
+      "刃先",
+      "filo",
+      "kissaki"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "ha",
+      "ha-machi",
+      "kissaki"
+    ],
+    "deepening": [
+      "Estudiar las diferentes partes del filo.",
+      "Comparar ha-saki con ha y ha-machi."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hataraki",
+    "term": "Hataraki",
+    "kanji": "働き",
+    "romaji": "Hataraki",
+    "english": "Various activities within the hamon created during hardening",
+    "spanish": "Diversas actividades o efectos visibles dentro del hamon creados durante el proceso de temple.",
+    "category": "hamon",
+    "subcategory": "",
+    "definition": "Conjunto de fenómenos y estructuras visibles que aparecen dentro del hamon como resultado del proceso de temple.",
+    "recognition": [
+      "Comprende diferentes fenómenos visibles dentro del hamon.",
+      "Se produce durante el proceso de endurecimiento.",
+      "Incluye elementos como ashi, yo, sunagashi y kinsuji."
+    ],
+    "tags": [
+      "hataraki",
+      "働き",
+      "hamon",
+      "ashi",
+      "yo",
+      "sunagashi"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "hamon",
+      "hakikake",
+      "sunagashi",
+      "ashi"
+    ],
+    "deepening": [
+      "Estudiar los diferentes hataraki del hamon.",
+      "Aprender a reconocer ashi, yo, sunagashi y kinsuji.",
+      "Comparar los hataraki presentes en diferentes escuelas."
+    ],
+    "sources": []
+  },
+  {
+    "id": "ha-watari",
+    "term": "Ha-watari",
+    "kanji": "刃渡り",
+    "romaji": "Ha-watari",
+    "english": "See Nagasa",
+    "spanish": "Véase Nagasa. Longitud de la hoja medida según el método tradicional.",
+    "category": "sugata",
+    "subcategory": "",
+    "definition": "Término utilizado para referirse a la longitud de la hoja; véase nagasa.",
+    "recognition": [
+      "Se utiliza como referencia para la longitud de la hoja.",
+      "Está relacionado con nagasa y ha-chō."
+    ],
+    "tags": [
+      "ha-watari",
+      "刃渡り",
+      "nagasa"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "nagasa",
+      "ha-cho"
+    ],
+    "deepening": [
+      "Estudiar las diferentes medidas utilizadas para describir una hoja japonesa."
+    ],
+    "sources": []
+  },
+  {
+    "id": "heian-period",
+    "term": "Heian Period",
+    "kanji": "平安時代",
+    "romaji": "Heian-jidai",
+    "english": "Heian Period, 794–1185",
+    "spanish": "Período Heian, comprendido aproximadamente entre 794 y 1185.",
+    "category": "historia",
+    "subcategory": "",
+    "definition": "Período de la historia japonesa comprendido aproximadamente entre 794 y 1185.",
+    "recognition": [
+      "Comienza tradicionalmente en 794.",
+      "Termina aproximadamente en 1185.",
+      "Es fundamental para comprender los primeros desarrollos de la espada japonesa."
+    ],
+    "tags": [
+      "heian",
+      "平安時代",
+      "historia",
+      "794",
+      "1185"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "goban-kaji"
+    ],
+    "deepening": [
+      "Estudiar el desarrollo del nihontō durante el período Heian.",
+      "Investigar la relación entre Heian y los primeros estilos de espada japonesa."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hi",
+    "term": "Hi",
+    "kanji": "樋",
+    "romaji": "Hi",
+    "english": "A groove carved into the blade",
+    "spanish": "Ranura tallada longitudinalmente en la hoja para reducir peso o con fines decorativos.",
+    "category": "horimono",
+    "subcategory": "",
+    "definition": "Ranura tallada longitudinalmente en la hoja, utilizada principalmente para reducir peso y también con fines decorativos.",
+    "recognition": [
+      "Es una ranura tallada en la superficie de la hoja.",
+      "Normalmente sigue longitudinalmente la hoja.",
+      "Puede tener una función estructural, de reducción de peso o decorativa."
+    ],
+    "tags": [
+      "hi",
+      "樋",
+      "horimono",
+      "ranura"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "bo-hi",
+      "soe-hi",
+      "futasuji-hi"
+    ],
+    "deepening": [
+      "Estudiar los diferentes tipos de hi.",
+      "Comparar bō-hi, soe-hi y futasuji-hi.",
+      "Observar cómo las ranuras modifican visualmente el sugata."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hikae-mekugi-ana",
+    "term": "Hikae-mekugi-ana",
+    "kanji": "控え目釘穴",
+    "romaji": "Hikae-mekugi-ana",
+    "english": "A second mekugi hole near the nakago-jiri",
+    "spanish": "Segundo agujero de mekugi situado cerca del nakago-jiri, utilizado ocasionalmente para un segundo pasador de retención.",
+    "category": "anatomia",
+    "subcategory": "Nakago",
+    "definition": "Segundo agujero de mekugi situado cerca del nakago-jiri que puede haber sido añadido para utilizar un segundo pasador de retención.",
+    "recognition": [
+      "Se encuentra en el nakago.",
+      "Está situado cerca del nakago-jiri.",
+      "Puede indicar la utilización histórica de un segundo mekugi."
+    ],
+    "tags": [
+      "hikae-mekugi-ana",
+      "控え目釘穴",
+      "mekugi-ana",
+      "nakago"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "nakago",
+      "mekugi"
+    ],
+    "deepening": [
+      "Estudiar los diferentes tipos de mekugi-ana.",
+      "Observar la distribución de agujeros en el nakago.",
+      "Investigar las modificaciones históricas de los nakago."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hira-ji",
+    "term": "Hira-ji",
+    "kanji": "平地",
+    "romaji": "Hira-ji",
+    "english": "The surface area between the shinogi and cutting edge",
+    "spanish": "Superficie de la hoja situada entre el shinogi y el filo de corte.",
+    "category": "anatomia",
+    "subcategory": "",
+    "definition": "Área de la superficie de la hoja comprendida entre el shinogi y el filo.",
+    "recognition": [
+      "Se encuentra entre el shinogi y el ha.",
+      "Es una de las superficies principales de la hoja.",
+      "Puede mostrar claramente la jihada."
+    ],
+    "tags": [
+      "hira-ji",
+      "平地",
+      "shinogi",
+      "ji"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "shinogi",
+      "jihada",
+      "ha"
+    ],
+    "deepening": [
+      "Estudiar las diferentes superficies de la hoja.",
+      "Observar la jihada en el hira-ji.",
+      "Comparar hira-ji y shinogi-ji."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hira-dukuri",
+    "term": "Hira-zukuri",
+    "kanji": "平造り",
+    "romaji": "Hira-zukuri",
+    "english": "A sword made without ridgelines, flat on both sides",
+    "spanish": "Forma de hoja sin líneas de shinogi, plana en ambos lados.",
+    "category": "sugata",
+    "subcategory": "",
+    "definition": "Tipo de construcción de hoja en la que no existe una línea de shinogi y las superficies son esencialmente planas.",
+    "recognition": [
+      "No presenta shinogi.",
+      "Las superficies de ambos lados son esencialmente planas.",
+      "Es una forma común en ciertos tantō y hojas cortas."
+    ],
+    "tags": [
+      "hira-zukuri",
+      "平造り",
+      "sugata",
+      "tanto"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "shinogi-zukuri",
+      "tanto"
+    ],
+    "deepening": [
+      "Comparar hira-zukuri con shinogi-zukuri.",
+      "Estudiar los tipos de sugata según su sección transversal."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hiro-suguha",
+    "term": "Hiro-suguha",
+    "kanji": "広直刃",
+    "romaji": "Hiro-suguha",
+    "english": "A wide suguha hamon",
+    "spanish": "Hamon suguha de anchura considerable.",
+    "category": "hamon",
+    "subcategory": "Suguha",
+    "definition": "Variante de suguha caracterizada por una zona templada relativamente ancha.",
+    "recognition": [
+      "Presenta un hamon predominantemente recto.",
+      "La banda de suguha es relativamente ancha.",
+      "La anchura del hamon es la característica distintiva."
+    ],
+    "tags": [
+      "hiro-suguha",
+      "広直刃",
+      "suguha",
+      "hamon"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "suguha",
+      "hamon"
+    ],
+    "deepening": [
+      "Comparar hiro-suguha con suguha estrecho.",
+      "Estudiar las variaciones de anchura del hamon."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hitatsura",
+    "term": "Hitatsura",
+    "kanji": "皆焼",
+    "romaji": "Hitatsura",
+    "english": "A hamon with tobiyaki spread broadly across the blade",
+    "spanish": "Tipo de hamon en el que el tobiyaki se encuentra ampliamente distribuido por la superficie de la hoja.",
+    "category": "hamon",
+    "subcategory": "",
+    "definition": "Tipo de configuración del hamon en la que áreas de tobiyaki se extienden ampliamente por la superficie de la hoja, llegando mucho más allá del patrón principal del filo.",
+    "recognition": [
+      "Presenta abundante tobiyaki fuera del hamon principal.",
+      "Las áreas endurecidas pueden extenderse ampliamente por la hoja.",
+      "Produce una apariencia de temple distribuido por gran parte de la superficie."
+    ],
+    "tags": [
+      "hitatsura",
+      "皆焼",
+      "tobiyaki",
+      "hamon"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "tobiyaki",
+      "hamon"
+    ],
+    "deepening": [
+      "Comparar hitatsura con tobiyaki convencional.",
+      "Estudiar ejemplos de hitatsura en espadas de diferentes escuelas.",
+      "Observar la relación entre hitatsura y las tradiciones Sōshū y Mino."
+    ],
+    "sources": []
+  },
+  {
+    "id": "horimono",
+    "term": "Horimono",
+    "kanji": "彫り物",
+    "romaji": "Horimono",
+    "english": "Decorative or religious blade carvings",
+    "spanish": "Grabados decorativos o religiosos realizados sobre la hoja.",
+    "category": "horimono",
+    "subcategory": "",
+    "definition": "Tallas, grabados y motivos decorativos o religiosos realizados sobre la superficie de una hoja japonesa.",
+    "recognition": [
+      "Está tallado directamente sobre la hoja.",
+      "Puede representar motivos religiosos, simbólicos o decorativos.",
+      "Puede incluir elementos como bonji, dragones, espadas rituales o ranuras."
+    ],
+    "tags": [
+      "horimono",
+      "彫り物",
+      "grabado",
+      "escultura",
+      "decoracion"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "bonji",
+      "gomabashi",
+      "fudo-myo-o",
+      "hi"
+    ],
+    "deepening": [
+      "Estudiar los principales tipos de horimono.",
+      "Investigar la iconografía budista y sintoísta.",
+      "Comparar horimono decorativo y religioso."
+    ],
+    "sources": []
+  },
+  {
+    "id": "hyogo-gusari-koshirae",
+    "term": "Hyōgo-gusari Koshirae",
+    "kanji": "兵庫鎖拵",
+    "romaji": "Hyōgo-gusari Koshirae",
+    "english": "A durable type of tachi koshirae using chain fittings",
+    "spanish": "Tipo resistente y práctico de koshirae para tachi, popular entre samuráis de alto rango a finales del siglo XII, cuyos ashi están construidos mediante cadenas.",
+    "category": "monturas",
+    "subcategory": "Koshirae",
+    "definition": "Tipo de tachi koshirae resistente y práctico que fue popular entre guerreros samurái de alto rango a finales del siglo XII. Sus ashi están construidos mediante cadenas.",
+    "recognition": [
+      "Es un tipo de tachi koshirae.",
+      "Utiliza elementos de cadena en los ashi.",
+      "Está asociado históricamente con guerreros de alto rango.",
+      "Se desarrolló y utilizó alrededor de finales del siglo XII."
+    ],
+    "tags": [
+      "hyogo-gusari-koshirae",
+      "兵庫鎖拵",
+      "koshirae",
+      "tachi",
+      "ashi"
+    ],
+    "image": "",
+    "images": [],
+    "related": [
+      "koshirae",
+      "tachi"
+    ],
+    "deepening": [
+      "Estudiar las diferentes formas históricas de tachi koshirae.",
+      "Investigar los ashi y sus sistemas de suspensión.",
+      "Comparar Hyōgo-gusari koshirae con otros montajes de tachi."
+    ],
+    "sources": []
+  }
+
   ]
   
 }
