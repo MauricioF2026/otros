@@ -143,7 +143,43 @@
       ]
     }
   ],
-
+{
+  "id": "historia",
+  "name": "Historia",
+  "name_en": "History",
+  "description": "Personajes, instituciones, conceptos y elementos históricos relacionados con el mundo del samurái y el nihontō.",
+  "terms": [
+    "daimyo",
+    "daisho"
+  ]
+},
+{
+  "id": "geografia",
+  "name": "Geografía",
+  "name_en": "Geography",
+  "description": "Provincias, regiones y denominaciones geográficas relacionadas con la tradición japonesa de la espada.",
+  "terms": [
+    "dewa"
+  ]
+},
+{
+  "id": "inscripciones",
+  "name": "Inscripciones",
+  "name_en": "Inscriptions",
+  "description": "Sistemas de datación, signos y referencias utilizados en inscripciones relacionadas con las espadas japonesas.",
+  "terms": [
+    "eto"
+  ]
+},
+{
+  "id": "iconografia",
+  "name": "Iconografía",
+  "name_en": "Iconography",
+  "description": "Deidades, símbolos y motivos religiosos o tradicionales representados en las espadas mediante horimono y otros elementos decorativos.",
+  "terms": [
+    "fudo-myo-o"
+  ]
+},
   "entries": [
 
     {
