@@ -1136,7 +1136,116 @@
         "Observar diferencias de suguha entre distintas escuelas."
       ],
       "sources": []
-    }
+    },
+    "daimyo": {
+  "japanese": "大名",
+  "romaji": "daimyo",
+  "name_es": "Daimyō",
+  "name_en": "Provincial samurai lords",
+  "description_es": "Señores feudales provinciales de la clase samurái.",
+  "description_en": "Provincial samurai lords.",
+  "category": "historia"
+},
+
+"daisho": {
+  "japanese": "大小",
+  "romaji": "daisho",
+  "name_es": "Daishō",
+  "name_en": "Pair of swords",
+  "description_es": "Par de espadas con monturas a juego que se llevaban juntas: la dai, la espada larga, y la shō, la espada corta compañera. Durante el período Edo, únicamente los samuráis tenían permitido llevar daishō.",
+  "description_en": "A pair of swords in matching fittings worn together: dai- being the long sword, and sho- being the shorter companion sword. Only the samurai were permitted to wear daisho during the Edo period.",
+  "category": "montajes"
+},
+
+"dewa": {
+  "japanese": "出羽",
+  "romaji": "Dewa",
+  "name_es": "Dewa",
+  "name_en": "Dewa Province",
+  "description_es": "Antiguo nombre de una región correspondiente a las actuales prefecturas de Akita y Yamagata.",
+  "description_en": "Archaic name for a region corresponding to present-day Akita and Yamagata Prefectures.",
+  "category": "geografia"
+},
+
+"dogane": {
+  "japanese": "胴金",
+  "romaji": "dogane",
+  "name_es": "Dogane",
+  "name_en": "Tubular fitting",
+  "description_es": "Herraje tubular utilizado en la tsuka o en la saya.",
+  "description_en": "Tubular fittings on the tsuka or saya.",
+  "category": "montajes"
+},
+
+"eto": {
+  "japanese": "干支",
+  "romaji": "eto",
+  "name_es": "Eto",
+  "name_en": "Chinese zodiac",
+  "description_es": "Ciclo zodiacal utilizado con frecuencia para indicar fechas en las inscripciones de las espadas japonesas, originado en China.",
+  "description_en": "Zodiacal calendar often used for date inscriptions on swords, originally from China.",
+  "category": "inscripciones"
+},
+
+"fuchi": {
+  "japanese": "縁",
+  "romaji": "fuchi",
+  "name_es": "Fuchi",
+  "name_en": "Collar",
+  "description_es": "Collar decorativo de refuerzo colocado en la base de la tsuka.",
+  "description_en": "A decorative reinforcing collar attached to the base of the tsuka.",
+  "category": "montajes"
+},
+
+"fudo-myo-o": {
+  "japanese": "不動明王",
+  "romaji": "Fudō Myō-ō",
+  "name_es": "Fudō Myō-ō",
+  "name_en": "Fudō Myō-ō",
+  "description_es": "Deidad budista conocida como el Rey Inamovible de la Luz. Deidad protectora tradicionalmente asociada con los espadachines y motivo frecuente de horimono.",
+  "description_en": "Buddhist deity, the immovable King of Light. Patron deity of swordsmen. Commonly used as a subject for horimono.",
+  "category": "iconografia"
+},
+
+"fukusa": {
+  "japanese": "袱紗",
+  "romaji": "fukusa",
+  "name_es": "Fukusa",
+  "name_en": "Fukusa",
+  "description_es": "La fuente proporcionada lo define como la curvatura del filo del kissaki.",
+  "description_en": "The supplied source defines this as the curve of the cutting edge of the kissaki.",
+  "category": "sugata"
+},
+
+"fukurin": {
+  "japanese": "覆輪",
+  "romaji": "fukurin",
+  "name_es": "Fukurin",
+  "name_en": "Fukurin",
+  "description_es": "Banda de oro, plata o bronce fijada a la tsuka y a la saya, tanto en el lado del mune como en el del ha, para asegurar el ji-ita.",
+  "description_en": "A gold, silver, or bronze band attached to the tsuka and saya on both the mune side and the ha side to secure the ji-ita.",
+  "category": "montajes"
+},
+
+"funbari": {
+  "japanese": "踏ん張り",
+  "romaji": "funbari",
+  "name_es": "Funbari",
+  "name_en": "Taper",
+  "description_es": "Término utilizado para describir una hoja que presenta un estrechamiento apreciable desde la base del filo hacia la punta, o un estrechamiento notable en la parte próxima al habaki.",
+  "description_en": "Used to describe a blade when it noticeably tapers between the base of the cutting edge and the tip, or tapers noticeably in the base of the blade.",
+  "category": "sugata"
+},
+
+"futasuji-hi": {
+  "japanese": "二筋樋",
+  "romaji": "futasuji-hi",
+  "name_es": "Futasuji-hi",
+  "name_en": "Double groove",
+  "description_es": "Dos ranuras paralelas talladas longitudinalmente en la hoja.",
+  "description_en": "Two parallel grooves carved into the blade.",
+  "category": "horimono"
+}
 
   ]
 }
