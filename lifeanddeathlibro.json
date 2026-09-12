@@ -5113,6 +5113,506 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][fo][cp][cq][eq][ar][er]AW[bp][bq][cr][dr][bs][ds])"
+  },
+    {
+    "id": 512,
+    "tema": "Where to Make a Tigers Mouth",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][bq][cr][dr]AW[bo][co][do][fo][cq][dq][eq][er])"
+  },
+  {
+    "id": 513,
+    "tema": "Where to Make a Tigers Mouth",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][bq][cr][dr][bs]AW[bo][co][do][fo][cq][dq][eq][ar][er])"
+  },
+  {
+    "id": 514,
+    "tema": "Monkey Jump",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][bm][cm][dn][ao][do][cp][dp][fp][eq][er]AW[an][bn][cn][co][bp][bq][cq][dq])"
+  },
+  {
+    "id": 515,
+    "tema": "Monkey Jump",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][bm][cm][dn][ao][do][cp][dp][fp][eq][er][bs]AW[an][bn][cn][co][bp][bq][cq][dq][cs])"
+  },
+  {
+    "id": 516,
+    "tema": "Monkey Jump",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][bm][cm][dn][ao][do][cp][dp][fp][eq][er][bs]AW[an][bn][cn][co][bp][bq][cq][dq][dr])"
+  },
+  {
+    "id": 517,
+    "tema": "Monkey Jump",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][bm][cm][dn][ao][do][cp][dp][fp][eq][er][bs]AW[an][bn][cn][co][bp][bq][cq][dq][cr])"
+  },
+  {
+    "id": 518,
+    "tema": "Monkey Jump",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][bm][cm][dn][ao][do][cp][dp][fp][eq][er][bs]AW[an][bn][cn][co][bp][bq][cq][dq][ds])"
+  },
+  {
+    "id": 519,
+    "tema": "Monkey Jump",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][bm][cm][dn][ao][do][cp][dp][fp][eq][er][bs]AW[an][bn][cn][co][bp][bq][cq][dq][br])"
+  },
+  {
+    "id": 520,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dl][bn][dn][dp][dq][fq][er][ds]AW[bp][cq][br][cr][dr])"
+  },
+  {
+    "id": 521,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fm][bn][cn][dn][eo][ep][dq][eq][er][ds]AW[bo][co][do][dp][cq][cr][dr])"
+  },
+  {
+    "id": 522,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[jo][fp][gp][hp][bq][cq][dq][eq][iq][br][ir][bs]AW[fq][gq][hq][cr][dr][er][cs][gs])"
+  },
+  {
+    "id": 523,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][cp][fp][gp][bq][gq][br][gr][bs][gs]AW[dp][ep][fq][cr][dr][fr][cs][fs])"
+  },
+  {
+    "id": 524,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][fo][bp][dp][eq][fq][fr][fs]AW[cp][aq][bq][cq][dq][er][ds])"
+  },
+  {
+    "id": 525,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][bq][cq][gq][hq][jq][br][dr]AW[dq][eq][fq][cr][gr][cs][ds][es])"
+  },
+  {
+    "id": 526,
+    "tema": "Review (white 3 moves)",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][dq][cr][dr]AW[cn][fo][cp][dp][cq][eq][er])"
+  },
+  {
+    "id": 527,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white (1 moves)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][en][ao][co][dp][ep][fq][fr][bs]AW[bo][bp][cp][aq][cq][dq][eq][ar][br])"
+  },
+  {
+    "id": 528,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][go][cp][dp][ep][aq][bq][fq][fr]AW[cq][dq][eq][ar][br][ds])"
+  },
+  {
+    "id": 529,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][dp][ep][bq][cq][fq][fr][fs]AW[dq][ar][br][cr][er][es])"
+  },
+  {
+    "id": 530,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][gp][bq][cq][hq][iq][br][ir][kr]AW[dq][eq][fq][gq][cr][dr][hr][cs][gs])"
+  },
+  {
+    "id": 531,
+    "tema": "Review (white 3 moves)",
+    "accion": "Capture white (1 move)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][fn][co][ap][cp][ep][eq][er]AW[ao][bo][bp][bq][cq][dq][ar])"
+  },
+  {
+    "id": 532,
+    "tema": "Life and Death with no Outside Liberties",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][gr]AW[co][fo][go][dp][ep][hp][bq][cq][hq][br][hr])"
+  },
+  {
+    "id": 533,
+    "tema": "Life and Death with no Outside Liberties",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][er][gr]AW[co][fo][go][dp][ep][hp][bq][cq][hq][br][hr][ds])"
+  },
+  {
+    "id": 534,
+    "tema": "Life and Death with no Outside Liberties",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][er][gr]AW[co][fo][go][dp][ep][hp][bq][cq][hq][br][hr][cs])"
+  },
+  {
+    "id": 535,
+    "tema": "Life and Death with no Outside Liberties",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][fo][go][dp][ep][hp][bq][cq][hq][br][hr]AW[fp][gp][dq][eq][gq][cr][gr][ds])"
+  },
+  {
+    "id": 536,
+    "tema": "Life and Death with no Outside Liberties",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][fo][go][dp][ep][hp][bq][cq][hq][br][fr][hr]AW[fp][gp][dq][eq][gq][cr][gr][ds][fs])"
+  },
+  {
+    "id": 537,
+    "tema": "Life and Death with no Outside Liberties",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][fo][go][dp][ep][hp][bq][cq][hq][br][fr][hr]AW[fp][gp][dq][eq][gq][cr][er][gr][ds])"
+  },
+  {
+    "id": 538,
+    "tema": "Life and Death with an Outside Liberty",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][gr]AW[en][co][go][dp][ep][hp][bq][cq][hq][br][hr])"
+  },
+  {
+    "id": 539,
+    "tema": "Life and Death with an Outside Liberty",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][gr][ds]AW[en][co][go][ho][dp][ep][hp][bq][cq][hq][br][fr][hr])"
+  },
+  {
+    "id": 540,
+    "tema": "Life and Death with an Outside Liberty",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][er][gr][ds]AW[en][co][go][ho][dp][ep][hp][bq][cq][hq][br][fr][hr][gs])"
+  },
+  {
+    "id": 541,
+    "tema": "Life and Death with an Outside Liberty",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][er][gr][ds]AW[en][co][go][ho][dp][ep][hp][bq][cq][hq][br][fr][hr][es])"
+  },
+  {
+    "id": 542,
+    "tema": "Life and Death with an Outside Liberty",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][gr][ds]AW[en][co][go][ho][dp][ep][hp][bq][cq][hq][br][er][hr])"
+  },
+  {
+    "id": 543,
+    "tema": "Life and Death with an Outside Liberty",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][gr][ds]AW[en][co][go][ho][dp][ep][hp][bq][cq][hq][br][hr][bs])"
+  },
+  {
+    "id": 544,
+    "tema": "According to the Throw-in 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][cq][dq][dr][er][fs]AW[cn][bo][ap][cp][dp][fp][eq][fr][gr][es])"
+  },
+  {
+    "id": 545,
+    "tema": "According to the Throw-in 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][bq][cq][dq][br][dr][er][fs]AW[cn][bo][ap][cp][dp][fp][eq][fr][gr][cs][es])"
+  },
+  {
+    "id": 546,
+    "tema": "According to the Throw-in 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][fp][eq][fr][gr][es]AW[bp][bq][cq][dq][dr][er][bs][fs])"
+  },
+  {
+    "id": 547,
+    "tema": "According to the Throw-in 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][fp][eq][ar][fr][gr][es]AW[bp][aq][bq][cq][dq][dr][er][bs][fs])"
+  },
+  {
+    "id": 548,
+    "tema": "According to the Throw-in 1",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ap][cp][dp][fp][eq][ar][br][fr][gr]AW[bp][aq][bq][cq][dq][dr][er][bs][ds][fs])"
+  },
+  {
+    "id": 549,
+    "tema": "According to the Throw-in 1",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][aq][bq][cq][dq][dr][er][bs][fs]AW[cn][bo][ap][cp][dp][fp][eq][ar][fr][gr][ds][es])"
+  },
+    {
+    "id": 550,
+    "tema": "According to the Throw-in 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bp][bq][cq][dq][dr][er]AW[bn][dn][bo][ap][cp][dp][ep][eq][gq][fr][es])"
+  },
+  {
+    "id": 551,
+    "tema": "According to the Throw-in 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bp][bq][cq][dq][dr][er][bs]AW[bn][dn][bo][ap][cp][dp][ep][eq][gq][ar][fr][es])"
+  },
+  {
+    "id": 552,
+    "tema": "According to the Throw-in 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][bo][ap][cp][dp][ep][eq][gq][fr][es]AW[ao][bp][bq][cq][dq][br][dr][er])"
+  },
+  {
+    "id": 553,
+    "tema": "According to the Throw-in 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][bo][ap][cp][dp][ep][eq][gq][fr][cs][es]AW[ao][bp][bq][cq][dq][br][dr][er][ds])"
+  },
+  {
+    "id": 554,
+    "tema": "According to the Throw-in 2",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][bo][cp][dp][ep][eq][gq][fr][bs][cs][es]AW[ao][bp][aq][bq][cq][dq][br][dr][er][ds])"
+  },
+  {
+    "id": 555,
+    "tema": "According to the Throw-in 2",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bp][bq][cq][dq][br][dr][er][ds]AW[bn][dn][bo][ap][cp][dp][ep][aq][eq][gq][fr][cs][es])"
+  },
+  {
+    "id": 556,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][br][cr][dr][ds]AW[co][ap][bp][cq][dq][eq][er][es])"
+  },
+  {
+    "id": 557,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][br][cr][dr][bs][ds]AW[co][ap][bp][aq][cq][dq][eq][er][es])"
+  },
+  {
+    "id": 558,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][ap][bp][cq][dq][eq][er][es]AW[aq][bq][br][cr][dr][ds])"
+  },
+  {
+    "id": 559,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Capture black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][cr][dr][ds]AW[co][ap][bp][cq][dq][eq][er][bs][es])"
+  },
+  {
+    "id": 560,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][cr][dr]AW[co][ap][bp][cq][dq][eq][er][es])"
+  },
+  {
+    "id": 561,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][dq][br][dr][ds]AW[fo][ap][bp][cp][dp][eq][er][es])"
   }
   ]
 }
