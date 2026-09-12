@@ -3122,7 +3122,1539 @@
         "Observar ejemplos de hamon complejos de tradición Bizen."
       ],
       "sources": []
-    }
+    },
+    
+{
+  "id": "kabuto-gane",
+  "term": "Kabuto-gane",
+  "kanji": "兜金",
+  "romaji": "Kabuto-gane",
+  "english": "A pommel cap for the tsuka",
+  "spanish": "Casquete o remate metálico que cubre el extremo de la tsuka.",
+  "category": "monturas",
+  "subcategory": "Tsuka",
+  "definition": "Pieza que forma el remate del extremo de la tsuka.",
+  "recognition": [
+    "Se encuentra en el extremo de la tsuka.",
+    "Funciona como remate o protección.",
+    "Forma parte de los elementos metálicos de la empuñadura."
+  ],
+  "tags": ["kabuto-gane", "兜金", "tsuka", "monturas"],
+  "image": "",
+  "images": [],
+  "related": ["kashira", "tsuka"],
+  "deepening": [
+    "Comparar kabuto-gane con kashira.",
+    "Estudiar los diferentes remates utilizados en las tsuka."
+  ],
+  "sources": []
+},
+{
+  "id": "kaen",
+  "term": "Kaen",
+  "kanji": "火焔",
+  "romaji": "Kaen",
+  "english": "A type of boshi resembling burning flames",
+  "spanish": "Tipo de boshi que recuerda a llamas ardientes.",
+  "category": "boshi",
+  "subcategory": "",
+  "definition": "Configuración del boshi cuyo patrón recuerda a las llamas de un fuego.",
+  "recognition": [
+    "Se encuentra dentro del kissaki.",
+    "Presenta formas semejantes a llamas.",
+    "Es una configuración característica del boshi."
+  ],
+  "tags": ["kaen", "火焔", "boshi", "kissaki"],
+  "image": "",
+  "images": [],
+  "related": ["boshi", "kaeri", "fudo-myo-o"],
+  "deepening": [
+    "Comparar kaen con otros tipos de boshi.",
+    "Estudiar la relación entre el hamon y el boshi."
+  ],
+  "sources": []
+},
+{
+  "id": "kaeri",
+  "term": "Kaeri",
+  "kanji": "返り",
+  "romaji": "Kaeri",
+  "english": "The part of the boshi that turns back towards the tang along the mune",
+  "spanish": "Parte del boshi que retorna hacia el nakago a lo largo del mune.",
+  "category": "boshi",
+  "subcategory": "",
+  "definition": "Continuación del boshi que gira o retorna hacia el nakago siguiendo el mune.",
+  "recognition": [
+    "Se encuentra en la transición entre el kissaki y el mune.",
+    "El boshi retorna hacia el nakago.",
+    "Su longitud y forma varían según el tipo de boshi."
+  ],
+  "tags": ["kaeri", "返り", "boshi", "mune"],
+  "image": "",
+  "images": [],
+  "related": ["boshi", "kaen", "ko-maru"],
+  "deepening": [
+    "Estudiar las diferentes formas de kaeri.",
+    "Comparar kaeri en distintos tipos de boshi."
+  ],
+  "sources": []
+},
+{
+  "id": "kaeri-duno",
+  "term": "Kaeri-duno",
+  "kanji": "返り角",
+  "romaji": "Kaeri-duno",
+  "english": "A small hook on the saya to stop the saya coming out of the belt",
+  "spanish": "Pequeño gancho situado en la saya que evita que la vaina se salga del cinturón.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Pequeño gancho de la saya utilizado para impedir que la vaina se desprenda accidentalmente del cinturón.",
+  "recognition": [
+    "Está unido a la saya.",
+    "Tiene forma de pequeño gancho.",
+    "Ayuda a mantener la saya asegurada durante su porte."
+  ],
+  "tags": ["kaeri-duno", "返り角", "saya", "monturas"],
+  "image": "",
+  "images": [],
+  "related": ["saya", "sageo", "koshirae"],
+  "deepening": [
+    "Estudiar los elementos utilizados para asegurar la saya.",
+    "Comparar kaeri-duno con otros accesorios de la koshirae."
+  ],
+  "sources": []
+},
+{
+  "id": "kaiken",
+  "term": "Kaiken",
+  "kanji": "懐剣",
+  "romaji": "Kaiken",
+  "english": "A small concealable dagger",
+  "spanish": "Daga pequeña concebida para poder llevarse oculta.",
+  "category": "anatomia",
+  "subcategory": "",
+  "definition": "Pequeña daga japonesa diseñada para poder llevarse de manera discreta u oculta.",
+  "recognition": [
+    "Es de dimensiones reducidas.",
+    "Está diseñada para poder llevarse oculta.",
+    "Es un tipo de arma corta japonesa."
+  ],
+  "tags": ["kaiken", "懐剣", "daga", "tanto"],
+  "image": "",
+  "images": [],
+  "related": ["tanto", "kogatana"],
+  "deepening": [
+    "Estudiar la función histórica del kaiken.",
+    "Comparar kaiken con tantō y otras hojas cortas."
+  ],
+  "sources": []
+},
+{
+  "id": "kaki-toshi",
+  "term": "Kaki-toshi",
+  "kanji": "掻通し",
+  "romaji": "Kaki-toshi",
+  "english": "A groove that ends by tapering within the tang",
+  "spanish": "Ranura que continúa hasta el nakago y termina estrechándose dentro de él.",
+  "category": "horimono",
+  "subcategory": "Hi",
+  "definition": "Tipo de ranura que se prolonga desde la hoja hasta el nakago y termina de forma estrechada dentro de este.",
+  "recognition": [
+    "La ranura continúa hacia el nakago.",
+    "Su extremo se estrecha progresivamente.",
+    "Forma parte de las diferentes terminaciones de los hi."
+  ],
+  "tags": ["kaki-toshi", "掻通し", "hi", "horimono"],
+  "image": "",
+  "images": [],
+  "related": ["hi", "kaki-nagashi", "kaku-tome"],
+  "deepening": [
+    "Comparar kaki-toshi y kaki-nagashi.",
+    "Estudiar las terminaciones de las ranuras de una hoja."
+  ],
+  "sources": []
+},
+{
+  "id": "kaki-nagashi",
+  "term": "Kaki-nagashi",
+  "kanji": "掻流し",
+  "romaji": "Kaki-nagashi",
+  "english": "A type of groove that continues through to the end of the tang",
+  "spanish": "Tipo de ranura que continúa hasta el extremo del nakago.",
+  "category": "horimono",
+  "subcategory": "Hi",
+  "definition": "Tipo de ranura que se prolonga desde la hoja y continúa hasta el extremo del nakago.",
+  "recognition": [
+    "La ranura continúa hasta el nakago.",
+    "Se prolonga hacia la parte final de la espiga.",
+    "Se diferencia de otras terminaciones de hi."
+  ],
+  "tags": ["kaki-nagashi", "掻流し", "hi", "nakago"],
+  "image": "",
+  "images": [],
+  "related": ["hi", "kaki-toshi", "kaku-tome"],
+  "deepening": [
+    "Comparar kaki-nagashi con kaki-toshi.",
+    "Observar cómo terminan las ranuras en el nakago."
+  ],
+  "sources": []
+},
+{
+  "id": "kaku-tome",
+  "term": "Kaku-tome",
+  "kanji": "角止め",
+  "romaji": "Kaku-tome",
+  "english": "A square-ended groove that usually stops just before the habaki",
+  "spanish": "Terminación cuadrada de una ranura que normalmente se detiene justo antes del habaki.",
+  "category": "horimono",
+  "subcategory": "Hi",
+  "definition": "Terminación de una ranura con extremo cuadrado, generalmente situada poco antes del habaki.",
+  "recognition": [
+    "El extremo de la ranura es cuadrado.",
+    "Normalmente se detiene antes del habaki.",
+    "Es una forma de terminación de los hi."
+  ],
+  "tags": ["kaku-tome", "角止め", "hi", "habaki"],
+  "image": "",
+  "images": [],
+  "related": ["hi", "kaki-toshi", "kaki-nagashi"],
+  "deepening": [
+    "Comparar las diferentes terminaciones de los hi.",
+    "Estudiar la relación entre hi y habaki."
+  ],
+  "sources": []
+},
+{
+  "id": "kamakura-period",
+  "term": "Kamakura Period",
+  "kanji": "鎌倉時代",
+  "romaji": "Kamakura-jidai",
+  "english": "Kamakura Period, 1185–1333",
+  "spanish": "Período Kamakura, aproximadamente 1185–1333.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Período de la historia japonesa asociado al gobierno militar de Kamakura, aproximadamente entre 1185 y 1333.",
+  "recognition": [
+    "Se extiende aproximadamente entre 1185 y 1333.",
+    "Es uno de los períodos fundamentales en la historia del nihontō.",
+    "Durante este período se desarrollaron importantes escuelas y tradiciones de espada."
+  ],
+  "tags": ["kamakura", "鎌倉時代", "historia", "1185", "1333"],
+  "image": "",
+  "images": [],
+  "related": ["goban-kaji", "goka-den"],
+  "deepening": [
+    "Estudiar el desarrollo del nihontō durante Kamakura.",
+    "Investigar las escuelas Bizen, Yamashiro, Yamato y Sōshū del período."
+  ],
+  "sources": []
+},
+{
+  "id": "kanbun-shinto",
+  "term": "Kanbun Shintō",
+  "kanji": "寛文新刀",
+  "romaji": "Kanbun Shintō",
+  "english": "Blades made around the Kanbun era, 1661–1673",
+  "spanish": "Espadas fabricadas aproximadamente durante la era Kanbun, 1661–1673.",
+  "category": "historia",
+  "subcategory": "Shintō",
+  "definition": "Nombre utilizado para las hojas fabricadas aproximadamente durante la era Kanbun, entre 1661 y 1673.",
+  "recognition": [
+    "Está relacionado con la era Kanbun.",
+    "Corresponde al período Shintō.",
+    "Las hojas de este período presentan características propias de la evolución del sugata y hamon."
+  ],
+  "tags": ["kanbun-shinto", "寛文新刀", "shinto", "kanbun"],
+  "image": "",
+  "images": [],
+  "related": ["shinto", "keicho-shinto"],
+  "deepening": [
+    "Estudiar las características del Kanbun Shintō.",
+    "Comparar Kanbun Shintō con Keichō Shintō."
+  ],
+  "sources": []
+},
+{
+  "id": "kanitsume",
+  "term": "Kanitsume",
+  "kanji": "蟹爪",
+  "romaji": "Kanitsume",
+  "english": "A type of gunome resembling crab claws",
+  "spanish": "Tipo de gunome que recuerda a las pinzas de un cangrejo.",
+  "category": "hamon",
+  "subcategory": "Gunome",
+  "definition": "Variante de gunome cuyas formas recuerdan a las pinzas de un cangrejo.",
+  "recognition": [
+    "Se basa en un patrón gunome.",
+    "Las formas recuerdan a pinzas de cangrejo.",
+    "Es una variante característica de hamon."
+  ],
+  "tags": ["kanitsume", "蟹爪", "gunome", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["gunome", "hamon"],
+  "deepening": [
+    "Comparar kanitsume con otros tipos de gunome.",
+    "Estudiar variantes de hamon basadas en formas naturales."
+  ],
+  "sources": []
+},
+{
+  "id": "kanmuri-otoshi-dukuri",
+  "term": "Kanmuri-otoshi-zukuri",
+  "kanji": "冠落とし造り",
+  "romaji": "Kanmuri-otoshi-zukuri",
+  "english": "A blade whose back ridge is beveled like a naginata",
+  "spanish": "Forma de hoja cuyo dorso está biselado de manera semejante al de una naginata.",
+  "category": "sugata",
+  "subcategory": "",
+  "definition": "Tipo de construcción de hoja en la que la parte posterior se encuentra biselada de forma característica, semejante a una naginata.",
+  "recognition": [
+    "Presenta un biselado característico en la parte posterior.",
+    "Recuerda estructuralmente a una naginata.",
+    "Es una forma particular de construcción de la hoja."
+  ],
+  "tags": ["kanmuri-otoshi-dukuri", "冠落とし造り", "sugata", "naginata"],
+  "image": "",
+  "images": [],
+  "related": ["naginata", "sugata"],
+  "deepening": [
+    "Comparar kanmuri-otoshi-zukuri con otras formas de construcción.",
+    "Estudiar su relación con las hojas de naginata."
+  ],
+  "sources": []
+},
+{
+  "id": "kara-tsuba",
+  "term": "Kara-tsuba",
+  "kanji": "唐鐔",
+  "romaji": "Kara-tsuba",
+  "english": "Chinese-style formal tsuba originally used for kara-tachi",
+  "spanish": "Tsuba de estilo chino utilizadas originalmente en los kara-tachi.",
+  "category": "monturas",
+  "subcategory": "Tsuba",
+  "definition": "Tipo de tsuba de estilo chino asociada originalmente a los kara-tachi.",
+  "recognition": [
+    "Presenta características de estilo chino.",
+    "Está relacionada históricamente con los kara-tachi.",
+    "Forma parte de los elementos de la montura."
+  ],
+  "tags": ["kara-tsuba", "唐鐔", "tsuba", "kara-tachi"],
+  "image": "",
+  "images": [],
+  "related": ["tsuba", "tachi"],
+  "deepening": [
+    "Estudiar los diferentes estilos históricos de tsuba.",
+    "Investigar la influencia china en las primeras monturas japonesas."
+  ],
+  "sources": []
+},
+{
+  "id": "kasane",
+  "term": "Kasane",
+  "kanji": "重ね",
+  "romaji": "Kasane",
+  "english": "The thickness of the blade",
+  "spanish": "Espesor de la hoja.",
+  "category": "sugata",
+  "subcategory": "",
+  "definition": "Medida que expresa el grosor o espesor de la hoja.",
+  "recognition": [
+    "Describe el grosor de la hoja.",
+    "Es una de las medidas utilizadas para describir el sugata.",
+    "Puede medirse en diferentes puntos de la hoja."
+  ],
+  "tags": ["kasane", "重ね", "medidas", "sugata"],
+  "image": "",
+  "images": [],
+  "related": ["motokasane", "sakikasane", "mihaba"],
+  "deepening": [
+    "Estudiar las diferentes medidas del sugata.",
+    "Comparar kasane con mihaba."
+  ],
+  "sources": []
+},
+{
+  "id": "kashira",
+  "term": "Kashira",
+  "kanji": "頭",
+  "romaji": "Kashira",
+  "english": "A decorative pommel reinforcing the end of the tsuka",
+  "spanish": "Remate decorativo de la empuñadura que refuerza el extremo de la tsuka.",
+  "category": "monturas",
+  "subcategory": "Tsuka",
+  "definition": "Pieza decorativa y funcional colocada en el extremo de la tsuka para reforzarla.",
+  "recognition": [
+    "Se encuentra en el extremo de la tsuka.",
+    "Actúa como remate de la empuñadura.",
+    "Puede presentar una decoración elaborada."
+  ],
+  "tags": ["kashira", "頭", "tsuka", "monturas"],
+  "image": "",
+  "images": [],
+  "related": ["fuchi", "tsuka", "kabuto-gane"],
+  "deepening": [
+    "Estudiar los diferentes estilos de kashira.",
+    "Comparar kashira con kabuto-gane."
+  ],
+  "sources": []
+},
+{
+  "id": "kata-ochi-gunome",
+  "term": "Kata-ochi gunome",
+  "kanji": "片落互の目",
+  "romaji": "Kata-ochi gunome",
+  "english": "Flat-topped gunome slanting in the same direction like saw teeth",
+  "spanish": "Gunome de parte superior plana que se inclina en una misma dirección, semejante a los dientes de una sierra.",
+  "category": "hamon",
+  "subcategory": "Gunome",
+  "definition": "Tipo de gunome cuyos elementos presentan una parte superior plana y se inclinan en una misma dirección, creando un aspecto semejante a dientes de sierra.",
+  "recognition": [
+    "Los elementos presentan una parte superior relativamente plana.",
+    "Se inclinan en la misma dirección.",
+    "El conjunto puede recordar a los dientes de una sierra."
+  ],
+  "tags": ["kata-ochi-gunome", "片落互の目", "gunome", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["gunome", "hamon"],
+  "deepening": [
+    "Comparar kata-ochi gunome con gunome ordinario.",
+    "Estudiar las variantes geométricas del hamon."
+  ],
+  "sources": []
+},
+{
+  "id": "katana",
+  "term": "Katana",
+  "kanji": "刀",
+  "romaji": "Katana",
+  "english": "Curved blades worn edge-up through the sash",
+  "spanish": "Espada japonesa curvada que se lleva con el filo hacia arriba, introducida en el obi.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Tipo de espada japonesa curvada que se lleva con el filo orientado hacia arriba, introducida a través del cinturón.",
+  "recognition": [
+    "Presenta una curvatura característica.",
+    "Se lleva con el filo hacia arriba.",
+    "Se introduce a través del obi."
+  ],
+  "tags": ["katana", "刀", "sword", "samurai"],
+  "image": "",
+  "images": [],
+  "related": ["tachi", "wakizashi", "koto"],
+  "deepening": [
+    "Comparar katana y tachi.",
+    "Estudiar la evolución histórica de la forma de portar la espada."
+  ],
+  "sources": []
+},
+{
+  "id": "katte-agari-yasuri",
+  "term": "Katte-agari yasuri",
+  "kanji": "勝手上り鑢",
+  "romaji": "Katte-agari yasuri",
+  "english": "File marks on the tang slanting downward to the left",
+  "spanish": "Marcas de lima del nakago que se inclinan hacia abajo a la izquierda.",
+  "category": "anatomia",
+  "subcategory": "Nakago",
+  "definition": "Patrón de yasurime en el nakago cuyas líneas se inclinan hacia abajo en dirección a la izquierda.",
+  "recognition": [
+    "Se observa en la superficie del nakago.",
+    "Las marcas de lima presentan una inclinación característica.",
+    "La dirección de las líneas permite distinguir este tipo de yasuri."
+  ],
+  "tags": ["katte-agari-yasuri", "勝手上り鑢", "yasurime", "nakago"],
+  "image": "",
+  "images": [],
+  "related": ["yasurime", "nakago"],
+  "deepening": [
+    "Comparar katte-agari yasuri con katte-sagari yasuri.",
+    "Estudiar los diferentes tipos de yasurime."
+  ],
+  "sources": []
+},
+{
+  "id": "katte-sagari-yasuri",
+  "term": "Katte-sagari yasuri",
+  "kanji": "勝手下り鑢",
+  "romaji": "Katte-sagari yasuri",
+  "english": "File marks on the tang slanting downward to the right",
+  "spanish": "Marcas de lima del nakago que se inclinan hacia abajo a la derecha.",
+  "category": "anatomia",
+  "subcategory": "Nakago",
+  "definition": "Patrón de yasurime en el nakago cuyas líneas se inclinan hacia abajo en dirección a la derecha.",
+  "recognition": [
+    "Se observa en la superficie del nakago.",
+    "Las marcas presentan una inclinación diagonal.",
+    "La dirección de las líneas permite distinguir este tipo de yasuri."
+  ],
+  "tags": ["katte-sagari-yasuri", "勝手下り鑢", "yasurime", "nakago"],
+  "image": "",
+  "images": [],
+  "related": ["yasurime", "katte-agari-yasuri"],
+  "deepening": [
+    "Comparar katte-sagari yasuri con katte-agari yasuri.",
+    "Estudiar los diferentes tipos de yasurime."
+  ],
+  "sources": []
+},
+{
+  "id": "kawara-gane",
+  "term": "Kawara-gane",
+  "kanji": "瓦金",
+  "romaji": "Kawara-gane",
+  "english": "A small strip of metal or horn reinforcing the kogai-hitsu mouth",
+  "spanish": "Pequeña tira de metal o cuerno utilizada para reforzar la boca del kogai-hitsu.",
+  "category": "monturas",
+  "subcategory": "",
+  "definition": "Pequeña pieza de metal o cuerno colocada para reforzar el borde del kogai-hitsu.",
+  "recognition": [
+    "Se encuentra alrededor de la abertura del kogai-hitsu.",
+    "Puede estar fabricada en metal o cuerno.",
+    "Tiene una función de refuerzo y protección."
+  ],
+  "tags": ["kawara-gane", "瓦金", "kogai-hitsu", "monturas"],
+  "image": "",
+  "images": [],
+  "related": ["kogai-hitsu", "kogai"],
+  "deepening": [
+    "Estudiar los elementos que refuerzan los huecos de la saya.",
+    "Observar ejemplos de kawara-gane."
+  ],
+  "sources": []
+},
+{
+  "id": "kawazu-ko-choji",
+  "term": "Kawazu-ko chōji",
+  "kanji": "蛙子丁子",
+  "romaji": "Kawazu-ko chōji",
+  "english": "Tadpole-shaped chōji",
+  "spanish": "Chōji con forma de renacuajo.",
+  "category": "hamon",
+  "subcategory": "Chōji",
+  "definition": "Variante de chōji cuyos elementos presentan una forma semejante a la de un renacuajo.",
+  "recognition": [
+    "Se basa en un patrón chōji.",
+    "Los elementos presentan formas alargadas semejantes a renacuajos.",
+    "Forma parte de las variantes del hamon chōji."
+  ],
+  "tags": ["kawazu-ko-choji", "蛙子丁子", "choji", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["choji", "juka-choji"],
+  "deepening": [
+    "Comparar kawazu-ko chōji con otras variantes de chōji.",
+    "Estudiar las formas naturales utilizadas para describir los hamon."
+  ],
+  "sources": []
+},
+{
+  "id": "kazari-tachi-koshirae",
+  "term": "Kazari-tachi Koshirae",
+  "kanji": "飾太刀拵",
+  "romaji": "Kazari-tachi Koshirae",
+  "english": "Richly decorated formal tachi koshirae",
+  "spanish": "Ricamente decorada koshirae formal de tachi, popular durante el apogeo del gobierno aristocrático de las eras Nara y Heian.",
+  "category": "monturas",
+  "subcategory": "Koshirae",
+  "definition": "Tipo de tachi koshirae formal y ricamente decorada, asociada al período de máximo desarrollo del gobierno aristocrático de Nara y Heian.",
+  "recognition": [
+    "Es una montura formal de tachi.",
+    "Presenta una decoración rica y elaborada.",
+    "Está relacionada con las épocas Nara y Heian."
+  ],
+  "tags": ["kazari-tachi-koshirae", "飾太刀拵", "tachi", "koshirae", "nara", "heian"],
+  "image": "",
+  "images": [],
+  "related": ["tachi", "koshirae", "heian-period"],
+  "deepening": [
+    "Estudiar las monturas de tachi de época Heian.",
+    "Comparar kazari-tachi koshirae con otros estilos de tachi koshirae."
+  ],
+  "sources": []
+},
+{
+  "id": "kazu-uchimono",
+  "term": "Kazu-uchimono",
+  "kanji": "数打ち物",
+  "romaji": "Kazu-uchimono",
+  "english": "Mass-produced blades of little artistic quality",
+  "spanish": "Hojas producidas en masa y de escasa calidad artística.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Término utilizado para hojas producidas en grandes cantidades, generalmente con menor énfasis en la calidad artística.",
+  "recognition": [
+    "Se refiere a producción en cantidad.",
+    "Presenta generalmente menor valor artístico.",
+    "El término contrasta con la producción de hojas de alta calidad artesanal."
+  ],
+  "tags": ["kazu-uchimono", "数打ち物", "historia", "produccion"],
+  "image": "",
+  "images": [],
+  "related": ["koto", "shinto"],
+  "deepening": [
+    "Estudiar la producción masiva de espadas en diferentes períodos.",
+    "Comparar kazu-uchimono con hojas de producción artística."
+  ],
+  "sources": []
+},
+{
+  "id": "ken",
+  "term": "Ken",
+  "kanji": "剣",
+  "romaji": "Ken",
+  "english": "Straight ritual Chinese-style sword",
+  "spanish": "Espada recta de estilo chino utilizada con frecuencia en contextos rituales y asociada a Fudō Myōō.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Espada recta de doble filo de tradición china, utilizada en contextos rituales y frecuentemente asociada a Fudō Myōō.",
+  "recognition": [
+    "Es recta.",
+    "Tradicionalmente presenta dos filos.",
+    "Aparece frecuentemente en representaciones de Fudō Myōō."
+  ],
+  "tags": ["ken", "剣", "fudo-myo-o", "horimono"],
+  "image": "",
+  "images": [],
+  "related": ["fudo-myo-o", "kurikara"],
+  "deepening": [
+    "Estudiar la iconografía de Fudō Myōō con ken.",
+    "Comparar ken con katana y tachi.",
+    "Observar el ken representado en horimono."
+  ],
+  "sources": []
+},
+{
+  "id": "keicho-era",
+  "term": "Keichō era",
+  "kanji": "慶長",
+  "romaji": "Keichō",
+  "english": "1596–1615",
+  "spanish": "Era Keichō, 1596–1615.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Era japonesa comprendida entre 1596 y 1615, asociada a importantes cambios políticos y al comienzo del período Shintō de la espada.",
+  "recognition": [
+    "Comprende aproximadamente 1596–1615.",
+    "Está relacionada con el comienzo del período Shintō.",
+    "Da nombre al estilo Keichō Shintō."
+  ],
+  "tags": ["keicho", "慶長", "1596", "1615", "shinto"],
+  "image": "",
+  "images": [],
+  "related": ["keicho-shinto", "shinto"],
+  "deepening": [
+    "Estudiar las características históricas de la era Keichō.",
+    "Relacionar la era con el desarrollo del Shintō."
+  ],
+  "sources": []
+},
+{
+  "id": "keicho-shinto",
+  "term": "Keichō Shintō",
+  "kanji": "慶長新刀",
+  "romaji": "Keichō Shintō",
+  "english": "Blades produced around the Keichō era, 1596–1615",
+  "spanish": "Espadas producidas aproximadamente durante la era Keichō, 1596–1615, al comienzo del período Shintō.",
+  "category": "historia",
+  "subcategory": "Shintō",
+  "definition": "Nombre aplicado a las hojas producidas alrededor de la era Keichō, considerada una etapa temprana del período Shintō.",
+  "recognition": [
+    "Está asociada con la era Keichō.",
+    "Pertenece a la etapa inicial del período Shintō.",
+    "Puede presentar influencias de tradiciones anteriores y nuevas formas del período."
+  ],
+  "tags": ["keicho-shinto", "慶長新刀", "shinto", "keicho"],
+  "image": "",
+  "images": [],
+  "related": ["keicho-era", "kanbun-shinto", "shinto"],
+  "deepening": [
+    "Comparar Keichō Shintō con Kanbun Shintō.",
+    "Estudiar la transición de Kotō a Shintō."
+  ],
+  "sources": []
+},
+{
+  "id": "kesho",
+  "term": "Keshō",
+  "kanji": "化粧",
+  "romaji": "Keshō",
+  "english": "See Hadori",
+  "spanish": "Véase Hadori. Acabado de pulido destinado a resaltar visualmente el hamon.",
+  "category": "mantenimiento",
+  "subcategory": "",
+  "definition": "Término relacionado con el acabado de pulido que realza visualmente el hamon; véase hadori.",
+  "recognition": [
+    "Está relacionado con el acabado del pulido.",
+    "Se utiliza en relación con el realce visual del hamon.",
+    "Está vinculado al término hadori."
+  ],
+  "tags": ["kesho", "化粧", "hadori", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["hadori", "hamon"],
+  "deepening": [
+    "Comparar keshō y hadori.",
+    "Estudiar las diferentes técnicas de pulido del nihontō."
+  ],
+  "sources": []
+},
+{
+  "id": "kinsuji",
+  "term": "Kinsuji",
+  "kanji": "金筋",
+  "romaji": "Kinsuji",
+  "english": "A small shiny line of nie inside the hamon",
+  "spanish": "Pequeña línea brillante de nie dentro del hamon, literalmente 'línea dorada'.",
+  "category": "hamon",
+  "subcategory": "Hataraki",
+  "definition": "Línea brillante y estrecha formada por nie dentro del hamon, cuyo aspecto recuerda a una línea dorada.",
+  "recognition": [
+    "Es una línea estrecha y brillante.",
+    "Está formada por nie.",
+    "Se encuentra dentro del hamon."
+  ],
+  "tags": ["kinsuji", "金筋", "nie", "hamon", "hataraki"],
+  "image": "",
+  "images": [],
+  "related": ["inazuma", "nie", "hataraki"],
+  "deepening": [
+    "Comparar kinsuji con inazuma.",
+    "Estudiar los diferentes hataraki producidos por el nie."
+  ],
+  "sources": []
+},
+{
+  "id": "kiriha-dukuri",
+  "term": "Kiriha-zukuri",
+  "kanji": "切刃造",
+  "romaji": "Kiriha-zukuri",
+  "english": "A sword made with the shinogi close to the cutting edge",
+  "spanish": "Forma de hoja en la que el shinogi se encuentra próximo al filo de corte.",
+  "category": "sugata",
+  "subcategory": "",
+  "definition": "Tipo de construcción de hoja en el que la línea de shinogi se sitúa cerca del filo.",
+  "recognition": [
+    "El shinogi está próximo al filo.",
+    "Presenta una sección transversal característica.",
+    "Es una forma de construcción diferente del hira-zukuri y shinogi-zukuri."
+  ],
+  "tags": ["kiriha-zukuri", "切刃造", "sugata", "shinogi"],
+  "image": "",
+  "images": [],
+  "related": ["hira-dukuri", "shinogi-zukuri"],
+  "deepening": [
+    "Comparar kiriha-zukuri con hira-zukuri.",
+    "Estudiar las diferentes formas de sección transversal de las hojas."
+  ],
+  "sources": []
+},
+{
+  "id": "kiri-yasuri",
+  "term": "Kiri yasuri",
+  "kanji": "切り鑢",
+  "romaji": "Kiri yasuri",
+  "english": "Horizontal file marks on the tang",
+  "spanish": "Marcas de lima horizontales en el nakago.",
+  "category": "anatomia",
+  "subcategory": "Nakago",
+  "definition": "Tipo de yasurime formado por marcas de lima dispuestas horizontalmente sobre el nakago.",
+  "recognition": [
+    "Las líneas son horizontales.",
+    "Se encuentran sobre el nakago.",
+    "Forma parte de los diferentes patrones de yasurime."
+  ],
+  "tags": ["kiri-yasuri", "切り鑢", "yasurime", "nakago"],
+  "image": "",
+  "images": [],
+  "related": ["nakago", "yasurime"],
+  "deepening": [
+    "Comparar kiri yasuri con otros tipos de yasurime.",
+    "Estudiar la importancia de las marcas de lima en la identificación."
+  ],
+  "sources": []
+},
+{
+  "id": "kissaki",
+  "term": "Kissaki",
+  "kanji": "切先",
+  "romaji": "Kissaki",
+  "english": "The tip of the blade from the point to the yokote",
+  "spanish": "Punta de la hoja comprendida entre la punta propiamente dicha y el yokote.",
+  "category": "anatomia",
+  "subcategory": "",
+  "definition": "Parte terminal de la hoja situada delante del yokote y que comprende la punta.",
+  "recognition": [
+    "Es la sección terminal de la hoja.",
+    "Está delimitada por el yokote.",
+    "Contiene el boshi."
+  ],
+  "tags": ["kissaki", "切先", "yokote", "boshi"],
+  "image": "",
+  "images": [],
+  "related": ["boshi", "yokote", "ikubi-kissaki", "ko-maru"],
+  "deepening": [
+    "Estudiar los diferentes tipos de kissaki.",
+    "Comparar ikubi-kissaki, chū-kissaki y ō-kissaki.",
+    "Estudiar la relación entre kissaki, yokote y boshi."
+  ],
+  "sources": []
+},
+{
+  "id": "kissaki-moroha-dukuri",
+  "term": "Kissaki-moroha-zukuri",
+  "kanji": "切先諸刃造り",
+  "romaji": "Kissaki-moroha-zukuri",
+  "english": "A blade made with a double edge in the monouchi area",
+  "spanish": "Forma de hoja con doble filo en la zona del monouchi.",
+  "category": "sugata",
+  "subcategory": "",
+  "definition": "Tipo de construcción en la que la zona del monouchi presenta un segundo filo, dando a la punta una configuración de doble filo.",
+  "recognition": [
+    "Presenta un filo adicional en la zona del monouchi.",
+    "La parte terminal adquiere una configuración de doble filo.",
+    "Es una forma de construcción particular."
+  ],
+  "tags": ["kissaki-moroha-zukuri", "切先諸刃造り", "sugata", "monouchi"],
+  "image": "",
+  "images": [],
+  "related": ["kissaki", "ken"],
+  "deepening": [
+    "Comparar kissaki-moroha-zukuri con otras construcciones de hoja.",
+    "Estudiar la función y evolución de las hojas de doble filo."
+  ],
+  "sources": []
+},
+{
+  "id": "ko",
+  "term": "Ko",
+  "kanji": "小",
+  "romaji": "Ko",
+  "english": "Prefix meaning small",
+  "spanish": "Prefijo que significa 'pequeño' o 'de menor tamaño'.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Prefijo utilizado en terminología del nihontō para indicar que algo es pequeño o de dimensiones reducidas.",
+  "recognition": [
+    "Aparece delante de otros términos.",
+    "Indica una versión pequeña o reducida.",
+    "Ejemplos incluyen ko-nie y ko-ashi."
+  ],
+  "tags": ["ko", "小", "prefijo", "terminologia"],
+  "image": "",
+  "images": [],
+  "related": ["ko-ashi", "ko-nie", "ko-itame"],
+  "deepening": [
+    "Estudiar otros prefijos utilizados en la terminología japonesa de la espada."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-ashi",
+  "term": "Ko-ashi",
+  "kanji": "小足",
+  "romaji": "Ko-ashi",
+  "english": "Small ashi",
+  "spanish": "Ashi pequeño.",
+  "category": "hamon",
+  "subcategory": "Hataraki",
+  "definition": "Ashi de tamaño pequeño que penetra o se proyecta desde el hamon hacia el ji.",
+  "recognition": [
+    "Es una forma pequeña de ashi.",
+    "Se encuentra asociada al hamon.",
+    "Forma parte de los hataraki."
+  ],
+  "tags": ["ko-ashi", "小足", "ashi", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["ashi", "hataraki", "ko"],
+  "deepening": [
+    "Comparar ko-ashi con ashi.",
+    "Estudiar los diferentes hataraki del hamon."
+  ],
+  "sources": []
+},
+{
+  "id": "kobuse",
+  "term": "Kobuse",
+  "kanji": "甲伏",
+  "romaji": "Kobuse",
+  "english": "A common blade construction method in which harder steel surrounds softer steel",
+  "spanish": "Método común de construcción de hojas en el que el acero destinado al filo envuelve un núcleo de acero de menor contenido de carbono.",
+  "category": "forja",
+  "subcategory": "",
+  "definition": "Método tradicional de construcción en el que el acero de mayor dureza utilizado para el filo envuelve un núcleo de acero más blando, formando posteriormente la hoja mediante forja.",
+  "recognition": [
+    "Utiliza un núcleo de acero relativamente blando.",
+    "El acero más duro rodea el núcleo.",
+    "Busca combinar dureza en el filo y tenacidad en el interior."
+  ],
+  "tags": ["kobuse", "甲伏", "forja", "kitae"],
+  "image": "",
+  "images": [],
+  "related": ["kitae", "tamahagane"],
+  "deepening": [
+    "Comparar kobuse con otros métodos de construcción.",
+    "Estudiar la función del núcleo y del acero del filo.",
+    "Investigar las diferentes estructuras de kitae."
+  ],
+  "sources": []
+},
+{
+  "id": "kobushi-gata-choji",
+  "term": "Kobushi-gata chōji",
+  "kanji": "拳形丁子",
+  "romaji": "Kobushi-gata chōji",
+  "english": "Fist-shaped chōji",
+  "spanish": "Chōji con forma de puño.",
+  "category": "hamon",
+  "subcategory": "Chōji",
+  "definition": "Variante de chōji cuyos elementos tienen una forma semejante a un puño.",
+  "recognition": [
+    "Es una variante del patrón chōji.",
+    "Sus formas recuerdan a un puño cerrado.",
+    "Se observa dentro del hamon."
+  ],
+  "tags": ["kobushi-gata-choji", "拳形丁子", "choji", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["choji", "kawazu-ko-choji"],
+  "deepening": [
+    "Comparar kobushi-gata chōji con otras variantes de chōji.",
+    "Estudiar la terminología visual utilizada para describir el hamon."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-dachi",
+  "term": "Kodachi",
+  "kanji": "小太刀",
+  "romaji": "Kodachi",
+  "english": "A small tachi",
+  "spanish": "Tachi pequeño o espada de dimensiones reducidas.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Espada de dimensiones reducidas relacionada con la forma del tachi.",
+  "recognition": [
+    "Es más corta que un tachi convencional.",
+    "Conserva características relacionadas con el estilo tachi.",
+    "El término aparece en contextos históricos y de clasificación."
+  ],
+  "tags": ["kodachi", "小太刀", "tachi", "espada"],
+  "image": "",
+  "images": [],
+  "related": ["tachi", "wakizashi"],
+  "deepening": [
+    "Comparar kodachi con wakizashi.",
+    "Estudiar las clasificaciones históricas de las hojas cortas."
+  ],
+  "sources": []
+},
+{
+  "id": "kogai",
+  "term": "Kogai",
+  "kanji": "笄",
+  "romaji": "Kogai",
+  "english": "A bodkin-like implement used for hair and ear cleaning",
+  "spanish": "Instrumento semejante a un punzón, utilizado para arreglar el cabello del samurái y limpiar los oídos.",
+  "category": "monturas",
+  "subcategory": "",
+  "definition": "Pequeño instrumento que se llevaba en la saya y que podía utilizarse para arreglar el cabello y para la limpieza de los oídos.",
+  "recognition": [
+    "Es un accesorio estrecho y alargado.",
+    "Se guarda en el kogai-hitsu.",
+    "Forma parte de ciertos conjuntos de montura."
+  ],
+  "tags": ["kogai", "笄", "kogai-hitsu", "saya"],
+  "image": "",
+  "images": [],
+  "related": ["kogai-hitsu", "kawara-gane"],
+  "deepening": [
+    "Estudiar los diferentes tipos de kogai.",
+    "Observar su integración en las monturas de espada."
+  ],
+  "sources": []
+},
+{
+  "id": "kogai-hitsu",
+  "term": "Kogai-hitsu",
+  "kanji": "笄櫃",
+  "romaji": "Kogai-hitsu",
+  "english": "The pocket on the obverse of a saya where the kogai is kept",
+  "spanish": "Compartimento situado en la cara frontal de la saya donde se guarda el kogai.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Hueco o compartimento integrado en la saya destinado a alojar el kogai.",
+  "recognition": [
+    "Se encuentra en la saya.",
+    "Está destinado específicamente al kogai.",
+    "Forma parte de las estructuras para accesorios de la montura."
+  ],
+  "tags": ["kogai-hitsu", "笄櫃", "kogai", "saya"],
+  "image": "",
+  "images": [],
+  "related": ["kogai", "kawara-gane"],
+  "deepening": [
+    "Comparar kogai-hitsu con kozuka-hitsu.",
+    "Estudiar los compartimentos de accesorios de la saya."
+  ],
+  "sources": []
+},
+{
+  "id": "kogatana",
+  "term": "Kogatana",
+  "kanji": "小刀",
+  "romaji": "Kogatana",
+  "english": "Utility knife",
+  "spanish": "Pequeño cuchillo o navaja de utilidad.",
+  "category": "monturas",
+  "subcategory": "",
+  "definition": "Pequeño cuchillo de utilidad asociado a las monturas tradicionales japonesas.",
+  "recognition": [
+    "Es una hoja pequeña de utilidad.",
+    "Puede formar parte del conjunto kozuka-kogatana.",
+    "Se transportaba integrado en la montura."
+  ],
+  "tags": ["kogatana", "小刀", "utility knife", "kozuka"],
+  "image": "",
+  "images": [],
+  "related": ["koduka", "kozuka-hitsu"],
+  "deepening": [
+    "Estudiar la relación entre kogatana y kozuka.",
+    "Observar ejemplos de kogatana históricas."
+  ],
+  "sources": []
+},
+{
+  "id": "koi-guchi",
+  "term": "Koi-guchi",
+  "kanji": "鯉口",
+  "romaji": "Koi-guchi",
+  "english": "The mouth of the saya",
+  "spanish": "Boca o abertura de la saya.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Abertura de la saya por la que se introduce y extrae la hoja.",
+  "recognition": [
+    "Se encuentra en el extremo superior de la saya.",
+    "Es la abertura por donde entra la hoja.",
+    "Debe ajustarse correctamente al habaki."
+  ],
+  "tags": ["koi-guchi", "鯉口", "saya", "habaki"],
+  "image": "",
+  "images": [],
+  "related": ["saya", "habaki", "kuchi-kanamono"],
+  "deepening": [
+    "Estudiar la construcción del koi-guchi.",
+    "Observar su relación con el habaki y la retención de la hoja."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-itame",
+  "term": "Ko-itame",
+  "kanji": "小板目",
+  "romaji": "Ko-itame",
+  "english": "Small wood-grain pattern",
+  "spanish": "Patrón de pequeñas vetas de madera en la jihada.",
+  "category": "jihada",
+  "subcategory": "",
+  "definition": "Patrón de itame de grano pequeño visible en la superficie del acero.",
+  "recognition": [
+    "Presenta un patrón de grano pequeño.",
+    "Recuerda a pequeñas vetas de madera.",
+    "Es una variante de la estructura itame."
+  ],
+  "tags": ["ko-itame", "小板目", "itame", "jihada"],
+  "image": "",
+  "images": [],
+  "related": ["itame-hada", "hada", "jihada"],
+  "deepening": [
+    "Comparar ko-itame con itame-hada.",
+    "Estudiar los diferentes tamaños y estructuras del hada."
+  ],
+  "sources": []
+},
+{
+  "id": "kojiri",
+  "term": "Kojiri",
+  "kanji": "小尻",
+  "romaji": "Kojiri",
+  "english": "A decorative fitting on the bottom of the saya",
+  "spanish": "Elemento decorativo situado en el extremo inferior de la saya.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Pieza o accesorio decorativo instalado en el extremo inferior de la saya.",
+  "recognition": [
+    "Se encuentra en el extremo inferior de la saya.",
+    "Tiene una función principalmente protectora y decorativa.",
+    "Forma parte de los kanamono de la saya."
+  ],
+  "tags": ["kojiri", "小尻", "saya", "kanamono"],
+  "image": "",
+  "images": [],
+  "related": ["saya", "ishiduki"],
+  "deepening": [
+    "Comparar kojiri con ishizuki.",
+    "Estudiar los diferentes kanamono de la saya."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-maru",
+  "term": "Ko-maru",
+  "kanji": "小丸",
+  "romaji": "Ko-maru",
+  "english": "A type of boshi that turns back in a small smooth circular motion",
+  "spanish": "Tipo de boshi que retorna mediante una pequeña curva circular y suave.",
+  "category": "boshi",
+  "subcategory": "",
+  "definition": "Configuración de boshi cuyo kaeri describe una pequeña curva circular y suave.",
+  "recognition": [
+    "Presenta un retorno corto y redondeado.",
+    "La curva es suave y relativamente pequeña.",
+    "Es una configuración característica del boshi."
+  ],
+  "tags": ["ko-maru", "小丸", "boshi", "kaeri"],
+  "image": "",
+  "images": [],
+  "related": ["boshi", "kaeri", "kaen"],
+  "deepening": [
+    "Comparar ko-maru con otros tipos de boshi.",
+    "Estudiar las diferentes formas de kaeri."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-nie",
+  "term": "Ko-nie",
+  "kanji": "小沸",
+  "romaji": "Ko-nie",
+  "english": "Small nie particles",
+  "spanish": "Partículas pequeñas de nie.",
+  "category": "hamon",
+  "subcategory": "",
+  "definition": "Partículas de nie de tamaño pequeño visibles en el hamon o en sus proximidades.",
+  "recognition": [
+    "Está formado por partículas de nie pequeñas.",
+    "Puede observarse en el hamon.",
+    "Contribuye a la textura cristalina de la zona templada."
+  ],
+  "tags": ["ko-nie", "小沸", "nie", "hamon"],
+  "image": "",
+  "images": [],
+  "related": ["nie", "ji-nie"],
+  "deepening": [
+    "Comparar ko-nie con nie de mayor tamaño.",
+    "Estudiar la relación entre nie y nioi."
+  ],
+  "sources": []
+},
+{
+  "id": "konuka-hada",
+  "term": "Konuka-hada",
+  "kanji": "小糠肌",
+  "romaji": "Konuka-hada",
+  "english": "A fine rice-grain hada associated mainly with Hizen blades",
+  "spanish": "Tipo de jihada de grano fino, asociado principalmente a las hojas de Hizen y conocido como hada de grano de arroz.",
+  "category": "jihada",
+  "subcategory": "",
+  "definition": "Jihada muy fina y compacta característica de determinadas hojas de Hizen, cuya apariencia recuerda a pequeños granos de arroz.",
+  "recognition": [
+    "Presenta un grano muy fino y uniforme.",
+    "Está especialmente asociada a la tradición Hizen.",
+    "Su aspecto recuerda a granos de arroz muy pequeños."
+  ],
+  "tags": ["konuka-hada", "小糠肌", "hizen", "jihada"],
+  "image": "",
+  "images": [],
+  "related": ["hada", "jihada"],
+  "deepening": [
+    "Estudiar la tradición Hizen.",
+    "Comparar konuka-hada con otras formas de jihada fina."
+  ],
+  "sources": []
+},
+{
+  "id": "koshi-ba",
+  "term": "Koshi-ba",
+  "kanji": "腰刃",
+  "romaji": "Koshi-ba",
+  "english": "A flamboyant section of hamon at the base of the blade",
+  "spanish": "Sección especialmente llamativa del hamon situada en la base de la hoja.",
+  "category": "hamon",
+  "subcategory": "",
+  "definition": "Zona del hamon próxima a la base de la hoja que presenta un patrón más llamativo o exuberante que el resto.",
+  "recognition": [
+    "Se encuentra cerca del machi.",
+    "Puede presentar un patrón más complejo que el resto del hamon.",
+    "Su aspecto destaca respecto de la parte superior de la hoja."
+  ],
+  "tags": ["koshi-ba", "腰刃", "hamon", "machi"],
+  "image": "",
+  "images": [],
+  "related": ["hamon", "koshi-bi"],
+  "deepening": [
+    "Estudiar las diferentes configuraciones del koshi-ba.",
+    "Comparar la actividad del hamon en la base y el resto de la hoja."
+  ],
+  "sources": []
+},
+{
+  "id": "koshi-bi",
+  "term": "Koshi-bi",
+  "kanji": "腰樋",
+  "romaji": "Koshi-bi",
+  "english": "A short groove carved close to the tang",
+  "spanish": "Ranura corta tallada en la hoja cerca del nakago.",
+  "category": "horimono",
+  "subcategory": "Hi",
+  "definition": "Tipo de ranura corta situada en la parte inferior de la hoja, próxima al nakago.",
+  "recognition": [
+    "Es relativamente corta.",
+    "Se encuentra cerca del nakago.",
+    "Forma parte de las diferentes variantes de hi."
+  ],
+  "tags": ["koshi-bi", "腰樋", "hi", "horimono"],
+  "image": "",
+  "images": [],
+  "related": ["hi", "nakago"],
+  "deepening": [
+    "Comparar koshi-bi con otros tipos de hi.",
+    "Estudiar la función y ubicación de las ranuras cortas."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-shinogi",
+  "term": "Ko-shinogi",
+  "kanji": "小鎬",
+  "romaji": "Ko-shinogi",
+  "english": "The part of the shinogi running from the yokote to the tip in the kissaki",
+  "spanish": "Parte del shinogi que se extiende desde el yokote hasta la punta dentro del kissaki.",
+  "category": "anatomia",
+  "subcategory": "Kissaki",
+  "definition": "Línea o parte del shinogi que continúa desde el yokote hacia la punta dentro del kissaki.",
+  "recognition": [
+    "Se encuentra dentro del kissaki.",
+    "Comienza en el yokote.",
+    "Se extiende hacia la punta."
+  ],
+  "tags": ["ko-shinogi", "小鎬", "shinogi", "kissaki"],
+  "image": "",
+  "images": [],
+  "related": ["shinogi", "kissaki", "yokote"],
+  "deepening": [
+    "Estudiar la geometría del kissaki.",
+    "Comparar ko-shinogi con otras líneas estructurales de la hoja."
+  ],
+  "sources": []
+},
+{
+  "id": "koshi-no-hiraita",
+  "term": "Koshi-no-hiraita",
+  "kanji": "腰の開いた",
+  "romaji": "Koshi-no-hiraita",
+  "english": "Wide-based undulations that slope gently, usually with choji",
+  "spanish": "Ondulaciones de base ancha y pendiente suave, generalmente asociadas con chōji.",
+  "category": "hamon",
+  "subcategory": "",
+  "definition": "Configuración del hamon caracterizada por ondulaciones de base amplia que se inclinan suavemente, a menudo acompañadas de chōji.",
+  "recognition": [
+    "Las ondulaciones presentan una base ancha.",
+    "Las pendientes son relativamente suaves.",
+    "Suele aparecer asociada a patrones chōji."
+  ],
+  "tags": ["koshi-no-hiraita", "腰の開いた", "hamon", "choji"],
+  "image": "",
+  "images": [],
+  "related": ["choji", "hamon"],
+  "deepening": [
+    "Comparar esta configuración con otros patrones de hamon.",
+    "Estudiar la relación entre las ondulaciones y el chōji."
+  ],
+  "sources": []
+},
+{
+  "id": "koshirae",
+  "term": "Koshirae",
+  "kanji": "拵え",
+  "romaji": "Koshirae",
+  "english": "A full set of sword mountings",
+  "spanish": "Conjunto completo de monturas de una espada japonesa.",
+  "category": "monturas",
+  "subcategory": "",
+  "definition": "Conjunto completo de elementos de montura utilizados para equipar una hoja, incluyendo tsuka, saya y sus accesorios.",
+  "recognition": [
+    "Comprende el conjunto de monturas de la espada.",
+    "Incluye tsuka, saya y elementos metálicos asociados.",
+    "Puede adoptar numerosos estilos históricos."
+  ],
+  "tags": ["koshirae", "拵え", "monturas", "tsuka", "saya"],
+  "image": "",
+  "images": [],
+  "related": ["tsuka", "saya", "tachi", "katana"],
+  "deepening": [
+    "Estudiar los diferentes tipos de koshirae.",
+    "Comparar monturas de katana y tachi.",
+    "Identificar los diferentes kanamono de una koshirae."
+  ],
+  "sources": []
+},
+{
+  "id": "koshi-zori",
+  "term": "Koshi-zori",
+  "kanji": "腰反り",
+  "romaji": "Koshi-zori",
+  "english": "Swords with the deepest part of the curve near the tang",
+  "spanish": "Curvatura de la hoja cuyo punto de máxima profundidad se encuentra cerca del nakago.",
+  "category": "sugata",
+  "subcategory": "Sori",
+  "definition": "Tipo de sori en el que la mayor profundidad de la curvatura se encuentra próxima a la base de la hoja.",
+  "recognition": [
+    "La máxima curvatura se encuentra cerca del nakago.",
+    "Es una característica importante del sugata.",
+    "Es especialmente característica de determinadas espadas antiguas."
+  ],
+  "tags": ["koshi-zori", "腰反り", "sori", "sugata"],
+  "image": "",
+  "images": [],
+  "related": ["sori", "tori-zori", "uchizori"],
+  "deepening": [
+    "Comparar koshi-zori con tori-zori.",
+    "Estudiar la evolución del sori a través de los períodos históricos."
+  ],
+  "sources": []
+},
+{
+  "id": "koto",
+  "term": "Kotō",
+  "kanji": "古刀",
+  "romaji": "Kotō",
+  "english": "Old swords made prior to the Edo period",
+  "spanish": "Espadas antiguas fabricadas antes del período Edo.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Término utilizado para las espadas japonesas fabricadas antes del período Edo y, en la clasificación tradicional, anteriores al período Shintō.",
+  "recognition": [
+    "Se refiere a espadas antiguas.",
+    "Comprende las grandes tradiciones de fabricación anteriores al Shintō.",
+    "Incluye las tradiciones asociadas al Goka-den."
+  ],
+  "tags": ["koto", "古刀", "historia", "goka-den"],
+  "image": "",
+  "images": [],
+  "related": ["goka-den", "shinto", "gendaito"],
+  "deepening": [
+    "Estudiar la diferencia entre Kotō y Shintō.",
+    "Relacionar Kotō con las cinco grandes tradiciones.",
+    "Estudiar la evolución del nihontō desde Kotō hasta los períodos posteriores."
+  ],
+  "sources": []
+},
+{
+  "id": "ko-wakizashi",
+  "term": "Ko-wakizashi",
+  "kanji": "小脇差",
+  "romaji": "Ko-wakizashi",
+  "english": "A short wakizashi",
+  "spanish": "Wakizashi corto.",
+  "category": "historia",
+  "subcategory": "",
+  "definition": "Wakizashi de dimensiones especialmente reducidas.",
+  "recognition": [
+    "Es más corto que un wakizashi convencional.",
+    "Pertenece a la categoría de hojas cortas.",
+    "Su denominación utiliza el prefijo ko, 'pequeño'."
+  ],
+  "tags": ["ko-wakizashi", "小脇差", "wakizashi", "ko"],
+  "image": "",
+  "images": [],
+  "related": ["wakizashi", "kodachi", "ko"],
+  "deepening": [
+    "Comparar ko-wakizashi con wakizashi.",
+    "Estudiar las clasificaciones históricas por longitud."
+  ],
+  "sources": []
+},
+{
+  "id": "koduka",
+  "term": "Koduka",
+  "kanji": "小柄",
+  "romaji": "Koduka",
+  "english": "Decorative handle for a small utility knife, or the complete handle and knife",
+  "spanish": "Término utilizado tanto para el mango decorativo de un pequeño cuchillo de utilidad como para el conjunto completo de mango y cuchillo.",
+  "category": "monturas",
+  "subcategory": "",
+  "definition": "Término utilizado para designar el mango decorativo de un pequeño cuchillo y, por extensión, el conjunto formado por el mango y la hoja.",
+  "recognition": [
+    "Está relacionado con el kogatana.",
+    "El mango puede presentar una decoración elaborada.",
+    "Se integra en el conjunto de la montura."
+  ],
+  "tags": ["koduka", "小柄", "kogatana", "kozuka"],
+  "image": "",
+  "images": [],
+  "related": ["kogatana", "koduka-hitsu"],
+  "deepening": [
+    "Estudiar la diferencia entre koduka y kogatana.",
+    "Observar ejemplos de decoración de koduka."
+  ],
+  "sources": []
+},
+{
+  "id": "koduka-hitsu",
+  "term": "Koduka-hitsu",
+  "kanji": "小柄櫃",
+  "romaji": "Koduka-hitsu",
+  "english": "The pocket on the reverse of the saya where the kozuka is stored",
+  "spanish": "Compartimento situado en la cara posterior de la saya donde se guarda el kozuka.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Hueco o compartimento integrado en la saya destinado a alojar el kozuka.",
+  "recognition": [
+    "Se encuentra en la saya.",
+    "Está destinado al kozuka.",
+    "Se sitúa en la cara posterior según la descripción tradicional."
+  ],
+  "tags": ["koduka-hitsu", "小柄櫃", "kozuka", "saya"],
+  "image": "",
+  "images": [],
+  "related": ["koduka", "kogai-hitsu"],
+  "deepening": [
+    "Comparar koduka-hitsu con kogai-hitsu.",
+    "Estudiar los compartimentos para accesorios de la saya."
+  ],
+  "sources": []
+},
+{
+  "id": "kuchi-kanamono",
+  "term": "Kuchi-kanamono",
+  "kanji": "口金物",
+  "romaji": "Kuchi-kanamono",
+  "english": "A metal fitting protecting the mouth of the saya",
+  "spanish": "Accesorio metálico que protege la boca de la saya.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Pieza metálica instalada para proteger y reforzar la boca de la saya.",
+  "recognition": [
+    "Se encuentra en la abertura de la saya.",
+    "Protege el koi-guchi.",
+    "Forma parte de los kanamono de la saya."
+  ],
+  "tags": ["kuchi-kanamono", "口金物", "saya", "koi-guchi"],
+  "image": "",
+  "images": [],
+  "related": ["koi-guchi", "saya", "habaki"],
+  "deepening": [
+    "Comparar los diferentes elementos metálicos de la boca de la saya.",
+    "Estudiar la relación entre koi-guchi y habaki."
+  ],
+  "sources": []
+},
+{
+  "id": "kuichigai-ba",
+  "term": "Kuichigai-ba",
+  "kanji": "食い違い刃",
+  "romaji": "Kuichigai-ba",
+  "english": "An overlapping break in the hamon common in Yamato-den blades",
+  "spanish": "Interrupción superpuesta del hamon, frecuente en hojas de la tradición Yamato.",
+  "category": "hamon",
+  "subcategory": "",
+  "definition": "Configuración del hamon caracterizada por una interrupción o encuentro superpuesto de sus elementos, asociada especialmente a la tradición Yamato.",
+  "recognition": [
+    "Presenta una interrupción característica del hamon.",
+    "Los elementos parecen encontrarse o superponerse.",
+    "Es especialmente asociada a hojas Yamato-den."
+  ],
+  "tags": ["kuichigai-ba", "食い違い刃", "hamon", "yamato"],
+  "image": "",
+  "images": [],
+  "related": ["hamon", "yamato"],
+  "deepening": [
+    "Estudiar las características del hamon Yamato-den.",
+    "Comparar kuichigai-ba con otras interrupciones del hamon."
+  ],
+  "sources": []
+},
+{
+  "id": "kuri-jiri",
+  "term": "Kuri-jiri",
+  "kanji": "栗尻",
+  "romaji": "Kuri-jiri",
+  "english": "A round-ended type of nakago resembling a chestnut",
+  "spanish": "Tipo de nakago-jiri de extremo redondeado, semejante a la forma de una castaña.",
+  "category": "anatomia",
+  "subcategory": "Nakago",
+  "definition": "Forma del extremo del nakago caracterizada por un perfil redondeado semejante al de una castaña.",
+  "recognition": [
+    "Se encuentra en el extremo del nakago.",
+    "Presenta un perfil redondeado.",
+    "Su forma recuerda a una castaña."
+  ],
+  "tags": ["kuri-jiri", "栗尻", "nakago", "nakago-jiri"],
+  "image": "",
+  "images": [],
+  "related": ["nakago", "nakago-jiri"],
+  "deepening": [
+    "Estudiar las diferentes formas de nakago-jiri.",
+    "Comparar kuri-jiri con otras terminaciones del nakago."
+  ],
+  "sources": []
+},
+{
+  "id": "kurikara",
+  "term": "Kurikara",
+  "kanji": "倶利伽羅",
+  "romaji": "Kurikara",
+  "english": "A horimono of a dragon wrapped around a ken, representing Fudo Myo-O",
+  "spanish": "Horimono que representa un dragón envuelto alrededor de un ken, representación de Fudō Myōō.",
+  "category": "iconografia",
+  "subcategory": "Horimono",
+  "definition": "Motivo de horimono en el que un dragón se enrolla alrededor de un ken, asociado a la iconografía de Fudō Myōō.",
+  "recognition": [
+    "Representa un dragón enrollado alrededor de un ken.",
+    "Está tallado como horimono sobre la hoja.",
+    "Está relacionado con Fudō Myōō."
+  ],
+  "tags": ["kurikara", "倶利伽羅", "dragon", "ken", "fudo-myo-o", "horimono"],
+  "image": "",
+  "images": [],
+  "related": ["fudo-myo-o", "ken", "horimono"],
+  "deepening": [
+    "Estudiar la iconografía de Kurikara.",
+    "Investigar la relación entre Kurikara y Fudō Myōō.",
+    "Observar ejemplos de Kurikara horimono."
+  ],
+  "sources": []
+},
+{
+  "id": "kurikata",
+  "term": "Kurikata",
+  "kanji": "栗形",
+  "romaji": "Kurikata",
+  "english": "A nodule with a hole attached to the outside of the saya for the sageo",
+  "spanish": "Pieza abultada con un orificio fijada en el exterior de la saya para sujetar el sageo.",
+  "category": "monturas",
+  "subcategory": "Saya",
+  "definition": "Pieza con forma de pequeño abultamiento y un orificio, fijada en el exterior de la saya para pasar y sujetar el sageo.",
+  "recognition": [
+    "Está fijada en la superficie exterior de la saya.",
+    "Presenta un orificio para el sageo.",
+    "Forma parte de los accesorios de la saya."
+  ],
+  "tags": ["kurikata", "栗形", "saya", "sageo"],
+  "image": "",
+  "images": [],
+  "related": ["saya", "sageo", "koshirae"],
+  "deepening": [
+    "Estudiar la función del kurikata.",
+    "Observar cómo se fija el sageo a la saya.",
+    "Comparar diferentes formas de kurikata."
+  ],
+  "sources": []
+}
 
   ]
   
