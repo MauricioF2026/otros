@@ -2528,7 +2528,601 @@
       "Comparar Hyōgo-gusari koshirae con otros montajes de tachi."
     ],
     "sources": []
-  }
+  },
+        {
+      "id": "ichimonji-school",
+      "term": "Ichimonji School",
+      "kanji": "一文字派",
+      "romaji": "Ichimonji-ha",
+      "english": "A 13th-century school of swordsmiths working in the Bizen tradition",
+      "spanish": "Escuela de herreros del siglo XIII perteneciente a la tradición Bizen.",
+      "category": "escuelas-tradiciones",
+      "subcategory": "Bizen",
+      "definition": "Escuela de herreros de espadas del siglo XIII que trabajó dentro de la tradición Bizen.",
+      "recognition": [
+        "Se desarrolló durante el siglo XIII.",
+        "Pertenece a la tradición Bizen.",
+        "Es una de las escuelas históricas importantes de Bizen."
+      ],
+      "tags": [
+        "ichimonji",
+        "ichimonji-ha",
+        "一文字派",
+        "bizen"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bizen",
+        "goka-den"
+      ],
+      "deepening": [
+        "Estudiar las características de la escuela Ichimonji.",
+        "Comparar Ichimonji con otras escuelas de la tradición Bizen.",
+        "Observar sus características de hamon y jihada."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ichi-no-ashi",
+      "term": "Ichi-no-ashi",
+      "kanji": "一の足",
+      "romaji": "Ichi-no-ashi",
+      "english": "The ashi-kanamono closest to the saya mouth",
+      "spanish": "El ashi-kanamono situado más cerca de la boca de la saya.",
+      "category": "monturas",
+      "subcategory": "Tachi koshirae",
+      "definition": "El ashi-kanamono de una montura de tachi que se encuentra más próximo a la boca de la saya.",
+      "recognition": [
+        "Forma parte de los ashi-kanamono.",
+        "Es el ashi situado más cerca de la boca de la saya.",
+        "Está relacionado con los elementos de suspensión de una tachi koshirae."
+      ],
+      "tags": [
+        "ichi-no-ashi",
+        "一の足",
+        "ashi",
+        "kanamono",
+        "saya"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "koshirae",
+        "saya"
+      ],
+      "deepening": [
+        "Estudiar los diferentes ashi-kanamono.",
+        "Observar la disposición de los ashi en una tachi koshirae."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ikubi-kissaki",
+      "term": "Ikubi-kissaki",
+      "kanji": "猪首切先",
+      "romaji": "Ikubi-kissaki",
+      "english": "A stout kissaki shorter in length than it is wide",
+      "spanish": "Kissaki robusto cuya longitud es menor que su anchura.",
+      "category": "sugata",
+      "subcategory": "Kissaki",
+      "definition": "Tipo de kissaki corto y robusto, cuya longitud es menor que su anchura.",
+      "recognition": [
+        "Es un kissaki relativamente corto.",
+        "Presenta una apariencia ancha y robusta.",
+        "Su longitud es menor que su anchura."
+      ],
+      "tags": [
+        "ikubi-kissaki",
+        "猪首切先",
+        "kissaki",
+        "sugata"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "kissaki",
+        "chu-kissaki",
+        "o-kissaki"
+      ],
+      "deepening": [
+        "Comparar ikubi-kissaki con chū-kissaki y ō-kissaki.",
+        "Estudiar la evolución del kissaki en diferentes períodos."
+      ],
+      "sources": []
+    },
+    {
+      "id": "inazuma",
+      "term": "Inazuma",
+      "kanji": "稲妻",
+      "romaji": "Inazuma",
+      "english": "A line of nie inside the hamon resembling lightning",
+      "spanish": "Línea de nie dentro del hamon que recuerda la forma de un relámpago.",
+      "category": "hamon",
+      "subcategory": "Hataraki",
+      "definition": "Línea de nie que aparece dentro del hamon con una forma semejante a un relámpago.",
+      "recognition": [
+        "Está formada por nie.",
+        "Se encuentra dentro del hamon.",
+        "Presenta una trayectoria irregular que recuerda a un relámpago."
+      ],
+      "tags": [
+        "inazuma",
+        "稲妻",
+        "nie",
+        "hamon",
+        "hataraki"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie",
+        "hamon",
+        "hataraki",
+        "kinsuji"
+      ],
+      "deepening": [
+        "Comparar inazuma con kinsuji.",
+        "Estudiar los diferentes hataraki producidos por el nie.",
+        "Observar ejemplos de inazuma dentro del hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "iori-mune",
+      "term": "Iori-mune",
+      "kanji": "庵棟",
+      "romaji": "Iori-mune",
+      "english": "A two-sided mune resembling the roof of a house",
+      "spanish": "Mune de dos planos que recuerda al tejado de una casa.",
+      "category": "anatomia",
+      "subcategory": "Mune",
+      "definition": "Tipo de mune formado por dos planos inclinados que se encuentran en una cresta central, semejante al tejado de una casa.",
+      "recognition": [
+        "Presenta dos superficies inclinadas.",
+        "Las superficies se encuentran formando una cresta.",
+        "Su sección recuerda al tejado de una casa."
+      ],
+      "tags": [
+        "iori-mune",
+        "庵棟",
+        "mune",
+        "anatomia"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mune"
+      ],
+      "deepening": [
+        "Comparar iori-mune con maru-mune y otras formas de mune.",
+        "Estudiar las diferentes secciones transversales del mune."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ishiduki",
+      "term": "Ishiduki",
+      "kanji": "石突",
+      "romaji": "Ishiduki",
+      "english": "Scabbard chape protecting the saya-jiri",
+      "spanish": "Contera de la vaina colocada para proteger el saya-jiri.",
+      "category": "monturas",
+      "subcategory": "Saya",
+      "definition": "Pieza o contera colocada en el extremo de la saya para proteger el saya-jiri.",
+      "recognition": [
+        "Se encuentra en el extremo inferior de la saya.",
+        "Protege el saya-jiri.",
+        "Forma parte de los elementos metálicos de la montura."
+      ],
+      "tags": [
+        "ishiduki",
+        "石突",
+        "saya",
+        "saya-jiri"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "saya",
+        "saya-jiri",
+        "koshirae"
+      ],
+      "deepening": [
+        "Estudiar los diferentes elementos metálicos de la saya.",
+        "Comparar las formas de protección del saya-jiri."
+      ],
+      "sources": []
+    },
+    {
+      "id": "itame-hada",
+      "term": "Itame-hada",
+      "kanji": "板目肌",
+      "romaji": "Itame-hada",
+      "english": "A wood-grain type pattern in the steel skin of the blade",
+      "spanish": "Patrón de tipo veta de madera visible en la superficie del acero de la hoja.",
+      "category": "jihada",
+      "subcategory": "",
+      "definition": "Tipo de jihada cuyo patrón recuerda a las vetas de la madera, producido por la estructura del acero forjado.",
+      "recognition": [
+        "Presenta patrones semejantes a vetas de madera.",
+        "Es visible en la superficie pulida de la hoja.",
+        "Es uno de los principales tipos de jihada."
+      ],
+      "tags": [
+        "itame-hada",
+        "板目肌",
+        "itame",
+        "hada",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hada",
+        "jihada",
+        "mokume",
+        "masame"
+      ],
+      "deepening": [
+        "Comparar itame-hada con mokume-hada.",
+        "Estudiar las diferentes estructuras de jihada.",
+        "Observar ejemplos de itame en hojas de distintas escuelas."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ito-maki-tachi-koshirae",
+      "term": "Ito-maki-tachi Koshirae",
+      "kanji": "糸巻太刀拵",
+      "romaji": "Ito-maki-tachi Koshirae",
+      "english": "A type of tachi koshirae with matching wrapping on the handle and upper saya",
+      "spanish": "Tipo de tachi koshirae en el que el envoltorio de la empuñadura se repite en la parte superior de la saya.",
+      "category": "monturas",
+      "subcategory": "Koshirae",
+      "definition": "Tipo de tachi koshirae caracterizado por repetir el envoltorio de la empuñadura en la parte superior de la saya mediante watari-maki.",
+      "recognition": [
+        "Es una forma de tachi koshirae.",
+        "El envoltorio de la tsuka continúa visualmente en la parte superior de la saya.",
+        "Esta continuación recibe el nombre de watari-maki."
+      ],
+      "tags": [
+        "ito-maki-tachi-koshirae",
+        "糸巻太刀拵",
+        "tachi",
+        "koshirae",
+        "watari-maki"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "koshirae",
+        "tachi",
+        "watari-maki"
+      ],
+      "deepening": [
+        "Estudiar los diferentes tipos de tachi koshirae.",
+        "Observar ejemplos de ito-maki.",
+        "Investigar el sistema de watari-maki."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ji",
+      "term": "Ji",
+      "kanji": "地",
+      "romaji": "Ji",
+      "english": "The surface area of the blade between the shinogi and the hamon",
+      "spanish": "Superficie de la hoja situada entre el shinogi y el hamon.",
+      "category": "anatomia",
+      "subcategory": "",
+      "definition": "Área de la superficie de la hoja situada entre el shinogi y el hamon.",
+      "recognition": [
+        "Se encuentra entre el shinogi y el hamon.",
+        "Es una de las principales superficies visibles de la hoja.",
+        "Puede mostrar claramente la jihada y diferentes hataraki."
+      ],
+      "tags": [
+        "ji",
+        "地",
+        "shinogi",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hira-ji",
+        "ji-hada",
+        "ji-nie",
+        "shinogi"
+      ],
+      "deepening": [
+        "Comparar ji con hira-ji y shinogi-ji.",
+        "Estudiar la relación entre ji, jihada y hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "jifu",
+      "term": "Jifu",
+      "kanji": "地斑",
+      "romaji": "Jifu",
+      "english": "Patches of dense ji-nie",
+      "spanish": "Manchas o parches formados por concentraciones densas de ji-nie.",
+      "category": "jihada",
+      "subcategory": "Ji-nie",
+      "definition": "Áreas o manchas de concentración densa de ji-nie visibles en la superficie ji de la hoja.",
+      "recognition": [
+        "Está formado por concentraciones de ji-nie.",
+        "Aparece como manchas o parches dentro del ji.",
+        "Puede observarse durante el examen de la jihada."
+      ],
+      "tags": [
+        "jifu",
+        "地斑",
+        "ji-nie",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ji-nie",
+        "jihada",
+        "ji"
+      ],
+      "deepening": [
+        "Estudiar la relación entre jifu y ji-nie.",
+        "Observar ejemplos de jifu en hojas de diferentes tradiciones."
+      ],
+      "sources": []
+    },
+    {
+      "id": "jifu-utsuri",
+      "term": "Jifu-utsuri",
+      "kanji": "地斑映り",
+      "romaji": "Jifu-utsuri",
+      "english": "Discontinuous utsuri",
+      "spanish": "Utsuri discontinuo formado en manchas o áreas separadas.",
+      "category": "jihada",
+      "subcategory": "Utsuri",
+      "definition": "Forma discontinua de utsuri que aparece en áreas separadas o fragmentadas sobre la superficie de la hoja.",
+      "recognition": [
+        "El utsuri no aparece como una banda continua.",
+        "Presenta áreas separadas o discontinuas.",
+        "Está relacionado con la estructura de la superficie de la hoja."
+      ],
+      "tags": [
+        "jifu-utsuri",
+        "地斑映り",
+        "utsuri",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "utsuri",
+        "jifu"
+      ],
+      "deepening": [
+        "Comparar jifu-utsuri con otros tipos de utsuri.",
+        "Estudiar las diferentes formas de utsuri.",
+        "Observar ejemplos de utsuri en espadas Bizen."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ji-gane",
+      "term": "Ji-gane",
+      "kanji": "地金",
+      "romaji": "Ji-gane",
+      "english": "The steel of a constructed blade",
+      "spanish": "Acero utilizado en la construcción de la hoja.",
+      "category": "forja",
+      "subcategory": "",
+      "definition": "Acero que constituye el material estructural de una hoja japonesa construida mediante técnicas tradicionales de forja.",
+      "recognition": [
+        "Constituye el acero de la hoja.",
+        "Su estructura puede observarse mediante la jihada.",
+        "Está relacionado con los procesos de forja y plegado."
+      ],
+      "tags": [
+        "ji-gane",
+        "地金",
+        "acero",
+        "forja"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ji-tetsu",
+        "hada",
+        "kitae",
+        "tamahagane"
+      ],
+      "deepening": [
+        "Estudiar la relación entre ji-gane y jihada.",
+        "Comparar ji-gane con ji-tetsu.",
+        "Investigar los procesos de forja del acero tradicional."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ji-hada",
+      "term": "Ji-hada",
+      "kanji": "地肌",
+      "romaji": "Ji-hada",
+      "english": "The surface area between the hamon and the shinogi, see hada",
+      "spanish": "Superficie de la hoja situada entre el hamon y el shinogi; véase hada.",
+      "category": "jihada",
+      "subcategory": "",
+      "definition": "Superficie del acero situada entre el hamon y el shinogi, donde se observa la estructura de la jihada.",
+      "recognition": [
+        "Se encuentra entre el hamon y el shinogi.",
+        "Es la zona donde se observa la estructura del acero.",
+        "Está estrechamente relacionada con hada y jihada."
+      ],
+      "tags": [
+        "ji-hada",
+        "地肌",
+        "hada",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hada",
+        "jihada",
+        "ji"
+      ],
+      "deepening": [
+        "Comparar ji-hada con hada.",
+        "Estudiar los diferentes patrones visibles en la superficie del acero."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ji-ita",
+      "term": "Ji-ita",
+      "kanji": "地板",
+      "romaji": "Ji-ita",
+      "english": "A thin plate of gilded or carved metal applied to the saya and tsuka",
+      "spanish": "Placa delgada de metal dorado o tallado aplicada a la saya y la tsuka y fijada mediante el fukurin.",
+      "category": "monturas",
+      "subcategory": "",
+      "definition": "Placa delgada de metal, dorada o tallada, aplicada sobre la saya y la tsuka y fijada mediante el fukurin.",
+      "recognition": [
+        "Es una placa metálica delgada.",
+        "Puede estar dorada o decorada mediante tallado.",
+        "Se fija en su posición mediante el fukurin."
+      ],
+      "tags": [
+        "ji-ita",
+        "地板",
+        "fukurin",
+        "saya",
+        "tsuka"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "fukurin",
+        "saya",
+        "tsuka"
+      ],
+      "deepening": [
+        "Estudiar los elementos metálicos decorativos de las monturas.",
+        "Comparar ji-ita con otros kanamono.",
+        "Observar la relación entre ji-ita y fukurin."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ji-nie",
+      "term": "Ji-nie",
+      "kanji": "地沸",
+      "romaji": "Ji-nie",
+      "english": "Nie in the ji",
+      "spanish": "Nie presente en el ji de la hoja.",
+      "category": "jihada",
+      "subcategory": "",
+      "definition": "Partículas de nie visibles dentro de la superficie ji de la hoja.",
+      "recognition": [
+        "Está formado por partículas de nie.",
+        "Se encuentra en el ji y no en el hamon.",
+        "Puede contribuir a la apariencia y textura de la jihada."
+      ],
+      "tags": [
+        "ji-nie",
+        "地沸",
+        "nie",
+        "jihada",
+        "ji"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie",
+        "jifu",
+        "ji",
+        "jihada"
+      ],
+      "deepening": [
+        "Comparar ji-nie con nie presente en el hamon.",
+        "Estudiar la relación entre ji-nie y jifu.",
+        "Observar ji-nie en diferentes escuelas."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ji-tetsu",
+      "term": "Ji-tetsu",
+      "kanji": "地鉄",
+      "romaji": "Ji-tetsu",
+      "english": "See hada and jigane",
+      "spanish": "Véanse Hada y Ji-gane. Acero y estructura superficial de la hoja.",
+      "category": "forja",
+      "subcategory": "",
+      "definition": "Término relacionado con el acero de la hoja y su estructura superficial; véanse hada y ji-gane.",
+      "recognition": [
+        "Está relacionado con el acero de la hoja.",
+        "Se utiliza en relación con la estructura visible del acero.",
+        "Está estrechamente vinculado con hada y ji-gane."
+      ],
+      "tags": [
+        "ji-tetsu",
+        "地鉄",
+        "hada",
+        "ji-gane",
+        "acero"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hada",
+        "ji-gane",
+        "jihada"
+      ],
+      "deepening": [
+        "Comparar ji-tetsu con ji-gane.",
+        "Estudiar cómo el acero y su estructura se manifiestan como jihada."
+      ],
+      "sources": []
+    },
+    {
+      "id": "juka-choji",
+      "term": "Jūka-chōji",
+      "kanji": "重花丁子",
+      "romaji": "Jūka-chōji",
+      "english": "Multiple grouped choji pattern",
+      "spanish": "Patrón de múltiples grupos de chōji.",
+      "category": "hamon",
+      "subcategory": "Chōji",
+      "definition": "Configuración del hamon formada por múltiples grupos de chōji agrupados entre sí.",
+      "recognition": [
+        "Presenta varios grupos de chōji.",
+        "Los elementos aparecen agrupados o superpuestos.",
+        "Es una configuración compleja del hamon."
+      ],
+      "tags": [
+        "juka-choji",
+        "重花丁子",
+        "choji",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "choji",
+        "hamon",
+        "gunome"
+      ],
+      "deepening": [
+        "Comparar jūka-chōji con chōji ordinario.",
+        "Estudiar las diferentes variantes de chōji.",
+        "Observar ejemplos de hamon complejos de tradición Bizen."
+      ],
+      "sources": []
+    },
 
   ]
   
