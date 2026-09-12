@@ -1,185 +1,192 @@
 {
-  "metadata": {
-    "title": "Japanese Sword Glossary",
-    "title_es": "Glosario del Nihontō",
-    "description": "Glosario visual e interactivo de terminología relacionada con el nihontō, la espada japonesa.",
-    "version": "1.1",
-    "language": "es",
-    "secondary_language": "en",
-    "created": "2026",
-    "author": "MauricioF2026"
-  },
+"metadata": {
+"title": "Japanese Sword Glossary",
+"title_es": "Glosario del Nihontō",
+"description": "Glosario visual e interactivo de terminología relacionada con el nihontō, la espada japonesa.",
+"version": "1.1",
+"language": "es",
+"secondary_language": "en",
+"created": "2026",
+"author": "MauricioF2026"
+},
 
-  "categories": [
-    {
-      "id": "anatomia",
-      "name": "Anatomía",
-      "name_en": "Anatomy",
-      "description": "Partes y elementos físicos de la hoja japonesa.",
-      "terms": [
-        "kissaki",
-        "nakago",
-        "ha",
-        "mune",
-        "shinogi"
-      ]
-    },
-    {
-      "id": "sugata",
-      "name": "Sugata",
-      "name_en": "Blade Shape",
-      "description": "Forma general, proporciones y características geométricas de la hoja.",
-      "terms": [
-        "sori",
-        "funbari",
-        "mihaba",
-        "kasane"
-      ]
-    },
-    {
-      "id": "jihada",
-      "name": "Jihada",
-      "name_en": "Jihada",
-      "description": "Textura y estructura visible del acero en la superficie de la hoja.",
-      "terms": [
-        "itame",
-        "mokume",
-        "masame",
-        "ayasugi"
-      ]
-    },
-    {
-      "id": "hamon",
-      "name": "Hamon",
-      "name_en": "Hamon",
-      "description": "Patrones producidos por el proceso de temple y visibles en el área del filo.",
-      "terms": [
-        "nie",
-        "nioi",
-        "ashi",
-        "choji",
-        "gunome"
-      ]
-    },
-    {
-      "id": "boshi",
-      "name": "Boshi",
-      "name_en": "Boshi",
-      "description": "Configuración del hamon dentro del kissaki.",
-      "terms": [
-        "yakizume",
-        "kaen",
-        "komaru",
-        "jizo"
-      ]
-    },
-    {
-      "id": "horimono",
-      "name": "Horimono",
-      "name_en": "Blade Carvings",
-      "description": "Grabados, canales y tallas realizados sobre la hoja.",
-      "terms": [
-        "bo-hi",
-        "soe-hi",
-        "bonji"
-      ]
-    },
-    {
-      "id": "forja",
-      "name": "Forja",
-      "name_en": "Forging",
-      "description": "Materiales, técnicas y procesos relacionados con la fabricación de la espada.",
-      "terms": [
-        "tamahagane",
-        "kitae",
-        "tsukurikomi"
-      ]
-    },
-    {
-      "id": "monturas",
-      "name": "Monturas",
-      "name_en": "Mountings",
-      "description": "Elementos de la koshirae y componentes de la montura.",
-      "terms": [
-        "tsuka",
-        "tsuba",
-        "fuchi",
-        "kashira"
-      ]
-    },
-    {
-      "id": "firmas-tasacion",
-      "name": "Firmas y tasación",
-      "name_en": "Signatures and Appraisal",
-      "description": "Firmas, atribuciones, certificaciones y evaluación de espadas japonesas.",
-      "terms": [
-        "mei",
-        "kinzogan-mei",
-        "papers",
-        "kantei"
-      ]
-    },
-    {
-      "id": "mantenimiento",
-      "name": "Mantenimiento",
-      "name_en": "Maintenance",
-      "description": "Materiales, herramientas y procedimientos para la conservación de la hoja.",
-      "terms": [
-        "choji-abura",
-        "uchiko",
-        "nugui"
-      ]
-    },
-    {
-      "id": "escuelas-tradiciones",
-      "name": "Escuelas y tradiciones",
-      "name_en": "Schools and Traditions",
-      "description": "Provincias, escuelas y tradiciones históricas relacionadas con la fabricación de espadas.",
-      "terms": [
-        "bizen",
-        "yamashiro",
-        "soshu",
-        "mino"
-      ]
-    },
-  {
-  "id": "historia",
-  "name": "Historia",
-  "name_en": "History",
-  "description": "Personajes, instituciones, conceptos y elementos históricos relacionados con el mundo del samurái y el nihontō.",
-  "terms": [
-    "daimyo",
-    "daisho"
-  ]
+"categories": [
+{
+"id": "anatomia",
+"name": "Anatomía",
+"name_en": "Anatomy",
+"description": "Partes y elementos físicos de la hoja japonesa.",
+"terms": [
+"kissaki",
+"nakago",
+"ha",
+"mune",
+"shinogi"
+]
 },
 {
-  "id": "geografia",
-  "name": "Geografía",
-  "name_en": "Geography",
-  "description": "Provincias, regiones y denominaciones geográficas relacionadas con la tradición japonesa de la espada.",
-  "terms": [
-    "dewa"
-  ]
+"id": "sugata",
+"name": "Sugata",
+"name_en": "Blade Shape",
+"description": "Forma general, proporciones y características geométricas de la hoja.",
+"terms": [
+"sori",
+"funbari",
+"mihaba",
+"kasane"
+]
 },
 {
-  "id": "inscripciones",
-  "name": "Inscripciones",
-  "name_en": "Inscriptions",
-  "description": "Sistemas de datación, signos y referencias utilizados en inscripciones relacionadas con las espadas japonesas.",
-  "terms": [
-    "eto"
-  ]
+"id": "jihada",
+"name": "Jihada",
+"name_en": "Jihada",
+"description": "Textura y estructura visible del acero en la superficie de la hoja.",
+"terms": [
+"itame",
+"mokume",
+"masame",
+"ayasugi"
+]
 },
 {
-  "id": "iconografia",
-  "name": "Iconografía",
-  "name_en": "Iconography",
-  "description": "Deidades, símbolos y motivos religiosos o tradicionales representados en las espadas mediante horimono y otros elementos decorativos.",
-  "terms": [
-    "fudo-myo-o"
-  ]
+"id": "hamon",
+"name": "Hamon",
+"name_en": "Hamon",
+"description": "Patrones producidos por el proceso de temple y visibles en el área del filo.",
+"terms": [
+"nie",
+"nioi",
+"ashi",
+"choji",
+"gunome"
+]
+},
+{
+"id": "boshi",
+"name": "Boshi",
+"name_en": "Boshi",
+"description": "Configuración del hamon dentro del kissaki.",
+"terms": [
+"yakizume",
+"kaen",
+"komaru",
+"jizo"
+]
+},
+{
+"id": "horimono",
+"name": "Horimono",
+"name_en": "Blade Carvings",
+"description": "Grabados, canales y tallas realizados sobre la hoja.",
+"terms": [
+"bo-hi",
+"soe-hi",
+"bonji",
+"futasuji-hi"
+]
+},
+{
+"id": "forja",
+"name": "Forja",
+"name_en": "Forging",
+"description": "Materiales, técnicas y procesos relacionados con la fabricación de la espada.",
+"terms": [
+"tamahagane",
+"kitae",
+"tsukurikomi"
+]
+},
+{
+"id": "monturas",
+"name": "Monturas",
+"name_en": "Mountings",
+"description": "Elementos de la koshirae y componentes de la montura.",
+"terms": [
+"tsuka",
+"tsuba",
+"fuchi",
+"kashira",
+"daisho",
+"dogane",
+"fukurin"
+]
+},
+{
+"id": "firmas-tasacion",
+"name": "Firmas y tasación",
+"name_en": "Signatures and Appraisal",
+"description": "Firmas, atribuciones, certificaciones y evaluación de espadas japonesas.",
+"terms": [
+"mei",
+"kinzogan-mei",
+"papers",
+"kantei",
+"eto"
+]
+},
+{
+"id": "mantenimiento",
+"name": "Mantenimiento",
+"name_en": "Maintenance",
+"description": "Materiales, herramientas y procedimientos para la conservación de la hoja.",
+"terms": [
+"choji-abura",
+"uchiko",
+"nugui"
+]
+},
+{
+"id": "escuelas-tradiciones",
+"name": "Escuelas y tradiciones",
+"name_en": "Schools and Traditions",
+"description": "Provincias, escuelas y tradiciones históricas relacionadas con la fabricación de espadas.",
+"terms": [
+"bizen",
+"yamashiro",
+"soshu",
+"mino",
+"dewa"
+]
+},
+{
+"id": "historia",
+"name": "Historia",
+"name_en": "History",
+"description": "Personajes, instituciones, conceptos y elementos históricos relacionados con el mundo del samurái y el nihontō.",
+"terms": [
+"daimyo",
+"daisho"
+]
+},
+{
+"id": "geografia",
+"name": "Geografía",
+"name_en": "Geography",
+"description": "Provincias, regiones y denominaciones geográficas relacionadas con la tradición japonesa de la espada.",
+"terms": [
+"dewa"
+]
+},
+{
+"id": "inscripciones",
+"name": "Inscripciones",
+"name_en": "Inscriptions",
+"description": "Sistemas de datación, signos y referencias utilizados en inscripciones relacionadas con las espadas japonesas.",
+"terms": [
+"eto"
+]
+},
+{
+"id": "iconografia",
+"name": "Iconografía",
+"name_en": "Iconography",
+"description": "Deidades, símbolos y motivos religiosos o tradicionales representados en las espadas mediante horimono y otros elementos decorativos.",
+"terms": [
+"fudo-myo-o"
+]
 }
-  ],
+],
+
   "entries": [
 
     {
