@@ -1,0 +1,963 @@
+{
+  "metadata": {
+    "title": "Japanese Sword Glossary",
+    "title_es": "Glosario del Nihontō",
+    "description": "Glosario visual e interactivo de terminología relacionada con el nihontō, la espada japonesa.",
+    "version": "1.0",
+    "language": "es",
+    "secondary_language": "en",
+    "created": "2026",
+    "author": "MauricioF2026"
+  },
+
+  "categories": [
+    {
+      "id": "anatomia",
+      "name": "Anatomía",
+      "name_en": "Anatomy",
+      "description": "Partes y elementos físicos de la hoja japonesa.",
+      "terms": [
+        "kissaki",
+        "nakago",
+        "ha",
+        "mune",
+        "shinogi"
+      ]
+    },
+
+    {
+      "id": "sugata",
+      "name": "Sugata",
+      "name_en": "Blade Shape",
+      "description": "Forma general, proporciones y características geométricas de la hoja.",
+      "terms": [
+        "sori",
+        "funbari",
+        "mihaba",
+        "kasane"
+      ]
+    },
+
+    {
+      "id": "jihada",
+      "name": "Jihada",
+      "name_en": "Jihada",
+      "description": "Textura y estructura visible del acero en la superficie de la hoja.",
+      "terms": [
+        "itame",
+        "mokume",
+        "masame",
+        "ayasugi"
+      ]
+    },
+
+    {
+      "id": "hamon",
+      "name": "Hamon",
+      "name_en": "Hamon",
+      "description": "Patrones producidos por el proceso de temple y visibles en el área del filo.",
+      "terms": [
+        "nie",
+        "nioi",
+        "ashi",
+        "choji",
+        "gunome"
+      ]
+    },
+
+    {
+      "id": "boshi",
+      "name": "Boshi",
+      "name_en": "Boshi",
+      "description": "Configuración del hamon dentro del kissaki.",
+      "terms": [
+        "yakizume",
+        "kaen",
+        "komaru",
+        "jizo"
+      ]
+    },
+
+    {
+      "id": "horimono",
+      "name": "Horimono",
+      "name_en": "Blade Carvings",
+      "description": "Grabados, canales y tallas realizados sobre la hoja.",
+      "terms": [
+        "bo-hi",
+        "soe-hi",
+        "bonji"
+      ]
+    },
+
+    {
+      "id": "forja",
+      "name": "Forja",
+      "name_en": "Forging",
+      "description": "Materiales, técnicas y procesos relacionados con la fabricación de la espada.",
+      "terms": [
+        "tamahagane",
+        "kitae",
+        "tsukurikomi"
+      ]
+    },
+
+    {
+      "id": "monturas",
+      "name": "Monturas",
+      "name_en": "Mountings",
+      "description": "Elementos de la koshirae y componentes de la montura.",
+      "terms": [
+        "tsuka",
+        "tsuba",
+        "fuchi",
+        "kashira"
+      ]
+    },
+
+    {
+      "id": "firmas-tasacion",
+      "name": "Firmas y tasación",
+      "name_en": "Signatures and Appraisal",
+      "description": "Firmas, atribuciones, certificaciones y evaluación de espadas japonesas.",
+      "terms": [
+        "mei",
+        "kinzogan-mei",
+        "papers",
+        "kantei"
+      ]
+    },
+
+    {
+      "id": "mantenimiento",
+      "name": "Mantenimiento",
+      "name_en": "Maintenance",
+      "description": "Materiales, herramientas y procedimientos para la conservación de la hoja.",
+      "terms": [
+        "choji-abura",
+        "uchiko",
+        "nugui"
+      ]
+    },
+
+    {
+      "id": "escuelas-tradiciones",
+      "name": "Escuelas y tradiciones",
+      "name_en": "Schools and Traditions",
+      "description": "Provincias, escuelas y tradiciones históricas relacionadas con la fabricación de espadas.",
+      "terms": [
+        "bizen",
+        "yamashiro",
+        "soshu",
+        "mino"
+      ]
+    }
+  ],
+
+  "entries": [
+
+    {
+      "id": "ara-nie",
+      "term": "Ara-nie",
+      "kanji": "荒沸",
+      "romaji": "Ara-nie",
+      "english": "Large nie crystals",
+      "spanish": "Grandes cristales de nie.",
+      "category": "hamon",
+      "tags": [
+        "nie",
+        "hamon",
+        "yakiba"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie",
+        "nioi",
+        "hamon",
+        "chikei"
+      ],
+      "deepening": [
+        "Estudiar qué es el nie.",
+        "Comparar nie y nioi.",
+        "Observar ara-nie en fotografías de hojas japonesas.",
+        "Estudiar la relación entre nie y la estructura del hamon."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "ashi",
+      "term": "Ashi",
+      "kanji": "足",
+      "romaji": "Ashi",
+      "english": "Literally legs, usually nioi, extending from the hamon towards the cutting edge.",
+      "spanish": "Literalmente, «piernas». Formaciones, generalmente de nioi, que se extienden desde el hamon hacia el filo.",
+      "category": "hamon",
+      "tags": [
+        "hamon",
+        "nioi",
+        "nie",
+        "yakiba"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hamon",
+        "nioi",
+        "nie"
+      ],
+      "deepening": [
+        "Estudiar la forma y longitud de los ashi.",
+        "Comparar ashi largos y cortos.",
+        "Comparar ashi con yo.",
+        "Observar ejemplos de ashi en diferentes hamon."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "ashi-kanamono",
+      "term": "Ashi-kanamono",
+      "kanji": "足金物",
+      "romaji": "Ashi-kanamono",
+      "english": "Fittings attached to the saya that attach to the obi-tori.",
+      "spanish": "Herrajes fijados a la saya que sirven para sujetar el obi-tori.",
+      "category": "monturas",
+      "tags": [
+        "saya",
+        "koshirae",
+        "obi-tori",
+        "kanamono"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ashi-ma",
+        "ashi-kawa",
+        "saya",
+        "koshirae"
+      ],
+      "deepening": [
+        "Estudiar la estructura de la saya.",
+        "Investigar el sistema de sujeción obi-tori.",
+        "Comparar diferentes tipos de kanamono."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "ashi-kawa",
+      "term": "Ashi-kawa",
+      "kanji": "足革",
+      "romaji": "Ashi-kawa",
+      "english": "Fixed length leather obi-tori straps in the case of ito-maki-tachi koshirae.",
+      "spanish": "Correas de cuero de longitud fija utilizadas como obi-tori en determinadas koshirae de ito-maki-tachi.",
+      "category": "monturas",
+      "tags": [
+        "koshirae",
+        "ito-maki-tachi",
+        "obi-tori",
+        "saya"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ashi-kanamono",
+        "ashi-ma",
+        "koshirae"
+      ],
+      "deepening": [
+        "Estudiar las características del ito-maki-tachi.",
+        "Investigar el sistema obi-tori.",
+        "Comparar diferentes tipos de koshirae."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "ashi-ma",
+      "term": "Ashi-ma",
+      "kanji": "足間",
+      "romaji": "Ashi-ma",
+      "english": "The space between the two ashi-kanamono.",
+      "spanish": "Espacio entre los dos ashi-kanamono.",
+      "category": "monturas",
+      "tags": [
+        "ashi-kanamono",
+        "saya",
+        "koshirae"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ashi-kanamono",
+        "ashi-kawa"
+      ],
+      "deepening": [
+        "Estudiar la disposición de los kanamono en la saya.",
+        "Observar ejemplos de koshirae tradicionales."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "ayasugi-hada",
+      "term": "Ayasugi-hada",
+      "kanji": "綾杉肌",
+      "romaji": "Ayasugi-hada",
+      "english": "Undulating grain pattern in the ji resembling a Japanese cedar grain pattern.",
+      "spanish": "Patrón ondulante del grano en el ji que recuerda al veteado de un cedro japonés.",
+      "category": "jihada",
+      "tags": [
+        "jihada",
+        "hada",
+        "ji",
+        "gassan"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "jihada",
+        "mokume-hada",
+        "itame-hada",
+        "masame-hada"
+      ],
+      "deepening": [
+        "Estudiar la estructura del jihada.",
+        "Comparar ayasugi-hada con mokume-hada.",
+        "Investigar su relación con la tradición Gassan.",
+        "Observar ejemplos fotográficos de ayasugi-hada."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bakufu",
+      "term": "Bakufu",
+      "kanji": "幕府",
+      "romaji": "Bakufu",
+      "english": "Tent government",
+      "spanish": "Gobierno de tiendas de campaña; término utilizado para designar al gobierno militar del shōgun.",
+      "category": "escuelas-tradiciones",
+      "tags": [
+        "historia",
+        "samurai",
+        "shogun",
+        "japon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bakumatsu",
+        "bushi"
+      ],
+      "deepening": [
+        "Estudiar la historia de los diferentes bakufu.",
+        "Investigar la relación entre el shōgun y los bushi.",
+        "Relacionar los períodos políticos con la evolución del nihontō."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bakumatsu",
+      "term": "Bakumatsu",
+      "kanji": "幕末",
+      "romaji": "Bakumatsu",
+      "english": "An era in the late Edo period 1853-1867",
+      "spanish": "Período final del período Edo, aproximadamente entre 1853 y 1867.",
+      "category": "escuelas-tradiciones",
+      "tags": [
+        "edo",
+        "historia",
+        "shinshinto",
+        "bakufu"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bakufu",
+        "bushi"
+      ],
+      "deepening": [
+        "Estudiar la transición del Edo al Meiji.",
+        "Investigar la producción de espadas durante el Bakumatsu.",
+        "Estudiar la tradición Shinshintō."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "banzashi-daisho",
+      "term": "Banzashi-daishō",
+      "kanji": "番差大小",
+      "romaji": "Banzashi-daishō",
+      "english": "A pair of swords in matching mountings. The scabbards were plain black lacquer with horn fittings. The handle had a horn pommel, and the base had a shakudo-nanko fitting (fuchi), with plain black brocade wrap over a white ray-skin base. Other fittings, sword guard, the decorative handgrips (menuki), and other utensils (kogai and kozuka) were also made out of a gold and copper alloy called shakudo.",
+      "spanish": "Par de espadas con monturas a juego. Las vainas eran de laca negra sencilla con herrajes de cuerno. La empuñadura tenía un pomo de cuerno y un fuchi de shakudō-nankō. El tsuka estaba envuelto con brocado negro sobre una base de piel de raya blanca. Otros elementos, como la tsuba, los menuki, el kogai y el kozuka, también podían estar realizados en shakudō, una aleación de cobre y oro.",
+      "category": "monturas",
+      "tags": [
+        "daisho",
+        "koshirae",
+        "tsuka",
+        "tsuba",
+        "fuchi",
+        "menuki",
+        "kogai",
+        "kozuka",
+        "shakudo"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "koshirae",
+        "daisho",
+        "tsuka",
+        "tsuba"
+      ],
+      "deepening": [
+        "Estudiar la estructura del daishō.",
+        "Investigar las características del shakudō.",
+        "Estudiar los diferentes componentes de una koshirae.",
+        "Comparar diferentes estilos de montura."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bizen",
+      "term": "Bizen",
+      "kanji": "備前",
+      "romaji": "Bizen",
+      "english": "Archaic province of Japan, modern day Okayama prefecture",
+      "spanish": "Antigua provincia de Japón, correspondiente aproximadamente a la actual prefectura de Okayama.",
+      "category": "escuelas-tradiciones",
+      "tags": [
+        "provincia",
+        "okayama",
+        "bizen-to",
+        "osafune",
+        "tradicion"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bizen-to",
+        "bizen-zori",
+        "osafune"
+      ],
+      "deepening": [
+        "Estudiar la geografía histórica de Bizen.",
+        "Estudiar las principales escuelas de Bizen.",
+        "Investigar la tradición Osafune.",
+        "Comparar Bizen con Yamashiro, Sōshū y Mino."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bizen-to",
+      "term": "Bizen-tō",
+      "kanji": "備前刀",
+      "romaji": "Bizen-tō",
+      "english": "Swords produced in Bizen",
+      "spanish": "Espadas producidas en la antigua provincia de Bizen.",
+      "category": "escuelas-tradiciones",
+      "tags": [
+        "bizen",
+        "provincia",
+        "osafune",
+        "sugata",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bizen",
+        "bizen-zori",
+        "sugata",
+        "hamon"
+      ],
+      "deepening": [
+        "Estudiar las características del sugata de Bizen.",
+        "Observar los hamon de las diferentes escuelas de Bizen.",
+        "Estudiar la evolución de Bizen desde el período Heian hasta Muromachi.",
+        "Investigar la tradición Osafune."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bizen-zori",
+      "term": "Bizen-zori",
+      "kanji": "備前反り",
+      "romaji": "Bizen-zori",
+      "english": "Deep curvature close to the tang area of the sword; also known as koshi-zori",
+      "spanish": "Curvatura profunda situada cerca de la zona del nakago; también conocida como koshi-zori.",
+      "category": "sugata",
+      "tags": [
+        "sori",
+        "koshi-zori",
+        "bizen",
+        "sugata"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bizen",
+        "sori",
+        "koshi-zori",
+        "sugata"
+      ],
+      "deepening": [
+        "Estudiar los diferentes tipos de sori.",
+        "Comparar koshi-zori y torii-zori.",
+        "Observar la relación entre sori y período histórico.",
+        "Estudiar el sugata característico de Bizen."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bo-hi",
+      "term": "Bō-hi",
+      "kanji": "棒樋",
+      "romaji": "Bō-hi",
+      "english": "Long groove, carved into the blade, often mistakenly referred to as a blood groove",
+      "spanish": "Larga acanaladura tallada en la hoja, a menudo llamada erróneamente «canal de sangre».",
+      "category": "horimono",
+      "tags": [
+        "hi",
+        "horimono",
+        "blade",
+        "carving"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "horimono",
+        "soe-hi",
+        "futasuji-hi"
+      ],
+      "deepening": [
+        "Estudiar los diferentes tipos de hi.",
+        "Comparar bō-hi con soe-hi.",
+        "Investigar la función estructural y estética de los hi.",
+        "Observar ejemplos de horimono."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bonji",
+      "term": "Bonji",
+      "kanji": "梵字",
+      "romaji": "Bonji",
+      "english": "Sanskrit characters carved into the blade invoking Buddhist deities.",
+      "spanish": "Caracteres sánscritos tallados en la hoja, asociados a deidades budistas.",
+      "category": "horimono",
+      "tags": [
+        "horimono",
+        "budismo",
+        "sanskrito",
+        "carving"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "horimono",
+        "bo-hi"
+      ],
+      "deepening": [
+        "Estudiar el significado de los bonji.",
+        "Investigar su relación con el budismo japonés.",
+        "Comparar bonji con otros tipos de horimono.",
+        "Identificar los caracteres presentes en diferentes hojas."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "boshi",
+      "term": "Boshi",
+      "kanji": "帽子",
+      "romaji": "Bōshi",
+      "english": "The hamon formed within the kissaki",
+      "spanish": "La configuración del hamon dentro del kissaki.",
+      "category": "boshi",
+      "tags": [
+        "kissaki",
+        "hamon",
+        "yakiba",
+        "boshi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "kissaki",
+        "hamon",
+        "yakizume",
+        "kaen",
+        "komaru",
+        "jizo"
+      ],
+      "deepening": [
+        "Estudiar los diferentes tipos de boshi.",
+        "Observar su relación con el hamon.",
+        "Comparar boshi entre diferentes escuelas.",
+        "Estudiar la relación entre boshi y kissaki."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bo-utsuri",
+      "term": "Bō-utsuri",
+      "kanji": "棒映り",
+      "romaji": "Bō-utsuri",
+      "english": "A straight formation of utsuri",
+      "spanish": "Una formación recta de utsuri.",
+      "category": "jihada",
+      "tags": [
+        "utsuri",
+        "jihada",
+        "bizen",
+        "ji"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "utsuri",
+        "jihada",
+        "bizen"
+      ],
+      "deepening": [
+        "Estudiar qué es el utsuri.",
+        "Comparar bō-utsuri con otros tipos de utsuri.",
+        "Investigar la relación entre utsuri y las tradiciones de Bizen."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bu",
+      "term": "Bu",
+      "kanji": "分",
+      "romaji": "Bu",
+      "english": "Japanese imperial form of measurement (10 bu = 1 sun)",
+      "spanish": "Unidad tradicional japonesa de medida; 10 bu equivalen a 1 sun.",
+      "category": "sugata",
+      "tags": [
+        "medidas",
+        "unidades",
+        "sun",
+        "blade"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "sun",
+        "sugata",
+        "mihaba",
+        "kasane"
+      ],
+      "deepening": [
+        "Estudiar las unidades tradicionales japonesas.",
+        "Aprender las medidas utilizadas para describir una hoja.",
+        "Comparar bu, sun y shaku."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "bushi",
+      "term": "Bushi",
+      "kanji": "武士",
+      "romaji": "Bushi",
+      "english": "Another term for samurai – the warrior class",
+      "spanish": "Otro término para samurái; miembro de la clase guerrera.",
+      "category": "escuelas-tradiciones",
+      "tags": [
+        "samurai",
+        "warrior",
+        "historia",
+        "japon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "bakufu",
+        "bakumatsu"
+      ],
+      "deepening": [
+        "Estudiar la evolución histórica de los bushi.",
+        "Investigar la relación entre bushi y nihontō.",
+        "Estudiar la transformación de la clase guerrera durante los períodos Edo y Meiji."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "chikei",
+      "term": "Chikei",
+      "kanji": "地景",
+      "romaji": "Chikei",
+      "english": "A curved line of nie, seen in the ji",
+      "spanish": "Línea curva formada por nie que aparece en el ji.",
+      "category": "jihada",
+      "tags": [
+        "nie",
+        "ji",
+        "jihada",
+        "chikei"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie",
+        "jihada",
+        "ji"
+      ],
+      "deepening": [
+        "Estudiar la diferencia entre chikei y jihada.",
+        "Observar la interacción entre chikei, nie y ji.",
+        "Comparar ejemplos de diferentes tradiciones."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "choji-abura",
+      "term": "Chōji abura",
+      "kanji": "丁子油",
+      "romaji": "Chōji abura",
+      "english": "Clove oil, used for preserving blades",
+      "spanish": "Aceite de clavo utilizado para conservar las hojas.",
+      "category": "mantenimiento",
+      "tags": [
+        "mantenimiento",
+        "aceite",
+        "conservacion",
+        "hoja"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nugui",
+        "uchiko",
+        "maintenance"
+      ],
+      "deepening": [
+        "Estudiar el procedimiento tradicional de mantenimiento.",
+        "Aprender cómo se limpia correctamente una hoja.",
+        "Investigar los materiales utilizados en el mantenimiento del nihontō.",
+        "Comparar diferentes aceites de conservación."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "choji-ashi",
+      "term": "Chōji ashi",
+      "kanji": "丁子足",
+      "romaji": "Chōji ashi",
+      "english": "Clove-shaped ashi",
+      "spanish": "Ashi con forma de clavo de olor.",
+      "category": "hamon",
+      "tags": [
+        "ashi",
+        "choji",
+        "hamon",
+        "nioi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ashi",
+        "choji-midare",
+        "hamon"
+      ],
+      "deepening": [
+        "Estudiar qué es un ashi.",
+        "Comparar chōji ashi con otros tipos de ashi.",
+        "Observar su relación con el choji midare."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "choji-midare",
+      "term": "Chōji midare",
+      "kanji": "丁子乱れ",
+      "romaji": "Chōji midare",
+      "english": "A hamon consisting of choji shapes, but the overall line of the hamon has no definable form.",
+      "spanish": "Hamon compuesto por formas de chōji, pero cuya línea general no presenta una forma claramente definida.",
+      "category": "hamon",
+      "tags": [
+        "hamon",
+        "choji",
+        "midare",
+        "nie",
+        "nioi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "choji-ashi",
+        "choji-utsuri",
+        "choji-midare-komi",
+        "hamon"
+      ],
+      "deepening": [
+        "Estudiar las formas de chōji.",
+        "Comparar chōji midare con gunome midare.",
+        "Observar la estructura del hamon en fotografías de hojas.",
+        "Estudiar las escuelas donde aparece este tipo de hamon."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "choji-midare-komi",
+      "term": "Chōji midare komi",
+      "kanji": "丁子乱れ込み",
+      "romaji": "Chōji midare komi",
+      "english": "A choji midare hamon that continues into the kissaki",
+      "spanish": "Un hamon de tipo chōji midare que continúa hacia el kissaki.",
+      "category": "hamon",
+      "tags": [
+        "choji",
+        "hamon",
+        "kissaki",
+        "boshi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "choji-midare",
+        "boshi",
+        "kissaki"
+      ],
+      "deepening": [
+        "Estudiar la transición del hamon hacia el kissaki.",
+        "Comparar chōji midare y chōji midare komi.",
+        "Observar la relación entre hamon y boshi."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "choji-utsuri",
+      "term": "Chōji utsuri",
+      "kanji": "丁子映り",
+      "romaji": "Chōji utsuri",
+      "english": "Utsuri in the pattern of choji",
+      "spanish": "Utsuri con un patrón semejante al chōji.",
+      "category": "jihada",
+      "tags": [
+        "utsuri",
+        "choji",
+        "jihada",
+        "bizen"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "utsuri",
+        "choji-midare",
+        "bizen"
+      ],
+      "deepening": [
+        "Estudiar el concepto de utsuri.",
+        "Comparar chōji utsuri con bō-utsuri.",
+        "Investigar el utsuri característico de las tradiciones de Bizen."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "chokuto",
+      "term": "Chokutō",
+      "kanji": "直刀",
+      "romaji": "Chokutō",
+      "english": "A straight sword, but similar in construction to the tachi",
+      "spanish": "Espada recta, de construcción semejante a la tachi.",
+      "category": "sugata",
+      "tags": [
+        "sugata",
+        "straight-sword",
+        "tachi",
+        "historia"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "tachi",
+        "sugata"
+      ],
+      "deepening": [
+        "Estudiar las primeras espadas japonesas.",
+        "Comparar chokutō y tachi.",
+        "Investigar la aparición de la curvatura en las espadas japonesas."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "chu-kissaki",
+      "term": "Chū-kissaki",
+      "kanji": "中切先",
+      "romaji": "Chū-kissaki",
+      "english": "A medium sized kissaki, in relation to the overall size of the blade",
+      "spanish": "Kissaki de tamaño medio en relación con las dimensiones generales de la hoja.",
+      "category": "anatomia",
+      "tags": [
+        "kissaki",
+        "sugata",
+        "chu-kissaki"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "kissaki",
+        "ko-kissaki",
+        "o-kissaki",
+        "boshi"
+      ],
+      "deepening": [
+        "Comparar chū-kissaki, ko-kissaki y ō-kissaki.",
+        "Estudiar la relación entre el kissaki y el sugata.",
+        "Observar diferentes formas de kissaki en hojas históricas."
+      ],
+      "sources": []
+    },
+
+    {
+      "id": "chu-suguha",
+      "term": "Chū-suguha",
+      "kanji": "中直刃",
+      "romaji": "Chū-suguha",
+      "english": "A medium-sized straight hamon",
+      "spanish": "Hamon recto de tamaño medio.",
+      "category": "hamon",
+      "tags": [
+        "suguha",
+        "hamon",
+        "chu-suguha"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "suguha",
+        "hamon"
+      ],
+      "deepening": [
+        "Estudiar el concepto de suguha.",
+        "Comparar chū-suguha con ko-suguha y hiro-suguha.",
+        "Observar diferencias de suguha entre distintas escuelas."
+      ],
+      "sources": []
+    }
+
+  ]
+}
