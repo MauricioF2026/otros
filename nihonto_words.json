@@ -141,9 +141,8 @@
         "soshu",
         "mino"
       ]
-    }
-  ],
-{
+    },
+  {
   "id": "historia",
   "name": "Historia",
   "name_en": "History",
@@ -179,7 +178,8 @@
   "terms": [
     "fudo-myo-o"
   ]
-},
+}
+  ],
   "entries": [
 
     {
