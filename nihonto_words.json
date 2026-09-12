@@ -4654,7 +4654,1405 @@
     "Comparar diferentes formas de kurikata."
   ],
   "sources": []
-}
+},
+        {
+      "id": "machi",
+      "term": "Machi",
+      "kanji": "区",
+      "romaji": "Machi",
+      "english": "The notches that mark the end of the mune and the end of the cutting edge",
+      "spanish": "Las muescas que marcan el final del mune (mune-machi) y el final del filo (ha-machi).",
+      "category": "anatomia",
+      "subcategory": "Machi",
+      "definition": "Las dos muescas de la hoja que señalan la transición entre el nakago y la hoja: mune-machi en el lado del mune y ha-machi en el lado del filo.",
+      "recognition": [
+        "La mune-machi marca el final del mune.",
+        "La ha-machi marca el final del filo.",
+        "Ambas se encuentran en la zona de transición entre la hoja y el nakago."
+      ],
+      "tags": [
+        "machi",
+        "区",
+        "mune-machi",
+        "ha-machi",
+        "nakago"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mune-machi",
+        "ha-machi",
+        "nakago"
+      ],
+      "deepening": [
+        "Estudiar la posición de la mune-machi y la ha-machi.",
+        "Observar cómo las machi determinan el punto de medición del nagasa.",
+        "Comparar diferentes formas de machi."
+      ],
+      "sources": []
+    },
+    {
+      "id": "maru-dome",
+      "term": "Maru-dome",
+      "kanji": "丸止め",
+      "romaji": "Maru-dome",
+      "english": "A carved groove end that is rounded",
+      "spanish": "Extremo redondeado de una ranura tallada.",
+      "category": "horimono",
+      "subcategory": "Hi",
+      "definition": "Terminación redondeada de una ranura o hi tallada en la hoja.",
+      "recognition": [
+        "El extremo de la ranura presenta una forma redondeada.",
+        "Se encuentra en la terminación de un hi u otra ranura tallada.",
+        "La forma de la terminación permite distinguirla de otras terminaciones."
+      ],
+      "tags": [
+        "maru-dome",
+        "丸止め",
+        "hi",
+        "horimono"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hi",
+        "kaku-tome",
+        "kaki-toshi",
+        "kaki-nagashi"
+      ],
+      "deepening": [
+        "Comparar maru-dome con kaku-tome.",
+        "Estudiar las diferentes terminaciones de los hi.",
+        "Observar ejemplos de horimono con extremos redondeados."
+      ],
+      "sources": []
+    },
+    {
+      "id": "maru-mune",
+      "term": "Maru-mune",
+      "kanji": "丸棟",
+      "romaji": "Maru-mune",
+      "english": "A mune that is rounded",
+      "spanish": "Mune de sección redondeada.",
+      "category": "anatomia",
+      "subcategory": "Mune",
+      "definition": "Tipo de mune cuya sección transversal presenta una forma redondeada.",
+      "recognition": [
+        "El mune presenta una sección curva y redondeada.",
+        "No forma una cresta angular marcada.",
+        "Es una de las formas tradicionales de sección del mune."
+      ],
+      "tags": [
+        "maru-mune",
+        "丸棟",
+        "mune"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mune",
+        "iori-mune",
+        "mitsu-mune"
+      ],
+      "deepening": [
+        "Comparar maru-mune con iori-mune.",
+        "Estudiar las diferentes formas de mune."
+      ],
+      "sources": []
+    },
+    {
+      "id": "masame-hada",
+      "term": "Masame-hada",
+      "kanji": "柾目肌",
+      "romaji": "Masame-hada",
+      "english": "A straight grain pattern in the hada",
+      "spanish": "Patrón de veta recta en la hada.",
+      "category": "jihada",
+      "subcategory": "",
+      "definition": "Tipo de jihada caracterizado por un patrón de veta recta que se extiende longitudinalmente por la hoja.",
+      "recognition": [
+        "Presenta líneas de grano relativamente rectas.",
+        "El patrón suele seguir la dirección longitudinal de la hoja.",
+        "Es una forma de estructura visible del acero."
+      ],
+      "tags": [
+        "masame-hada",
+        "柾目肌",
+        "masame",
+        "hada",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hada",
+        "jihada",
+        "itame-hada",
+        "mokume-hada"
+      ],
+      "deepening": [
+        "Comparar masame-hada con itame-hada y mokume-hada.",
+        "Estudiar las diferentes direcciones del grano en la jihada."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mei",
+      "term": "Mei",
+      "kanji": "銘",
+      "romaji": "Mei",
+      "english": "Signature or inscription on the tang",
+      "spanish": "Firma o inscripción realizada en el nakago.",
+      "category": "firmas-tasacion",
+      "subcategory": "Mei",
+      "definition": "Firma, inscripción o información grabada en el nakago de una espada japonesa.",
+      "recognition": [
+        "Se encuentra normalmente en el nakago.",
+        "Puede indicar el nombre del herrero o información relacionada con la espada.",
+        "La lectura y autenticidad del mei son importantes para la identificación."
+      ],
+      "tags": [
+        "mei",
+        "銘",
+        "nakago",
+        "firma",
+        "inscripcion"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nakago",
+        "gimei",
+        "signature"
+      ],
+      "deepening": [
+        "Estudiar los diferentes tipos de mei.",
+        "Aprender a observar la posición y características de una firma.",
+        "Comparar mei auténticos con gimei."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mekugi",
+      "term": "Mekugi",
+      "kanji": "目釘",
+      "romaji": "Mekugi",
+      "english": "The bamboo peg used to secure the handle onto the tang",
+      "spanish": "Pasador de bambú utilizado para asegurar la tsuka al nakago.",
+      "category": "monturas",
+      "subcategory": "Tsuka",
+      "definition": "Pasador, normalmente de bambú, que atraviesa el mekugi-ana y asegura la tsuka al nakago.",
+      "recognition": [
+        "Está fabricado tradicionalmente de bambú.",
+        "Atraviesa el mekugi-ana del nakago.",
+        "Ayuda a fijar la tsuka al nakago."
+      ],
+      "tags": [
+        "mekugi",
+        "目釘",
+        "tsuka",
+        "nakago",
+        "mekugi-ana"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mekugi-ana",
+        "tsuka",
+        "nakago"
+      ],
+      "deepening": [
+        "Estudiar la construcción tradicional del mekugi.",
+        "Observar cómo el mekugi fija la tsuka al nakago."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mekugi-ana",
+      "term": "Mekugi-ana",
+      "kanji": "目釘穴",
+      "romaji": "Mekugi-ana",
+      "english": "The hole on the tang where the mekugi is inserted",
+      "spanish": "Orificio del nakago donde se introduce el mekugi.",
+      "category": "anatomia",
+      "subcategory": "Nakago",
+      "definition": "Orificio practicado en el nakago destinado a recibir el mekugi que fija la tsuka.",
+      "recognition": [
+        "Se encuentra en el nakago.",
+        "Está atravesado por el mekugi.",
+        "Su posición forma parte de las características del nakago."
+      ],
+      "tags": [
+        "mekugi-ana",
+        "目釘穴",
+        "mekugi",
+        "nakago"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mekugi",
+        "nakago",
+        "tsuka"
+      ],
+      "deepening": [
+        "Estudiar la posición de los mekugi-ana.",
+        "Observar diferentes formas y disposiciones de los mekugi-ana."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mekugi-nuki",
+      "term": "Mekugi-nuki",
+      "kanji": "目釘抜き",
+      "romaji": "Mekugi-nuki",
+      "english": "A tool for removing the mekugi",
+      "spanish": "Herramienta utilizada para extraer el mekugi.",
+      "category": "mantenimiento",
+      "subcategory": "Herramientas",
+      "definition": "Herramienta diseñada para retirar el mekugi de la tsuka durante el desmontaje de la espada.",
+      "recognition": [
+        "Está diseñada para extraer el mekugi.",
+        "Se utiliza durante el desmontaje de la espada.",
+        "Permite retirar el pasador sin necesidad de desmontar otros componentes."
+      ],
+      "tags": [
+        "mekugi-nuki",
+        "目釘抜き",
+        "mekugi",
+        "herramienta"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mekugi",
+        "tsuka"
+      ],
+      "deepening": [
+        "Estudiar las herramientas tradicionales de mantenimiento del nihontō.",
+        "Conocer el procedimiento correcto de desmontaje de la tsuka."
+      ],
+      "sources": []
+    },
+    {
+      "id": "menuki",
+      "term": "Menuki",
+      "kanji": "目貫",
+      "romaji": "Menuki",
+      "english": "Decorative hand grips affixed to both sides of the tsuka",
+      "spanish": "Elementos decorativos fijados a ambos lados de la tsuka.",
+      "category": "monturas",
+      "subcategory": "Tsuka",
+      "definition": "Adornos metálicos colocados tradicionalmente a ambos lados de la tsuka, bajo el ito, que también contribuyen al agarre.",
+      "recognition": [
+        "Se colocan normalmente a ambos lados de la tsuka.",
+        "Quedan sujetos bajo el tsuka-ito.",
+        "Pueden representar animales, plantas, deidades u otros motivos."
+      ],
+      "tags": [
+        "menuki",
+        "目貫",
+        "tsuka",
+        "tsuka-ito"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "tsuka",
+        "tsuka-ito",
+        "koshirae"
+      ],
+      "deepening": [
+        "Estudiar los motivos decorativos de los menuki.",
+        "Comparar diferentes estilos y materiales de menuki.",
+        "Observar su posición bajo el tsuka-ito."
+      ],
+      "sources": []
+    },
+    {
+      "id": "midare-komi",
+      "term": "Midare-komi",
+      "kanji": "乱れ込み",
+      "romaji": "Midare-komi",
+      "english": "A boshi where a midare hamon continues into the kissaki",
+      "spanish": "Boshi en el que un hamon midare continúa hacia el kissaki.",
+      "category": "boshi",
+      "subcategory": "Hataraki",
+      "definition": "Configuración del boshi en la que las ondulaciones del hamon midare continúan dentro del kissaki.",
+      "recognition": [
+        "El hamon presenta un patrón midare.",
+        "La irregularidad continúa hacia el kissaki.",
+        "La continuidad del patrón puede observarse en la zona del boshi."
+      ],
+      "tags": [
+        "midare-komi",
+        "乱れ込み",
+        "boshi",
+        "midare",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "boshi",
+        "midare",
+        "hamon"
+      ],
+      "deepening": [
+        "Comparar midare-komi con otros tipos de boshi.",
+        "Estudiar la continuidad del hamon desde el ha hacia el boshi."
+      ],
+      "sources": []
+    },
+    {
+      "id": "midare",
+      "term": "Midare",
+      "kanji": "乱れ",
+      "romaji": "Midare",
+      "english": "A hamon of irregular form",
+      "spanish": "Hamon de forma irregular u ondulada.",
+      "category": "hamon",
+      "subcategory": "",
+      "definition": "Término general para un hamon de forma irregular u ondulada; en sentido amplio, todos los hamon son midare excepto el suguha.",
+      "recognition": [
+        "Presenta una línea de hamon irregular u ondulada.",
+        "Se diferencia del suguha, que presenta una línea recta.",
+        "Puede adoptar numerosas formas y combinaciones."
+      ],
+      "tags": [
+        "midare",
+        "乱れ",
+        "hamon",
+        "suguha"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hamon",
+        "suguha",
+        "gunome",
+        "choji",
+        "notare"
+      ],
+      "deepening": [
+        "Estudiar las diferentes formas de midare.",
+        "Comparar midare con suguha.",
+        "Analizar gunome, chōji y notare como formas de hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "midare-utsuri",
+      "term": "Midare-utsuri",
+      "kanji": "乱れ映り",
+      "romaji": "Midare-utsuri",
+      "english": "Irregular utsuri",
+      "spanish": "Utsuri de forma irregular.",
+      "category": "jihada",
+      "subcategory": "Utsuri",
+      "definition": "Tipo de utsuri que presenta una forma irregular u ondulada en lugar de una banda claramente uniforme.",
+      "recognition": [
+        "El utsuri presenta una forma irregular.",
+        "Puede mostrar ondulaciones o variaciones en su contorno.",
+        "Se observa en la superficie de la hoja."
+      ],
+      "tags": [
+        "midare-utsuri",
+        "乱れ映り",
+        "utsuri",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "utsuri",
+        "jifu-utsuri"
+      ],
+      "deepening": [
+        "Comparar midare-utsuri con otros tipos de utsuri.",
+        "Estudiar la relación entre utsuri y jihada."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mihaba",
+      "term": "Mihaba",
+      "kanji": "身幅",
+      "romaji": "Mihaba",
+      "english": "The width of a blade measured from the mune to the cutting edge",
+      "spanish": "Anchura de la hoja, medida desde el mune hasta el filo.",
+      "category": "sugata",
+      "subcategory": "Medidas",
+      "definition": "Anchura de la hoja medida transversalmente desde el mune hasta el filo.",
+      "recognition": [
+        "Se mide transversalmente sobre la hoja.",
+        "La medida va desde el mune hasta el filo.",
+        "Es una de las dimensiones fundamentales del sugata."
+      ],
+      "tags": [
+        "mihaba",
+        "身幅",
+        "sugata",
+        "medidas",
+        "mune"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nagasa",
+        "kasane",
+        "sugata"
+      ],
+      "deepening": [
+        "Comparar mihaba con nagasa y kasane.",
+        "Estudiar cómo las proporciones de mihaba influyen en el sugata."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mitsu-gashira",
+      "term": "Mitsu-gashira",
+      "kanji": "三ツ頭",
+      "romaji": "Mitsu-gashira",
+      "english": "The place where the shinogi meets the ko-shinogi and the yokote",
+      "spanish": "Punto donde se encuentran el shinogi, el ko-shinogi y el yokote.",
+      "category": "anatomia",
+      "subcategory": "Kissaki",
+      "definition": "Punto geométrico de la hoja donde convergen el shinogi, el ko-shinogi y el yokote.",
+      "recognition": [
+        "Se encuentra en la zona del kissaki.",
+        "Relaciona el shinogi con el ko-shinogi.",
+        "Coincide con la zona del yokote."
+      ],
+      "tags": [
+        "mitsu-gashira",
+        "三ツ頭",
+        "shinogi",
+        "ko-shinogi",
+        "yokote"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "shinogi",
+        "ko-shinogi",
+        "yokote",
+        "kissaki"
+      ],
+      "deepening": [
+        "Estudiar la geometría del kissaki.",
+        "Observar la relación entre yokote, shinogi y ko-shinogi."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mitsu-kado",
+      "term": "Mitsu-kado",
+      "kanji": "三ツ角",
+      "romaji": "Mitsu-kado",
+      "english": "The point where the yokote, ha-saki, and fukura meet",
+      "spanish": "Punto donde se encuentran el yokote, el ha-saki y el fukura.",
+      "category": "anatomia",
+      "subcategory": "Kissaki",
+      "definition": "Punto de encuentro del yokote, el ha-saki y el fukura en la zona del kissaki.",
+      "recognition": [
+        "Se encuentra en la zona del kissaki.",
+        "Relaciona el yokote con el ha-saki.",
+        "Se encuentra junto al inicio de la curva del fukura."
+      ],
+      "tags": [
+        "mitsu-kado",
+        "三ツ角",
+        "yokote",
+        "ha-saki",
+        "fukura"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "yokote",
+        "fukura",
+        "kissaki"
+      ],
+      "deepening": [
+        "Estudiar la geometría del kissaki.",
+        "Observar la relación entre yokote, fukura y ha-saki."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mitsu-mune",
+      "term": "Mitsu-mune",
+      "kanji": "三ツ棟",
+      "romaji": "Mitsu-mune",
+      "english": "A mune with three sides",
+      "spanish": "Mune formado por tres caras.",
+      "category": "anatomia",
+      "subcategory": "Mune",
+      "definition": "Tipo de mune cuya sección presenta tres caras o superficies.",
+      "recognition": [
+        "Presenta tres caras claramente diferenciadas.",
+        "Su sección transversal es angular.",
+        "Es una forma particular de mune."
+      ],
+      "tags": [
+        "mitsu-mune",
+        "三ツ棟",
+        "mune"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mune",
+        "maru-mune",
+        "iori-mune"
+      ],
+      "deepening": [
+        "Comparar mitsu-mune con maru-mune e iori-mune.",
+        "Estudiar las diferentes secciones transversales del mune."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mokume-hada",
+      "term": "Mokume-hada",
+      "kanji": "木目肌",
+      "romaji": "Mokume-hada",
+      "english": "A grain pattern in the hada similar to itame, but more rounded",
+      "spanish": "Patrón de grano en la hada similar al itame, pero de formas más redondeadas.",
+      "category": "jihada",
+      "subcategory": "",
+      "definition": "Tipo de jihada semejante al itame, pero caracterizado por formas de grano más redondeadas que recuerdan a los anillos de la madera.",
+      "recognition": [
+        "Presenta formas de grano redondeadas.",
+        "Tiene semejanza con el itame-hada.",
+        "Puede recordar visualmente a los anillos de la madera."
+      ],
+      "tags": [
+        "mokume-hada",
+        "木目肌",
+        "mokume",
+        "hada",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "itame-hada",
+        "hada",
+        "jihada"
+      ],
+      "deepening": [
+        "Comparar mokume-hada con itame-hada.",
+        "Estudiar las diferentes estructuras de la jihada.",
+        "Observar ejemplos de mokume en hojas de diferentes escuelas."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mune-machi",
+      "term": "Mune-machi",
+      "kanji": "棟区",
+      "romaji": "Mune-machi",
+      "english": "See machi",
+      "spanish": "Véase Machi; muesca que marca el final del mune.",
+      "category": "anatomia",
+      "subcategory": "Machi",
+      "definition": "Muesca situada en el lado del mune que marca la transición entre la hoja y el nakago.",
+      "recognition": [
+        "Se encuentra en el lado del mune.",
+        "Marca el final del mune.",
+        "Forma parte de las machi del nakago."
+      ],
+      "tags": [
+        "mune-machi",
+        "棟区",
+        "machi",
+        "mune",
+        "nakago"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "machi",
+        "ha-machi",
+        "nakago"
+      ],
+      "deepening": [
+        "Comparar mune-machi con ha-machi.",
+        "Estudiar la función de las machi en la geometría de la espada."
+      ],
+      "sources": []
+    },
+    {
+      "id": "monouchi",
+      "term": "Monouchi",
+      "kanji": "物打",
+      "romaji": "Monouchi",
+      "english": "One-third of the blade from the yokote towards the tang",
+      "spanish": "Zona de aproximadamente un tercio de la hoja desde el yokote hacia el nakago.",
+      "category": "anatomia",
+      "subcategory": "Hoja",
+      "definition": "Zona de la hoja situada aproximadamente en el tercio comprendido desde el yokote hacia el nakago, considerada una de las áreas principales de impacto.",
+      "recognition": [
+        "Se encuentra entre el yokote y el centro de la hoja.",
+        "Comprende aproximadamente un tercio de la longitud de la hoja.",
+        "Es una zona asociada al área efectiva de corte."
+      ],
+      "tags": [
+        "monouchi",
+        "物打",
+        "yokote",
+        "hoja"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "yokote",
+        "kissaki",
+        "nagasa"
+      ],
+      "deepening": [
+        "Estudiar las divisiones funcionales de la hoja.",
+        "Observar la relación entre monouchi y kissaki."
+      ],
+      "sources": []
+    },
+    {
+      "id": "moroha-dukuri",
+      "term": "Moroha-dukuri",
+      "kanji": "諸刃造り",
+      "romaji": "Moroha-zukuri",
+      "english": "An asymmetrical blade with a cutting edge on both sides",
+      "spanish": "Hoja asimétrica con filo en ambos lados.",
+      "category": "sugata",
+      "subcategory": "",
+      "definition": "Tipo de construcción de hoja asimétrica que presenta filo en ambos lados, especialmente en la zona del monouchi.",
+      "recognition": [
+        "Presenta filos en ambos lados de la hoja.",
+        "La sección es asimétrica.",
+        "Se diferencia de una hoja convencional de un solo filo."
+      ],
+      "tags": [
+        "moroha-dukuri",
+        "諸刃造り",
+        "moroha-zukuri",
+        "sugata"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "kissaki-moroha-dukuri",
+        "ken",
+        "sugata"
+      ],
+      "deepening": [
+        "Comparar moroha-zukuri con kissaki-moroha-zukuri.",
+        "Estudiar las formas de hoja de doble filo."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mune",
+      "term": "Mune",
+      "kanji": "棟（峰）",
+      "romaji": "Mune / Mine",
+      "english": "The back of the blade",
+      "spanish": "El lomo o dorso de la hoja, opuesto al filo.",
+      "category": "anatomia",
+      "subcategory": "Hoja",
+      "definition": "Parte posterior de la hoja, opuesta al filo, que forma el lomo de la espada.",
+      "recognition": [
+        "Se encuentra en el lado opuesto al filo.",
+        "Forma el dorso de la hoja.",
+        "Su sección puede adoptar diferentes formas, como maru-mune o iori-mune."
+      ],
+      "tags": [
+        "mune",
+        "mine",
+        "棟",
+        "峰"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "maru-mune",
+        "iori-mune",
+        "mitsu-mune",
+        "mune-machi"
+      ],
+      "deepening": [
+        "Estudiar las diferentes formas de mune.",
+        "Comparar mune y ha-saki.",
+        "Observar la relación entre mune y mune-machi."
+      ],
+      "sources": []
+    },
+    {
+      "id": "mu-zori",
+      "term": "Mu-zori",
+      "kanji": "無反り",
+      "romaji": "Mu-zori",
+      "english": "A blade with no curvature",
+      "spanish": "Hoja sin curvatura.",
+      "category": "sugata",
+      "subcategory": "Sori",
+      "definition": "Hoja cuya geometría presenta una curvatura prácticamente inexistente o nula.",
+      "recognition": [
+        "La hoja presenta muy poca o ninguna curvatura.",
+        "El sori es prácticamente inexistente.",
+        "Su perfil se aproxima a una línea recta."
+      ],
+      "tags": [
+        "mu-zori",
+        "無反り",
+        "sori",
+        "sugata"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "sori",
+        "chūkan-zori",
+        "koshi-zori"
+      ],
+      "deepening": [
+        "Comparar mu-zori con los diferentes tipos de sori.",
+        "Estudiar la evolución de la curvatura en el sugata."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nagare-hada",
+      "term": "Nagare-hada",
+      "kanji": "流れ肌",
+      "romaji": "Nagare-hada",
+      "english": "A hada that flows along the blade like a flowing stream",
+      "spanish": "Hada cuyos patrones parecen fluir longitudinalmente a lo largo de la hoja.",
+      "category": "jihada",
+      "subcategory": "",
+      "definition": "Tipo de hada en el que las líneas del grano se orientan de forma fluida y alargada a lo largo de la hoja.",
+      "recognition": [
+        "El grano presenta una orientación longitudinal.",
+        "Las líneas parecen fluir a lo largo de la hoja.",
+        "Puede presentar un aspecto semejante al de una corriente de agua."
+      ],
+      "tags": [
+        "nagare-hada",
+        "流れ肌",
+        "hada",
+        "jihada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hada",
+        "jihada",
+        "masame-hada"
+      ],
+      "deepening": [
+        "Comparar nagare-hada con masame-hada.",
+        "Estudiar las direcciones del grano en la jihada.",
+        "Observar ejemplos de nagare-hada."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nagasa",
+      "term": "Nagasa",
+      "kanji": "長さ",
+      "romaji": "Nagasa",
+      "english": "The blade length measured from the tip to the mune-machi",
+      "spanish": "Longitud de la hoja medida desde la punta hasta la mune-machi.",
+      "category": "sugata",
+      "subcategory": "Medidas",
+      "definition": "Longitud de la hoja medida en línea recta desde el kissaki hasta la mune-machi.",
+      "recognition": [
+        "Se mide desde la punta de la hoja.",
+        "La medición termina en la mune-machi.",
+        "Es una de las medidas fundamentales utilizadas para describir una espada."
+      ],
+      "tags": [
+        "nagasa",
+        "長さ",
+        "mune-machi",
+        "kissaki",
+        "medidas"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mihaba",
+        "kasane",
+        "mune-machi"
+      ],
+      "deepening": [
+        "Comparar nagasa con mihaba y kasane.",
+        "Estudiar los sistemas tradicionales de medición de nihontō."
+      ],
+      "sources": []
+    },
+    {
+      "id": "naginata",
+      "term": "Naginata",
+      "kanji": "薙刀",
+      "romaji": "Naginata",
+      "english": "A Japanese halberd",
+      "spanish": "Arma japonesa de asta larga con una hoja curva.",
+      "category": "historia",
+      "subcategory": "Armas",
+      "definition": "Arma japonesa de asta larga provista de una hoja curva, utilizada históricamente por guerreros y también en determinadas tradiciones de artes marciales.",
+      "recognition": [
+        "Posee una hoja curva montada sobre un asta larga.",
+        "Se diferencia de una espada por su forma de montaje.",
+        "Tuvo un importante uso histórico en Japón."
+      ],
+      "tags": [
+        "naginata",
+        "薙刀",
+        "arma",
+        "polearm"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "naginata-naoshi",
+        "ken",
+        "nihonto"
+      ],
+      "deepening": [
+        "Estudiar la evolución histórica de la naginata.",
+        "Comparar naginata con otras armas de asta japonesas."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nakago",
+      "term": "Nakago",
+      "kanji": "茎",
+      "romaji": "Nakago",
+      "english": "The tang of a blade",
+      "spanish": "Tang o espiga de la hoja que queda dentro de la tsuka.",
+      "category": "anatomia",
+      "subcategory": "Hoja",
+      "definition": "Parte prolongada de la hoja que se introduce en la tsuka y queda normalmente oculta por la empuñadura.",
+      "recognition": [
+        "Se encuentra dentro de la tsuka.",
+        "Contiene normalmente el mekugi-ana.",
+        "Puede llevar el mei y diversas formas de yasurime."
+      ],
+      "tags": [
+        "nakago",
+        "茎",
+        "tsuka",
+        "mekugi-ana",
+        "mei"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "mei",
+        "mekugi-ana",
+        "nakago-jiri",
+        "yasurime"
+      ],
+      "deepening": [
+        "Estudiar las diferentes formas de nakago.",
+        "Analizar mei y yasurime.",
+        "Observar la relación entre nakago y tsuka."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nakago-jiri",
+      "term": "Nakago-jiri",
+      "kanji": "茎尻",
+      "romaji": "Nakago-jiri",
+      "english": "The tip of the tang",
+      "spanish": "Extremo o punta del nakago.",
+      "category": "anatomia",
+      "subcategory": "Nakago",
+      "definition": "Extremo final del nakago, cuya forma constituye una de las características utilizadas para describirlo.",
+      "recognition": [
+        "Es el extremo posterior del nakago.",
+        "Puede presentar diferentes formas.",
+        "Su forma es relevante para la identificación de la hoja."
+      ],
+      "tags": [
+        "nakago-jiri",
+        "茎尻",
+        "nakago"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nakago",
+        "kuri-jiri",
+        "nakago-jiri"
+      ],
+      "deepening": [
+        "Estudiar las diferentes formas de nakago-jiri.",
+        "Comparar kuri-jiri con otras terminaciones del nakago."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nanatsu-gane",
+      "term": "Nanatsu-gane",
+      "kanji": "七ツ金",
+      "romaji": "Nanatsu-gane",
+      "english": "Metal fittings used for adjusting the length of the obi-tori",
+      "spanish": "Elementos metálicos utilizados para ajustar la longitud del obi-tori.",
+      "category": "monturas",
+      "subcategory": "Tachi koshirae",
+      "definition": "Conjunto de elementos metálicos utilizados para regular la longitud del obi-tori; tres se encuentran en el ichi-no-ashi y cuatro en el ni-no-ashi.",
+      "recognition": [
+        "Está compuesto por siete elementos metálicos.",
+        "Tres se encuentran en el ichi-no-ashi.",
+        "Cuatro se encuentran en el ni-no-ashi."
+      ],
+      "tags": [
+        "nanatsu-gane",
+        "七ツ金",
+        "obi-tori",
+        "ichi-no-ashi",
+        "ni-no-ashi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ichi-no-ashi",
+        "ni-no-ashi",
+        "tachi-koshirae"
+      ],
+      "deepening": [
+        "Estudiar los elementos de suspensión de la tachi koshirae.",
+        "Observar la disposición de los siete elementos metálicos."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nanbokucho-period",
+      "term": "Nanbokuchō Period",
+      "kanji": "南北朝時代",
+      "romaji": "Nanbokuchō-jidai",
+      "english": "1333-1392",
+      "spanish": "Período Nanbokuchō, de 1333 a 1392.",
+      "category": "historia",
+      "subcategory": "Períodos",
+      "definition": "Período histórico japonés caracterizado por la existencia de dos cortes imperiales rivales, tradicionalmente fechado entre 1333 y 1392.",
+      "recognition": [
+        "Se desarrolló entre 1333 y 1392.",
+        "Se caracteriza por la rivalidad entre las Cortes del Norte y del Sur.",
+        "Es un período importante en la evolución del nihontō."
+      ],
+      "tags": [
+        "nanbokucho-period",
+        "南北朝時代",
+        "nanbokucho",
+        "historia"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "koto",
+        "no-dachi",
+        "kamakura-period"
+      ],
+      "deepening": [
+        "Estudiar la historia del período Nanbokuchō.",
+        "Analizar los cambios del sugata durante este período.",
+        "Observar la relación entre Nanbokuchō y las grandes hojas de la época."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nashi-ji",
+      "term": "Nashi-ji",
+      "kanji": "梨地",
+      "romaji": "Nashi-ji",
+      "english": "Pear skin",
+      "spanish": "Decoración de superficie con apariencia de piel de pera.",
+      "category": "monturas",
+      "subcategory": "Decoración",
+      "definition": "Acabado decorativo cuya superficie recuerda visualmente a la textura de la piel de una pera.",
+      "recognition": [
+        "Presenta una textura visual granulada.",
+        "Recuerda la superficie de una pera.",
+        "Se encuentra principalmente como acabado decorativo en monturas."
+      ],
+      "tags": [
+        "nashi-ji",
+        "梨地",
+        "monturas",
+        "decoracion"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "koshirae",
+        "saya"
+      ],
+      "deepening": [
+        "Estudiar las técnicas decorativas de las monturas.",
+        "Comparar nashi-ji con otros acabados de saya."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nezumi-ashi",
+      "term": "Nezumi-ashi",
+      "kanji": "鼠足",
+      "romaji": "Nezumi-ashi",
+      "english": "Very small ashi",
+      "spanish": "Ashi muy pequeños.",
+      "category": "hamon",
+      "subcategory": "Hataraki",
+      "definition": "Hataraki del hamon formado por pequeños elementos semejantes a ashi muy cortos y finos.",
+      "recognition": [
+        "Los ashi son extremadamente pequeños.",
+        "Aparecen como pequeñas prolongaciones del hamon.",
+        "Su tamaño reducido da origen al nombre nezumi-ashi, 'patas de ratón'."
+      ],
+      "tags": [
+        "nezumi-ashi",
+        "鼠足",
+        "ashi",
+        "hamon",
+        "hataraki"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ashi",
+        "ko-ashi",
+        "hamon"
+      ],
+      "deepening": [
+        "Comparar nezumi-ashi con ko-ashi.",
+        "Estudiar los diferentes ashi como hataraki del hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nie",
+      "term": "Nie",
+      "kanji": "沸",
+      "romaji": "Nie",
+      "english": "Small martensite crystals individually visible to the naked eye",
+      "spanish": "Pequeños cristales de martensita visibles individualmente a simple vista.",
+      "category": "hamon",
+      "subcategory": "Hataraki",
+      "definition": "Cristales de martensita relativamente grandes y distinguibles individualmente a simple vista, que forman parte de la actividad visible del hamon.",
+      "recognition": [
+        "Los cristales pueden distinguirse individualmente.",
+        "Presentan una apariencia brillante en el hamon.",
+        "Se diferencian del nioi, cuyos componentes no se distinguen individualmente a simple vista."
+      ],
+      "tags": [
+        "nie",
+        "沸",
+        "martensita",
+        "hamon",
+        "nioi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nioi",
+        "ji-nie",
+        "kinsuji",
+        "inazuma"
+      ],
+      "deepening": [
+        "Comparar nie y nioi.",
+        "Estudiar la formación del nie durante el temple.",
+        "Observar diferentes tipos de nie en el hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nie-deki",
+      "term": "Nie-deki",
+      "kanji": "沸出来",
+      "romaji": "Nie-deki",
+      "english": "A blade with a predominantly nie hamon",
+      "spanish": "Hoja cuyo hamon está compuesto predominantemente por nie.",
+      "category": "hamon",
+      "subcategory": "Hamon",
+      "definition": "Descripción de una hoja cuyo hamon presenta predominio de nie frente a nioi.",
+      "recognition": [
+        "El hamon muestra abundante nie.",
+        "Los cristales de nie son claramente perceptibles.",
+        "El carácter del hamon está dominado por una estructura de nie."
+      ],
+      "tags": [
+        "nie-deki",
+        "沸出来",
+        "nie",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie",
+        "nioi-deki",
+        "hamon"
+      ],
+      "deepening": [
+        "Comparar nie-deki con nioi-deki.",
+        "Estudiar cómo nie y nioi determinan el carácter del hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nihonto",
+      "term": "Nihontō",
+      "kanji": "日本刀",
+      "romaji": "Nihontō",
+      "english": "Japanese swords",
+      "spanish": "Espadas japonesas.",
+      "category": "historia",
+      "subcategory": "Espadas japonesas",
+      "definition": "Término general para las espadas japonesas tradicionales.",
+      "recognition": [
+        "El término 日本刀 significa literalmente 'espada japonesa'.",
+        "Incluye diferentes tipos y períodos de espadas japonesas.",
+        "Su estudio comprende tanto la hoja como sus monturas y tradición histórica."
+      ],
+      "tags": [
+        "nihonto",
+        "nihontō",
+        "日本刀",
+        "japanese-sword"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "katana",
+        "wakizashi",
+        "tanto",
+        "koto",
+        "shinto"
+      ],
+      "deepening": [
+        "Estudiar los diferentes tipos de nihontō.",
+        "Conocer la evolución histórica de la espada japonesa.",
+        "Estudiar conjuntamente hoja, koshirae, forja y tradición."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ni-no-ashi",
+      "term": "Ni-no-ashi",
+      "kanji": "二の足",
+      "romaji": "Ni-no-ashi",
+      "english": "The ashi-kanamono furthest away from the saya mouth",
+      "spanish": "El ashi-kanamono situado más alejado de la boca de la saya.",
+      "category": "monturas",
+      "subcategory": "Tachi koshirae",
+      "definition": "El ashi-kanamono de una tachi koshirae que se encuentra más alejado de la boca de la saya.",
+      "recognition": [
+        "Forma parte de los ashi-kanamono.",
+        "Se encuentra más alejado de la boca de la saya que el ichi-no-ashi.",
+        "Forma parte del sistema de suspensión de la tachi koshirae."
+      ],
+      "tags": [
+        "ni-no-ashi",
+        "二の足",
+        "ashi",
+        "kanamono",
+        "saya"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "ichi-no-ashi",
+        "nanatsu-gane",
+        "tachi-koshirae"
+      ],
+      "deepening": [
+        "Comparar ni-no-ashi con ichi-no-ashi.",
+        "Estudiar la disposición de los ashi en una tachi koshirae."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nioi",
+      "term": "Nioi",
+      "kanji": "匂",
+      "romaji": "Nioi",
+      "english": "Martensite crystals not individually distinguishable to the naked eye",
+      "spanish": "Cristales de martensita que no pueden distinguirse individualmente a simple vista.",
+      "category": "hamon",
+      "subcategory": "Hataraki",
+      "definition": "Estructura formada por partículas de martensita demasiado pequeñas para distinguirse individualmente a simple vista, produciendo una apariencia difusa o lechosa.",
+      "recognition": [
+        "Las partículas individuales no se distinguen a simple vista.",
+        "Presenta una apariencia difusa o lechosa.",
+        "Se diferencia del nie, cuyos cristales pueden distinguirse individualmente."
+      ],
+      "tags": [
+        "nioi",
+        "匂",
+        "martensita",
+        "hamon",
+        "nie"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie",
+        "nioi-deki",
+        "nioi-guchi"
+      ],
+      "deepening": [
+        "Comparar nioi con nie.",
+        "Estudiar el aspecto visual del nioi dentro del hamon.",
+        "Observar la diferencia entre nioi y nie en hojas reales."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nioi-deki",
+      "term": "Nioi-deki",
+      "kanji": "匂出来",
+      "romaji": "Nioi-deki",
+      "english": "A sword with a hamon consisting mainly of nioi",
+      "spanish": "Espada cuyo hamon está compuesto principalmente por nioi.",
+      "category": "hamon",
+      "subcategory": "Hamon",
+      "definition": "Descripción de una hoja cuyo hamon presenta predominio de nioi frente a nie.",
+      "recognition": [
+        "El hamon presenta predominio de nioi.",
+        "La estructura del hamon tiene un aspecto más difuso.",
+        "Los cristales individuales de martensita no son distinguibles a simple vista."
+      ],
+      "tags": [
+        "nioi-deki",
+        "匂出来",
+        "nioi",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nie-deki",
+        "nioi",
+        "hamon"
+      ],
+      "deepening": [
+        "Comparar nioi-deki con nie-deki.",
+        "Estudiar la diferencia visual entre nioi y nie."
+      ],
+      "sources": []
+    },
+    {
+      "id": "nioi-guchi",
+      "term": "Nioi-guchi",
+      "kanji": "匂口",
+      "romaji": "Nioi-guchi",
+      "english": "The dividing line between the hamon and the ji",
+      "spanish": "Línea de separación entre el hamon y el ji.",
+      "category": "hamon",
+      "subcategory": "Hamon",
+      "definition": "Línea o zona de transición que delimita el hamon respecto del ji de la hoja.",
+      "recognition": [
+        "Marca la transición entre hamon y ji.",
+        "Puede presentar diferentes grados de definición.",
+        "Es una característica importante para observar el carácter del hamon."
+      ],
+      "tags": [
+        "nioi-guchi",
+        "匂口",
+        "hamon",
+        "ji",
+        "nioi"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hamon",
+        "ji",
+        "nioi",
+        "nie"
+      ],
+      "deepening": [
+        "Estudiar la relación entre nioi-guchi y hamon.",
+        "Observar diferencias de definición en distintos hamon."
+      ],
+      "sources": []
+    },
+    {
+      "id": "no-dachi",
+      "term": "Nō-dachi",
+      "kanji": "野太刀",
+      "romaji": "Nō-dachi",
+      "english": "Long swords popular during the Nanbokuchō period",
+      "spanish": "Espadas largas especialmente características del período Nanbokuchō.",
+      "category": "historia",
+      "subcategory": "Espadas",
+      "definition": "Tipo de espada larga asociada especialmente al período Nanbokuchō, caracterizada por sus grandes dimensiones.",
+      "recognition": [
+        "Presenta una longitud considerable.",
+        "Está especialmente asociada al período Nanbokuchō.",
+        "Su gran tamaño constituye una característica distintiva."
+      ],
+      "tags": [
+        "no-dachi",
+        "nō-dachi",
+        "野太刀",
+        "nanbokucho",
+        "espada"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "nanbokucho-period",
+        "tachi",
+        "katana"
+      ],
+      "deepening": [
+        "Estudiar el desarrollo de las grandes espadas durante Nanbokuchō.",
+        "Comparar nō-dachi con tachi y katana.",
+        "Observar la evolución del sugata durante el período Nanbokuchō."
+      ],
+      "sources": []
+    },
+    {
+      "id": "notare",
+      "term": "Notare",
+      "kanji": "湾れ",
+      "romaji": "Notare",
+      "english": "Gently undulating hamon",
+      "spanish": "Hamon formado por ondulaciones suaves y amplias.",
+      "category": "hamon",
+      "subcategory": "",
+      "definition": "Tipo de hamon caracterizado por ondulaciones suaves, amplias y relativamente poco pronunciadas.",
+      "recognition": [
+        "Presenta ondulaciones amplias y suaves.",
+        "Las curvas no forman picos muy pronunciados.",
+        "Puede aparecer como un patrón continuo a lo largo del hamon."
+      ],
+      "tags": [
+        "notare",
+        "湾れ",
+        "hamon"
+      ],
+      "image": "",
+      "images": [],
+      "related": [
+        "hamon",
+        "midare",
+        "gunome",
+        "suguha"
+      ],
+      "deepening": [
+        "Comparar notare con gunome y otras formas de midare.",
+        "Estudiar las diferentes configuraciones del hamon."
+      ],
+      "sources": []
+    }
 
   ]
   
