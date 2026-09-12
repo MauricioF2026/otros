@@ -2529,7 +2529,7 @@
     ],
     "sources": []
   },
-        
+       { 
       "id": "ichimonji-school",
       "term": "Ichimonji School",
       "kanji": "一文字派",
@@ -3122,7 +3122,7 @@
         "Observar ejemplos de hamon complejos de tradición Bizen."
       ],
       "sources": []
-    },
+    }
 
   ]
   
