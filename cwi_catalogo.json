@@ -38,7 +38,124 @@
       "descripcion": "Partidas de AlphaGo, AlphaGo Master y AlphaGo Zero",
       "periodo": "2015-2017",
       "partidas": 221
-    }
+    },
+    {
+  "id": "cho_chikun_honinbo",
+  "nombre": "Cho Chikun — Honinbo",
+  "archivo": "cwi_cho_chikun_honinbo.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Honinbo",
+  "periodo": "1968-1984",
+  "partidas": 246
+},
+{
+  "id": "cho_chikun_kisei",
+  "nombre": "Cho Chikun — Kisei",
+  "archivo": "cwi_cho_chikun_kisei.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Kisei",
+  "periodo": "1977-1984",
+  "partidas": 271
+},
+{
+  "id": "cho_chikun_meijin",
+  "nombre": "Cho Chikun — Meijin",
+  "archivo": "cwi_cho_chikun_meijin.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Meijin",
+  "periodo": "1970-1984",
+  "partidas": 309
+},
+{
+  "id": "cho_chikun_judan",
+  "nombre": "Cho Chikun — Judan",
+  "archivo": "cwi_cho_chikun_judan.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Judan",
+  "periodo": "1970-1984",
+  "partidas": 243
+},
+{
+  "id": "cho_chikun_oza",
+  "nombre": "Cho Chikun — Oza",
+  "archivo": "cwi_cho_chikun_oza.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Oza",
+  "periodo": "1970-1984",
+  "partidas": 165
+},
+{
+  "id": "cho_chikun_tengen",
+  "nombre": "Cho Chikun — Tengen",
+  "archivo": "cwi_cho_chikun_tengen.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Tengen",
+  "periodo": "1970-1984",
+  "partidas": 156
+},
+{
+  "id": "cho_chikun_gosei",
+  "nombre": "Cho Chikun — Gosei",
+  "archivo": "cwi_cho_chikun_gosei.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en el torneo Gosei",
+  "periodo": "1970-1984",
+  "partidas": 158
+},
+{
+  "id": "cho_chikun_pro_best_ten",
+  "nombre": "Cho Chikun — Pro Best Ten",
+  "archivo": "cwi_cho_chikun_pro_best_ten.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en Pro Best Ten",
+  "periodo": "",
+  "partidas": 38
+},
+{
+  "id": "cho_chikun_nhk_cup",
+  "nombre": "Cho Chikun — NHK Cup",
+  "archivo": "cwi_cho_chikun_nhk_cup.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en la NHK Cup",
+  "periodo": "",
+  "partidas": 117
+},
+{
+  "id": "cho_chikun_nec_cup",
+  "nombre": "Cho Chikun — NEC Cup",
+  "archivo": "cwi_cho_chikun_nec_cup.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en la NEC Cup",
+  "periodo": "",
+  "partidas": 70
+},
+{
+  "id": "cho_chikun_hayago",
+  "nombre": "Cho Chikun — Hayago Championship",
+  "archivo": "cwi_cho_chikun_hayago.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en Hayago Championship",
+  "periodo": "",
+  "partidas": 77
+},
+{
+  "id": "cho_chikun_fujitsu",
+  "nombre": "Cho Chikun — Fujitsu",
+  "archivo": "cwi_cho_chikun_fujitsu.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en Fujitsu",
+  "periodo": "",
+  "partidas": 51
+},
+{
+  "id": "cho_chikun_igo_club_1984",
+  "nombre": "Cho Chikun — Igo Club 1984",
+  "archivo": "cwi_cho_chikun_igo_club_1984.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de Cho Chikun en Igo Club 1984",
+  "periodo": "1984",
+  "partidas": 12
+}
   ],
   "torneos": []
 }
