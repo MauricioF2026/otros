@@ -1,0 +1,44 @@
+{
+  "fuente": "CWI Go Games Archive",
+  "version": "1.0",
+  "notaCobertura": "Coverage is uneven: for some tournaments this is a fairly complete collection. For other tournaments only a few games are given.",
+  "categorias": [
+    {
+      "id": "personas",
+      "nombre": "👤 Personas"
+    },
+    {
+      "id": "ia",
+      "nombre": "🤖 Inteligencia artificial"
+    },
+    {
+      "id": "torneos_japoneses",
+      "nombre": "🇯🇵 Torneos japoneses"
+    },
+    {
+      "id": "internacionales",
+      "nombre": "🌏 Torneos internacionales"
+    }
+  ],
+  "colecciones": [
+    {
+      "id": "kitani_minoru",
+      "nombre": "Kitani Minoru",
+      "archivo": "cwi_kitani_minoru.json",
+      "categoria": "personas",
+      "descripcion": "Archivo de partidas de Kitani Minoru",
+      "periodo": "",
+      "partidas": 1026
+    },
+    {
+      "id": "alpha_go",
+      "nombre": "AlphaGo",
+      "archivo": "cwi_alpha_go.json",
+      "categoria": "ia",
+      "descripcion": "Partidas de AlphaGo, AlphaGo Master y AlphaGo Zero",
+      "periodo": "2015-2017",
+      "partidas": 221
+    }
+  ],
+  "torneos": []
+}
