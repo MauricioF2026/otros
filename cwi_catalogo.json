@@ -273,13 +273,14 @@
   "periodo": "",
   "partidas": 20
 },
-    {
+  {
+  "id": "honinbo_dosaku",
   "nombre": "Honinbo Dosaku",
   "archivo": "cwi_dosaku.json",
-  "jugador": "Honinbo Dosaku",
+  "categoria": "personas",
   "descripcion": "153 partidas de Honinbo Dosaku (1645–1702), recopiladas desde CWI Go Games.",
-  "carpeta": "Dosaku",
-  "totalPartidas": 153
+  "periodo": "1660s-1697",
+  "partidas": 153
 }
   ],
   "torneos": []
