@@ -272,6 +272,14 @@
   "descripcion": "Otros matches de Go Seigen recopilados desde CWI Go Games",
   "periodo": "",
   "partidas": 20
+},
+    {
+  "nombre": "Honinbo Dosaku",
+  "archivo": "cwi_dosaku.json",
+  "jugador": "Honinbo Dosaku",
+  "descripcion": "153 partidas de Honinbo Dosaku (1645–1702), recopiladas desde CWI Go Games.",
+  "carpeta": "Dosaku",
+  "totalPartidas": 153
 }
   ],
   "torneos": []
