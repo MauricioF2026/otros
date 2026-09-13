@@ -5613,6 +5613,66 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][dq][br][dr][ds]AW[fo][ap][bp][cp][dp][eq][er][es])"
+  },
+    {
+    "id": 562,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][dq][br][dr][bs][ds]AW[fo][ap][bp][cp][dp][cq][eq][er][es])"
+  },
+  {
+    "id": 563,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][ap][bp][cp][dp][eq][er][es]AW[bq][cq][dq][br][dr][ds])"
+  },
+  {
+    "id": 564,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Capture white",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][ap][bp][cp][dp][eq][er][bs][es]AW[bq][cq][dq][br][dr][cs][ds])"
+  },
+  {
+    "id": 565,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][ap][bp][cp][dp][eq][er][es]AW[aq][bq][dq][br][dr][ds])"
+  },
+  {
+    "id": 566,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][ap][bp][cp][dp][cq][eq][er][es]AW[aq][bq][dq][br][cr][dr][ds])"
+  },
+  {
+    "id": 567,
+    "tema": "Beware of Bent 4 in the Corner",
+    "accion": "Save black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][dq][eq][fq][br][cr][er]AW[ap][bp][cp][dp][ep][fp][gp][cq][gq][fr][hr][es][fs])"
   }
   ]
 }
