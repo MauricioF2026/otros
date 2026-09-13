@@ -281,6 +281,15 @@
   "descripcion": "153 partidas de Honinbo Dosaku (1645–1702), recopiladas desde CWI Go Games.",
   "periodo": "1660s-1697",
   "partidas": 153
+},
+    {
+  "id": "honinbo_shuhaku",
+  "nombre": "Honinbo Shuhaku",
+  "archivo": "cwi_shuhaku.json",
+  "categoria": "personas",
+  "descripcion": "16 partidas de Honinbo Shuhaku (1716–1741), recopiladas desde CWI Go Games.",
+  "periodo": "1732-1740",
+  "partidas": 16
 }
   ],
   "torneos": []
