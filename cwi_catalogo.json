@@ -155,6 +155,123 @@
   "descripcion": "Partidas de Cho Chikun en Igo Club 1984",
   "periodo": "1984",
   "partidas": 12
+},
+    {
+  "id": "go_seigen_1933_34_kitani",
+  "nombre": "Go Seigen — 1933/34 vs Kitani Minoru",
+  "archivo": "cwi_go_seigen_1933_34_first_jubango_against_kitani_minoru.json",
+  "categoria": "personas",
+  "descripcion": "Primer jubango de Go Seigen contra Kitani Minoru",
+  "periodo": "1933-1934",
+  "partidas": 6
+},
+{
+  "id": "go_seigen_1939_41_kitani",
+  "nombre": "Go Seigen — 1939/40/41 vs Kitani Minoru",
+  "archivo": "cwi_go_seigen_1939_40_41_kamakura_jubango_against_kitani_minoru.json",
+  "categoria": "personas",
+  "descripcion": "Jubango de Kamakura de Go Seigen contra Kitani Minoru",
+  "periodo": "1939-1941",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_1941_42_karigane",
+  "nombre": "Go Seigen — 1941/42 vs Karigane Junichi",
+  "archivo": "cwi_go_seigen_1941_42_jubango_against_karigane_junichi.json",
+  "categoria": "personas",
+  "descripcion": "Jubango de Go Seigen contra Karigane Junichi",
+  "periodo": "1941-1942",
+  "partidas": 5
+},
+{
+  "id": "go_seigen_1942_44_fujisawa",
+  "nombre": "Go Seigen — 1942/43/44 vs Fujisawa Hosai",
+  "archivo": "cwi_go_seigen_1942_43_44_first_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
+  "categoria": "personas",
+  "descripcion": "Primer jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
+  "periodo": "1942-1944",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_1946_48_hashimoto",
+  "nombre": "Go Seigen — 1946/47/48 vs Hashimoto Utaro",
+  "archivo": "cwi_go_seigen_1946_47_48_first_jubango_against_hashimoto_utaro.json",
+  "categoria": "personas",
+  "descripcion": "Primer jubango de Go Seigen contra Hashimoto Utaro",
+  "periodo": "1946-1948",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_1948_49_iwamoto",
+  "nombre": "Go Seigen — 1948/49 vs Iwamoto Kaoru",
+  "archivo": "cwi_go_seigen_1948_49_jubango_against_iwamoto_kaoru.json",
+  "categoria": "personas",
+  "descripcion": "Jubango de Go Seigen contra Iwamoto Kaoru",
+  "periodo": "1948-1949",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_1950_51_hashimoto",
+  "nombre": "Go Seigen — 1950/51 vs Hashimoto Utaro",
+  "archivo": "cwi_go_seigen_1950_51_second_jubango_against_hashimoto_utaro.json",
+  "categoria": "personas",
+  "descripcion": "Segundo jubango de Go Seigen contra Hashimoto Utaro",
+  "periodo": "1950-1951",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_1951_52_fujisawa",
+  "nombre": "Go Seigen — 1951/52 vs Fujisawa Hosai",
+  "archivo": "cwi_go_seigen_1951_52_second_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
+  "categoria": "personas",
+  "descripcion": "Segundo jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
+  "periodo": "1951-1952",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_1952_53_fujisawa",
+  "nombre": "Go Seigen — 1952/53 vs Fujisawa Hosai",
+  "archivo": "cwi_go_seigen_1952_53_third_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
+  "categoria": "personas",
+  "descripcion": "Tercer jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
+  "periodo": "1952-1953",
+  "partidas": 6
+},
+{
+  "id": "go_seigen_1953_54_sakata",
+  "nombre": "Go Seigen — 1953/54 vs Sakata Eio",
+  "archivo": "cwi_go_seigen_1953_54_jubango_against_sakata_eio.json",
+  "categoria": "personas",
+  "descripcion": "Jubango de Go Seigen contra Sakata Eio",
+  "periodo": "1953-1954",
+  "partidas": 8
+},
+{
+  "id": "go_seigen_1955_takagawa",
+  "nombre": "Go Seigen — 1955 vs Takagawa Shukaku",
+  "archivo": "cwi_go_seigen_1955_jubango_against_takagawa_shukaku.json",
+  "categoria": "personas",
+  "descripcion": "Jubango de Go Seigen contra Takagawa Shukaku",
+  "periodo": "1955",
+  "partidas": 10
+},
+{
+  "id": "go_seigen_3_game_matches",
+  "nombre": "Go Seigen — 3-game matches",
+  "archivo": "cwi_go_seigen_3_game_matches.json",
+  "categoria": "personas",
+  "descripcion": "Partidas de tres encuentros de Go Seigen",
+  "periodo": "",
+  "partidas": 74
+},
+{
+  "id": "go_seigen_other_matches",
+  "nombre": "Go Seigen — Other matches",
+  "archivo": "cwi_go_seigen_other_matches.json",
+  "categoria": "personas",
+  "descripcion": "Otros matches de Go Seigen recopilados desde CWI Go Games",
+  "periodo": "",
+  "partidas": 20
 }
   ],
   "torneos": []
