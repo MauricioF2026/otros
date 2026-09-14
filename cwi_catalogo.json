@@ -346,6 +346,26 @@
   "partidas": 218,
   "descripcion": "Partidas de Takagawa Kaku sin handicap, parte 2 de la colección CWI Go Games.",
   "fuente": "CWI Go Games"
+},
+    {
+  "archivo": "cwi_takagawa_kaku_handicap.json",
+  "titulo": "Takagawa Kaku — Games with handicap",
+  "categoria": "personas",
+  "personaje": "Takagawa Kaku",
+  "periodo": "1915–1986",
+  "partidas": 45,
+  "descripcion": "Partidas de Takagawa Kaku con handicap, recopiladas desde CWI Go Games.",
+  "fuente": "CWI Go Games"
+},
+{
+  "archivo": "cwi_takagawa_kaku_relay.json",
+  "titulo": "Takagawa Kaku — Relay games",
+  "categoria": "personas",
+  "personaje": "Takagawa Kaku",
+  "periodo": "1915–1986",
+  "partidas": 5,
+  "descripcion": "Partidas de relay de la colección de Takagawa Kaku, recopiladas desde CWI Go Games.",
+  "fuente": "CWI Go Games"
 }
   ],
   "torneos": []
