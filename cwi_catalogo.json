@@ -308,6 +308,15 @@
   "descripcion": "771 partidas de Honinbo Shusai (1874–1940), incluyendo su etapa como Tamura Hoju, recopiladas desde CWI Go Games.",
   "periodo": "1887–1938",
   "partidas": 771
+},
+    {
+  "id": "honinbo_shusaku",
+  "nombre": "Honinbo Shusaku",
+  "archivo": "cwi_shusaku.json",
+  "categoria": "personas",
+  "descripcion": "470 partidas de Honinbo Shusaku (1829–1862), incluyendo sus etapas como Yasuda Eisai, Yasuda Shusaku y Kuwahara Shusaku, recopiladas desde CWI Go Games.",
+  "periodo": "1839–1862",
+  "partidas": 470
 }
   ],
   "torneos": []
