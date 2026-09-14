@@ -375,6 +375,15 @@
 "descripcion": "291 partidas de la Hoensha (方円社), organización de Go japonesa fundada en 1879, correspondientes a sus cuatro primeros años y recopiladas desde CWI Go Games.",
 "periodo": "1879–1883",
 "partidas": 291
+},
+  {
+  "id": "meijin",
+  "nombre": "Meijin",
+  "archivo": "cwi_meijin.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de las 50 ediciones del torneo Meijin, desde 1976 hasta 2025, recopiladas desde CWI Go Games.",
+  "periodo": "1976-2025",
+  "partidas": 279
 }
 ],
 "torneos": []
