@@ -299,6 +299,15 @@
   "descripcion": "293 partidas de Honinbo Jowa (1787–1847), recopiladas desde CWI Go Games.",
   "periodo": "1802–1847",
   "partidas": 293
+},
+    {
+  "id": "honinbo_shusai",
+  "nombre": "Honinbo Shusai",
+  "archivo": "cwi_shusai.json",
+  "categoria": "personas",
+  "descripcion": "771 partidas de Honinbo Shusai (1874–1940), incluyendo su etapa como Tamura Hoju, recopiladas desde CWI Go Games.",
+  "periodo": "1887–1938",
+  "partidas": 771
 }
   ],
   "torneos": []
