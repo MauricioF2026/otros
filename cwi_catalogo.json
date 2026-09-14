@@ -290,6 +290,15 @@
   "descripcion": "16 partidas de Honinbo Shuhaku (1716–1741), recopiladas desde CWI Go Games.",
   "periodo": "1732-1740",
   "partidas": 16
+},
+    {
+  "id": "honinbo_jowa",
+  "nombre": "Honinbo Jowa",
+  "archivo": "cwi_jowa.json",
+  "categoria": "personas",
+  "descripcion": "293 partidas de Honinbo Jowa (1787–1847), recopiladas desde CWI Go Games.",
+  "periodo": "1802–1847",
+  "partidas": 293
 }
   ],
   "torneos": []
