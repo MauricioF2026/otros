@@ -384,6 +384,15 @@
   "descripcion": "Partidas de las 50 ediciones del torneo Meijin, desde 1976 hasta 2025, recopiladas desde CWI Go Games.",
   "periodo": "1976-2025",
   "partidas": 279
+},
+  {
+  "id": "honinbo",
+  "nombre": "Honinbo",
+  "archivo": "cwi_honinbo.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de las 81 ediciones del torneo Honinbo, desde 1941 hasta 2026, recopiladas desde CWI Go Games.",
+  "periodo": "1941-2026",
+  "partidas": 449
 }
 ],
 "torneos": []
