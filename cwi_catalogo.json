@@ -317,6 +317,15 @@
   "descripcion": "470 partidas de Honinbo Shusaku (1829–1862), incluyendo sus etapas como Yasuda Eisai, Yasuda Shusaku y Kuwahara Shusaku, recopiladas desde CWI Go Games.",
   "periodo": "1839–1862",
   "partidas": 470
+},
+    {
+  "id": "nakamura_sumire",
+  "nombre": "Nakamura Sumire",
+  "archivo": "cwi_nakamura_sumire.json",
+  "categoria": "personas",
+  "descripcion": "252 partidas oficiales de Nakamura Sumire (2009–), recopiladas desde CWI Go Games; 194 cuentan con SGF y 58 están registradas por CWI sin SGF.",
+  "periodo": "2019–2024",
+  "partidas": 252
 }
   ],
   "torneos": []
