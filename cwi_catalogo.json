@@ -327,45 +327,41 @@
   "periodo": "2019–2024",
   "partidas": 252
 },
-    {
+   {
+  "id": "takagawa_kaku_sin_handicap_01",
+  "nombre": "Takagawa Kaku — Sin handicap — Parte 1",
   "archivo": "cwi_takagawa_kaku_sin_handicap_01.json",
-  "titulo": "Takagawa Kaku — Games without handicap — Parte 1",
   "categoria": "personas",
-  "personaje": "Takagawa Kaku",
-  "periodo": "1915–1986",
-  "partidas": 922,
   "descripcion": "Partidas de Takagawa Kaku sin handicap, parte 1 de la colección CWI Go Games.",
-  "fuente": "CWI Go Games"
+  "periodo": "1915–1986",
+  "partidas": 922
 },
 {
+  "id": "takagawa_kaku_sin_handicap_02",
+  "nombre": "Takagawa Kaku — Sin handicap — Parte 2",
   "archivo": "cwi_takagawa_kaku_sin_handicap_02.json",
-  "titulo": "Takagawa Kaku — Games without handicap — Parte 2",
   "categoria": "personas",
-  "personaje": "Takagawa Kaku",
-  "periodo": "1915–1986",
-  "partidas": 218,
   "descripcion": "Partidas de Takagawa Kaku sin handicap, parte 2 de la colección CWI Go Games.",
-  "fuente": "CWI Go Games"
-},
-    {
-  "archivo": "cwi_takagawa_kaku_handicap.json",
-  "titulo": "Takagawa Kaku — Games with handicap",
-  "categoria": "personas",
-  "personaje": "Takagawa Kaku",
   "periodo": "1915–1986",
-  "partidas": 45,
-  "descripcion": "Partidas de Takagawa Kaku con handicap, recopiladas desde CWI Go Games.",
-  "fuente": "CWI Go Games"
+  "partidas": 218
 },
 {
-  "archivo": "cwi_takagawa_kaku_relay.json",
-  "titulo": "Takagawa Kaku — Relay games",
+  "id": "takagawa_kaku_handicap",
+  "nombre": "Takagawa Kaku — Games with handicap",
+  "archivo": "cwi_takagawa_kaku_handicap.json",
   "categoria": "personas",
-  "personaje": "Takagawa Kaku",
+  "descripcion": "Partidas de Takagawa Kaku con handicap, recopiladas desde CWI Go Games.",
   "periodo": "1915–1986",
-  "partidas": 5,
+  "partidas": 45
+},
+{
+  "id": "takagawa_kaku_relay",
+  "nombre": "Takagawa Kaku — Relay games",
+  "archivo": "cwi_takagawa_kaku_relay.json",
+  "categoria": "personas",
   "descripcion": "Partidas de relay de la colección de Takagawa Kaku, recopiladas desde CWI Go Games.",
-  "fuente": "CWI Go Games"
+  "periodo": "1915–1986",
+  "partidas": 5
 }
   ],
   "torneos": []
