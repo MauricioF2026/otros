@@ -411,6 +411,15 @@
   "descripcion": "Partidas de las 51 ediciones del torneo Tengen, desde 1975/76 hasta 2025, recopiladas desde CWI Go Games.",
   "periodo": "1975-2025",
   "partidas": 205
+},
+  {
+  "id": "kisei",
+  "nombre": "Kisei",
+  "archivo": "cwi_kisei.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de las 50 ediciones del torneo Kisei, desde 1977 hasta 2026, recopiladas desde CWI Go Games.",
+  "periodo": "1977-2026",
+  "partidas": 297
 }
 ],
 "torneos": []
