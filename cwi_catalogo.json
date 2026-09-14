@@ -1,368 +1,381 @@
 {
-  "fuente": "CWI Go Games Archive",
-  "version": "1.0",
-  "notaCobertura": "Coverage is uneven: for some tournaments this is a fairly complete collection. For other tournaments only a few games are given.",
-  "categorias": [
-    {
-      "id": "personas",
-      "nombre": "👤 Personas"
-    },
-    {
-      "id": "ia",
-      "nombre": "🤖 Inteligencia artificial"
-    },
-    {
-      "id": "torneos_japoneses",
-      "nombre": "🇯🇵 Torneos japoneses"
-    },
-    {
-      "id": "internacionales",
-      "nombre": "🌏 Torneos internacionales"
-    }
-  ],
-  "colecciones": [
-    {
-      "id": "kitani_minoru",
-      "nombre": "Kitani Minoru",
-      "archivo": "cwi_kitani_minoru.json",
-      "categoria": "personas",
-      "descripcion": "Archivo de partidas de Kitani Minoru",
-      "periodo": "",
-      "partidas": 1026
-    },
-    {
-      "id": "alpha_go",
-      "nombre": "AlphaGo",
-      "archivo": "cwi_alpha_go.json",
-      "categoria": "ia",
-      "descripcion": "Partidas de AlphaGo, AlphaGo Master y AlphaGo Zero",
-      "periodo": "2015-2017",
-      "partidas": 221
-    },
-    {
-  "id": "cho_chikun_honinbo",
-  "nombre": "Cho Chikun — Honinbo",
-  "archivo": "cwi_cho_chikun_honinbo.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Honinbo",
-  "periodo": "1968-1984",
-  "partidas": 246
+"fuente": "CWI Go Games Archive",
+"version": "1.0",
+"notaCobertura": "Coverage is uneven: for some tournaments this is a fairly complete collection. For other tournaments only a few games are given.",
+"categorias": [
+{
+"id": "personas",
+"nombre": "👤 Personas"
 },
 {
-  "id": "cho_chikun_kisei",
-  "nombre": "Cho Chikun — Kisei",
-  "archivo": "cwi_cho_chikun_kisei.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Kisei",
-  "periodo": "1977-1984",
-  "partidas": 271
+"id": "ia",
+"nombre": "🤖 Inteligencia artificial"
 },
 {
-  "id": "cho_chikun_meijin",
-  "nombre": "Cho Chikun — Meijin",
-  "archivo": "cwi_cho_chikun_meijin.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Meijin",
-  "periodo": "1970-1984",
-  "partidas": 309
+"id": "torneos_japoneses",
+"nombre": "🇯🇵 Torneos japoneses"
 },
 {
-  "id": "cho_chikun_judan",
-  "nombre": "Cho Chikun — Judan",
-  "archivo": "cwi_cho_chikun_judan.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Judan",
-  "periodo": "1970-1984",
-  "partidas": 243
+"id": "internacionales",
+"nombre": "🌏 Torneos internacionales"
 },
 {
-  "id": "cho_chikun_oza",
-  "nombre": "Cho Chikun — Oza",
-  "archivo": "cwi_cho_chikun_oza.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Oza",
-  "periodo": "1970-1984",
-  "partidas": 165
-},
-{
-  "id": "cho_chikun_tengen",
-  "nombre": "Cho Chikun — Tengen",
-  "archivo": "cwi_cho_chikun_tengen.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Tengen",
-  "periodo": "1970-1984",
-  "partidas": 156
-},
-{
-  "id": "cho_chikun_gosei",
-  "nombre": "Cho Chikun — Gosei",
-  "archivo": "cwi_cho_chikun_gosei.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en el torneo Gosei",
-  "periodo": "1970-1984",
-  "partidas": 158
-},
-{
-  "id": "cho_chikun_pro_best_ten",
-  "nombre": "Cho Chikun — Pro Best Ten",
-  "archivo": "cwi_cho_chikun_pro_best_ten.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en Pro Best Ten",
-  "periodo": "",
-  "partidas": 38
-},
-{
-  "id": "cho_chikun_nhk_cup",
-  "nombre": "Cho Chikun — NHK Cup",
-  "archivo": "cwi_cho_chikun_nhk_cup.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en la NHK Cup",
-  "periodo": "",
-  "partidas": 117
-},
-{
-  "id": "cho_chikun_nec_cup",
-  "nombre": "Cho Chikun — NEC Cup",
-  "archivo": "cwi_cho_chikun_nec_cup.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en la NEC Cup",
-  "periodo": "",
-  "partidas": 70
-},
-{
-  "id": "cho_chikun_hayago",
-  "nombre": "Cho Chikun — Hayago Championship",
-  "archivo": "cwi_cho_chikun_hayago.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en Hayago Championship",
-  "periodo": "",
-  "partidas": 77
-},
-{
-  "id": "cho_chikun_fujitsu",
-  "nombre": "Cho Chikun — Fujitsu",
-  "archivo": "cwi_cho_chikun_fujitsu.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en Fujitsu",
-  "periodo": "",
-  "partidas": 51
-},
-{
-  "id": "cho_chikun_igo_club_1984",
-  "nombre": "Cho Chikun — Igo Club 1984",
-  "archivo": "cwi_cho_chikun_igo_club_1984.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Cho Chikun en Igo Club 1984",
-  "periodo": "1984",
-  "partidas": 12
-},
-    {
-  "id": "go_seigen_1933_34_kitani",
-  "nombre": "Go Seigen — 1933/34 vs Kitani Minoru",
-  "archivo": "cwi_go_seigen_1933_34_first_jubango_against_kitani_minoru.json",
-  "categoria": "personas",
-  "descripcion": "Primer jubango de Go Seigen contra Kitani Minoru",
-  "periodo": "1933-1934",
-  "partidas": 6
-},
-{
-  "id": "go_seigen_1939_41_kitani",
-  "nombre": "Go Seigen — 1939/40/41 vs Kitani Minoru",
-  "archivo": "cwi_go_seigen_1939_40_41_kamakura_jubango_against_kitani_minoru.json",
-  "categoria": "personas",
-  "descripcion": "Jubango de Kamakura de Go Seigen contra Kitani Minoru",
-  "periodo": "1939-1941",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_1941_42_karigane",
-  "nombre": "Go Seigen — 1941/42 vs Karigane Junichi",
-  "archivo": "cwi_go_seigen_1941_42_jubango_against_karigane_junichi.json",
-  "categoria": "personas",
-  "descripcion": "Jubango de Go Seigen contra Karigane Junichi",
-  "periodo": "1941-1942",
-  "partidas": 5
-},
-{
-  "id": "go_seigen_1942_44_fujisawa",
-  "nombre": "Go Seigen — 1942/43/44 vs Fujisawa Hosai",
-  "archivo": "cwi_go_seigen_1942_43_44_first_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
-  "categoria": "personas",
-  "descripcion": "Primer jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
-  "periodo": "1942-1944",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_1946_48_hashimoto",
-  "nombre": "Go Seigen — 1946/47/48 vs Hashimoto Utaro",
-  "archivo": "cwi_go_seigen_1946_47_48_first_jubango_against_hashimoto_utaro.json",
-  "categoria": "personas",
-  "descripcion": "Primer jubango de Go Seigen contra Hashimoto Utaro",
-  "periodo": "1946-1948",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_1948_49_iwamoto",
-  "nombre": "Go Seigen — 1948/49 vs Iwamoto Kaoru",
-  "archivo": "cwi_go_seigen_1948_49_jubango_against_iwamoto_kaoru.json",
-  "categoria": "personas",
-  "descripcion": "Jubango de Go Seigen contra Iwamoto Kaoru",
-  "periodo": "1948-1949",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_1950_51_hashimoto",
-  "nombre": "Go Seigen — 1950/51 vs Hashimoto Utaro",
-  "archivo": "cwi_go_seigen_1950_51_second_jubango_against_hashimoto_utaro.json",
-  "categoria": "personas",
-  "descripcion": "Segundo jubango de Go Seigen contra Hashimoto Utaro",
-  "periodo": "1950-1951",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_1951_52_fujisawa",
-  "nombre": "Go Seigen — 1951/52 vs Fujisawa Hosai",
-  "archivo": "cwi_go_seigen_1951_52_second_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
-  "categoria": "personas",
-  "descripcion": "Segundo jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
-  "periodo": "1951-1952",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_1952_53_fujisawa",
-  "nombre": "Go Seigen — 1952/53 vs Fujisawa Hosai",
-  "archivo": "cwi_go_seigen_1952_53_third_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
-  "categoria": "personas",
-  "descripcion": "Tercer jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
-  "periodo": "1952-1953",
-  "partidas": 6
-},
-{
-  "id": "go_seigen_1953_54_sakata",
-  "nombre": "Go Seigen — 1953/54 vs Sakata Eio",
-  "archivo": "cwi_go_seigen_1953_54_jubango_against_sakata_eio.json",
-  "categoria": "personas",
-  "descripcion": "Jubango de Go Seigen contra Sakata Eio",
-  "periodo": "1953-1954",
-  "partidas": 8
-},
-{
-  "id": "go_seigen_1955_takagawa",
-  "nombre": "Go Seigen — 1955 vs Takagawa Shukaku",
-  "archivo": "cwi_go_seigen_1955_jubango_against_takagawa_shukaku.json",
-  "categoria": "personas",
-  "descripcion": "Jubango de Go Seigen contra Takagawa Shukaku",
-  "periodo": "1955",
-  "partidas": 10
-},
-{
-  "id": "go_seigen_3_game_matches",
-  "nombre": "Go Seigen — 3-game matches",
-  "archivo": "cwi_go_seigen_3_game_matches.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de tres encuentros de Go Seigen",
-  "periodo": "",
-  "partidas": 74
-},
-{
-  "id": "go_seigen_other_matches",
-  "nombre": "Go Seigen — Other matches",
-  "archivo": "cwi_go_seigen_other_matches.json",
-  "categoria": "personas",
-  "descripcion": "Otros matches de Go Seigen recopilados desde CWI Go Games",
-  "periodo": "",
-  "partidas": 20
-},
-{
-  "id": "honinbo_dosaku",
-  "nombre": "Honinbo Dosaku",
-  "archivo": "cwi_dosaku.json",
-  "categoria": "personas",
-  "descripcion": "153 partidas de Honinbo Dosaku (1645–1702), recopiladas desde CWI Go Games.",
-  "periodo": "1660s-1697",
-  "partidas": 153
-},
-    {
-  "id": "honinbo_shuhaku",
-  "nombre": "Honinbo Shuhaku",
-  "archivo": "cwi_shuhaku.json",
-  "categoria": "personas",
-  "descripcion": "16 partidas de Honinbo Shuhaku (1716–1741), recopiladas desde CWI Go Games.",
-  "periodo": "1732-1740",
-  "partidas": 16
-},
-   {
-  "id": "honinbo_jowa",
-  "nombre": "Honinbo Jowa",
-  "archivo": "cwi_jowa.json",
-  "categoria": "personas",
-  "descripcion": "293 partidas de Honinbo Jowa (1787–1847), recopiladas desde CWI Go Games.",
-  "periodo": "1802–1847",
-  "partidas": 293
-},
-    {
-  "id": "honinbo_shusai",
-  "nombre": "Honinbo Shusai",
-  "archivo": "cwi_shusai.json",
-  "categoria": "personas",
-  "descripcion": "771 partidas de Honinbo Shusai (1874–1940), incluyendo su etapa como Tamura Hoju, recopiladas desde CWI Go Games.",
-  "periodo": "1887–1938",
-  "partidas": 771
-},
-    {
-  "id": "honinbo_shusaku",
-  "nombre": "Honinbo Shusaku",
-  "archivo": "cwi_shusaku.json",
-  "categoria": "personas",
-  "descripcion": "470 partidas de Honinbo Shusaku (1829–1862), incluyendo sus etapas como Yasuda Eisai, Yasuda Shusaku y Kuwahara Shusaku, recopiladas desde CWI Go Games.",
-  "periodo": "1839–1862",
-  "partidas": 470
-},
-    {
-  "id": "nakamura_sumire",
-  "nombre": "Nakamura Sumire",
-  "archivo": "cwi_nakamura_sumire.json",
-  "categoria": "personas",
-  "descripcion": "252 partidas oficiales de Nakamura Sumire (2009–), recopiladas desde CWI Go Games; 194 cuentan con SGF y 58 están registradas por CWI sin SGF.",
-  "periodo": "2019–2024",
-  "partidas": 252
-},
-   {
-  "id": "takagawa_kaku_sin_handicap_01",
-  "nombre": "Takagawa Kaku — Sin handicap — Parte 1",
-  "archivo": "cwi_takagawa_kaku_sin_handicap_01.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Takagawa Kaku sin handicap, parte 1 de la colección CWI Go Games.",
-  "periodo": "1915–1986",
-  "partidas": 922
-},
-{
-  "id": "takagawa_kaku_sin_handicap_02",
-  "nombre": "Takagawa Kaku — Sin handicap — Parte 2",
-  "archivo": "cwi_takagawa_kaku_sin_handicap_02.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Takagawa Kaku sin handicap, parte 2 de la colección CWI Go Games.",
-  "periodo": "1915–1986",
-  "partidas": 218
-},
-{
-  "id": "takagawa_kaku_handicap",
-  "nombre": "Takagawa Kaku — Games with handicap",
-  "archivo": "cwi_takagawa_kaku_handicap.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de Takagawa Kaku con handicap, recopiladas desde CWI Go Games.",
-  "periodo": "1915–1986",
-  "partidas": 45
-},
-{
-  "id": "takagawa_kaku_relay",
-  "nombre": "Takagawa Kaku — Relay games",
-  "archivo": "cwi_takagawa_kaku_relay.json",
-  "categoria": "personas",
-  "descripcion": "Partidas de relay de la colección de Takagawa Kaku, recopiladas desde CWI Go Games.",
-  "periodo": "1915–1986",
-  "partidas": 5
+"id": "organizaciones",
+"nombre": "🏯 Organizaciones y escuelas"
 }
-  ],
-  "torneos": []
+],
+"colecciones": [
+{
+"id": "alpha_go",
+"nombre": "AlphaGo",
+"archivo": "cwi_alpha_go.json",
+"categoria": "ia",
+"descripcion": "Partidas de AlphaGo, AlphaGo Master y AlphaGo Zero",
+"periodo": "2015-2017",
+"partidas": 221
+},
+{
+"id": "cho_chikun_honinbo",
+"nombre": "Cho Chikun — Honinbo",
+"archivo": "cwi_cho_chikun_honinbo.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Honinbo",
+"periodo": "1968-1984",
+"partidas": 246
+},
+{
+"id": "cho_chikun_kisei",
+"nombre": "Cho Chikun — Kisei",
+"archivo": "cwi_cho_chikun_kisei.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Kisei",
+"periodo": "1977-1984",
+"partidas": 271
+},
+{
+"id": "cho_chikun_meijin",
+"nombre": "Cho Chikun — Meijin",
+"archivo": "cwi_cho_chikun_meijin.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Meijin",
+"periodo": "1970-1984",
+"partidas": 309
+},
+{
+"id": "cho_chikun_judan",
+"nombre": "Cho Chikun — Judan",
+"archivo": "cwi_cho_chikun_judan.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Judan",
+"periodo": "1970-1984",
+"partidas": 243
+},
+{
+"id": "cho_chikun_oza",
+"nombre": "Cho Chikun — Oza",
+"archivo": "cwi_cho_chikun_oza.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Oza",
+"periodo": "1970-1984",
+"partidas": 165
+},
+{
+"id": "cho_chikun_tengen",
+"nombre": "Cho Chikun — Tengen",
+"archivo": "cwi_cho_chikun_tengen.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Tengen",
+"periodo": "1970-1984",
+"partidas": 156
+},
+{
+"id": "cho_chikun_gosei",
+"nombre": "Cho Chikun — Gosei",
+"archivo": "cwi_cho_chikun_gosei.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en el torneo Gosei",
+"periodo": "1970-1984",
+"partidas": 158
+},
+{
+"id": "cho_chikun_pro_best_ten",
+"nombre": "Cho Chikun — Pro Best Ten",
+"archivo": "cwi_cho_chikun_pro_best_ten.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en Pro Best Ten",
+"periodo": "",
+"partidas": 38
+},
+{
+"id": "cho_chikun_nhk_cup",
+"nombre": "Cho Chikun — NHK Cup",
+"archivo": "cwi_cho_chikun_nhk_cup.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en la NHK Cup",
+"periodo": "",
+"partidas": 117
+},
+{
+"id": "cho_chikun_nec_cup",
+"nombre": "Cho Chikun — NEC Cup",
+"archivo": "cwi_cho_chikun_nec_cup.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en la NEC Cup",
+"periodo": "",
+"partidas": 70
+},
+{
+"id": "cho_chikun_hayago",
+"nombre": "Cho Chikun — Hayago Championship",
+"archivo": "cwi_cho_chikun_hayago.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en Hayago Championship",
+"periodo": "",
+"partidas": 77
+},
+{
+"id": "cho_chikun_fujitsu",
+"nombre": "Cho Chikun — Fujitsu",
+"archivo": "cwi_cho_chikun_fujitsu.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en Fujitsu",
+"periodo": "",
+"partidas": 51
+},
+{
+"id": "cho_chikun_igo_club_1984",
+"nombre": "Cho Chikun — Igo Club 1984",
+"archivo": "cwi_cho_chikun_igo_club_1984.json",
+"categoria": "personas",
+"descripcion": "Partidas de Cho Chikun en Igo Club 1984",
+"periodo": "1984",
+"partidas": 12
+},
+{
+"id": "go_seigen_1933_34_kitani",
+"nombre": "Go Seigen — 1933/34 vs Kitani Minoru",
+"archivo": "cwi_go_seigen_1933_34_first_jubango_against_kitani_minoru.json",
+"categoria": "personas",
+"descripcion": "Primer jubango de Go Seigen contra Kitani Minoru",
+"periodo": "1933-1934",
+"partidas": 6
+},
+{
+"id": "go_seigen_1939_41_kitani",
+"nombre": "Go Seigen — 1939/40/41 vs Kitani Minoru",
+"archivo": "cwi_go_seigen_1939_40_41_kamakura_jubango_against_kitani_minoru.json",
+"categoria": "personas",
+"descripcion": "Jubango de Kamakura de Go Seigen contra Kitani Minoru",
+"periodo": "1939-1941",
+"partidas": 10
+},
+{
+"id": "go_seigen_1941_42_karigane",
+"nombre": "Go Seigen — 1941/42 vs Karigane Junichi",
+"archivo": "cwi_go_seigen_1941_42_jubango_against_karigane_junichi.json",
+"categoria": "personas",
+"descripcion": "Jubango de Go Seigen contra Karigane Junichi",
+"periodo": "1941-1942",
+"partidas": 5
+},
+{
+"id": "go_seigen_1942_44_fujisawa",
+"nombre": "Go Seigen — 1942/43/44 vs Fujisawa Hosai",
+"archivo": "cwi_go_seigen_1942_43_44_first_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
+"categoria": "personas",
+"descripcion": "Primer jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
+"periodo": "1942-1944",
+"partidas": 10
+},
+{
+"id": "go_seigen_1946_48_hashimoto",
+"nombre": "Go Seigen — 1946/47/48 vs Hashimoto Utaro",
+"archivo": "cwi_go_seigen_1946_47_48_first_jubango_against_hashimoto_utaro.json",
+"categoria": "personas",
+"descripcion": "Primer jubango de Go Seigen contra Hashimoto Utaro",
+"periodo": "1946-1948",
+"partidas": 10
+},
+{
+"id": "go_seigen_1948_49_iwamoto",
+"nombre": "Go Seigen — 1948/49 vs Iwamoto Kaoru",
+"archivo": "cwi_go_seigen_1948_49_jubango_against_iwamoto_kaoru.json",
+"categoria": "personas",
+"descripcion": "Jubango de Go Seigen contra Iwamoto Kaoru",
+"periodo": "1948-1949",
+"partidas": 10
+},
+{
+"id": "go_seigen_1950_51_hashimoto",
+"nombre": "Go Seigen — 1950/51 vs Hashimoto Utaro",
+"archivo": "cwi_go_seigen_1950_51_second_jubango_against_hashimoto_utaro.json",
+"categoria": "personas",
+"descripcion": "Segundo jubango de Go Seigen contra Hashimoto Utaro",
+"periodo": "1950-1951",
+"partidas": 10
+},
+{
+"id": "go_seigen_1951_52_fujisawa",
+"nombre": "Go Seigen — 1951/52 vs Fujisawa Hosai",
+"archivo": "cwi_go_seigen_1951_52_second_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
+"categoria": "personas",
+"descripcion": "Segundo jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
+"periodo": "1951-1952",
+"partidas": 10
+},
+{
+"id": "go_seigen_1952_53_fujisawa",
+"nombre": "Go Seigen — 1952/53 vs Fujisawa Hosai",
+"archivo": "cwi_go_seigen_1952_53_third_jubango_against_fujisawa_kuranosuke_fujisawa_hosai.json",
+"categoria": "personas",
+"descripcion": "Tercer jubango de Go Seigen contra Fujisawa Kuranosuke (Fujisawa Hosai)",
+"periodo": "1952-1953",
+"partidas": 6
+},
+{
+"id": "go_seigen_1953_54_sakata",
+"nombre": "Go Seigen — 1953/54 vs Sakata Eio",
+"archivo": "cwi_go_seigen_1953_54_jubango_against_sakata_eio.json",
+"categoria": "personas",
+"descripcion": "Jubango de Go Seigen contra Sakata Eio",
+"periodo": "1953-1954",
+"partidas": 8
+},
+{
+"id": "go_seigen_1955_takagawa",
+"nombre": "Go Seigen — 1955 vs Takagawa Shukaku",
+"archivo": "cwi_go_seigen_1955_jubango_against_takagawa_shukaku.json",
+"categoria": "personas",
+"descripcion": "Jubango de Go Seigen contra Takagawa Shukaku",
+"periodo": "1955",
+"partidas": 10
+},
+{
+"id": "go_seigen_3_game_matches",
+"nombre": "Go Seigen — 3-game matches",
+"archivo": "cwi_go_seigen_3_game_matches.json",
+"categoria": "personas",
+"descripcion": "Partidas de tres encuentros de Go Seigen",
+"periodo": "",
+"partidas": 74
+},
+{
+"id": "go_seigen_other_matches",
+"nombre": "Go Seigen — Other matches",
+"archivo": "cwi_go_seigen_other_matches.json",
+"categoria": "personas",
+"descripcion": "Otros matches de Go Seigen recopilados desde CWI Go Games",
+"periodo": "",
+"partidas": 20
+},
+{
+"id": "honinbo_dosaku",
+"nombre": "Honinbo Dosaku",
+"archivo": "cwi_dosaku.json",
+"categoria": "personas",
+"descripcion": "153 partidas de Honinbo Dosaku (1645–1702), recopiladas desde CWI Go Games.",
+"periodo": "1660s-1697",
+"partidas": 153
+},
+{
+"id": "honinbo_shuhaku",
+"nombre": "Honinbo Shuhaku",
+"archivo": "cwi_shuhaku.json",
+"categoria": "personas",
+"descripcion": "16 partidas de Honinbo Shuhaku (1716–1741), recopiladas desde CWI Go Games.",
+"periodo": "1732-1740",
+"partidas": 16
+},
+{
+"id": "honinbo_jowa",
+"nombre": "Honinbo Jowa",
+"archivo": "cwi_jowa.json",
+"categoria": "personas",
+"descripcion": "293 partidas de Honinbo Jowa (1787–1847), recopiladas desde CWI Go Games.",
+"periodo": "1802–1847",
+"partidas": 293
+},
+{
+"id": "honinbo_shusai",
+"nombre": "Honinbo Shusai",
+"archivo": "cwi_shusai.json",
+"categoria": "personas",
+"descripcion": "771 partidas de Honinbo Shusai (1874–1940), incluyendo su etapa como Tamura Hoju, recopiladas desde CWI Go Games.",
+"periodo": "1887–1938",
+"partidas": 771
+},
+{
+"id": "honinbo_shusaku",
+"nombre": "Honinbo Shusaku",
+"archivo": "cwi_shusaku.json",
+"categoria": "personas",
+"descripcion": "470 partidas de Honinbo Shusaku (1829–1862), incluyendo sus etapas como Yasuda Eisai, Yasuda Shusaku y Kuwahara Shusaku, recopiladas desde CWI Go Games.",
+"periodo": "1839–1862",
+"partidas": 470
+},
+{
+"id": "kitani_minoru",
+"nombre": "Kitani Minoru",
+"archivo": "cwi_kitani_minoru.json",
+"categoria": "personas",
+"descripcion": "Archivo de partidas de Kitani Minoru",
+"periodo": "",
+"partidas": 1026
+},
+{
+"id": "nakamura_sumire",
+"nombre": "Nakamura Sumire",
+"archivo": "cwi_nakamura_sumire.json",
+"categoria": "personas",
+"descripcion": "252 partidas oficiales de Nakamura Sumire (2009–), recopiladas desde CWI Go Games; 194 cuentan con SGF y 58 están registradas por CWI sin SGF.",
+"periodo": "2019–2024",
+"partidas": 252
+},
+{
+"id": "takagawa_kaku_sin_handicap_01",
+"nombre": "Takagawa Kaku — Sin handicap — Parte 1",
+"archivo": "cwi_takagawa_kaku_sin_handicap_01.json",
+"categoria": "personas",
+"descripcion": "Partidas de Takagawa Kaku sin handicap, parte 1 de la colección CWI Go Games.",
+"periodo": "1915–1986",
+"partidas": 922
+},
+{
+"id": "takagawa_kaku_sin_handicap_02",
+"nombre": "Takagawa Kaku — Sin handicap — Parte 2",
+"archivo": "cwi_takagawa_kaku_sin_handicap_02.json",
+"categoria": "personas",
+"descripcion": "Partidas de Takagawa Kaku sin handicap, parte 2 de la colección CWI Go Games.",
+"periodo": "1915–1986",
+"partidas": 218
+},
+{
+"id": "takagawa_kaku_handicap",
+"nombre": "Takagawa Kaku — Games with handicap",
+"archivo": "cwi_takagawa_kaku_handicap.json",
+"categoria": "personas",
+"descripcion": "Partidas de Takagawa Kaku con handicap, recopiladas desde CWI Go Games.",
+"periodo": "1915–1986",
+"partidas": 45
+},
+{
+"id": "takagawa_kaku_relay",
+"nombre": "Takagawa Kaku — Relay games",
+"archivo": "cwi_takagawa_kaku_relay.json",
+"categoria": "personas",
+"descripcion": "Partidas de relay de la colección de Takagawa Kaku, recopiladas desde CWI Go Games.",
+"periodo": "1915–1986",
+"partidas": 5
+},
+{
+"id": "the_hoensha",
+"nombre": "The Hoensha",
+"archivo": "cwi_the_hoensha.json",
+"categoria": "organizaciones",
+"descripcion": "291 partidas de la Hoensha (方円社), organización de Go japonesa fundada en 1879, correspondientes a sus cuatro primeros años y recopiladas desde CWI Go Games.",
+"periodo": "1879–1883",
+"partidas": 291
+}
+],
+"torneos": []
 }
