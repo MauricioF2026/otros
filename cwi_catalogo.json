@@ -402,6 +402,15 @@
   "descripcion": "Partidas del torneo Judan desde 1962 hasta 2026, correspondientes a sus 64 ediciones, recopiladas desde CWI Go Games.",
   "periodo": "1962-2026",
   "partidas": 266
+},
+  {
+  "id": "tengen",
+  "nombre": "Tengen",
+  "archivo": "cwi_tengen.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de las 51 ediciones del torneo Tengen, desde 1975/76 hasta 2025, recopiladas desde CWI Go Games.",
+  "periodo": "1975-2025",
+  "partidas": 205
 }
 ],
 "torneos": []
