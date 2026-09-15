@@ -514,6 +514,15 @@
   "descripcion": "Chisato Cup, torneo de eliminación directa celebrado en 2014.",
   "periodo": "2014",
   "partidas": 6
+},
+  {
+  "id": "cwi_chubu_1st",
+  "nombre": "Chubu #1 Title",
+  "archivo": "cwi_chubu_1st.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Chubu #1 Title (中部最高位戦), torneo regional japonés celebrado entre 1976 y 1978. CWI conserva registros SGF de las ediciones de 1977 y 1978.",
+  "periodo": "1976–1978",
+  "partidas": 20
 }
 ],
 "torneos": []
