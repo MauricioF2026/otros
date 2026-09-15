@@ -505,6 +505,15 @@
   "descripcion": "Partidas disponibles de las tres ediciones de la Chikurin Cup, celebradas entre 1999 y 2001, recopiladas desde CWI Go Games.",
   "periodo": "1999-2001",
   "partidas": 13
+},
+  {
+  "id": "cwi_chisato_cup",
+  "nombre": "Chisato Cup",
+  "archivo": "cwi_chisato_cup.json",
+  "categoria": "copas",
+  "descripcion": "Chisato Cup, torneo de eliminación directa celebrado en 2014.",
+  "periodo": "2014",
+  "partidas": 6
 }
 ],
 "torneos": []
