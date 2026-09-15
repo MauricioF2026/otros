@@ -487,6 +487,15 @@
   "descripcion": "Partidas disponibles del Asahi Top Eight Tournament (八強争覇戦), organizado por el periódico Asahi Shimbun en 1975/1976 y ganado por Cho Chikun, recopiladas desde CWI Go Games.",
   "periodo": "1975-1976",
   "partidas": 8
+},
+  {
+  "id": "champions",
+  "nombre": "Tournament of Champions",
+  "archivo": "cwi_champions.json",
+  "categoria": "copas",
+  "descripcion": "Partidas disponibles de las seis ediciones del Tournament of Champions (Champions Championship / Title Winners Cup), celebrado entre 2014 y 2019, recopiladas desde CWI Go Games.",
+  "periodo": "2014-2019",
+  "partidas": 6
 }
 ],
 "torneos": []
