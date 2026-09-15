@@ -523,6 +523,15 @@
   "descripcion": "Chubu #1 Title (中部最高位戦), torneo regional japonés celebrado entre 1976 y 1978. CWI conserva registros SGF de las ediciones de 1977 y 1978.",
   "periodo": "1976–1978",
   "partidas": 20
+},
+  {
+  "id": "cwi_daiwa_shoken_cup",
+  "nombre": "Daiwa-Shoken Cup",
+  "archivo": "cwi_daiwa_shoken_cup.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Daiwa-Shoken Cup (大和証券杯ネット囲碁オープン), torneo japonés disputado entre 2006 y 2013. CWI conserva 248 partidas correspondientes a sus ocho ediciones.",
+  "periodo": "2006–2013",
+  "partidas": 248
 }
 ],
 "torneos": []
