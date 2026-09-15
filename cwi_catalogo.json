@@ -460,6 +460,15 @@
   "descripcion": "Partidas disponibles de las 12 ediciones de la Aizu Cup, también conocida como Aizu Chuo Hospital Cup y Women's Tachiaoi Cup, desde 2014 hasta 2025, recopiladas desde CWI Go Games.",
   "periodo": "2014-2025",
   "partidas": 6
+},
+  {
+  "id": "aj1st",
+  "nombre": "All Japan First Place",
+  "archivo": "cwi_aj1st.json",
+  "categoria": "copas",
+  "descripcion": "Partidas disponibles del All Japan Hayago Championship de 1949 y del All Japan First Place Title, celebrado en cinco ediciones entre 1970 y 1975, recopiladas desde CWI Go Games.",
+  "periodo": "1949-1975",
+  "partidas": 13
 }
 ],
 "torneos": []
