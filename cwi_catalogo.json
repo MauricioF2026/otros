@@ -420,6 +420,15 @@
   "descripcion": "Partidas de las 50 ediciones del torneo Kisei, desde 1977 hasta 2026, recopiladas desde CWI Go Games.",
   "periodo": "1977-2026",
   "partidas": 297
+},
+  {
+  "id": "gosei",
+  "nombre": "Gosei",
+  "archivo": "cwi_gosei.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de las 50 ediciones del torneo Gosei, desde 1976 hasta 2025, recopiladas desde CWI Go Games.",
+  "periodo": "1976-2025",
+  "partidas": 196
 }
 ],
 "torneos": []
