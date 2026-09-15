@@ -496,6 +496,15 @@
   "descripcion": "Partidas disponibles de las seis ediciones del Tournament of Champions (Champions Championship / Title Winners Cup), celebrado entre 2014 y 2019, recopiladas desde CWI Go Games.",
   "periodo": "2014-2019",
   "partidas": 6
+},
+  {
+  "id": "chikurin",
+  "nombre": "Chikurin",
+  "archivo": "cwi_chikurin.json",
+  "categoria": "copas",
+  "descripcion": "Partidas disponibles de las tres ediciones de la Chikurin Cup, celebradas entre 1999 y 2001, recopiladas desde CWI Go Games.",
+  "periodo": "1999-2001",
+  "partidas": 13
 }
 ],
 "torneos": []
