@@ -6922,6 +6922,182 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cq][dq][er][fr]AW[bo][cp][dp][eq][fq][gq][gr][fs])"
+  },
+    {
+    "id": 630,
+    "libro": "Essential Life and Death 4",
+    "tema": "Placement after Reducing the Eye Space",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cq][dq][br][er][fr]AW[bo][ap][cp][dp][eq][fq][gq][gr][fs])"
+  },
+  {
+    "id": 631,
+    "libro": "Essential Life and Death 4",
+    "tema": "Placement after Reducing the Eye Space",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][aq][cq][dq][br][er][fr]AW[ao][bo][ap][cp][dp][eq][fq][gq][gr][fs])"
+  },
+  {
+    "id": 632,
+    "libro": "Essential Life and Death 4",
+    "tema": "Placement after Reducing the Eye Space",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][cq][dq][br][dr][er][fr]AW[ao][bo][ap][cp][dp][bq][eq][fq][gq][gr][fs])"
+  },
+  {
+    "id": 633,
+    "libro": "Essential Life and Death 4",
+    "tema": "Placement after Reducing the Eye Space",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][cq][dq][ar][br][dr][er][fr]AW[ao][bo][ap][cp][dp][eq][fq][gq][gr][cs][fs])"
+  },
+  {
+    "id": 634,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Línea Tesuji",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][bp][dp][fp][cq][gq][hq][iq][jq][jr]AW[dq][eq][fq][gr][hr][ir])"
+  },
+  {
+    "id": 635,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Línea Tesuji",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][bp][dp][fp][cq][gq][hq][iq][jq][jr][cs]AW[dq][eq][fq][gr][hr][ir][fs])"
+  },
+  {
+    "id": 636,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Línea Tesuji",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][bp][dp][fp][cq][gq][hq][iq][jq][jr][cs][es]AW[dq][eq][fq][er][gr][hr][ir][fs])"
+  },
+  {
+    "id": 637,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Línea Tesuji",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][bp][dp][fp][cq][gq][hq][iq][jq][jr][cs]AW[dq][eq][fq][dr][gr][hr][ir])"
+  },
+  {
+    "id": 638,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Línea Tesuji",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][bp][dp][fp][cq][gq][hq][iq][jq][jr][cs][is]AW[dq][eq][fq][dr][gr][hr][ir][fs])"
+  },
+  {
+    "id": 639,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Línea Tesuji",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][bp][dp][fp][cq][gq][hq][iq][jq][jr][cs]AW[dq][eq][fq][cr][gr][hr][ir])"
+  },
+  {
+    "id": 640,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Line Tesuji",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][cr][jr])"
+  },
+  {
+    "id": 641,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Line Tesuji",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir][fs]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][cr][jr][ds])"
+  },
+  {
+    "id": 642,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Line Tesuji",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir][es][fs]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][cr][er][jr][ds])"
+  },
+  {
+    "id": 643,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Line Tesuji",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir][fs]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][cr][jr][es])"
+  },
+  {
+    "id": 644,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Line Tesuji",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir][fs]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][cr][er][jr])"
+  },
+  {
+    "id": 645,
+    "libro": "Essential Life and Death 4",
+    "tema": "First Line Tesuji",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][dr][jr])"
   }
   ]
 }
