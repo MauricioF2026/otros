@@ -478,6 +478,15 @@
   "descripcion": "Partidas disponibles del 1st Shinei Select y de la Four New Stars League de 1962, además de dos partidas especiales de 1963, recopiladas desde CWI Go Games.",
   "periodo": "1962-1963",
   "partidas": 10
+},
+  {
+  "id": "asahi_top8",
+  "nombre": "Asahi Top Eight",
+  "archivo": "cwi_asahi_top8.json",
+  "categoria": "copas",
+  "descripcion": "Partidas disponibles del Asahi Top Eight Tournament (八強争覇戦), organizado por el periódico Asahi Shimbun en 1975/1976 y ganado por Cho Chikun, recopiladas desde CWI Go Games.",
+  "periodo": "1975-1976",
+  "partidas": 8
 }
 ],
 "torneos": []
