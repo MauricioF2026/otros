@@ -438,6 +438,15 @@
   "descripcion": "Partidas de las 73 ediciones del torneo Oza, desde 1953 hasta 2025, recopiladas desde CWI Go Games.",
   "periodo": "1953-2025",
   "partidas": 230
+},
+  {
+  "id": "agon",
+  "nombre": "Agon",
+  "archivo": "cwi_agon.json",
+  "categoria": "copas",
+  "descripcion": "Partidas de las finales de las 32 ediciones de la ACOM Cup y Agon-Kiriyama Cup, desde 1994 hasta 2025, recopiladas desde CWI Go Games.",
+  "periodo": "1994-2025",
+  "partidas": 32
 }
 ],
 "torneos": []
