@@ -6240,6 +6240,28 @@
       "pagina": null,
       "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][dq][eq][fq][br][cr][er]AW[ap][bp][cp][dp][ep][fp][gp][cq][gq][fr][hr][es][fs])",
       "libro": "Essential Life and Death 3"
-    }
+    },
+    {
+    "id": 568,
+    "libro": "Essential Life and Death 4",
+    "tema": "Making Use of Jachung",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][eq][fq][gq][gr][gs]AW[bq][cq][dq][er][fr][bs])"
+  },
+  {
+    "id": 569,
+    "libro": "Essential Life and Death 4",
+    "tema": "Making Use of Jachung",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][eq][fq][gq][ar][gr][gs]AW[aq][bq][cq][dq][er][fr][bs])"
+  }
   ]
 }
