@@ -469,6 +469,15 @@
   "descripcion": "Partidas disponibles del All Japan Hayago Championship de 1949 y del All Japan First Place Title, celebrado en cinco ediciones entre 1970 y 1975, recopiladas desde CWI Go Games.",
   "periodo": "1949-1975",
   "partidas": 13
+},
+  {
+  "id": "shinei",
+  "nombre": "Shinei",
+  "archivo": "cwi_shineiS.json",
+  "categoria": "copas",
+  "descripcion": "Partidas disponibles del 1st Shinei Select y de la Four New Stars League de 1962, además de dos partidas especiales de 1963, recopiladas desde CWI Go Games.",
+  "periodo": "1962-1963",
+  "partidas": 10
 }
 ],
 "torneos": []
