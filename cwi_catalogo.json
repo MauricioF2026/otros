@@ -451,6 +451,15 @@
   "descripcion": "Partidas de las finales de las 32 ediciones de la ACOM Cup y Agon-Kiriyama Cup, desde 1994 hasta 2025, recopiladas desde CWI Go Games.",
   "periodo": "1994-2025",
   "partidas": 32
+},
+  {
+  "id": "aizu",
+  "nombre": "Aizu",
+  "archivo": "cwi_aizu.json",
+  "categoria": "copas",
+  "descripcion": "Partidas disponibles de las 12 ediciones de la Aizu Cup, también conocida como Aizu Chuo Hospital Cup y Women's Tachiaoi Cup, desde 2014 hasta 2025, recopiladas desde CWI Go Games.",
+  "periodo": "2014-2025",
+  "partidas": 6
 }
 ],
 "torneos": []
