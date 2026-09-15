@@ -22,7 +22,11 @@
 {
 "id": "organizaciones",
 "nombre": "🏯 Organizaciones y escuelas"
-}
+},
+  {
+    "id": "copas",
+    "nombre": "🏆 Copas"
+  }
 ],
 "colecciones": [
 {
