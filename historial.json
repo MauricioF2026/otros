@@ -79,6 +79,69 @@
   "pendientes": "Repasar Nito Jodan y mejorar la continuidad del movimiento después del ataque.",
   "proximaClase": "Continuar con Zanshin, revisar Kodachi Tchudan y comenzar el trabajo de Koiguchi no Kiri Kata.",
   "creado": "2026-09-17T03:00:00.000Z"
+},
+    {
+  "id": "clase_1789568254218_mh78am",
+  "fecha": "2026-09-15",
+  "disciplina": "kenjutsu",
+  "alumno": "Sebastian",
+  "nivel": "0 Kyu",
+  "objetivo": "Se trabajo sassen, hasso hidari y hasso migi.El trabajo fue en pareja con Pablo. Se corrige altura y flexión de las piernas al efectuar el hasso.",
+  "temas": [
+    {
+      "id": "nivel_0_Kyu_6",
+      "nombre": "PILOTO TCHUDAN",
+      "estado": "repasar",
+      "nivel": 2,
+      "nivelTexto": "Básico",
+      "comentario": "Falta continuidad en sus desplazamientos y concordarlos con el gritor"
+    },
+    {
+      "id": "nivel_0_Kyu_7",
+      "nombre": "SASSEN",
+      "estado": "repasar",
+      "nivel": 2,
+      "nivelTexto": "Básico",
+      "comentario": "Falta trabajar el tsuki del sassen. Se debe trabajar la postura no tanto en la forma sino en la expresión de firmeza"
+    },
+    {
+      "id": "nivel_0_Kyu_8",
+      "nombre": "HASSO HIDARI",
+      "estado": "repasar",
+      "nivel": 2,
+      "nivelTexto": "Básico",
+      "comentario": "Se debe mejorar el estar más bajo en la postura al realizar el corte. Poner atención en que no está llegando al corte en el cuello del oponente. Usa poco la torsión requerida de la cintura para hacer el corte"
+    },
+    {
+      "id": "nivel_0_Kyu_9",
+      "nombre": "HASSO MIGI",
+      "estado": "repasar",
+      "nivel": 2,
+      "nivelTexto": "Básico",
+      "comentario": "Debe poner atención en no perder la posición, pues algunas veces que con el cuero saliendo excesivamente fuera de la línea del corte"
+    },
+    {
+      "id": "ken_reiho",
+      "nombre": "Reiho",
+      "estado": "desarrollo",
+      "nivel": 2,
+      "nivelTexto": "Básico",
+      "comentario": "El alumno muestra atención a las instrucciones y mantiene respeto con los protocolos del dojo y con los compañeros"
+    },
+    {
+      "id": "ken_ma_ai",
+      "nombre": "Ma-ai",
+      "estado": "desarrollo",
+      "nivel": 3,
+      "nivelTexto": "Adecuado",
+      "comentario": "Respecto al maai el alumno mantiene su distancia. En los Kata que está trabajando va mejorando el maai. En gekiken se debe poner atención al uso de la distancia de forma estratégica"
+    }
+  ],
+  "ejercicios": "Se trabajo en pareja junto a Pablo.Se trabajaron los tres primeros katas. En el trabajo con bogu se trabajo men, kote. No trabajamos Do. De las tres técnicas está es una de las que debería mejorar y dedicar más atención, pues en el el desarrollo normal de las clases -daso que hay pocos alumnos en su nivel- no se trabaja tanto está técnica. Debe buscar apoyo en la técnica do. Se recomienda trabajo intensivo en esa área",
+  "observaciones": "Presenta fortalezas para captar las técnicas y seguir instrucciones. Debilidades en la técnica del do. El reiho lo está trabajando bien. Se esperan avances en reiho",
+  "pendientes": "Repasar posición en hasso hidari y migi. Mejorar técnica do. Explicar importancia de maai y seme en la lucha. El manejo del timing se debe profundizar",
+  "proximaClase": "Avanzar al conocimiento de los 6 primeros katas",
+  "creado": "2026-09-16T14:17:34.230Z"
 }
   ]
 }
