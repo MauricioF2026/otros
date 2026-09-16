@@ -532,6 +532,15 @@
   "descripcion": "Daiwa-Shoken Cup (大和証券杯ネット囲碁オープン), torneo japonés disputado entre 2006 y 2013. CWI conserva 248 partidas correspondientes a sus ocho ediciones.",
   "periodo": "2006–2013",
   "partidas": 248
+},
+  {
+  "id": "cwi_daiwa_grand_champion_cup",
+  "nombre": "Daiwa Grand Champion Cup",
+  "archivo": "cwi_daiwa_grand_champion_cup.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de la Daiwa Grand Champion Cup (ダイワグランドチャンピオン杯)",
+  "periodo": "2008-2011",
+  "partidas": 4
 }
 ],
 "torneos": []
