@@ -1,0 +1,1032 @@
+{
+  "id": "meijin_41",
+  "schemaVersion": "1.1",
+  "torneo": "41st Meijin",
+  "edicion": 41,
+  "url": "https://gotoeveryone.k2ss.info/news/jp/meijin/41/",
+  "fuente": "Go to Everyone!",
+  "organizadores": [
+    "The Asahi Shimbun"
+  ],
+  "titleMatch": {
+    "textoOriginal": [
+      "Players 1st round08-30,31BunkyoTokyo 2nd round09-14,15TaharaAichi 3rd round09-20,21NumazuShizuoka 4th round10-04,05TakarazukaHyogo 5th round10-12,13AtamiShizuoka 6th round10-26,27KawazuShizuoka 7th round11-02,03KofuYamanashi Iyama Yuta (Meijin) B+R W+3.5 B+R Takao Shinji (9 dan) B+R W+R B+R W+2.5",
+      "Takao Shinji got the title by 4-3. The win-loss records; Iyama Yuta 34-12 Takao Shinji."
+    ]
+  },
+  "challengerDecisionMatch": {
+    "textoOriginal": []
+  },
+  "league": [
+    {
+      "rank": 1,
+      "player": "Takao Shinji(9d)",
+      "codigo": "T.S",
+      "record": {
+        "wins": 7,
+        "losses": 1
+      },
+      "final": "C",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "12-03",
+          "original": "W+R12-03",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-T.S-Y.K-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "01-11",
+          "original": "B+R01-11",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-T.S-K.R-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "0.5",
+          "fecha": "06-20",
+          "original": "W+0.506-20",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-T.S-C.U-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "08-04",
+          "original": "B+R08-04",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-T.S-K.I-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-05",
+          "original": "X05-05",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-T.S-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "02-04",
+          "original": "B+R02-04",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-T.S-H.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "07-21",
+          "original": "W+R07-21",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-T.S-U.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "03-17",
+          "original": "B+R03-17",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-T.S-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "player": "Yamashita Keigo(9d)",
+      "codigo": "Y.K",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "3",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-03",
+          "original": "X12-03",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-Y.K-T.S-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "04-07",
+          "original": "W+R04-07",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-Y.K-K.R-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "08-04",
+          "original": "B+R08-04",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-Y.K-C.U-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-12",
+          "original": "X05-12",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-Y.K-K.I-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-16",
+          "original": "X06-16",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-Y.K-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "06-30",
+          "original": "W+R06-30",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-Y.K-H.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "03-24",
+          "original": "B+R03-24",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-Y.K-U.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "3.5",
+          "fecha": "02-08",
+          "original": "W+3.502-08",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-Y.K-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "player": "Kono Rin(9d)",
+      "codigo": "K.R",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "final": "5",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-11",
+          "original": "X01-11",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-K.R-T.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-07",
+          "original": "X04-07",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-K.R-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "0.5",
+          "fecha": "05-12",
+          "original": "W+0.505-12",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-K.R-C.U-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "06-02",
+          "original": "B+0.506-02",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-K.R-K.I-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "08-04",
+          "original": "X08-04",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-K.R-M.D-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-03",
+          "original": "X03-03",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-K.R-H.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "02-25",
+          "original": "W+R02-25",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-K.R-U.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "07-07",
+          "original": "B+R07-07",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-K.R-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "player": "Cho U(9d)",
+      "codigo": "C.U",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "4",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-20",
+          "original": "X06-20",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-C.U-T.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "08-04",
+          "original": "X08-04",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-C.U-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-12",
+          "original": "X05-12",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-C.U-K.R-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "02-11",
+          "original": "W+R02-11",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-C.U-K.I-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "2.5",
+          "fecha": "07-07",
+          "original": "B+2.507-07",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-C.U-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "12-10",
+          "original": "W+R12-10",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-C.U-H.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "01-21",
+          "original": "B+0.501-21",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-C.U-U.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "4.5",
+          "fecha": "04-28",
+          "original": "W+4.504-28",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-C.U-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "player": "Ko Iso(8d)",
+      "codigo": "K.I",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "final": "6",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "08-04",
+          "original": "X08-04",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-K.I-T.S-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "1.5",
+          "fecha": "05-12",
+          "original": "B+1.505-12",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-K.I-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-02",
+          "original": "X06-02",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-K.I-K.R-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-11",
+          "original": "X02-11",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-K.I-C.U-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-10",
+          "original": "X03-10",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-K.I-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "01-07",
+          "original": "B+R01-07",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-K.I-H.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "04-07",
+          "original": "W+R04-07",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-K.I-U.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "12-03",
+          "original": "B+R12-03",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-K.I-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "player": "Murakawa Daisuke(8d)",
+      "codigo": "M.D",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "final": "2",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "05-05",
+          "original": "B+R05-05",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-M.D-T.S-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "4.5",
+          "fecha": "06-16",
+          "original": "W+4.506-16",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-M.D-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "08-04",
+          "original": "B+R08-04",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-M.D-K.R-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-07",
+          "original": "X07-07",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-M.D-C.U-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "03-10",
+          "original": "B+R03-10",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-M.D-K.I-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-14",
+          "original": "X04-14",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-M.D-H.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "12-17",
+          "original": "B+R12-17",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-M.D-U.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "01-21",
+          "original": "W+R01-21",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-M.D-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Hane Naoki(9d)",
+      "codigo": "H.N",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-04",
+          "original": "X02-04",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-H.N-T.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-30",
+          "original": "X06-30",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-H.N-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "03-03",
+          "original": "W+R03-03",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-H.N-K.R-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-10",
+          "original": "X12-10",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-H.N-C.U-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-07",
+          "original": "X01-07",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-H.N-K.I-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "04-14",
+          "original": "B+R04-14",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-H.N-M.D-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "06-09",
+          "original": "W+R06-09",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-H.N-U.S-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "08-04",
+          "original": "X08-04",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-H.N-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Uchida Shuhei(7d)",
+      "codigo": "U.S",
+      "record": {
+        "wins": 0,
+        "losses": 8
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-21",
+          "original": "X07-21",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-U.S-T.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-24",
+          "original": "X03-24",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-U.S-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-25",
+          "original": "X02-25",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-U.S-K.R-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-21",
+          "original": "X01-21",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-U.S-C.U-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-07",
+          "original": "X04-07",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-U.S-K.I-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-17",
+          "original": "X12-17",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-U.S-M.D-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-09",
+          "original": "X06-09",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-U.S-H.N-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-19",
+          "original": "X05-19",
+          "rivalCodigo": "H.T",
+          "rival": "Hirata Tomoya(7d)",
+          "idPartida": "41-U.S-H.T-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Hirata Tomoya(7d)",
+      "codigo": "H.T",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-17",
+          "original": "X03-17",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(9d)",
+          "idPartida": "41-H.T-T.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-08",
+          "original": "X02-08",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "41-H.T-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-07",
+          "original": "X07-07",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "41-H.T-K.R-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-28",
+          "original": "X04-28",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "41-H.T-C.U-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-03",
+          "original": "X12-03",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "41-H.T-K.I-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-21",
+          "original": "X01-21",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(8d)",
+          "idPartida": "41-H.T-M.D-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "08-04",
+          "original": "W+R08-04",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "41-H.T-H.N-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "5.5",
+          "fecha": "05-19",
+          "original": "B+5.505-19",
+          "rivalCodigo": "U.S",
+          "rival": "Uchida Shuhei(7d)",
+          "idPartida": "41-H.T-U.S-08"
+        }
+      ]
+    }
+  ],
+  "informacionLeague": {
+    "edadReferencia": "2015-11-30",
+    "edad": {
+      "T.S": 39,
+      "Y.K": 37,
+      "K.R": 34,
+      "C.U": 35,
+      "K.I": 28,
+      "M.D": 24,
+      "H.N": 39,
+      "U.S": 26,
+      "H.T": 21
+    },
+    "registradoMeijinLeague": {
+      "T.S": 11,
+      "Y.K": 12,
+      "K.R": 5,
+      "C.U": 14,
+      "K.I": 6,
+      "M.D": 4,
+      "H.N": 8,
+      "U.S": 1,
+      "H.T": 1
+    },
+    "winLoss": {
+      "T.S": "2015-11-27(win-loss)",
+      "Y.K": "18-26",
+      "K.R": "35-21",
+      "C.U": "30-13",
+      "K.I": "21-16",
+      "M.D": "25-17",
+      "H.N": "18-24",
+      "U.S": "21-20",
+      "H.T": "24-09"
+    },
+    "percentage": {
+      "T.S": 41,
+      "Y.K": 63,
+      "K.R": 70,
+      "C.U": 57,
+      "K.I": 60,
+      "M.D": 40,
+      "H.N": 51,
+      "U.S": 73,
+      "H.T": 67
+    },
+    "ranking": {
+      "T.S": "2015-11-27",
+      "Y.K": "-",
+      "K.R": "8",
+      "C.U": "13",
+      "K.I": "32",
+      "M.D": "24",
+      "H.N": "-",
+      "U.S": "32",
+      "H.T": "25"
+    }
+  },
+  "leagueScene": [
+    "title Player1(upper);winner Player2(lower);loser B|W+x.x|R ;result xx-xx ;date 1T.S 2Y.K 3K.R 4C.U 5K.I 6M.D 7H.N 7U.S 7H.T Round1(Dec.) T.SY.KW+R12-03 K.IH.TB+R12-03 C.UH.NW+R12-10 M.DU.SB+R12-17 1-0 0-1 - 1-0 1-0 1-0 0-1 0-1 0-1 Round2(Jan.) K.IH.NB+R01-07 T.SK.RB+R01-11 M.DH.TW+R01-21 C.UU.SB+0.501-21 2-0 - 0-1 2-0 2-0 2-0 0-2 0-2 0-2 Round3(Feb.) T.SH.NB+R02-04 Y.KH.TW+3.502-08 C.UK.IW+R02-11 K.RU.SW+R02-25 3-0 1-1 1-1 3-0 2-1 - 0-3 0-3 0-3 Round4(Mar.) H.NK.RW+R03-03 M.DK.IB+R03-10 T.SH.TB+R03-17 Y.KU.SB+R03-24 4-0 2-1 1-2 - 2-2 3-0 1-3 0-4 0-4 Round5(Apr.) K.IU.SW+R04-07 Y.KK.RW+R04-07 H.NM.DB+R04-14 C.UH.TW+4.504-28 - 3-1 1-3 4-0 3-2 3-1 2-3 0-5 0-5 Round6(May.) M.DT.SB+R05-05 K.RC.UW+0.505-12 K.IY.KB+1.505-12 H.TU.SB+5.505-19 4-1 3-2 2-3 4-1 3-2 4-1 - 0-6 1-5 Round7(Jun.) K.RK.IB+0.506-02 H.NU.SW+R06-09 M.DY.KW+4.506-16 T.SC.UW+0.506-20 5-1 3-3 3-3 4-2 4-3 5-1 3-3 0-7 - Round8(Jul.) Y.KH.NW+R06-30 K.RH.TB+R07-07 C.UM.DB+2.507-07 T.SU.SW+R07-21 6-1 4-3 4-3 5-2 - 5-2 3-4 0-8 1-6 Round9(Aug.) Y.KC.UB+R08-04 M.DK.RB+R08-04 T.SK.IB+R08-04 H.TH.NW+R08-04 7-1 5-3 4-4 5-3 4-4 6-2 3-5 - 1-7 Result C 3 5 4 6 2 DM DM DM Age at 2015-11-30 39 37 34 35 28 24 39 26 21 Registered Meijin and league(years) 11 12 5 14 6 4 8 1 1 Win-Loss 2015-11-27(win-loss) 18-26 35-21 30-13 21-16 25-17 18-24 21-20 24-09 24-12 Percentage 2015-11-27(%) 41 63 70 57 60 40 51 73 67 Ranking 2015-11-27 - 8 13 32 24 - 32 25 25",
+    "History; 2015-11-27 Page was created. 2015-12-04,11,19 Updated. 2016-01-10,16,22,29 Updated. 2016-02-05,12,19,27 Updated. 2016-03-05,11,18,25 Updated. 2016-04-01,08,15,22,29 Updated. 2016-05-06,13,20,27 Updated. 2016-06-03,10,18,24 Updated. 2016-07-01,09,15,22,30 Updated. 2016-08-06 Updated. 2016-09-17,21 Updated. 2016-10-07,14,30 Updated."
+  ],
+  "lastPreliminaryTournament": [
+    "Players 1st round Semifinals Final Yo Chito(2d) Hirata TW+4.509-03 Hirata TB+R10-15 Hirata TW+3.510-29 Hirata Tomoya(7d) Imamura Yoshiaki(9d) Cho SonjinB+R09-03 Kurahashi MB+R09-24 Cho Sonjin(9d) Kurahashi Masayuki(9d) Yuki Satoshi(9d) Yuki SW+R10-01 So YokokuW+R10-19 Ogata Masaki(9d) Oba Junya(7d) So YokokuB+R09-10 So Yokoku(9d) Hane Yasumasa(9d) Hane YB+1.509-30 Uchida SB+R10-15 Uchida SB+3.510-29 Akiyama Jiro(9d) Moriyama Naoki(9d) Moriyama NW+3.509-10 Uchida SW+R10-01 Kono Takashi(8d) Uchida Shuhei(7d) Kiyonari Tetsuya(9d) Kim SujunB+R09-24 Kanazawa MB+R10-08 Kim Sujun(8d) Yu Zhengqi(7d) Kanazawa MB+0.509-10 Kanazawa Makoto(7d) Shibano Toramaru(1d) Shibano TW+R09-17 Ida AB+2.510-19 Hane NW+R11-05 Seto Taiki(7d) Rin Kanketsu(7d) Ichiriki RB+3.509-24 Ida AW+R10-09 Ichiriki Ryo(7d) Ida Atsushi(J) Takeuchi Kosuke(3d) Cho ChikunW+R09-24 Hane NB+R10-15 Cho Chikun(25H) Hikosaka Naoto(9d) Hane NW+R09-24 Hane Naoki(9d)",
+    "Note; (J); Judan (25H); 25th Honinbo History; 2015-09-03 Page was created. 2015-09-04,11,18,26 Updated. 2015-10-02,09,16,23,31 Updated. 2015-11-07 Updated."
+  ],
+  "preliminaryTournamentA": [],
+  "history": [
+    "2015-11-27 Page was created.",
+    "2015-12-04,11,19 Updated.",
+    "2016-01-10,16,22,29 Updated.",
+    "2016-02-05,12,19,27 Updated.",
+    "2016-03-05,11,18,25 Updated.",
+    "2016-04-01,08,15,22,29 Updated.",
+    "2016-05-06,13,20,27 Updated.",
+    "2016-06-03,10,18,24 Updated.",
+    "2016-07-01,09,15,22,30 Updated.",
+    "2016-08-06 Updated.",
+    "2016-09-17,21 Updated.",
+    "2016-10-07,14,30 Updated.",
+    "The last preliminary tournament",
+    "Players",
+    "1st round",
+    "Semifinals",
+    "Final",
+    "Yo Chito(2d)",
+    "Hirata TW+4.509-03",
+    "Hirata TB+R10-15",
+    "Hirata TW+3.510-29",
+    "Hirata Tomoya(7d)",
+    "Imamura Yoshiaki(9d)",
+    "Cho SonjinB+R09-03",
+    "Kurahashi MB+R09-24",
+    "Cho Sonjin(9d)",
+    "Kurahashi Masayuki(9d)",
+    "Yuki Satoshi(9d)",
+    "Yuki SW+R10-01",
+    "So YokokuW+R10-19",
+    "Ogata Masaki(9d)",
+    "Oba Junya(7d)",
+    "So YokokuB+R09-10",
+    "So Yokoku(9d)",
+    "Hane Yasumasa(9d)",
+    "Hane YB+1.509-30",
+    "Uchida SB+R10-15",
+    "Uchida SB+3.510-29",
+    "Akiyama Jiro(9d)",
+    "Moriyama Naoki(9d)",
+    "Moriyama NW+3.509-10",
+    "Uchida SW+R10-01",
+    "Kono Takashi(8d)",
+    "Uchida Shuhei(7d)",
+    "Kiyonari Tetsuya(9d)",
+    "Kim SujunB+R09-24",
+    "Kanazawa MB+R10-08",
+    "Kim Sujun(8d)",
+    "Yu Zhengqi(7d)",
+    "Kanazawa MB+0.509-10",
+    "Kanazawa Makoto(7d)",
+    "Shibano Toramaru(1d)",
+    "Shibano TW+R09-17",
+    "Ida AB+2.510-19",
+    "Hane NW+R11-05",
+    "Seto Taiki(7d)",
+    "Rin Kanketsu(7d)",
+    "Ichiriki RB+3.509-24",
+    "Ida AW+R10-09",
+    "Ichiriki Ryo(7d)",
+    "Ida Atsushi(J)",
+    "Takeuchi Kosuke(3d)",
+    "Cho ChikunW+R09-24",
+    "Hane NB+R10-15",
+    "Cho Chikun(25H)",
+    "Hikosaka Naoto(9d)",
+    "Hane NW+R09-24",
+    "Hane Naoki(9d)",
+    "Note;",
+    "(J); Judan (25H); 25th Honinbo",
+    "2015-09-03 Page was created.",
+    "2015-09-04,11,18,26 Updated.",
+    "2015-10-02,09,16,23,31 Updated.",
+    "2015-11-07 Updated.",
+    "Follow @kzkamago0721",
+    "© 2003 K2SS All rights reserved.",
+    "{",
+    "\"@context\": \"http://schema.org\",",
+    "\"@type\": \"BreadcrumbList\",",
+    "\"itemListElement\": [",
+    "{",
+    "\"@type\": \"ListItem\",",
+    "\"position\": 1,",
+    "\"item\": {",
+    "\"@id\": \"https://gotoeveryone.k2ss.info/\",",
+    "\"name\": \"Go to Everyone!\"",
+    "}",
+    "}, {",
+    "\"@type\": \"ListItem\",",
+    "\"position\": 2,",
+    "\"item\": {",
+    "\"@id\": \"https://gotoeveryone.k2ss.info/news/\",",
+    "\"name\": \"Go News\"",
+    "}",
+    "}, {",
+    "\"@type\": \"ListItem\",",
+    "\"position\": 3,",
+    "\"item\": {",
+    "\"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/\",",
+    "\"name\": \"Meijin\"",
+    "}",
+    "}, {",
+    "\"@type\": \"ListItem\",",
+    "\"position\": 4,",
+    "\"item\": {",
+    "\"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/41/\",",
+    "\"name\": \"41st\"",
+    "}",
+    "} ]",
+    "}"
+  ],
+  "textoOriginal": [
+    "In order to view this site, please enable JavaScript.\n        (このサイトを閲覧するためには、JavaScriptを有効にしてください。)\n    \n    \n      \n        \n          Meijin\n          \n                                        \n                Top\n              \n                                                      \n                Go News\n              \n                                                      \n                Go Topics\n              \n                                                      \n                Schedules\n              \n                                                      \n                Win-Loss\n              \n                                                      \n                Information\n              \n                                                      \n                Contact\n              \n                                    \n          \n          \n        \n      \n      \n                        \n                    \n                        52nd\n                      \n                    \n                        51st\n                      \n                    \n                        50th\n                      \n                    \n                        49th\n                      \n                    \n                        48th\n                      \n                    \n                        47th\n                      \n                    \n                        46th\n                      \n                    \n                        45th\n                      \n                    \n                        44th\n                      \n                    \n                        43rd\n                      \n                    \n                        42nd\n                      \n                    \n                        41st\n                      \n                    \n                        40th\n                      \n                    \n                        39th\n                      \n                    \n                        38th\n                      \n                    \n                        37th\n                      \n                    \n                        36th\n                      \n                    \n                        35th\n                      \n                    \n                        34th\n                      \n                    \n                        33rd\n                      \n                    \n                        32nd\n                      \n                    \n                        31st\n                      \n                  \n        \n  \n41st Meijin-sen\nHost Organization: Asahi Shimbun\n\nTitle match\n\n\n\nPlayers\n1st round08-30,31BunkyoTokyo\n2nd round09-14,15TaharaAichi\n3rd round09-20,21NumazuShizuoka\n4th round10-04,05TakarazukaHyogo\n5th round10-12,13AtamiShizuoka\n6th round10-26,27KawazuShizuoka\n7th round11-02,03KofuYamanashi\n\nIyama Yuta (Meijin)\n \n \n \nB+R\nW+3.5\nB+R\n \n\nTakao Shinji (9 dan)\nB+R\nW+R\nB+R\n \n \n \nW+2.5\n\n\n\n\nTakao Shinji got the title by 4-3.\n\nThe win-loss records; Iyama Yuta 34-12 Takao Shinji.\n\n\nLeague\n\nRank\nPlayers\nT.S\nY.K\nK.R\nC.U\nK.I\nM.D\nH.N\nU.S\nH.T\nResult\n\n1\nTakao Shinji(9d)\n-\nW+R12-03\nB+R01-11\nW+0.506-20\nB+R08-04\nX05-05\nB+R02-04\nW+R07-21\nB+R03-17\n7-1\nC\n\n2\nYamashita Keigo(9d)\nX12-03\n-\nW+R04-07\nB+R08-04\nX05-12\nX06-16\nW+R06-30\nB+R03-24\nW+3.502-08\n5-3\n3\n\n3\nKono Rin(9d)\nX01-11\nX04-07\n-\nW+0.505-12\nB+0.506-02\nX08-04\nX03-03\nW+R02-25\nB+R07-07\n4-4\n5\n\n4\nCho U(9d)\nX06-20\nX08-04\nX05-12\n-\nW+R02-11\nB+2.507-07\nW+R12-10\nB+0.501-21\nW+4.504-28\n5-3\n4\n\n5\nKo Iso(8d)\nX08-04\nB+1.505-12\nX06-02\nX02-11\n-\nX03-10\nB+R01-07\nW+R04-07\nB+R12-03\n4-4\n6\n\n6\nMurakawa Daisuke(8d)\nB+R05-05\nW+4.506-16\nB+R08-04\nX07-07\nB+R03-10\n-\nX04-14\nB+R12-17\nW+R01-21\n6-2\n2\n\n7\nHane Naoki(9d)\nX02-04\nX06-30\nW+R03-03\nX12-10\nX01-07\nB+R04-14\n-\nW+R06-09\nX08-04\n3-5\nDM\n\n7\nUchida Shuhei(7d)\nX07-21\nX03-24\nX02-25\nX01-21\nX04-07\nX12-17\nX06-09\n-\nX05-19\n0-8\nDM\n\n7\nHirata Tomoya(7d)\nX03-17\nX02-08\nX07-07\nX04-28\nX12-03\nX01-21\nW+R08-04\nB+5.505-19\n-\n2-6\nDM\n\n\n\nLeague scene\n\ntitle\nPlayer1(upper);winner\n                Player2(lower);loser\n                B|W+x.x|R     ;result\n                xx-xx         ;date\n1T.S\n2Y.K\n3K.R\n4C.U\n5K.I\n6M.D\n7H.N\n7U.S\n7H.T\n\nRound1(Dec.)\nT.SY.KW+R12-03\nK.IH.TB+R12-03\nC.UH.NW+R12-10\nM.DU.SB+R12-17\n1-0\n0-1\n-\n1-0\n1-0\n1-0\n0-1\n0-1\n0-1\n\nRound2(Jan.)\nK.IH.NB+R01-07\nT.SK.RB+R01-11\nM.DH.TW+R01-21\nC.UU.SB+0.501-21\n2-0\n-\n0-1\n2-0\n2-0\n2-0\n0-2\n0-2\n0-2\n\nRound3(Feb.)\nT.SH.NB+R02-04\nY.KH.TW+3.502-08\nC.UK.IW+R02-11\nK.RU.SW+R02-25\n3-0\n1-1\n1-1\n3-0\n2-1\n-\n0-3\n0-3\n0-3\n\nRound4(Mar.)\nH.NK.RW+R03-03\nM.DK.IB+R03-10\nT.SH.TB+R03-17\nY.KU.SB+R03-24\n4-0\n2-1\n1-2\n-\n2-2\n3-0\n1-3\n0-4\n0-4\n\nRound5(Apr.)\nK.IU.SW+R04-07\nY.KK.RW+R04-07\nH.NM.DB+R04-14\nC.UH.TW+4.504-28\n-\n3-1\n1-3\n4-0\n3-2\n3-1\n2-3\n0-5\n0-5\n\nRound6(May.)\nM.DT.SB+R05-05\nK.RC.UW+0.505-12\nK.IY.KB+1.505-12\nH.TU.SB+5.505-19\n4-1\n3-2\n2-3\n4-1\n3-2\n4-1\n-\n0-6\n1-5\n\nRound7(Jun.)\nK.RK.IB+0.506-02\nH.NU.SW+R06-09\nM.DY.KW+4.506-16\nT.SC.UW+0.506-20\n5-1\n3-3\n3-3\n4-2\n4-3\n5-1\n3-3\n0-7\n-\n\nRound8(Jul.)\nY.KH.NW+R06-30\nK.RH.TB+R07-07\nC.UM.DB+2.507-07\nT.SU.SW+R07-21\n6-1\n4-3\n4-3\n5-2\n-\n5-2\n3-4\n0-8\n1-6\n\nRound9(Aug.)\nY.KC.UB+R08-04\nM.DK.RB+R08-04\nT.SK.IB+R08-04\nH.TH.NW+R08-04\n7-1\n5-3\n4-4\n5-3\n4-4\n6-2\n3-5\n-\n1-7\n\nResult\n \nC\n3\n5\n4\n6\n2\nDM\nDM\nDM\n\nAge\nat 2015-11-30\n39\n37\n34\n35\n28\n24\n39\n26\n21\n\nRegistered\nMeijin and league(years)\n11\n12\n5\n14\n6\n4\n8\n1\n1\n\nWin-Loss\n2015-11-27(win-loss)\n18-26\n35-21\n30-13\n21-16\n25-17\n18-24\n21-20\n24-09\n24-12\n\nPercentage\n2015-11-27(%)\n41\n63\n70\n57\n60\n40\n51\n73\n67\n\nRanking\n2015-11-27\n-\n8\n13\n32\n24\n-\n32\n25\n25\n\n\n\nHistory;\n  2015-11-27 Page was created.\n  2015-12-04,11,19 Updated.\n  2016-01-10,16,22,29 Updated.\n  2016-02-05,12,19,27 Updated.\n  2016-03-05,11,18,25 Updated.\n  2016-04-01,08,15,22,29 Updated.\n  2016-05-06,13,20,27 Updated.\n  2016-06-03,10,18,24 Updated.\n  2016-07-01,09,15,22,30 Updated.\n  2016-08-06 Updated.\n  2016-09-17,21 Updated.\n  2016-10-07,14,30 Updated.\n\n\n\nThe last preliminary tournament\n\n\nPlayers\n1st round\nSemifinals\nFinal\n\nYo Chito(2d)\nHirata TW+4.509-03\nHirata TB+R10-15\nHirata TW+3.510-29\nHirata Tomoya(7d)\n\nImamura Yoshiaki(9d)\nCho SonjinB+R09-03\nKurahashi MB+R09-24\nCho Sonjin(9d)\nKurahashi Masayuki(9d)\n\nYuki Satoshi(9d)\nYuki SW+R10-01\nSo YokokuW+R10-19\nOgata Masaki(9d)\n\nOba Junya(7d)\nSo YokokuB+R09-10\nSo Yokoku(9d)\n\n\nHane Yasumasa(9d)\nHane YB+1.509-30\nUchida SB+R10-15\nUchida SB+3.510-29\nAkiyama Jiro(9d)\n\nMoriyama Naoki(9d)\nMoriyama NW+3.509-10\nUchida SW+R10-01\nKono Takashi(8d)\nUchida Shuhei(7d)\n\nKiyonari Tetsuya(9d)\nKim SujunB+R09-24\nKanazawa MB+R10-08\nKim Sujun(8d)\n\nYu Zhengqi(7d)\nKanazawa MB+0.509-10\nKanazawa Makoto(7d)\n\n\nShibano Toramaru(1d)\nShibano TW+R09-17\nIda AB+2.510-19\nHane NW+R11-05\nSeto Taiki(7d)\n\nRin Kanketsu(7d)\nIchiriki RB+3.509-24\nIda AW+R10-09\nIchiriki Ryo(7d)\nIda Atsushi(J)\n\nTakeuchi Kosuke(3d)\nCho ChikunW+R09-24\nHane NB+R10-15\nCho Chikun(25H)\n\nHikosaka Naoto(9d)\nHane NW+R09-24\nHane Naoki(9d)\n\n\n\nNote;\n  (J); Judan  (25H); 25th Honinbo\n\nHistory;\n  2015-09-03 Page was created.\n  2015-09-04,11,18,26 Updated.\n  2015-10-02,09,16,23,31 Updated.\n  2015-11-07 Updated.\n\n\n\n\n\n        \n                            \n      \n            \n                            \n            Follow @kzkamago0721\n          \n                © 2003 K2SS All rights reserved.\n      \n      \n    \n\n    \n    \n    \n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"BreadcrumbList\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"item\": {\n          \"@id\": \"https://gotoeveryone.k2ss.info/\",\n          \"name\": \"Go to Everyone!\"\n        }\n      },                            {\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"item\": {\n          \"@id\": \"https://gotoeveryone.k2ss.info/news/\",\n          \"name\": \"Go News\"\n        }\n      },                      {\n        \"@type\": \"ListItem\",\n        \"position\": 3,\n        \"item\": {\n          \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/\",\n          \"name\": \"Meijin\"\n        }\n      },                      {\n        \"@type\": \"ListItem\",\n        \"position\": 4,\n        \"item\": {\n          \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/41/\",\n          \"name\": \"41st\"\n        }\n      }                          ]\n  }"
+  ]
+}

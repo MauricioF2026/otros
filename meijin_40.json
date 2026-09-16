@@ -1,0 +1,894 @@
+{
+  "id": "meijin_40",
+  "schemaVersion": "1.1",
+  "torneo": "40th Meijin",
+  "edicion": 40,
+  "url": "https://gotoeveryone.k2ss.info/news/jp/meijin/40/",
+  "fuente": "Go to Everyone!",
+  "organizadores": [
+    "The Asahi Shimbun"
+  ],
+  "titleMatch": {
+    "textoOriginal": [
+      "Players 1st round09-03,04BunkyoTokyo 2nd round09-17,18SagaSaga 3rd round09-24,25KofuYamanashi 4th round10-05,06ShimaMie 5th round10-13,14TakarazukaHyogo 6th round10-28,29AtamiShizuoka 7th round11-04,05KawatsuShizuoka Iyama Yuta (Meijin) W+R B+0.5 W+R B+R Takao Shinji (Tengen) Iyama Yuta kept the title by 4-0. The win-loss records; Iyama Yuta 23-11 Takao Shinji. Challenger decision match Players Result Yamashita Keigo(9d) Takao SW+5.508-03 Takao Shinji(T)"
+    ]
+  },
+  "challengerDecisionMatch": {
+    "textoOriginal": []
+  },
+  "league": [
+    {
+      "rank": 1,
+      "player": "Kono Rin(9d)",
+      "codigo": "K.R",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "3",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "05-07",
+          "original": "B+R05-07",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-K.R-Y.K-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-30",
+          "original": "X07-30",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-K.R-C.U-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-08",
+          "original": "X01-08",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-K.R-T.S-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "03-12",
+          "original": "W+R03-12",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-K.R-H.N-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "06-25",
+          "original": "B+R06-25",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-K.R-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "12-11",
+          "original": "W+R12-11",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-K.R-S.Y-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-04",
+          "original": "X06-04",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-K.R-K.I-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "02-05",
+          "original": "W+R02-05",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-K.R-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "player": "Yamashita Keigo(9d)",
+      "codigo": "Y.K",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "final": "2",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-07",
+          "original": "X05-07",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-Y.K-K.R-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "03-05",
+          "original": "B+R03-05",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-Y.K-C.U-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-25",
+          "original": "X12-25",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-Y.K-T.S-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "05-29",
+          "original": "B+0.505-29",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-Y.K-H.N-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "01-08",
+          "original": "W+R01-08",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-Y.K-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "07-03",
+          "original": "B+R07-03",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-Y.K-S.Y-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "07-30",
+          "original": "W+R07-30",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-Y.K-K.I-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "10.5",
+          "fecha": "04-16",
+          "original": "B+10.504-16",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-Y.K-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "player": "Cho U(9d)",
+      "codigo": "C.U",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "4",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "07-30",
+          "original": "B+R07-30",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-C.U-K.R-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-05",
+          "original": "X03-05",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-C.U-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "2.5",
+          "fecha": "02-05",
+          "original": "B+2.502-05",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-C.U-T.S-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "06-25",
+          "original": "W+R06-25",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-C.U-H.N-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "2.5",
+          "fecha": "05-04",
+          "original": "B+2.505-04",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-C.U-M.D-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-09",
+          "original": "X04-09",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-C.U-S.Y-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-15",
+          "original": "X01-15",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-C.U-K.I-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "2.5",
+          "fecha": "06-04",
+          "original": "W+2.506-04",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-C.U-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "player": "Takao Shinji(T)",
+      "codigo": "T.S",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "final": "C",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "01-08",
+          "original": "W+R01-08",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-T.S-K.R-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "12-25",
+          "original": "B+0.512-25",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-T.S-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-05",
+          "original": "X02-05",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-T.S-C.U-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "04-18",
+          "original": "B+R04-18",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-T.S-H.N-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "07-30",
+          "original": "W+R07-30",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-T.S-M.D-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-04",
+          "original": "X06-04",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-T.S-S.Y-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "05-21",
+          "original": "W+R05-21",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-T.S-K.I-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "07-02",
+          "original": "B+0.507-02",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-T.S-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "player": "Hane Naoki(9d)",
+      "codigo": "H.N",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-12",
+          "original": "X03-12",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-H.N-K.R-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-29",
+          "original": "X05-29",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-H.N-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-25",
+          "original": "X06-25",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-H.N-C.U-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-18",
+          "original": "X04-18",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-H.N-T.S-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-09",
+          "original": "X02-09",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-H.N-M.D-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "05-14",
+          "original": "W+R05-14",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-H.N-S.Y-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-04",
+          "original": "X12-04",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-H.N-K.I-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "07-30",
+          "original": "W+R07-30",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-H.N-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "player": "Murakawa Daisuke(O)",
+      "codigo": "M.D",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "final": "6",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-25",
+          "original": "X06-25",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-M.D-K.R-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-08",
+          "original": "X01-08",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-M.D-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-04",
+          "original": "X05-04",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-M.D-C.U-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-30",
+          "original": "X07-30",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-M.D-T.S-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "02-09",
+          "original": "W+R02-09",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-M.D-H.N-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "03-12",
+          "original": "B+R03-12",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-M.D-S.Y-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-06",
+          "original": "X04-06",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-M.D-K.I-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "13.5",
+          "fecha": "12-11",
+          "original": "B+13.512-11",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-M.D-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "So Yokoku(9d)",
+      "codigo": "S.Y",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-11",
+          "original": "X12-11",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-S.Y-K.R-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-03",
+          "original": "X07-03",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-S.Y-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "04-09",
+          "original": "B+0.504-09",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-S.Y-C.U-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "06-04",
+          "original": "W+R06-04",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-S.Y-T.S-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-14",
+          "original": "X05-14",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-S.Y-H.N-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-12",
+          "original": "X03-12",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-S.Y-M.D-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": "02-12",
+          "original": "B+R02-12",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-S.Y-K.I-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "01-15",
+          "original": "X01-15",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-S.Y-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Ko Iso(8d)",
+      "codigo": "K.I",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "5",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "06-04",
+          "original": "W+R06-04",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-K.I-K.R-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-30",
+          "original": "X07-30",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-K.I-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "01-15",
+          "original": "W+R01-15",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-K.I-C.U-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "05-21",
+          "original": "X05-21",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-K.I-T.S-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": "12-04",
+          "original": "W+R12-04",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-K.I-H.N-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "3.5",
+          "fecha": "04-06",
+          "original": "B+3.504-06",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-K.I-M.D-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-12",
+          "original": "X02-12",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-K.I-S.Y-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "8.5",
+          "fecha": "03-19",
+          "original": "B+8.503-19",
+          "rivalCodigo": "K.M",
+          "rival": "Kanazawa Makoto(7d)",
+          "idPartida": "40-K.I-K.M-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Kanazawa Makoto(7d)",
+      "codigo": "K.M",
+      "record": {
+        "wins": 1,
+        "losses": 7
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "02-05",
+          "original": "X02-05",
+          "rivalCodigo": "K.R",
+          "rival": "Kono Rin(9d)",
+          "idPartida": "40-K.M-K.R-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "04-16",
+          "original": "X04-16",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(9d)",
+          "idPartida": "40-K.M-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "06-04",
+          "original": "X06-04",
+          "rivalCodigo": "C.U",
+          "rival": "Cho U(9d)",
+          "idPartida": "40-K.M-C.U-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-02",
+          "original": "X07-02",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(T)",
+          "idPartida": "40-K.M-T.S-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "07-30",
+          "original": "X07-30",
+          "rivalCodigo": "H.N",
+          "rival": "Hane Naoki(9d)",
+          "idPartida": "40-K.M-H.N-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "12-11",
+          "original": "X12-11",
+          "rivalCodigo": "M.D",
+          "rival": "Murakawa Daisuke(O)",
+          "idPartida": "40-K.M-M.D-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": "01-15",
+          "original": "B+0.501-15",
+          "rivalCodigo": "S.Y",
+          "rival": "So Yokoku(9d)",
+          "idPartida": "40-K.M-S.Y-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": "03-19",
+          "original": "X03-19",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(8d)",
+          "idPartida": "40-K.M-K.I-08"
+        }
+      ]
+    }
+  ],
+  "informacionLeague": {},
+  "leagueScene": [
+    "title Player1(upper);winner Player2(lower);loser B|W+x.x|R ;result xx-xx ;date 1K.R 2Y.K 3C.U 4T.S 5H.N 6M.D 7S.Y 7K.I 7K.M Round1(Dec.) K.IH.NW+R12-04 K.RS.YW+R12-11 M.DK.MB+13.512-11 T.SY.KB+0.512-25 1-0 0-1 - 1-0 0-1 1-0 0-1 1-0 0-1 Round2(Jan.) Y.KM.DW+R01-08 T.SK.RW+R01-08 K.MS.YB+0.501-15 K.IC.UW+R01-15 1-1 1-1 0-1 2-0 - 1-1 0-2 2-0 1-1 Round3(Feb.) C.UT.SB+2.502-05 K.RK.MW+R02-05 M.DH.NW+R02-09 S.YK.IB+R02-12 2-1 - 1-1 2-1 0-2 2-1 1-2 2-1 1-2 Round4(Mar.) Y.KC.UB+R03-05 K.RH.NW+R03-12 M.DS.YB+R03-12 K.IK.MB+8.503-19 3-1 2-1 1-2 - 0-3 3-1 1-3 3-1 1-3 Round5(Apr.) K.IM.DB+3.504-06 S.YC.UB+0.504-09 Y.KK.MB+10.504-16 T.SH.NB+R04-18 - 3-1 1-3 3-1 0-4 3-2 2-3 4-1 1-4 Round6(May.) C.UM.DB+2.505-04 K.RY.KB+R05-07 H.NS.YW+R05-14 T.SK.IW+R05-21 4-1 3-2 2-3 4-1 1-4 3-3 2-4 4-2 - Round7(Jun.) Y.KH.NB+0.505-29 K.IK.RW+R06-04 C.UK.MW+2.506-04 S.YT.SW+R06-04 4-2 4-2 3-3 4-2 1-5 - 3-4 5-2 1-5 Round8(Jul.) K.RM.DB+R06-25 C.UH.NW+R06-25 T.SK.MB+0.507-02 Y.KS.YB+R07-03 5-2 5-2 4-3 5-2 1-6 3-4 3-5 - 1-6 Round9(Aug.) C.UK.RB+R07-30 Y.KK.IW+R07-30 T.SM.DW+R07-30 H.NK.MW+R07-30 5-3 6-2 5-3 6-2 2-6 3-5 - 5-3 1-7 Result 3 2 4 C DM 6 DM 5 DM Age at 2014-11-30 33 36 34 38 38 23 35 27 22 Registered Meijin and league(years) 4 11 13 10 7 3 1 5 1 Win-Loss 2014-11-30(win-loss) 48-24 30-18 24-16 30-22 23-13 43-20 18-09 22-11 16-10 Percentage 2014-11-30(%) 67 63 54 58 64 68 67 67 62 Ranking 2014-11-30 1 8 15 8 16 3 - 20 -",
+    "Note (O); Oza (T); Tengen History; 2014-11-28 Page was created. 2014-12-05,12,19,26 Updated. 2015-01-05,09,17,31 Updated. 2015-02-07,13,28 Updated. 2015-03-07,14,20 Updated. 2015-04-03,10,17,24 Updated. 2015-05-01,09,15,22,30 Updated. 2015-06-06,20,26 Updated. 2015-07-04,24,31 Updated. 2015-08-03 Updated. 2015-09-04,18,26 Updated. 2015-10-07 Updated."
+  ],
+  "lastPreliminaryTournament": [
+    "Players 1st round Semifinals Final Terayama Rei(4d) Mizokami TB+2.509-18 Oba JW+0.510-23 Ko IsoB+R11-06 Mizokami Tomochika(9d) Shuto Shun(7d) Oba JB+R09-11 Oba JB+3.509-25 Oba Junya(7d) Kurahashi Masayuki(9d) Takemiya Masaki(9d) Takemiya MW+1.510-02 Ko IsoW+6.510-23 Honda Kunihisa(9d) Koyama Kuya(1d) Ko IsoW+R09-18 Ko Iso(8d) Yamada Noriyoshi(9d) Yamada NB+1.509-18 Yamada NW+1.510-16 So YokokuW+R11-06 Imamura Yoshiaki(9d) Yamada Kimio(9d) Yu ZhengqiW+R09-11 Matsumoto TW+R09-29 Yu Zhengqi(7d) Matsumoto Takehisa(7d) Nakaonoda Tomomi(9d) So YokokuW+R09-18 So YokokuW+12.510-23 So Yokoku(8d) Kiyonari Tetsuya(9d) Ryu ShikunW+R09-18 Ryu Shikun(9d) Yamashiro Hiroshi(9d) Yamashiro HB+10.509-25 O MeienB+R10-23 Kanazawa MW+1.511-13 Yukawa Mitsuhisa(9d) O Meien(9d) O MeienW+R09-18 O MeienW+R10-02 Suzuki Shinji(4d) Hikosaka Naoto(9d) Kanazawa Makoto(4d) Kanazawa MW+R09-18 Kanazawa MB+R10-16 Cho Chikun(25H) Hane Yasumasa(9d) Yuki SB+R09-25 Yuki Satoshi(9d)",
+    "Note; (25H); 25th Honinbo History; 2014-08-29 Page was created. 2014-09-06,12,20,26 Updated. 2014-10-03,10,17,24,31 Updated. 2014-11-08,14 Updated."
+  ],
+  "preliminaryTournamentA": [
+    "Players 1st round Semifinals Final",
+    "Terayama Rei(4d) Mizokami TB+2.509-18 Oba JW+0.510-23 Ko IsoB+R11-06",
+    "Mizokami Tomochika(9d)",
+    "Shuto Shun(7d) Oba JB+R09-11 Oba JB+3.509-25",
+    "Oba Junya(7d)",
+    "Kurahashi Masayuki(9d)",
+    "Takemiya Masaki(9d) Takemiya MW+1.510-02 Ko IsoW+6.510-23",
+    "Honda Kunihisa(9d)",
+    "Koyama Kuya(1d) Ko IsoW+R09-18",
+    "Ko Iso(8d)",
+    "Yamada Noriyoshi(9d) Yamada NB+1.509-18 Yamada NW+1.510-16 So YokokuW+R11-06",
+    "Imamura Yoshiaki(9d)",
+    "Yamada Kimio(9d) Yu ZhengqiW+R09-11 Matsumoto TW+R09-29",
+    "Yu Zhengqi(7d)",
+    "Matsumoto Takehisa(7d)",
+    "Nakaonoda Tomomi(9d) So YokokuW+R09-18 So YokokuW+12.510-23",
+    "So Yokoku(8d)",
+    "Kiyonari Tetsuya(9d) Ryu ShikunW+R09-18",
+    "Ryu Shikun(9d)",
+    "Yamashiro Hiroshi(9d) Yamashiro HB+10.509-25 O MeienB+R10-23 Kanazawa MW+1.511-13",
+    "Yukawa Mitsuhisa(9d)",
+    "O Meien(9d) O MeienW+R09-18 O MeienW+R10-02",
+    "Suzuki Shinji(4d)",
+    "Hikosaka Naoto(9d)",
+    "Kanazawa Makoto(4d) Kanazawa MW+R09-18 Kanazawa MB+R10-16",
+    "Cho Chikun(25H)",
+    "Hane Yasumasa(9d) Yuki SB+R09-25",
+    "Yuki Satoshi(9d)"
+  ],
+  "history": [
+    "History; 2014-11-28 Page was created. 2014-12-05,12,19,26 Updated. 2015-01-05,09,17,31 Updated. 2015-02-07,13,28 Updated. 2015-03-07,14,20 Updated. 2015-04-03,10,17,24 Updated. 2015-05-01,09,15,22,30 Updated. 2015-06-06,20,26 Updated. 2015-07-04,24,31 Updated. 2015-08-03 Updated. 2015-09-04,18,26 Updated. 2015-10-07 Updated. The last preliminary tournament Players 1st round Semifinals Final Terayama Rei(4d) Mizokami TB+2.509-18 Oba JW+0.510-23 Ko IsoB+R11-06 Mizokami Tomochika(9d) Shuto Shun(7d) Oba JB+R09-11 Oba JB+3.509-25 Oba Junya(7d) Kurahashi Masayuki(9d) Takemiya Masaki(9d) Takemiya MW+1.510-02 Ko IsoW+6.510-23 Honda Kunihisa(9d) Koyama Kuya(1d) Ko IsoW+R09-18 Ko Iso(8d) Yamada Noriyoshi(9d) Yamada NB+1.509-18 Yamada NW+1.510-16 So YokokuW+R11-06 Imamura Yoshiaki(9d) Yamada Kimio(9d) Yu ZhengqiW+R09-11 Matsumoto TW+R09-29 Yu Zhengqi(7d) Matsumoto Takehisa(7d) Nakaonoda Tomomi(9d) So YokokuW+R09-18 So YokokuW+12.510-23 So Yokoku(8d) Kiyonari Tetsuya(9d) Ryu ShikunW+R09-18 Ryu Shikun(9d) Yamashiro Hiroshi(9d) Yamashiro HB+10.509-25 O MeienB+R10-23 Kanazawa MW+1.511-13 Yukawa Mitsuhisa(9d) O Meien(9d) O MeienW+R09-18 O MeienW+R10-02 Suzuki Shinji(4d) Hikosaka Naoto(9d) Kanazawa Makoto(4d) Kanazawa MW+R09-18 Kanazawa MB+R10-16 Cho Chikun(25H) Hane Yasumasa(9d) Yuki SB+R09-25 Yuki Satoshi(9d) Note; (25H); 25th Honinbo History; 2014-08-29 Page was created. 2014-09-06,12,20,26 Updated. 2014-10-03,10,17,24,31 Updated. 2014-11-08,14 Updated. Follow @kzkamago0721 © 2003 K2SS All rights reserved. { \"@context\": \"http://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [ { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/\", \"name\": \"Go to Everyone!\" } }, { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/\", \"name\": \"Go News\" } }, { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/\", \"name\": \"Meijin\" } }, { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/40/\", \"name\": \"40th\" } } ] }"
+  ],
+  "textoOriginal": [
+    "In order to view this site, please enable JavaScript. (このサイトを閲覧するためには、JavaScriptを有効にしてください。) Meijin Top Go News Go Topics Schedules Win-Loss Information Contact 52nd 51st 50th 49th 48th 47th 46th 45th 44th 43rd 42nd 41st 40th 39th 38th 37th 36th 35th 34th 33rd 32nd 31st 40th Meijin-sen Host Organization: Asahi Shimbun Title match Players 1st round09-03,04BunkyoTokyo 2nd round09-17,18SagaSaga 3rd round09-24,25KofuYamanashi 4th round10-05,06ShimaMie 5th round10-13,14TakarazukaHyogo 6th round10-28,29AtamiShizuoka 7th round11-04,05KawatsuShizuoka Iyama Yuta (Meijin) W+R B+0.5 W+R B+R Takao Shinji (Tengen) Iyama Yuta kept the title by 4-0. The win-loss records; Iyama Yuta 23-11 Takao Shinji. Challenger decision match Players Result Yamashita Keigo(9d) Takao SW+5.508-03 Takao Shinji(T) League Rank Players K.R Y.K C.U T.S H.N M.D S.Y K.I K.M Result 1 Kono Rin(9d) - B+R05-07 X07-30 X01-08 W+R03-12 B+R06-25 W+R12-11 X06-04 W+R02-05 5-3 3 2 Yamashita Keigo(9d) X05-07 - B+R03-05 X12-25 B+0.505-29 W+R01-08 B+R07-03 W+R07-30 B+10.504-16 6-2 2 3 Cho U(9d) B+R07-30 X03-05 - B+2.502-05 W+R06-25 B+2.505-04 X04-09 X01-15 W+2.506-04 5-3 4 4 Takao Shinji(T) W+R01-08 B+0.512-25 X02-05 - B+R04-18 W+R07-30 X06-04 W+R05-21 B+0.507-02 6-2 C 5 Hane Naoki(9d) X03-12 X05-29 X06-25 X04-18 - X02-09 W+R05-14 X12-04 W+R07-30 2-6 DM 6 Murakawa Daisuke(O) X06-25 X01-08 X05-04 X07-30 W+R02-09 - B+R03-12 X04-06 B+13.512-11 3-5 6 7 So Yokoku(9d) X12-11 X07-03 B+0.504-09 W+R06-04 X05-14 X03-12 - B+R02-12 X01-15 3-5 DM 7 Ko Iso(8d) W+R06-04 X07-30 W+R01-15 X05-21 W+R12-04 B+3.504-06 X02-12 - B+8.503-19 5-3 5 7 Kanazawa Makoto(7d) X02-05 X04-16 X06-04 X07-02 X07-30 X12-11 B+0.501-15 X03-19 - 1-7 DM League scene title Player1(upper);winner Player2(lower);loser B|W+x.x|R ;result xx-xx ;date 1K.R 2Y.K 3C.U 4T.S 5H.N 6M.D 7S.Y 7K.I 7K.M Round1(Dec.) K.IH.NW+R12-04 K.RS.YW+R12-11 M.DK.MB+13.512-11 T.SY.KB+0.512-25 1-0 0-1 - 1-0 0-1 1-0 0-1 1-0 0-1 Round2(Jan.) Y.KM.DW+R01-08 T.SK.RW+R01-08 K.MS.YB+0.501-15 K.IC.UW+R01-15 1-1 1-1 0-1 2-0 - 1-1 0-2 2-0 1-1 Round3(Feb.) C.UT.SB+2.502-05 K.RK.MW+R02-05 M.DH.NW+R02-09 S.YK.IB+R02-12 2-1 - 1-1 2-1 0-2 2-1 1-2 2-1 1-2 Round4(Mar.) Y.KC.UB+R03-05 K.RH.NW+R03-12 M.DS.YB+R03-12 K.IK.MB+8.503-19 3-1 2-1 1-2 - 0-3 3-1 1-3 3-1 1-3 Round5(Apr.) K.IM.DB+3.504-06 S.YC.UB+0.504-09 Y.KK.MB+10.504-16 T.SH.NB+R04-18 - 3-1 1-3 3-1 0-4 3-2 2-3 4-1 1-4 Round6(May.) C.UM.DB+2.505-04 K.RY.KB+R05-07 H.NS.YW+R05-14 T.SK.IW+R05-21 4-1 3-2 2-3 4-1 1-4 3-3 2-4 4-2 - Round7(Jun.) Y.KH.NB+0.505-29 K.IK.RW+R06-04 C.UK.MW+2.506-04 S.YT.SW+R06-04 4-2 4-2 3-3 4-2 1-5 - 3-4 5-2 1-5 Round8(Jul.) K.RM.DB+R06-25 C.UH.NW+R06-25 T.SK.MB+0.507-02 Y.KS.YB+R07-03 5-2 5-2 4-3 5-2 1-6 3-4 3-5 - 1-6 Round9(Aug.) C.UK.RB+R07-30 Y.KK.IW+R07-30 T.SM.DW+R07-30 H.NK.MW+R07-30 5-3 6-2 5-3 6-2 2-6 3-5 - 5-3 1-7 Result 3 2 4 C DM 6 DM 5 DM Age at 2014-11-30 33 36 34 38 38 23 35 27 22 Registered Meijin and league(years) 4 11 13 10 7 3 1 5 1 Win-Loss 2014-11-30(win-loss) 48-24 30-18 24-16 30-22 23-13 43-20 18-09 22-11 16-10 Percentage 2014-11-30(%) 67 63 54 58 64 68 67 67 62 Ranking 2014-11-30 1 8 15 8 16 3 - 20 - Note (O); Oza (T); Tengen History; 2014-11-28 Page was created. 2014-12-05,12,19,26 Updated. 2015-01-05,09,17,31 Updated. 2015-02-07,13,28 Updated. 2015-03-07,14,20 Updated. 2015-04-03,10,17,24 Updated. 2015-05-01,09,15,22,30 Updated. 2015-06-06,20,26 Updated. 2015-07-04,24,31 Updated. 2015-08-03 Updated. 2015-09-04,18,26 Updated. 2015-10-07 Updated. The last preliminary tournament Players 1st round Semifinals Final Terayama Rei(4d) Mizokami TB+2.509-18 Oba JW+0.510-23 Ko IsoB+R11-06 Mizokami Tomochika(9d) Shuto Shun(7d) Oba JB+R09-11 Oba JB+3.509-25 Oba Junya(7d) Kurahashi Masayuki(9d) Takemiya Masaki(9d) Takemiya MW+1.510-02 Ko IsoW+6.510-23 Honda Kunihisa(9d) Koyama Kuya(1d) Ko IsoW+R09-18 Ko Iso(8d) Yamada Noriyoshi(9d) Yamada NB+1.509-18 Yamada NW+1.510-16 So YokokuW+R11-06 Imamura Yoshiaki(9d) Yamada Kimio(9d) Yu ZhengqiW+R09-11 Matsumoto TW+R09-29 Yu Zhengqi(7d) Matsumoto Takehisa(7d) Nakaonoda Tomomi(9d) So YokokuW+R09-18 So YokokuW+12.510-23 So Yokoku(8d) Kiyonari Tetsuya(9d) Ryu ShikunW+R09-18 Ryu Shikun(9d) Yamashiro Hiroshi(9d) Yamashiro HB+10.509-25 O MeienB+R10-23 Kanazawa MW+1.511-13 Yukawa Mitsuhisa(9d) O Meien(9d) O MeienW+R09-18 O MeienW+R10-02 Suzuki Shinji(4d) Hikosaka Naoto(9d) Kanazawa Makoto(4d) Kanazawa MW+R09-18 Kanazawa MB+R10-16 Cho Chikun(25H) Hane Yasumasa(9d) Yuki SB+R09-25 Yuki Satoshi(9d) Note; (25H); 25th Honinbo History; 2014-08-29 Page was created. 2014-09-06,12,20,26 Updated. 2014-10-03,10,17,24,31 Updated. 2014-11-08,14 Updated. Follow @kzkamago0721 © 2003 K2SS All rights reserved. { \"@context\": \"http://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [ { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/\", \"name\": \"Go to Everyone!\" } }, { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/\", \"name\": \"Go News\" } }, { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/\", \"name\": \"Meijin\" } }, { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/40/\", \"name\": \"40th\" } } ] }"
+  ]
+}

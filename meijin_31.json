@@ -1,0 +1,1107 @@
+{
+  "id": "meijin_31",
+  "schemaVersion": "1.1",
+  "torneo": "31st Meijin",
+  "edicion": 31,
+  "url": "https://gotoeveryone.k2ss.info/news/jp/meijin/31/",
+  "fuente": "Go to Everyone!",
+  "organizadores": [
+    "The Asahi Shimbun"
+  ],
+  "titleMatch": {
+    "textoOriginal": [
+      "Players 1st round09-08,09NagaokaNigata 2nd round09-20,21BeppuOita 3rd round09-28,29KobeHyogo 4th round10-11,12AtamiShizuoka 5th round10-18,19ItoShizuoka 6th round11-02,03NagoyaAichi 7th round11-09,10IzuShizuoka Cho U (Meijin) W+R W+R Takao Shinji (Honinbo) B+0.5 W+R W+0.5 W+3.5",
+      "The win-loss records; Cho U 9-11 Takao Shinji. History; 2006-08-03 Table was created. 2006-09-09,21,29 Updated. 2006-10-12,19 Updated. 2006-11-03 Updated."
+    ]
+  },
+  "challengerDecisionMatch": {
+    "textoOriginal": []
+  },
+  "league": [
+    {
+      "rank": 1,
+      "player": "Kobayashi Satoru(9d)",
+      "codigo": "K.S",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "final": "4",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": null,
+          "original": "B+0.5",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-K.S-Y.K-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-K.S-I.T-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-K.S-Y.M-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-K.S-S.H-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "2.5",
+          "fecha": null,
+          "original": "B+2.5",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-K.S-Y.N-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-K.S-T.S-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-K.S-H.Z-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-K.S-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "player": "Yamashita Keigo(K)",
+      "codigo": "Y.K",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "2",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-Y.K-K.S-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-Y.K-I.T-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-Y.K-Y.M-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-Y.K-S.H-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "7.5",
+          "fecha": null,
+          "original": "W+7.5",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-Y.K-Y.N-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-Y.K-T.S-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-Y.K-H.Z-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "5.5",
+          "fecha": null,
+          "original": "B+5.5",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-Y.K-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "player": "Imamura Toshiya(9d)",
+      "codigo": "I.T",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "4.5",
+          "fecha": null,
+          "original": "B+4.5",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-I.T-K.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-I.T-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-I.T-Y.M-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-I.T-S.H-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-I.T-Y.N-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "6.5",
+          "fecha": null,
+          "original": "W+6.5",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-I.T-T.S-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-I.T-H.Z-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-I.T-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "player": "Yamada Kimio(9d)",
+      "codigo": "Y.M",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "final": "5",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-Y.M-K.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-Y.M-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "4.5",
+          "fecha": null,
+          "original": "W+4.5",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-Y.M-I.T-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-Y.M-S.H-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-Y.M-Y.N-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-Y.M-T.S-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-Y.M-H.Z-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-Y.M-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "player": "Sakai Hideyuki(7d)",
+      "codigo": "S.H",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "final": "3",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-S.H-K.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-S.H-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-S.H-I.T-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-S.H-Y.M-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-S.H-Y.N-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-S.H-T.S-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": null,
+          "original": "B+0.5",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-S.H-H.Z-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-S.H-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "player": "Yoda Norimoto(9d)",
+      "codigo": "Y.N",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "final": "6",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-Y.N-K.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-Y.N-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-Y.N-I.T-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": null,
+          "original": "B+0.5",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-Y.N-Y.M-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-Y.N-S.H-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "2.5",
+          "fecha": null,
+          "original": "B+2.5",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-Y.N-T.S-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-Y.N-H.Z-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-Y.N-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Takao Shinji(H)",
+      "codigo": "T.S",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "final": "C",
+      "games": [
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-T.S-K.S-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "0.5",
+          "fecha": null,
+          "original": "W+0.5",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-T.S-Y.K-02"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-T.S-I.T-03"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-T.S-Y.M-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-T.S-S.H-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-T.S-Y.N-06"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-T.S-H.Z-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-T.S-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Han Zenki(7d)",
+      "codigo": "H.Z",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-H.Z-K.S-01"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "4.5",
+          "fecha": null,
+          "original": "B+4.5",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-H.Z-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "W",
+          "resultado": "R",
+          "fecha": null,
+          "original": "W+R",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-H.Z-I.T-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-H.Z-Y.M-04"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-H.Z-S.H-05"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": null,
+          "original": "B+0.5",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-H.Z-Y.N-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-H.Z-T.S-07"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "R",
+          "fecha": null,
+          "original": "B+R",
+          "rivalCodigo": "K.I",
+          "rival": "Ko Iso(7d)",
+          "idPartida": "31-H.Z-K.I-08"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Ko Iso(7d)",
+      "codigo": "K.I",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "final": "DM",
+      "games": [
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "K.S",
+          "rival": "Kobayashi Satoru(9d)",
+          "idPartida": "31-K.I-K.S-01"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.K",
+          "rival": "Yamashita Keigo(K)",
+          "idPartida": "31-K.I-Y.K-02"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "3.5",
+          "fecha": null,
+          "original": "B+3.5",
+          "rivalCodigo": "I.T",
+          "rival": "Imamura Toshiya(9d)",
+          "idPartida": "31-K.I-I.T-03"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.M",
+          "rival": "Yamada Kimio(9d)",
+          "idPartida": "31-K.I-Y.M-04"
+        },
+        {
+          "tipo": "partida",
+          "color": "B",
+          "resultado": "0.5",
+          "fecha": null,
+          "original": "B+0.5",
+          "rivalCodigo": "S.H",
+          "rival": "Sakai Hideyuki(7d)",
+          "idPartida": "31-K.I-S.H-05"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "Y.N",
+          "rival": "Yoda Norimoto(9d)",
+          "idPartida": "31-K.I-Y.N-06"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "T.S",
+          "rival": "Takao Shinji(H)",
+          "idPartida": "31-K.I-T.S-07"
+        },
+        {
+          "tipo": "X",
+          "color": null,
+          "resultado": null,
+          "fecha": null,
+          "original": "X",
+          "rivalCodigo": "H.Z",
+          "rival": "Han Zenki(7d)",
+          "idPartida": "31-K.I-H.Z-08"
+        }
+      ]
+    }
+  ],
+  "informacionLeague": {
+    "jugadores": 9,
+    "enfrentamientosEsperados": 8,
+    "jugadoresCon8Enfrentamientos": 9,
+    "totalPartidas": 36,
+    "totalX": 36,
+    "totalOtros": 0
+  },
+  "leagueScene": [
+    "Player1(upper);winner Player2(lower);loser B|W+x.x|R ;result xx-xx ;date 1K.S 2Y.K 3I.T 4Y.M 5S.H 6Y.N 7T.S 7H.Z 7K.I Round1(Dec.) K.SH.ZB+R12-08 Y.NI.TW+R12-08 Y.MK.IB+R12-08 T.SS.HB+R12-22 1-0 - 0-1 1-0 0-1 1-0 1-0 0-1 0-1 Round2(Jan.) H.ZY.KB+4.501-06 K.II.TB+3.501-12 T.SY.MW+R01-19 S.HY.NB+R01-19 - 0-1 0-2 1-1 1-1 1-1 2-0 1-1 1-1 Round3(Feb.) K.SY.NB+2.502-01 Y.MI.TW+4.502-09 H.ZK.IB+R02-09 T.SY.KW+0.502-16 2-0 0-2 0-3 2-1 - 1-2 3-0 2-1 1-2 Round4(Mar.) I.TK.SB+4.503-09 S.HH.ZB+0.503-09 Y.KY.MW+R03-13 Y.NT.SB+2.503-23 2-1 1-2 1-3 2-2 2-1 2-2 3-1 2-2 - Round5(Apr.) K.IS.HB+0.504-06 Y.NY.MB+0.504-20 K.SY.KB+0.504-20 I.TT.SW+6.504-20 3-1 1-3 2-3 2-3 2-2 3-2 3-2 - 2-2 Round6(May.) Y.MK.SW+R05-04 Y.NK.IB+R05-11 H.ZI.TW+R05-11 Y.KS.HB+R05-25 3-2 2-3 2-4 3-3 2-3 4-2 - 3-2 2-3 Round7(Jun.) Y.KK.IB+5.506-01 H.ZY.NB+0.506-08 S.HI.TB+R06-15 T.SK.SB+R06-22 3-3 3-3 2-5 - 3-3 4-3 4-2 4-2 2-4 Round8(Jul.) Y.KI.TB+R07-06 Y.MH.ZW+R07-06 T.SK.IW+R07-06 S.HK.SB+R07-13 3-4 4-3 2-6 4-3 4-3 - 5-2 4-3 2-5 Round9(Aug.) S.HY.MW+R08-03 Y.KY.NW+7.508-03 K.SK.IW+R08-03 T.SH.ZB+R08-03 4-4 5-3 - 4-4 5-3 4-4 6-2 4-4 2-6 Result 4 2 DM 5 3 6 C DM DM Age at 2015-11-29 46 27 39 33 32 39 29 28 18 Registered Meijin and league(years) 5 5 3 3 2 17 1 1 1 Win-Loss This year 2005-11-29(win-loss) 42-14 30-18 34-14 30-17 30-15 23-25 33-14 24-15 19-12 Percentage This year 2005-11-29(%) 75 63 71 64 67 48 70 62 58 Ranking Win rank 2005-11-29 1 9 7 9 9 34 8 31 62",
+    "Note; (K); Kisei (H); Honinbo History; 2005-11-25 Table was created. 2005-12-02,09,16,23 Updated. 2006-01-07,13,20,27 Updated. 2006-02-03,10,17 Updated. 2006-03-03,10,14,17,24,31 Updated. 2006-04-07,14,21,28 Updated. 2006-05-06,12,19,26 Updated. 2006-06-02,09,16,23 Updated. 2006-07-01,07,14 Updated. 2006-08-03 Updated."
+  ],
+  "lastPreliminaryTournament": [
+    "The last preliminary tournament Players 1st round Semifinals Final Yata Naoki(9d) So YokokuB+R09-08 Kono RB+R09-29 Ko IsoB+R10-27 So Yokoku(8d) Sakaguchi Ryuzo(9d) Kono RB+R08-25 Kono RW+R09-08 Kono Rin(7d) Hikosaka Naoto(9d) Hane Naoki(K) Hane NB+R09-01 Ko IsoW+R09-22 Cho Chikun(J) Ko Iso(7d) Ko IsoW+3.509-08 Cho Sonjin(9d) Takao Shinji(H) Takao SW+R09-01 Takao SB+4.510-20 Takao SW+R11-10 Komatsu Hideki(9d) Yokota Shigeaki(9d) O RisseiW+R09-08 O RisseiW+1.509-14 O Rissei(9d) Furuya Yutaka(7d) Nakano Hironari(9d) Nakano HB+4.508-15 Kanda EW+1.509-08 O MeienB+R10-20 Mizokami Tomochika(8d) Kanda Ei(9d) Kiyonari Tetsuya(9d) O MeienW+7.509-22 O Meien(9d) Yukawa Mitsuhisa(9d) Rin KaihoB+12.509-08 Enda HW+4.509-29 Han ZenkiB+R10-20 Rin Kaiho(HT) Imamura Yoshiaki(8d) Mochizuki KB+R08-11 Enda HB+1.509-08 Mochizuki Kenichi(5d) Enda Hideki(9d) Nakano Yasuhiro(9d) Nakano YW+5.508-11 Han ZenkiB+R09-08 Han ZenkiW+R09-29 Oba Jyunya(3d) Han Zenki(7d) Takanashi Seiken(8d) Takanashi SW+2.509-08 Ogata Masaki(9d) Note; (K); Kisei (H); Honinbo (J); Judan (HT); Honorary Tengen History; 2005-08-04 Table was created. 2005-08-05,12,19,26 Updated. 2005-09-02,09,16,23,30 Updated. 2005-10-14,21,28 Updated. 2005-11-04,11 Updated. Follow @kzkamago0721 © 2003 K2SS All rights reserved. { \"@context\": \"http://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [ { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/\", \"name\": \"Go to Everyone!\" } }, { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/\", \"name\": \"Go News\" } }, { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/\", \"name\": \"Meijin\" } }, { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/31/\", \"name\": \"31st\" } } ] }"
+  ],
+  "preliminaryTournamentA": [],
+  "history": [],
+  "informacionHistorica": [
+    [
+      "",
+      "Player1(upper);winner Player2(lower);loser B|W+x.x|R ;result xx-xx ;date",
+      "1K.S",
+      "2Y.K",
+      "3I.T",
+      "4Y.M",
+      "5S.H",
+      "6Y.N",
+      "7T.S",
+      "7H.Z",
+      "7K.I"
+    ],
+    [
+      "Round1(Dec.)",
+      "K.SH.ZB+R12-08",
+      "Y.NI.TW+R12-08",
+      "Y.MK.IB+R12-08",
+      "T.SS.HB+R12-22",
+      "1-0",
+      "-",
+      "0-1",
+      "1-0",
+      "0-1",
+      "1-0",
+      "1-0",
+      "0-1",
+      "0-1"
+    ],
+    [
+      "Round2(Jan.)",
+      "H.ZY.KB+4.501-06",
+      "K.II.TB+3.501-12",
+      "T.SY.MW+R01-19",
+      "S.HY.NB+R01-19",
+      "-",
+      "0-1",
+      "0-2",
+      "1-1",
+      "1-1",
+      "1-1",
+      "2-0",
+      "1-1",
+      "1-1"
+    ],
+    [
+      "Round3(Feb.)",
+      "K.SY.NB+2.502-01",
+      "Y.MI.TW+4.502-09",
+      "H.ZK.IB+R02-09",
+      "T.SY.KW+0.502-16",
+      "2-0",
+      "0-2",
+      "0-3",
+      "2-1",
+      "-",
+      "1-2",
+      "3-0",
+      "2-1",
+      "1-2"
+    ],
+    [
+      "Round4(Mar.)",
+      "I.TK.SB+4.503-09",
+      "S.HH.ZB+0.503-09",
+      "Y.KY.MW+R03-13",
+      "Y.NT.SB+2.503-23",
+      "2-1",
+      "1-2",
+      "1-3",
+      "2-2",
+      "2-1",
+      "2-2",
+      "3-1",
+      "2-2",
+      "-"
+    ],
+    [
+      "Round5(Apr.)",
+      "K.IS.HB+0.504-06",
+      "Y.NY.MB+0.504-20",
+      "K.SY.KB+0.504-20",
+      "I.TT.SW+6.504-20",
+      "3-1",
+      "1-3",
+      "2-3",
+      "2-3",
+      "2-2",
+      "3-2",
+      "3-2",
+      "-",
+      "2-2"
+    ],
+    [
+      "Round6(May.)",
+      "Y.MK.SW+R05-04",
+      "Y.NK.IB+R05-11",
+      "H.ZI.TW+R05-11",
+      "Y.KS.HB+R05-25",
+      "3-2",
+      "2-3",
+      "2-4",
+      "3-3",
+      "2-3",
+      "4-2",
+      "-",
+      "3-2",
+      "2-3"
+    ],
+    [
+      "Round7(Jun.)",
+      "Y.KK.IB+5.506-01",
+      "H.ZY.NB+0.506-08",
+      "S.HI.TB+R06-15",
+      "T.SK.SB+R06-22",
+      "3-3",
+      "3-3",
+      "2-5",
+      "-",
+      "3-3",
+      "4-3",
+      "4-2",
+      "4-2",
+      "2-4"
+    ],
+    [
+      "Round8(Jul.)",
+      "Y.KI.TB+R07-06",
+      "Y.MH.ZW+R07-06",
+      "T.SK.IW+R07-06",
+      "S.HK.SB+R07-13",
+      "3-4",
+      "4-3",
+      "2-6",
+      "4-3",
+      "4-3",
+      "-",
+      "5-2",
+      "4-3",
+      "2-5"
+    ],
+    [
+      "Round9(Aug.)",
+      "S.HY.MW+R08-03",
+      "Y.KY.NW+7.508-03",
+      "K.SK.IW+R08-03",
+      "T.SH.ZB+R08-03",
+      "4-4",
+      "5-3",
+      "-",
+      "4-4",
+      "5-3",
+      "4-4",
+      "6-2",
+      "4-4",
+      "2-6"
+    ],
+    [
+      "Result",
+      "",
+      "4",
+      "2",
+      "DM",
+      "5",
+      "3",
+      "6",
+      "C",
+      "DM",
+      "DM"
+    ],
+    [
+      "Age",
+      "at 2015-11-29",
+      "46",
+      "27",
+      "39",
+      "33",
+      "32",
+      "39",
+      "29",
+      "28",
+      "18"
+    ],
+    [
+      "Registered",
+      "Meijin and league(years)",
+      "5",
+      "5",
+      "3",
+      "3",
+      "2",
+      "17",
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "Win-Loss",
+      "This year 2005-11-29(win-loss)",
+      "42-14",
+      "30-18",
+      "34-14",
+      "30-17",
+      "30-15",
+      "23-25",
+      "33-14",
+      "24-15",
+      "19-12"
+    ],
+    [
+      "Percentage",
+      "This year 2005-11-29(%)",
+      "75",
+      "63",
+      "71",
+      "64",
+      "67",
+      "48",
+      "70",
+      "62",
+      "58"
+    ],
+    [
+      "Ranking",
+      "Win rank 2005-11-29",
+      "1",
+      "9",
+      "7",
+      "9",
+      "9",
+      "34",
+      "8",
+      "31",
+      "62"
+    ]
+  ],
+  "textoOriginal": [
+    "In order to view this site, please enable JavaScript. (このサイトを閲覧するためには、JavaScriptを有効にしてください。) Meijin Top Go News Go Topics Schedules Win-Loss Information Contact 52nd 51st 50th 49th 48th 47th 46th 45th 44th 43rd 42nd 41st 40th 39th 38th 37th 36th 35th 34th 33rd 32nd 31st 31st Meijin Host Organization: Asahi Shimbun Title match Players 1st round09-08,09NagaokaNigata 2nd round09-20,21BeppuOita 3rd round09-28,29KobeHyogo 4th round10-11,12AtamiShizuoka 5th round10-18,19ItoShizuoka 6th round11-02,03NagoyaAichi 7th round11-09,10IzuShizuoka Cho U (Meijin) W+R W+R Takao Shinji (Honinbo) B+0.5 W+R W+0.5 W+3.5 The win-loss records; Cho U 9-11 Takao Shinji. History; 2006-08-03 Table was created. 2006-09-09,21,29 Updated. 2006-10-12,19 Updated. 2006-11-03 Updated. League Rank Players K.S Y.K I.T Y.M S.H Y.N T.S H.Z K.I Result 1 Kobayashi Satoru(9d) - B+0.5 X X X B+2.5 X B+R W+R 4-4 4 2 Yamashita Keigo(K) X - B+R W+R B+R W+7.5 X X B+5.5 5-3 2 3 Imamura Toshiya(9d) B+4.5 X - X X X W+6.5 X X 2-6 DM 4 Yamada Kimio(9d) W+R X W+4.5 - X X X W+R B+R 4-4 5 5 Sakai Hideyuki(7d) B+R X B+R W+R - B+R X B+0.5 X 5-3 3 6 Yoda Norimoto(9d) X X W+R B+0.5 X - B+2.5 X B+R 4-4 6 7 Takao Shinji(H) B+R W+0.5 X W+R B+R X - B+R W+R 6-2 C 7 Han Zenki(7d) X B+4.5 W+R X X B+0.5 X - B+R 4-4 DM 7 Ko Iso(7d) X X B+3.5 X B+0.5 X X X - 2-6 DM League scene Player1(upper);winner Player2(lower);loser B|W+x.x|R ;result xx-xx ;date 1K.S 2Y.K 3I.T 4Y.M 5S.H 6Y.N 7T.S 7H.Z 7K.I Round1(Dec.) K.SH.ZB+R12-08 Y.NI.TW+R12-08 Y.MK.IB+R12-08 T.SS.HB+R12-22 1-0 - 0-1 1-0 0-1 1-0 1-0 0-1 0-1 Round2(Jan.) H.ZY.KB+4.501-06 K.II.TB+3.501-12 T.SY.MW+R01-19 S.HY.NB+R01-19 - 0-1 0-2 1-1 1-1 1-1 2-0 1-1 1-1 Round3(Feb.) K.SY.NB+2.502-01 Y.MI.TW+4.502-09 H.ZK.IB+R02-09 T.SY.KW+0.502-16 2-0 0-2 0-3 2-1 - 1-2 3-0 2-1 1-2 Round4(Mar.) I.TK.SB+4.503-09 S.HH.ZB+0.503-09 Y.KY.MW+R03-13 Y.NT.SB+2.503-23 2-1 1-2 1-3 2-2 2-1 2-2 3-1 2-2 - Round5(Apr.) K.IS.HB+0.504-06 Y.NY.MB+0.504-20 K.SY.KB+0.504-20 I.TT.SW+6.504-20 3-1 1-3 2-3 2-3 2-2 3-2 3-2 - 2-2 Round6(May.) Y.MK.SW+R05-04 Y.NK.IB+R05-11 H.ZI.TW+R05-11 Y.KS.HB+R05-25 3-2 2-3 2-4 3-3 2-3 4-2 - 3-2 2-3 Round7(Jun.) Y.KK.IB+5.506-01 H.ZY.NB+0.506-08 S.HI.TB+R06-15 T.SK.SB+R06-22 3-3 3-3 2-5 - 3-3 4-3 4-2 4-2 2-4 Round8(Jul.) Y.KI.TB+R07-06 Y.MH.ZW+R07-06 T.SK.IW+R07-06 S.HK.SB+R07-13 3-4 4-3 2-6 4-3 4-3 - 5-2 4-3 2-5 Round9(Aug.) S.HY.MW+R08-03 Y.KY.NW+7.508-03 K.SK.IW+R08-03 T.SH.ZB+R08-03 4-4 5-3 - 4-4 5-3 4-4 6-2 4-4 2-6 Result 4 2 DM 5 3 6 C DM DM Age at 2015-11-29 46 27 39 33 32 39 29 28 18 Registered Meijin and league(years) 5 5 3 3 2 17 1 1 1 Win-Loss This year 2005-11-29(win-loss) 42-14 30-18 34-14 30-17 30-15 23-25 33-14 24-15 19-12 Percentage This year 2005-11-29(%) 75 63 71 64 67 48 70 62 58 Ranking Win rank 2005-11-29 1 9 7 9 9 34 8 31 62 Note; (K); Kisei (H); Honinbo History; 2005-11-25 Table was created. 2005-12-02,09,16,23 Updated. 2006-01-07,13,20,27 Updated. 2006-02-03,10,17 Updated. 2006-03-03,10,14,17,24,31 Updated. 2006-04-07,14,21,28 Updated. 2006-05-06,12,19,26 Updated. 2006-06-02,09,16,23 Updated. 2006-07-01,07,14 Updated. 2006-08-03 Updated. The last preliminary tournament Players 1st round Semifinals Final Yata Naoki(9d) So YokokuB+R09-08 Kono RB+R09-29 Ko IsoB+R10-27 So Yokoku(8d) Sakaguchi Ryuzo(9d) Kono RB+R08-25 Kono RW+R09-08 Kono Rin(7d) Hikosaka Naoto(9d) Hane Naoki(K) Hane NB+R09-01 Ko IsoW+R09-22 Cho Chikun(J) Ko Iso(7d) Ko IsoW+3.509-08 Cho Sonjin(9d) Takao Shinji(H) Takao SW+R09-01 Takao SB+4.510-20 Takao SW+R11-10 Komatsu Hideki(9d) Yokota Shigeaki(9d) O RisseiW+R09-08 O RisseiW+1.509-14 O Rissei(9d) Furuya Yutaka(7d) Nakano Hironari(9d) Nakano HB+4.508-15 Kanda EW+1.509-08 O MeienB+R10-20 Mizokami Tomochika(8d) Kanda Ei(9d) Kiyonari Tetsuya(9d) O MeienW+7.509-22 O Meien(9d) Yukawa Mitsuhisa(9d) Rin KaihoB+12.509-08 Enda HW+4.509-29 Han ZenkiB+R10-20 Rin Kaiho(HT) Imamura Yoshiaki(8d) Mochizuki KB+R08-11 Enda HB+1.509-08 Mochizuki Kenichi(5d) Enda Hideki(9d) Nakano Yasuhiro(9d) Nakano YW+5.508-11 Han ZenkiB+R09-08 Han ZenkiW+R09-29 Oba Jyunya(3d) Han Zenki(7d) Takanashi Seiken(8d) Takanashi SW+2.509-08 Ogata Masaki(9d) Note; (K); Kisei (H); Honinbo (J); Judan (HT); Honorary Tengen History; 2005-08-04 Table was created. 2005-08-05,12,19,26 Updated. 2005-09-02,09,16,23,30 Updated. 2005-10-14,21,28 Updated. 2005-11-04,11 Updated. Follow @kzkamago0721 © 2003 K2SS All rights reserved. { \"@context\": \"http://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [ { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/\", \"name\": \"Go to Everyone!\" } }, { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/\", \"name\": \"Go News\" } }, { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/\", \"name\": \"Meijin\" } }, { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@id\": \"https://gotoeveryone.k2ss.info/news/jp/meijin/31/\", \"name\": \"31st\" } } ] }"
+  ]
+}
