@@ -7098,6 +7098,204 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][ir]AW[co][go][bp][dp][fp][cq][gq][hq][iq][jq][dr][jr])"
+  },
+    {
+    "id": 646,
+    "libro": "Essential Life and Death 4",
+    "tema": "Take your Time",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][go][bp][fp][bq][gq][hq][jq][ir][gs][hs][js]AW[dp][ep][cq][fq][ar][br][fr][gr][hr])"
+  },
+  {
+    "id": 647,
+    "libro": "Essential Life and Death 4",
+    "tema": "Take your Time",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][go][bp][fp][bq][gq][hq][jq][dr][ir][gs][hs][js]AW[dp][ep][cq][fq][ar][br][cr][fr][gr][hr])"
+  },
+  {
+    "id": 648,
+    "libro": "Essential Life and Death 4",
+    "tema": "Take your Time",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][go][bp][fp][bq][gq][hq][jq][ir][gs][hs][is][js]AW[dp][ep][cq][fq][ar][br][cr][fr][gr][hr][fs])"
+  },
+  {
+    "id": 649,
+    "libro": "Essential Life and Death 4",
+    "tema": "Take your Time",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][go][bp][fp][bq][gq][hq][jq][dr][ir][gs][hs][is][js]AW[dp][ep][cq][fq][ar][br][cr][er][fr][gr][hr])"
+  },
+  {
+    "id": 650,
+    "libro": "Essential Life and Death 4",
+    "tema": "Take your Time",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][go][bp][fp][bq][gq][hq][jq][dr][ir][gs][hs][is][js]AW[dp][ep][cq][fq][ar][br][cr][fr][gr][hr][es])"
+  },
+  {
+    "id": 651,
+    "libro": "Essential Life and Death 4",
+    "tema": "Take your Time",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][go][bp][fp][bq][gq][hq][jq][dr][ir][jr][gs][hs][is]AW[dp][ep][cq][eq][fq][ar][br][cr][fr][gr][hr])"
+  },
+  {
+    "id": 652,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][ep][fp][dq][fq][fr]AW[bp][cp][dp][eq][dr][er])"
+  },
+  {
+    "id": 653,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][ep][fp][fq][br][fr]AW[bp][cp][dp][cq][eq][dr][er])"
+  },
+  {
+    "id": 654,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][ep][fp][fq][ar][br][fr]AW[bp][cp][dp][aq][cq][eq][dr][er])"
+  },
+  {
+    "id": 655,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][ep][fp][fq][ar][br][cr][fr]AW[bp][cp][dp][aq][bq][cq][eq][dr][er])"
+  },
+  {
+    "id": 656,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][ep][fp][fq][ar][br][cr][fr]AW[bp][cp][dp][aq][bq][cq][eq][dr][er][cs])"
+  },
+  {
+    "id": 657,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][ep][fp][fq][ar][br][cr][fr]AW[bp][cp][dp][aq][cq][eq][dr][er][cs])"
+  },
+  {
+    "id": 658,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][eq][dr][er]AW[bo][co][do][ep][fp][dq][fq][cr][fr])"
+  },
+  {
+    "id": 659,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][eq][dr][er]AW[bo][co][do][ep][fp][bq][dq][fq][fr])"
+  },
+  {
+    "id": 660,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][cq][eq][dr][er]AW[bo][co][do][ep][fp][bq][fq][br][fr])"
+  },
+  {
+    "id": 661,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][cq][eq][dr][er]AW[bo][co][do][ep][fp][bq][fq][br][cr][fr])"
+  },
+  {
+    "id": 662,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][cq][eq][ar][dr][er]AW[bo][co][do][ep][fp][aq][bq][fq][br][cr][fr])"
+  },
+  {
+    "id": 663,
+    "libro": "Essential Life and Death 4",
+    "tema": "The 2-2 Vital Point 1",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][cq][eq][dr][er]AW[bo][co][do][ep][fp][bq][fq][br][cr][fr][cs])"
   }
   ]
 }
