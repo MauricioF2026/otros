@@ -1,0 +1,29 @@
+{
+  "version": "2.0",
+  "generador": "Generador de Clases Go + Kenjutsu",
+  "clases": [
+    {
+      "id": "clase_1789530385096_fq6c43",
+      "fecha": "2026-09-16",
+      "disciplina": "kenjutsu",
+      "alumno": "David Moscoso",
+      "nivel": "5 Kyu",
+      "objetivo": "Mejorar zanshin",
+      "temas": [
+        {
+          "id": "nivel_5_Kyu_3",
+          "nombre": "NITO JODAN",
+          "estado": "repasar",
+          "nivel": 3,
+          "nivelTexto": "Adecuado",
+          "comentario": ""
+        }
+      ],
+      "ejercicios": "Practicar jodan no kamae",
+      "observaciones": "Fortaleza mental kizeme",
+      "pendientes": "Repasar desplazamiento",
+      "proximaClase": "Trabajar el koiguchi no kiri kata",
+      "creado": "2026-09-16T03:46:25.097Z"
+    }
+  ]
+}
