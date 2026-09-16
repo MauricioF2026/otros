@@ -24,6 +24,61 @@
       "pendientes": "Repasar desplazamiento",
       "proximaClase": "Trabajar el koiguchi no kiri kata",
       "creado": "2026-09-16T03:46:25.097Z"
+    },
+    {
+  "id": "clase_1789530385096_david02",
+  "fecha": "2026-09-17",
+  "disciplina": "kenjutsu",
+  "alumno": "David Moscoso",
+  "nivel": "5 Kyu",
+  "objetivo": "Mejorar zanshin, mantener la concentración después de la técnica y reforzar la postura de Jodan no Kamae.",
+  "temas": [
+    {
+      "id": "nivel_5_Kyu_3",
+      "nombre": "NITO JODAN",
+      "estado": "repasar",
+      "nivel": 3,
+      "nivelTexto": "Adecuado",
+      "comentario": "Necesita reforzar la postura y mantener la atención después del movimiento."
+    },
+    {
+      "id": "nivel_5_Kyu_4",
+      "nombre": "KODACHI TCHUDAN",
+      "estado": "desarrollo",
+      "nivel": 3,
+      "nivelTexto": "Adecuado",
+      "comentario": "Debe mejorar la distancia y la continuidad de la técnica."
+    },
+    {
+      "id": "ken_reiho",
+      "nombre": "Reiho",
+      "estado": "trabajado",
+      "nivel": 4,
+      "nivelTexto": "Bueno",
+      "comentario": "Buena disposición y actitud durante la práctica."
+    },
+    {
+      "id": "ken_kamae",
+      "nombre": "Kamae",
+      "estado": "desarrollo",
+      "nivel": 3,
+      "nivelTexto": "Adecuado",
+      "comentario": "Mantiene la postura, pero debe cuidar la estabilidad."
+    },
+    {
+      "id": "ken_zanshin",
+      "nombre": "Zanshin",
+      "estado": "desarrollo",
+      "nivel": 3,
+      "nivelTexto": "Adecuado",
+      "comentario": "Debe mantener la atención después de finalizar la técnica."
     }
+  ],
+  "ejercicios": "Práctica de Jodan no Kamae, repetición de Nito Jodan y trabajo de distancia con Kodachi Tchudan.",
+  "observaciones": "Demostró buena fortaleza mental y disposición para corregir los detalles técnicos. Debe mantener la concentración después de cada ejecución y trabajar la estabilidad de la postura.",
+  "pendientes": "Repasar Nito Jodan y mejorar la continuidad del movimiento después del ataque.",
+  "proximaClase": "Continuar con Zanshin, revisar Kodachi Tchudan y comenzar el trabajo de Koiguchi no Kiri Kata.",
+  "creado": "2026-09-17T03:00:00.000Z"
+}
   ]
 }
