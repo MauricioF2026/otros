@@ -613,6 +613,15 @@
   "descripcion": "Partidas del Hayago Meijin (早碁名人), incluyendo las partidas SGF disponibles en CWI de los encuentros Este-Oeste y de las distintas ramas del torneo.",
   "periodo": "1955-1961",
   "partidas": 99
+},
+  {
+  "id": "cwi_heisei_panda",
+  "nombre": "Heisei Panda Match",
+  "archivo": "cwi_heisei_panda.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas del Heisei Panda Match (平成ペア碁マッチ), torneo por equipos organizado por Pandanet en 2020.",
+  "periodo": "2020",
+  "partidas": 14
 }
 ],
 "torneos": []
