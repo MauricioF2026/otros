@@ -568,6 +568,15 @@
   "descripcion": "Partidas de la Discovery Cup (ディスカバリー杯), incluyendo fases preliminares y fase principal.",
   "periodo": "2020-2024",
   "partidas": 296
+},
+  {
+  "id": "cwi_eikyu_cup",
+  "nombre": "Eikyu Cup",
+  "archivo": "cwi_eikyu_cup.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas disponibles de la Eikyu Cup (永究杯), evento de la Kansai Ki-in.",
+  "periodo": "1993-1995",
+  "partidas": 15
 }
 ],
 "torneos": []
