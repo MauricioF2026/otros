@@ -595,6 +595,15 @@
   "descripcion": "Partidas de la 1st Hakata Kamachi Cup (博多・カマチ杯), incluyendo las fases del torneo disponibles en CWI.",
   "periodo": "2020",
   "partidas": 16
+},
+  {
+  "id": "cwi_hayago_championship",
+  "nombre": "Hayago Championship",
+  "archivo": "cwi_hayago_championship.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas del Hayago Championship (早碁選手権戦), incluyendo todas las partidas SGF disponibles en CWI.",
+  "periodo": "1968-2002",
+  "partidas": 514
 }
 ],
 "torneos": []
