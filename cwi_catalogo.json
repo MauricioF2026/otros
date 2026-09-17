@@ -622,7 +622,16 @@
   "descripcion": "Partidas del Heisei Panda Match (平成ペア碁マッチ), torneo por equipos organizado por Pandanet en 2020.",
   "periodo": "2020",
   "partidas": 14
-}
+},
+  {
+  "id": "lee_changho",
+  "nombre": "Lee Changho",
+  "archivo": "lee_changho_1130.json",
+  "categoria": "personas",
+  "descripcion": "1130 partidas de Lee Changho (9p), recopiladas desde Gokifu.",
+  "periodo": "",
+  "partidas": 1130
+},
 ],
 "torneos": []
 }
