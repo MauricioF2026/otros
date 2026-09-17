@@ -559,6 +559,15 @@
   "descripcion": "Partidas del Densei-sen, enfrentamientos entre programas de Go y profesionales japoneses.",
   "periodo": "2013-2017",
   "partidas": 10
+},
+  {
+  "id": "cwi_discovery_cup",
+  "nombre": "Discovery Cup",
+  "archivo": "cwi_discovery_cup.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de la Discovery Cup (ディスカバリー杯), incluyendo fases preliminares y fase principal.",
+  "periodo": "2020-2024",
+  "partidas": 296
 }
 ],
 "torneos": []
