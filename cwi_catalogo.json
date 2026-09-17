@@ -604,6 +604,15 @@
   "descripcion": "Partidas del Hayago Championship (早碁選手権戦), incluyendo todas las partidas SGF disponibles en CWI.",
   "periodo": "1968-2002",
   "partidas": 514
+},
+  {
+  "id": "cwi_hayago_meijin",
+  "nombre": "Hayago Meijin",
+  "archivo": "cwi_hayago_meijin.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas del Hayago Meijin (早碁名人), incluyendo las partidas SGF disponibles en CWI de los encuentros Este-Oeste y de las distintas ramas del torneo.",
+  "periodo": "1955-1961",
+  "partidas": 99
 }
 ],
 "torneos": []
