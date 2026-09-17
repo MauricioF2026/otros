@@ -577,6 +577,15 @@
   "descripcion": "Partidas disponibles de la Eikyu Cup (永究杯), evento de la Kansai Ki-in.",
   "periodo": "1993-1995",
   "partidas": 15
+},
+  {
+  "id": "cwi_fumakilla_womens_go_brains_match",
+  "nombre": "Fumakilla Women's Go Brains Match",
+  "archivo": "cwi_fumakilla_womens_go_brains_match.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de la Fumakilla Women's Go Brains Match, incluyendo las seis ediciones disponibles en CWI.",
+  "periodo": "2021-2026",
+  "partidas": 54
 }
 ],
 "torneos": []
