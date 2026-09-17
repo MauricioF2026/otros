@@ -642,6 +642,17 @@
   "periodo": "2006–2025",
   "ediciones": 20,
   "totalPartidas": 253
+},
+  {
+  "id": "cwi_ibm",
+  "nombre": "IBM Hayago Open",
+  "titulo": "IBM Hayago Open",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_ibm.json",
+  "descripcion": "Partidas disponibles del IBM Hayago Open (IBM早碁オープン戦), incluyendo todos los archivos SGF disponibles en CWI entre 1988 y 1990.",
+  "periodo": "1988–1990",
+  "ediciones": 3,
+  "totalPartidas": 125
 }
 ],
 "torneos": []
