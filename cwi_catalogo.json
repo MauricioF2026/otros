@@ -550,6 +550,15 @@
   "descripcion": "Partidas de la Daiwa Ladies Cup (ダイワレディース杯)",
   "periodo": "2007-2010",
   "partidas": 0
+},
+  {
+  "id": "cwi_densei_sen",
+  "nombre": "Densei-sen",
+  "archivo": "cwi_densei_sen.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas del Densei-sen, enfrentamientos entre programas de Go y profesionales japoneses.",
+  "periodo": "2013-2017",
+  "partidas": 10
 }
 ],
 "torneos": []
