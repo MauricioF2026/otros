@@ -586,6 +586,15 @@
   "descripcion": "Partidas de la Fumakilla Women's Go Brains Match, incluyendo las seis ediciones disponibles en CWI.",
   "periodo": "2021-2026",
   "partidas": 54
+},
+  {
+  "id": "cwi_hakata_kamachi_cup",
+  "nombre": "Hakata Kamachi Cup",
+  "archivo": "cwi_hakata_kamachi_cup.json",
+  "categoria": "torneos_japoneses",
+  "descripcion": "Partidas de la 1st Hakata Kamachi Cup (博多・カマチ杯), incluyendo las fases del torneo disponibles en CWI.",
+  "periodo": "2020",
+  "partidas": 16
 }
 ],
 "torneos": []
