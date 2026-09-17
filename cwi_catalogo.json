@@ -631,6 +631,17 @@
   "descripcion": "1130 partidas de Lee Changho (9p), recopiladas desde Gokifu.",
   "periodo": "",
   "partidas": 1130
+},
+  {
+  "id": "cwi_alum",
+  "nombre": "Alum / Wakagoi-sen",
+  "titulo": "Alum / Wakagoi-sen",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_alum_catalogo.json",
+  "descripcion": "Hiroshima Aluminum Cup (広島アルミ杯・若鯉戦), también conocido como Wakagoi-sen. Incluye todas las partidas SGF disponibles entre 2006 y 2025.",
+  "periodo": "2006–2025",
+  "ediciones": 20,
+  "totalPartidas": 253
 }
 ],
 "torneos": []
