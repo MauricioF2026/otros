@@ -708,7 +708,18 @@
   "periodo": "1934",
   "ediciones": 1,
   "totalPartidas": 333
-}
+},
+    {
+    "id": "cwi_nhk",
+    "nombre": "NHK Cup",
+    "titulo": "NHK Cup",
+    "categoria": "torneos_japoneses",
+    "archivo": "cwi_nhk.json",
+    "descripcion": "Partidas de la NHK Cup (NHK杯テレビ囲碁トーナメント), incluyendo todos los SGF disponibles en CWI entre 1954 y 2026.",
+    "periodo": "1954–2026",
+    "ediciones": 73,
+    "totalPartidas": 2531
+  }
 ],
 "torneos": []
 }
