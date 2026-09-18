@@ -686,6 +686,17 @@
   "periodo": "1979–1981",
   "ediciones": 3,
   "totalPartidas": 35
+},
+  {
+  "id": "cwi_jal_shinei_hayago",
+  "nombre": "JAL Shinei Hayago Championship",
+  "titulo": "JAL Shinei Hayago Championship",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_jal_shinei_hayago.json",
+  "descripcion": "Partidas del JAL Shinei Hayago Championship, torneo de partidas rápidas registrado por CWI en dos ediciones: 2003/2004 y 2004/2005.",
+  "periodo": "2003–2005",
+  "ediciones": 2,
+  "totalPartidas": 12
 }
 ],
 "torneos": []
