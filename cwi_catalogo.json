@@ -697,6 +697,17 @@
   "periodo": "2003–2005",
   "ediciones": 2,
   "totalPartidas": 12
+},
+  {
+  "id": "cwi_oteai_1934",
+  "nombre": "Oteai 1934",
+  "titulo": "Oteai 1934",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_oteai_1934.json",
+  "descripcion": "Partidas del Oteai de 1934, correspondientes a las sesiones de primavera y otoño y a los grupos A y B. Incluye los SGF disponibles en CWI.",
+  "periodo": "1934",
+  "ediciones": 1,
+  "totalPartidas": 333
 }
 ],
 "torneos": []
