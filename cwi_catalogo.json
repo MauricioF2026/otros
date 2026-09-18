@@ -675,6 +675,17 @@
   "periodo": "2014–2025",
   "ediciones": 4,
   "totalPartidas": 83
+},
+  {
+  "id": "cwi_jaa",
+  "nombre": "JAA Cup",
+  "titulo": "JAA Cup",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_jaa.json",
+  "descripcion": "Partidas de la JAA Cup (Japan Asia Airways Cup, 日本アジア航空杯), torneo de partidas rápidas disputado en tres ediciones entre 1979 y 1981.",
+  "periodo": "1979–1981",
+  "ediciones": 3,
+  "totalPartidas": 35
 }
 ],
 "torneos": []
