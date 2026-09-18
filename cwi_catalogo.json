@@ -653,6 +653,17 @@
   "periodo": "1988–1990",
   "ediciones": 3,
   "totalPartidas": 125
+},
+  {
+  "id": "cwi_masters",
+  "nombre": "Igo Masters Cup",
+  "titulo": "Igo Masters Cup",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_masters.json",
+  "descripcion": "Partidas del Igo Masters Cup (大師杯 / マスターズカップ), incluyendo todos los SGF disponibles en CWI entre 2011 y 2019.",
+  "periodo": "2011–2019",
+  "ediciones": 9,
+  "totalPartidas": 148
 }
 ],
 "torneos": []
