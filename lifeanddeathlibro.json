@@ -8308,6 +8308,204 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][ds]AW[cp][bq][cq][dq][eq][fq][cs])"
+  },
+    {
+    "id": 756,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][ar][gr][es][fs]AW[cp][aq][bq][cq][dq][eq][fq][bs][ds])"
+  },
+  {
+    "id": 757,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 1",
+    "accion": "Save black by Pae (no)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][bq][cq][dq][eq][fq]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][ds])"
+  },
+  {
+    "id": 758,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 1",
+    "accion": "Save black by Pae (no)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][bq][cq][dq][eq][fq][es]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][er][gr][ds])"
+  },
+  {
+    "id": 759,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 1",
+    "accion": "Save black by Pae (no)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][bq][cq][dq][eq][fq][fr]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][er][gr][ds][fs])"
+  },
+  {
+    "id": 760,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 1",
+    "accion": "Save black by Pae (no)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][bq][cq][dq][eq][fq][fr][cs]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][cr][er][gr][ds][fs])"
+  },
+  {
+    "id": 761,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 1",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][ds]AW[cp][bq][cq][dq][eq][fq][cs])"
+  },
+  {
+    "id": 762,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr]AW[ap][cp][bq][cq][dq][eq][fq])"
+  },
+  {
+    "id": 763,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][es]AW[ap][cp][bq][cq][dq][eq][fq][ds])"
+  },
+  {
+    "id": 764,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][es][fs]AW[ap][cp][bq][cq][dq][eq][fq][er][ds])"
+  },
+  {
+    "id": 765,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][bs][es][fs]AW[ap][cp][bq][cq][dq][eq][fq][cr][er][ds])"
+  },
+  {
+    "id": 766,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][bs][es][fs]AW[ap][cp][bq][cq][dq][eq][fq][er][cs][ds])"
+  },
+  {
+    "id": 767,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Capture white by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][bs][es][fs]AW[ap][cp][bq][cq][dq][eq][fq][br][er][ds])"
+  },
+  {
+    "id": 768,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][fq]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][es])"
+  },
+  {
+    "id": 769,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Save black by Pae (ko)",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][fq][ds]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][gr][es][fs])"
+  },
+  {
+    "id": 770,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][fq][er][ds]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][cr][gr][es][fs])"
+  },
+  {
+    "id": 771,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][fq][br][er][ds]AW[dn][bo][co][ho][bp][dp][ep][fp][aq][gq][cr][gr][es][fs])"
+  },
+  {
+    "id": 772,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][fq][br][er][ds]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][cr][gr][cs][es][fs])"
+  },
+  {
+    "id": 773,
+    "libro": "Essential Life and Death 4",
+    "tema": "How to Reduce the Eye Space 2 (Hane)",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][fq][br][er][ds]AW[dn][bo][co][ho][bp][dp][ep][fp][gq][cr][gr][bs][es][fs])"
   }
   ]
 }
