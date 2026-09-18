@@ -719,7 +719,18 @@
     "periodo": "1954–2026",
     "ediciones": 73,
     "totalPartidas": 2531
-  }
+  },
+  {
+  "id": "cwi_shinjin_o",
+  "nombre": "Shinjin-O",
+  "titulo": "Shinjin-O",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_shinjin_o.json",
+  "descripcion": "Partidas de las finales del Shinjin-O (新人王, King of the New Stars), incluyendo los SGF disponibles en CWI entre 1976 y 2025.",
+  "periodo": "1976–2025",
+  "ediciones": 50,
+  "totalPartidas": 1419
+}
 ],
 "torneos": []
 }
