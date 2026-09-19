@@ -1,0 +1,571 @@
+{
+  "fuente": "CWI Go Games Archive",
+  "paginaFuente": "https://homepages.cwi.nl/~aeb/go/misc/progression.html",
+  "archivoOrigen": "cwi_lista_1507_jugadores.json",
+  "generado": "2026-09-19",
+  "descripcion": "Mapa de equivalencias de nombres para búsqueda del visor CWI. nombres incluye aliases documentados aunque no estén presentes en el catálogo; nombresPresentesEnCatalogo indica los nombres que sí aparecen en los 80 archivos analizados.",
+  "totalGrupos": 27,
+  "aliases": [
+    {
+      "principal": "Ashida Isoko",
+      "nombres": [
+        "Ashida Isoko",
+        "Takiguchi Isoko"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Ashida Isoko",
+        "Takiguchi Isoko"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Fujisawa Hideyuki",
+      "nombres": [
+        "Fujisawa Hideyuki",
+        "Fujisawa Shuko",
+        "Fujisawa Tamotsu"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Fujisawa Hideyuki",
+        "Fujisawa Shuko"
+      ],
+      "tipo": "nombre_alternativo_documentado",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Fujisawa Hosai",
+      "nombres": [
+        "Fujisawa Hosai",
+        "Fujisawa Kuranosuke"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Fujisawa Hosai",
+        "Fujisawa Kuranosuke"
+      ],
+      "tipo": "cambio_nombre",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "American Go Association",
+          "url": "https://www.usgo.org/content.aspx?club_id=454497&item_id=118888&page_id=5"
+        }
+      ]
+    },
+    {
+      "principal": "Handa Dogen",
+      "nombres": [
+        "Handa Dogen",
+        "Handa Hayami"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Handa Dogen",
+        "Handa Hayami"
+      ],
+      "tipo": "nombre_alternativo_documentado",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "Wikipedia - Dogen Handa",
+          "url": "https://en.wikipedia.org/wiki/Dogen_Handa"
+        }
+      ]
+    },
+    {
+      "principal": "Hiramoto Yasei",
+      "nombres": [
+        "Hiramoto Yasei",
+        "Hata Hidefumi"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Hiramoto Yasei",
+        "Hata Hidefumi"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Hon Soggi",
+      "nombres": [
+        "Hon Soggi",
+        "Hong Seokui",
+        "Hon Akiyoshi"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Hon Soggi",
+        "Hong Seokui",
+        "Hon Akiyoshi"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Iguchi Toyohide",
+      "nombres": [
+        "Iguchi Toyohide",
+        "Iguchi Hideichiro"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Iguchi Toyohide",
+        "Iguchi Hideichiro"
+      ],
+      "tipo": "cambio_nombre",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "Nihon Ki-in",
+          "url": "https://www.nihonkiin.or.jp/english/topics/03/topics2003_01.htm"
+        }
+      ]
+    },
+    {
+      "principal": "Iino Seiho",
+      "nombres": [
+        "Iino Seiho",
+        "Iino Yasumine",
+        "Iino Shigemi"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Iino Seiho",
+        "Iino Yasumine"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Ito Tomoe",
+      "nombres": [
+        "Ito Tomoe",
+        "Ito Kiyoko"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Ito Tomoe",
+        "Ito Kiyoko"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Iwata Tatsuaki",
+      "nombres": [
+        "Iwata Tatsuaki",
+        "Iwata Masao"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Iwata Tatsuaki",
+        "Iwata Masao"
+      ],
+      "tipo": "nombre_alternativo_documentado",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "World Biographical Encyclopedia",
+          "url": "https://www.bookrags.com/biography/tatsuaki-iwata/"
+        }
+      ]
+    },
+    {
+      "principal": "Koyama Terumi",
+      "nombres": [
+        "Koyama Terumi",
+        "Nishida Terumi",
+        "Koyama Mitsuru"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Koyama Terumi",
+        "Nishida Terumi"
+      ],
+      "tipo": "cambio_nombre_y_apellido",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "Nihon Ki-in",
+          "url": "https://www.nihonkiin.or.jp/english/topics/02/topics2002_12.htm"
+        },
+        {
+          "nombre": "Nihon Ki-in",
+          "url": "https://www.nihonkiin.or.jp/english/topics/05/topics2005_01.htm"
+        }
+      ]
+    },
+    {
+      "principal": "Kubouchi Shuchi",
+      "nombres": [
+        "Kubouchi Shuchi",
+        "Kubouchi Toshiaki"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Kubouchi Shuchi",
+        "Kubouchi Toshiaki"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Mukai Kazuo",
+      "nombres": [
+        "Mukai Kazuo",
+        "Mukai Seijun"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Mukai Kazuo",
+        "Mukai Seijun"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Nakagawa Shinji",
+      "nombres": [
+        "Nakagawa Shinji",
+        "Nakagawa Arata",
+        "Onodera Arata"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Nakagawa Shinji",
+        "Nakagawa Arata"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Nakazawa Ayako",
+      "nombres": [
+        "Nakazawa Ayako",
+        "Ikeda Ayako"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Nakazawa Ayako",
+        "Ikeda Ayako"
+      ],
+      "tipo": "cambio_apellido",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Namiki Hibiki",
+      "nombres": [
+        "Namiki Hibiki",
+        "Hamakado Hibiki"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Namiki Hibiki",
+        "Hamakado Hibiki"
+      ],
+      "tipo": "cambio_apellido",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Okubo Ichigen",
+      "nombres": [
+        "Okubo Ichigen",
+        "Okubo Yukio"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Okubo Ichigen",
+        "Okubo Yukio"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Sakai Takeshi",
+      "nombres": [
+        "Sakai Takeshi",
+        "Sakai Nobutake",
+        "Sakai Josho"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Sakai Takeshi",
+        "Sakai Nobutake"
+      ],
+      "tipo": "nombre_alternativo_documentado",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Shinoda Mitsuaki",
+      "nombres": [
+        "Shinoda Mitsuaki",
+        "Shinoda Hideyuki",
+        "Oga Yuji"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Shinoda Mitsuaki",
+        "Shinoda Hideyuki"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Honinbo Shusaku",
+      "nombres": [
+        "Kuwahara Shusaku",
+        "Yasuda Shusaku",
+        "Kuwahara Torajiro",
+        "Honinbo Shusaku",
+        "Yasuda Eisai"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Kuwahara Shusaku",
+        "Yasuda Shusaku",
+        "Kuwahara Torajiro",
+        "Honinbo Shusaku",
+        "Yasuda Eisai"
+      ],
+      "tipo": "sucesion_nombres",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "CWI Go Games Archive - Shusaku",
+          "url": "https://homepages.cwi.nl/~aeb/go/games/games/Shusaku/"
+        }
+      ]
+    },
+    {
+      "principal": "Sumino Tsunehiro",
+      "nombres": [
+        "Sumino Tsunehiro",
+        "Sumino Takeshi"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Sumino Tsunehiro",
+        "Sumino Takeshi"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Sun Zhe",
+      "nombres": [
+        "Sun Zhe",
+        "Son Makoto"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Sun Zhe",
+        "Son Makoto"
+      ],
+      "tipo": "nombre_chino_japones",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Suzuki Etsuo",
+      "nombres": [
+        "Suzuki Etsuo",
+        "Suzuki Kensho"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Suzuki Etsuo",
+        "Suzuki Kensho"
+      ],
+      "tipo": "equivalencia_documentada",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Takagawa Kaku",
+      "nombres": [
+        "Takagawa Kaku",
+        "Takagawa Shukaku"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Takagawa Kaku",
+        "Takagawa Shukaku"
+      ],
+      "tipo": "nombre_Honinbo",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        },
+        {
+          "nombre": "CWI - 1st Old Meijin",
+          "url": "https://homepages.cwi.nl/~aeb/go/games/games/Meijin1/"
+        }
+      ]
+    },
+    {
+      "principal": "Takahashi Toshimitsu",
+      "nombres": [
+        "Takahashi Toshimitsu",
+        "Takahashi Shigeyuki",
+        "Takahashi Shunko"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Takahashi Toshimitsu",
+        "Takahashi Shigeyuki",
+        "Takahashi Shunko"
+      ],
+      "tipo": "nombre_alternativo_documentado",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Tanaka Minaichi",
+      "nombres": [
+        "Tanaka Minaichi",
+        "Kato Minaichi"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Tanaka Minaichi",
+        "Kato Minaichi"
+      ],
+      "tipo": "cambio_apellido",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    },
+    {
+      "principal": "Yao Zhiteng",
+      "nombres": [
+        "Yao Zhiteng",
+        "Yo Chito"
+      ],
+      "nombresPresentesEnCatalogo": [
+        "Yao Zhiteng",
+        "Yo Chito"
+      ],
+      "tipo": "nombre_chino_japones",
+      "verificado": true,
+      "fuentes": [
+        {
+          "nombre": "CWI Go Games Archive",
+          "url": "https://homepages.cwi.nl/~aeb/go/misc/progression.html"
+        }
+      ]
+    }
+  ]
+}
