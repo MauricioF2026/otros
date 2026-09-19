@@ -785,6 +785,17 @@
   "periodo": "1982–2025",
   "ediciones": 44,
   "totalPartidas": 157
+},
+  {
+  "id": "cwi_probest10",
+  "nombre": "Asahi Pro Best Ten",
+  "titulo": "Asahi Pro Best Ten",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_probest10.json",
+  "descripcion": "Partidas por el título del Asahi Pro Best Ten (プロ十傑戦), incluyendo todos los archivos SGF disponibles en CWI de sus 12 ediciones.",
+  "periodo": "1964–1975",
+  "ediciones": 12,
+  "totalPartidas": 36
 }
 ],
 "torneos": []
