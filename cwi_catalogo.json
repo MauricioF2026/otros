@@ -730,7 +730,18 @@
   "periodo": "1976–2025",
   "ediciones": 50,
   "totalPartidas": 1419
-}
+},
+    {
+    "id": "cwi_kakusei",
+    "nombre": "Kakusei",
+    "titulo": "Kakusei",
+    "categoria": "torneos_japoneses",
+    "archivo": "cwi_kakusei.json",
+    "descripcion": "Partidas del Kakusei (鶴聖), incluyendo todos los archivos SGF disponibles en CWI de las 25 ediciones registradas.",
+    "periodo": "1978–2003",
+    "ediciones": 25,
+    "totalPartidas": 232
+  }
 ],
 "torneos": []
 }
