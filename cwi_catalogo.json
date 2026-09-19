@@ -741,6 +741,17 @@
     "periodo": "1978–2003",
     "ediciones": 25,
     "totalPartidas": 232
+  },
+    {
+    "id": "cwi_nec",
+    "nombre": "NEC Cup",
+    "titulo": "NEC Cup",
+    "categoria": "torneos_japoneses",
+    "archivo": "cwi_nec.json",
+    "descripcion": "Partidas del NEC Cup (NEC杯囲碁トーナメント戦), incluyendo todos los archivos SGF disponibles en CWI de sus 31 ediciones.",
+    "periodo": "1981–2012",
+    "ediciones": 31,
+    "totalPartidas": 391
   }
 ],
 "torneos": []
