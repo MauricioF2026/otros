@@ -752,7 +752,18 @@
     "periodo": "1981–2012",
     "ediciones": 31,
     "totalPartidas": 391
-  }
+  },
+  {
+  "id": "cwi_nkch",
+  "nombre": "Nihon Ki-in Championship",
+  "titulo": "Nihon Ki-in Championship",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_nkch.json",
+  "descripcion": "Partidas del Nihon Ki-in Championship (日本棋院選手権戦), incluyendo todos los archivos SGF disponibles en CWI de sus 22 ediciones.",
+  "periodo": "1953–1975",
+  "ediciones": 22,
+  "totalPartidas": 490
+}
 ],
 "torneos": []
 }
