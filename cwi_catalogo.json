@@ -774,6 +774,17 @@
   "periodo": "1990–2024",
   "ediciones": 33,
   "totalPartidas": 3263
+},
+  {
+  "id": "cwi_fhoninbo",
+  "nombre": "Women's Honinbo",
+  "titulo": "Women's Honinbo",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_fhoninbo.json",
+  "descripcion": "Partidas por el título del Women's Honinbo (女流本因坊), incluyendo todos los archivos SGF disponibles en CWI de sus 44 ediciones.",
+  "periodo": "1982–2025",
+  "ediciones": 44,
+  "totalPartidas": 157
 }
 ],
 "torneos": []
