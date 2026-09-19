@@ -796,6 +796,17 @@
   "periodo": "1964–1975",
   "ediciones": 12,
   "totalPartidas": 36
+},
+  {
+  "id": "cwi_oldmeijin",
+  "nombre": "Old Meijin",
+  "titulo": "Old Meijin",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_oldmeijin.json",
+  "descripcion": "Partidas del antiguo título Meijin patrocinado por el periódico Yomiuri, incluyendo todos los archivos SGF disponibles en CWI de sus 14 ediciones.",
+  "periodo": "1962–1975",
+  "ediciones": 14,
+  "totalPartidas": 574
 }
 ],
 "torneos": []
