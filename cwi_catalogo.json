@@ -763,6 +763,17 @@
   "periodo": "1953–1975",
   "ediciones": 22,
   "totalPartidas": 490
+},
+  {
+  "id": "cwi_ryusei",
+  "nombre": "Ryusei",
+  "titulo": "Ryusei",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_ryusei.json",
+  "descripcion": "Partidas del Ryusei (竜星戦), incluyendo todos los archivos SGF disponibles en CWI de sus 33 ediciones.",
+  "periodo": "1990–2024",
+  "ediciones": 33,
+  "totalPartidas": 3263
 }
 ],
 "torneos": []
