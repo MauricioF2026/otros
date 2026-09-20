@@ -818,7 +818,18 @@
     "periodo": "1957–1981",
     "ediciones": 25,
     "totalPartidas": 842
-  }
+  },
+  {
+  "id": "cwi_shinei",
+  "nombre": "Shinei",
+  "titulo": "Shinei",
+  "categoria": "torneos_japoneses",
+  "archivo": "cwi_shinei_todas.json",
+  "descripcion": "Partidas disponibles del torneo Shinei (新鋭), incluyendo todos los archivos SGF encontrados en CWI para las 33 ediciones disponibles.",
+  "periodo": "1969–2003",
+  "ediciones": 33,
+  "totalPartidas": 396
+},
 ],
 "torneos": []
 }
