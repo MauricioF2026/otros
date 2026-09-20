@@ -1,0 +1,76 @@
+{
+  "fuente": "Online Go Server",
+  "version": "1.0",
+  "nota": "Colección de partidas extraídas de torneos públicos de Online Go Server (OGS).",
+
+  "categorias": [
+    {
+      "id": "torneos_9x9",
+      "nombre": "🔲 Torneos 9x9"
+    },
+    {
+      "id": "torneos_13x13",
+      "nombre": "🔳 Torneos 13x13"
+    },
+    {
+      "id": "torneos_19x19",
+      "nombre": "⬛ Torneos 19x19"
+    },
+    {
+      "id": "internacionales",
+      "nombre": "🌏 Torneos internacionales"
+    },
+    {
+      "id": "comunidades",
+      "nombre": "👥 Torneos de comunidades"
+    },
+    {
+      "id": "especiales",
+      "nombre": "🏆 Torneos especiales"
+    }
+  ],
+
+  "grupos": [
+    {
+      "id": 16460,
+      "nombre": "GO PORTUGUEZ",
+      "url": "https://online-go.com/group/16460",
+      "rol": "Organizador"
+    }
+  ],
+
+  "colecciones": [
+    {
+      "id": "ogs_144013",
+      "torneoId": 144013,
+      "nombre": "🍁 Go Magic September 9x9 🍁",
+      "archivo": "ogs_torneo_144013.json",
+      "categoria": "torneos_9x9",
+      "grupoId": null,
+      "tablero": "9x9",
+      "jugadores": 45,
+      "rondas": 6,
+      "partidas": 85,
+      "partidasSinJugadas": 8,
+      "periodo": "2026",
+      "fecha": "2026-09-12",
+      "descripcion": "Time for a new monthly 9x9 tournament by Go Magic!"
+    },
+    {
+      "id": "ogs_144159",
+      "torneoId": 144159,
+      "nombre": "Semanal: 3° torneio de Setembro",
+      "archivo": "ogs_torneo_144159.json",
+      "categoria": "torneos_9x9",
+      "grupoId": 16460,
+      "tablero": "9x9",
+      "jugadores": 10,
+      "rondas": 3,
+      "partidas": 15,
+      "partidasSinJugadas": 0,
+      "periodo": "2026",
+      "fecha": "2026-09-19",
+      "descripcion": "3° torneio de Setembro"
+    }
+  ]
+}
