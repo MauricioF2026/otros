@@ -111,6 +111,22 @@
   "periodo": "2026",
   "fecha": "2026-07-18",
   "descripcion": "Time for a new monthly 9x9 tournament by Go Magic!"
+},
+    {
+  "id": "ogs_141477",
+  "torneoId": 141477,
+  "nombre": "✨ Go Magic June 13x13 ✨",
+  "archivo": "ogs_torneo_141477.json",
+  "categoria": "torneos_13x13",
+  "grupoId": 8605,
+  "tablero": "13x13",
+  "jugadores": 41,
+  "rondas": 4,
+  "partidas": 58,
+  "partidasSinJugadas": 10,
+  "periodo": "2026",
+  "fecha": "2026-06-27",
+  "descripcion": "🎉 A new 13x13 rapid tournament with Go Magic! ✨"
 }
   ]
 }
