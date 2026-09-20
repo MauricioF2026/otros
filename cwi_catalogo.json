@@ -807,7 +807,18 @@
   "periodo": "1962–1975",
   "ediciones": 14,
   "totalPartidas": 574
-}
+},
+    {
+    "id": "cwi_minister",
+    "nombre": "Prime Minister's Cup",
+    "titulo": "Prime Minister's Cup",
+    "categoria": "torneos_japoneses",
+    "archivo": "cwi_minister_todas.json",
+    "descripcion": "Partidas del Prime Minister's Cup (首相杯争奪高段者トーナメント), incluyendo todos los archivos SGF disponibles en CWI de sus 25 ediciones.",
+    "periodo": "1957–1981",
+    "ediciones": 25,
+    "totalPartidas": 842
+  }
 ],
 "torneos": []
 }
