@@ -37,7 +37,7 @@
       "url": "https://online-go.com/group/16460",
       "rol": "Organizador"
     },
-     {
+    {
       "id": 8605,
       "nombre": "Go Magic",
       "url": "https://online-go.com/group/8605",
@@ -62,6 +62,7 @@
       "fecha": "2026-09-12",
       "descripcion": "Time for a new monthly 9x9 tournament by Go Magic!"
     },
+
     {
       "id": "ogs_144159",
       "torneoId": 144159,
@@ -77,6 +78,23 @@
       "periodo": "2026",
       "fecha": "2026-09-19",
       "descripcion": "3° torneio de Setembro"
+    },
+
+    {
+      "id": "ogs_143310",
+      "torneoId": 143310,
+      "nombre": "☀️ Go Magic August 9x9 ☀️",
+      "archivo": "ogs_torneo_143310.json",
+      "categoria": "torneos_9x9",
+      "grupoId": 8605,
+      "tablero": "9x9",
+      "jugadores": 57,
+      "rondas": 6,
+      "partidas": 103,
+      "partidasSinJugadas": 0,
+      "periodo": "2026",
+      "fecha": "2026-08-22",
+      "descripcion": "Time for a new monthly 9x9 tournament by Go Magic!"
     }
   ]
 }
