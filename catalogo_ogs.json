@@ -159,6 +159,22 @@
   "periodo": "2026",
   "fecha": "2026-05-30",
   "descripcion": "🎉 A new 13x13 rapid tournament with Go Magic! ✨"
+},
+    {
+  "id": "ogs_140120",
+  "torneoId": 140120,
+  "nombre": "☀️ Go Magic May 9x9 ☀️",
+  "archivo": "ogs_torneo_140120.json",
+  "categoria": "torneos_9x9",
+  "grupoId": 8605,
+  "tablero": "9x9",
+  "jugadores": 69,
+  "rondas": 6,
+  "partidas": 89,
+  "partidasSinJugadas": 19,
+  "periodo": "2026",
+  "fecha": "2026-05-16",
+  "descripcion": "Time for a new monthly 9x9 tournament by Go Magic!"
 }
   ]
 }
