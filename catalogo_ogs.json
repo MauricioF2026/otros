@@ -52,7 +52,7 @@
       "nombre": "🍁 Go Magic September 9x9 🍁",
       "archivo": "ogs_torneo_144013.json",
       "categoria": "torneos_9x9",
-      "grupoId": null,
+      "grupoId": 8605,
       "tablero": "9x9",
       "jugadores": 45,
       "rondas": 6,
