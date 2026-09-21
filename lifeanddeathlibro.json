@@ -10112,6 +10112,182 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bb][cc][dc][gc][hc][ed][fd]AW[db][ec][fc][ic][gd][hd][id])"
+  },
+    {
+    "id": 920,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bb][eb][fb][bc][ec]AW[gb][ib][fc][hc][dd][ed][fd][be][ce])"
+  },
+  {
+    "id": 921,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[da][cb][hb][dc][ic][dd][de][ee][ie][ff][gf]AW[db][eb][gb][ec][gc][ed][gd][fe][ge])"
+  },
+  {
+    "id": 922,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ca][db][eb][bc][cc]AW[fb][dc][ec][fc][bd][cd][bf])"
+  },
+  {
+    "id": 923,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ea][db][fb][cc][dc][cd][ce]AW[eb][hb][ec][ic][dd][fd][hd][be][de][bf][df][cg])"
+  },
+  {
+    "id": 924,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fa][eb][gb][ec][gc][bd][cd][dd]AW[fb][ib][fc][ic][ed][fd][gd][hd][be][ce][de][bg])"
+  },
+  {
+    "id": 925,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ea][eb][cc][dc][ec][cd][ae][ce]AW[cb][db][gb][ac][bc][hc][dd][ed][fd][bf][cf][df])"
+  },
+  {
+    "id": 926,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fb][hb][fc][cd][fd][ce][fe][cf][ef][bg][dg]AW[fa][bb][eb][dc][ec][dd][de])"
+  },
+  {
+    "id": 927,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[da][db][ec][bd][cd][dd][ed][fd]AW[ea][eb][gb][bc][cc][fc][gd][be][fe][ge][cf][ef])"
+  },
+  {
+    "id": 928,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ca][cb][gb][bc][cc][gc][dd][ed][cf][df]AW[da][db][eb][fb][dc][bd][cd][bf][cg])"
+  },
+  {
+    "id": 929,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cb][db][fb][ec][gc][bd][gd][ge][cf][ff][gf][bg][cg][dg][eg]AW[bb][cc][dd][ed][ce][fe][bf][df][ef])"
+  },
+  {
+    "id": 930,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cb][cc][bd][dd][ce]AW[fb][dc][ec][gc][ed][ee][bf][cf][df])"
+  },
+  {
+    "id": 931,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ab][gb][ib][bc][gc][bd][gd][ce][fe][ge][bf][df][ef]AW[bb][cb][fb][cc][ec][cd][fd][de][ee])"
+  },
+  {
+    "id": 932,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cb][bc][cc][dc][cd]AW[db][hb][ec][fc][gc][ic][bd][dd][ce][cf][cg][bh][ci])"
+  },
+  {
+    "id": 933,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dc][fc][hc][lc][nc][pc][hd][jd][ld][he][ie][le][jf][kf]AW[jb][ic][kc][id][kd][je][ke])"
+  },
+  {
+    "id": 934,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "White to play",
+    "colorJuega": "W",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aa][ba][ab][bb][db][gb][cc][dc][fc]AW[ib][ac][bc][hc][jc][cd][dd][ed][fd][gd][be])"
+  },
+  {
+    "id": 935,
+    "libro": "Xuanxuan Qijing (Gengen Gokyo",
+    "tema": "Tsumego",
+    "accion": "Black to play",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ac][bc][cc][dc][ec][ae][af][bf]AW[ba][db][eb][gc][hc][ce][ee][ge][cf][ag][bg][cg])"
   }
   ]
 }
