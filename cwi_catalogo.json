@@ -849,6 +849,17 @@
   "periodo": "1988–2011",
   "ediciones": 24,
   "totalPartidas": 1043
+},
+  {
+  "id": "cwi_ing",
+  "nombre": "Ing Cup",
+  "titulo": "Ing Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_ing_todas.json",
+  "descripcion": "Partidas del Ing Cup (応氏杯), incluyendo todos los SGF disponibles en CWI de sus diez ediciones.",
+  "periodo": "1988–2024",
+  "ediciones": 10,
+  "totalPartidas": 401
 }
 ],
 "torneos": []
