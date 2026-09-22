@@ -829,7 +829,16 @@
   "periodo": "1969–2003",
   "ediciones": 33,
   "totalPartidas": 396
-}
+},
+  {
+  "id": "shin_jinseo",
+  "nombre": "Shin Jinseo",
+  "archivo": "playgo_shin_jinseo_FINAL.json",
+  "categoria": "personas",
+  "descripcion": "Partidas profesionales de Shin Jinseo (9p), recopiladas desde PlayGo.",
+  "periodo": "2010–2026",
+  "partidas": 1034
+},
 ],
 "torneos": []
 }
