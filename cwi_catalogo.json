@@ -915,6 +915,17 @@
   "periodo": "2009–2012",
   "ediciones": 4,
   "totalPartidas": 276
+},
+  {
+  "id": "cwi_bailing",
+  "nombre": "Bailing Cup",
+  "titulo": "Bailing Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_bailing_todas.json",
+  "descripcion": "Partidas disponibles del Bailing Cup en el archivo CWI, incluyendo las partidas del Main Tournament de sus cuatro ediciones.",
+  "periodo": "2013–2019",
+  "ediciones": 4,
+  "totalPartidas": 235
 }
 ],
 "torneos": []
