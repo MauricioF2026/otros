@@ -861,6 +861,17 @@
   "ediciones": 10,
   "totalPartidas": 401
 }
+  {
+  "id": "cwi_lg",
+  "nombre": "LG Cup",
+  "titulo": "LG Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_lg_todas.json",
+  "descripcion": "Partidas de las finales del LG Cup World King of Baduk Tournament disponibles en el archivo CWI.",
+  "periodo": "1997–2026",
+  "ediciones": 31,
+  "totalPartidas": 98
+}
 ],
 "torneos": []
 }
