@@ -871,6 +871,17 @@
   "periodo": "1997–2026",
   "ediciones": 31,
   "totalPartidas": 98
+},
+  {
+  "id": "cwi_samsung",
+  "nombre": "Samsung Cup",
+  "titulo": "Samsung Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_samsung_todas.json",
+  "descripcion": "Partidas de las finales del Samsung Cup World Open Baduk Championship disponibles en el archivo CWI.",
+  "periodo": "1996–2025",
+  "ediciones": 30,
+  "totalPartidas": 80
 }
 ],
 "torneos": []
