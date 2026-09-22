@@ -937,6 +937,17 @@
   "periodo": "2013–2023",
   "ediciones": 5,
   "totalPartidas": 352
+},
+  {
+  "id": "cwi_toyota",
+  "nombre": "Toyota & Denso Cup",
+  "titulo": "Toyota & Denso Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_toyota_todas.json",
+  "descripcion": "Partidas disponibles del Toyota & Denso Cup en el archivo CWI, incluyendo todos los SGF disponibles en sus cuatro ediciones.",
+  "periodo": "2003–2009",
+  "ediciones": 4,
+  "totalPartidas": 334
 }
 ],
 "torneos": []
