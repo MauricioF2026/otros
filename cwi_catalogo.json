@@ -838,7 +838,18 @@
   "descripcion": "Partidas profesionales de Shin Jinseo (9p), recopiladas desde PlayGo.",
   "periodo": "2010–2026",
   "partidas": 1034
-}
+},
+  {
+  "id": "cwi_fujitsu",
+  "nombre": "Fujitsu Cup",
+  "titulo": "Fujitsu Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_fujitsu_todas.json",
+  "descripcion": "Partidas del Fujitsu Cup World Go Championship, incluyendo todos los archivos SGF disponibles en CWI de sus 24 ediciones.",
+  "periodo": "1988–2011",
+  "ediciones": 24,
+  "totalPartidas": 1043
+},
 ],
 "torneos": []
 }
