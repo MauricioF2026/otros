@@ -904,6 +904,17 @@
   "periodo": "1989–2019",
   "ediciones": 31,
   "totalPartidas": 31
+},
+  {
+  "id": "cwi_bc_card",
+  "nombre": "BC Card Cup",
+  "titulo": "BC Card Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_bc_card_todas.json",
+  "descripcion": "Partidas del BC Card Cup disponibles en el archivo CWI, correspondientes a sus cuatro ediciones de 2009 a 2012.",
+  "periodo": "2009–2012",
+  "ediciones": 4,
+  "totalPartidas": 276
 }
 ],
 "torneos": []
