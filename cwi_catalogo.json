@@ -926,6 +926,17 @@
   "periodo": "2013–2019",
   "ediciones": 4,
   "totalPartidas": 235
+},
+  {
+  "id": "cwi_mlily",
+  "nombre": "Mlily Cup",
+  "titulo": "Mlily Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_mlily_todas.json",
+  "descripcion": "Partidas disponibles del Mlily Cup en el archivo CWI, incluyendo todos los SGF disponibles en sus cinco ediciones.",
+  "periodo": "2013–2023",
+  "ediciones": 5,
+  "totalPartidas": 352
 }
 ],
 "torneos": []
