@@ -893,6 +893,17 @@
   "periodo": "1999–2025",
   "ediciones": 15,
   "totalPartidas": 38
+},
+    {
+  "id": "cwi_asian_tv",
+  "nombre": "Asian TV Cup",
+  "titulo": "Asian TV Cup",
+  "categoria": "internacionales",
+  "archivo": "cwi_asian_tv_todas.json",
+  "descripcion": "Partidas de las finales del Asian TV Cup disponibles en el archivo CWI. La colección contiene una partida final por cada edición.",
+  "periodo": "1989–2019",
+  "ediciones": 31,
+  "totalPartidas": 31
 }
 ],
 "torneos": []
