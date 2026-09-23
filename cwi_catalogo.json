@@ -992,6 +992,17 @@
   "periodo": "1981–1998",
   "ediciones": 9,
   "totalPartidas": 234
+},
+  {
+  "id": "cwi_cj_meijin",
+  "nombre": "China-Japan Meijin Match",
+  "titulo": "China-Japan Meijin Match",
+  "categoria": "internacionales",
+  "archivo": "cwi_cj_meijin_todas.json",
+  "descripcion": "Partidas disponibles del China-Japan Meijin Match en el archivo CWI, correspondientes a los siete matches disputados entre los campeones Mingren de China y Meijin de Japón entre 1988 y 1994.",
+  "periodo": "1988–1994",
+  "ediciones": 7,
+  "totalPartidas": 17
 }
 ],
 "torneos": []
