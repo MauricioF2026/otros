@@ -1014,6 +1014,16 @@
   "periodo": "2000–2025",
   "ediciones": 26,
   "totalPartidas": 26
+},
+  {
+  "id": "playgo_iyama_yuta",
+  "nombre": "Iyama Yuta",
+  "titulo": "Iyama Yuta · Partidas profesionales",
+  "categoria": "personas",
+  "archivo": "playgo_iyama_yuta.json",
+  "descripcion": "Partidas profesionales de Iyama Yuta obtenidas del archivo PlayGo Pro Games, correspondientes a 136 partidas disponibles con SGF entre 2003 y 2026.",
+  "periodo": "2003–2026",
+  "totalPartidas": 136
 }
 ],
 "torneos": []
