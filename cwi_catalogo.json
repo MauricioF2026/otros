@@ -970,6 +970,17 @@
   "periodo": "1984–1996",
   "ediciones": 11,
   "totalPartidas": 136
+},
+  {
+  "id": "cwi_i_tengen",
+  "nombre": "China-Japan Tengen Match",
+  "titulo": "China-Japan Tengen Match",
+  "categoria": "internacionales",
+  "archivo": "cwi_i_tengen_todas.json",
+  "descripcion": "Partidas disponibles del China-Japan Tengen Match en el archivo CWI, correspondientes a los quince matches disputados entre 1988 y 2002.",
+  "periodo": "1988–2002",
+  "ediciones": 15,
+  "totalPartidas": 34
 }
 ],
 "torneos": []
