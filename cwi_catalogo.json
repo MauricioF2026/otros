@@ -981,6 +981,17 @@
   "periodo": "1988–2002",
   "ediciones": 15,
   "totalPartidas": 34
+},
+  {
+  "id": "cwi_cj_shuko",
+  "nombre": "Fujisawa China-Japan Youth Go Friendship Match",
+  "titulo": "Fujisawa China-Japan Youth Go Friendship Match",
+  "categoria": "internacionales",
+  "archivo": "cwi_cj_shuko_todas.json",
+  "descripcion": "Partidas disponibles del Fujisawa China-Japan Youth Go Friendship Match en el archivo CWI, correspondientes a las giras y visitas de los grupos de Fujisawa Shuko a China.",
+  "periodo": "1981–1998",
+  "ediciones": 9,
+  "totalPartidas": 234
 }
 ],
 "torneos": []
