@@ -948,6 +948,17 @@
   "periodo": "2003–2009",
   "ediciones": 4,
   "totalPartidas": 334
+},
+  {
+  "id": "cwi_cj_go_exchange",
+  "nombre": "Japan-China Go Exchange",
+  "titulo": "Japan-China Go Exchange",
+  "categoria": "internacionales",
+  "archivo": "cwi_cj_go_exchange_todas.json",
+  "descripcion": "Partidas disponibles del Japan-China Go Exchange en el archivo CWI, correspondientes a 28 años entre 1960 y 1992.",
+  "periodo": "1960–1992",
+  "ediciones": 28,
+  "totalPartidas": 1164
 }
 ],
 "torneos": []
