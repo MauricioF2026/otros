@@ -959,6 +959,17 @@
   "periodo": "1960–1992",
   "ediciones": 28,
   "totalPartidas": 1164
+},
+  {
+  "id": "cwi_cj_super_go",
+  "nombre": "Japan-China Super Go",
+  "titulo": "Japan-China Super Go",
+  "categoria": "internacionales",
+  "archivo": "cwi_cj_super_go_todas.json",
+  "descripcion": "Partidas disponibles del NEC Japan-China Super Go en el archivo CWI, correspondientes a sus once matches disputados entre 1984 y 1996.",
+  "periodo": "1984–1996",
+  "ediciones": 11,
+  "totalPartidas": 136
 }
 ],
 "torneos": []
