@@ -1003,6 +1003,17 @@
   "periodo": "1988–1994",
   "ediciones": 7,
   "totalPartidas": 17
+},
+  {
+  "id": "cwi_iagon",
+  "nombre": "Japan-China Agon-Kiriyama Match",
+  "titulo": "Japan-China Agon-Kiriyama Match",
+  "categoria": "internacionales",
+  "archivo": "cwi_iagon_todas.json",
+  "descripcion": "Partidas disponibles del Japan-China Agon-Kiriyama Match en el archivo CWI, correspondientes a los matches disputados entre los ganadores de los torneos Agon-Kiriyama de China y Japón.",
+  "periodo": "2000–2025",
+  "ediciones": 26,
+  "totalPartidas": 26
 }
 ],
 "torneos": []
