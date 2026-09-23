@@ -1024,6 +1024,16 @@
   "descripcion": "Partidas profesionales de Iyama Yuta obtenidas del archivo PlayGo Pro Games, correspondientes a 136 partidas disponibles con SGF entre 2003 y 2026.",
   "periodo": "2003–2026",
   "totalPartidas": 136
+},
+  {
+  "id": "playgo_chang_hao",
+  "nombre": "Chang Hao",
+  "titulo": "Chang Hao · Partidas profesionales",
+  "categoria": "personas",
+  "archivo": "playgo_chang_hao.json",
+  "descripcion": "Partidas profesionales de Chang Hao obtenidas de PlayGo Pro Games.",
+  "periodo": "1995–2022",
+  "totalPartidas": 943
 }
 ],
 "torneos": []
