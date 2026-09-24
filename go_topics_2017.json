@@ -1,0 +1,1394 @@
+{
+  "year": 2017,
+  "startDate": "2017-01-04",
+  "topics": {
+    "oct-dec": [
+      {
+        "date": "12-31",
+        "nation": "Worlds",
+        "link": "/wr/ml/3/",
+        "title": "MLILY Cup",
+        "winner": "Park Junghwan(Korea)",
+        "result": "B+R",
+        "loser": "Park Yeonghun(Korea)",
+        "comment": "Park Yeonghun 0-2 Park Junghwan."
+      },
+      {
+        "date": "12-30",
+        "nation": "Worlds",
+        "link": "/wr/ml/3/",
+        "title": "MLILY Cup",
+        "winner": "Park Junghwan(Korea)",
+        "result": "W+R",
+        "loser": "Park Yeonghun(Korea)",
+        "comment": "Park Yeonghun 0-1 Park Junghwan."
+      },
+      {
+        "date": "12-28",
+        "nation": "China",
+        "link": "/cn/qw/13/",
+        "title": "Qiwang",
+        "winner": "Fan Yin(7d)",
+        "result": "B+1.5",
+        "loser": "Zhang Tao(6d)",
+        "comment": "Fan Yin won the victory in the title."
+      },
+      {
+        "date": "12-26",
+        "nation": "Worlds",
+        "link": "/wr/xa/1/",
+        "title": "Xinao Cup",
+        "winner": "Ke Jie(China)",
+        "result": "B+1.5",
+        "loser": "Peng Liyao(China)",
+        "comment": "Ke Jie won the victory in the title by 3-2."
+      },
+      {
+        "date": "12-25",
+        "nation": "Worlds",
+        "link": "/wr/xa/1/",
+        "title": "Xinao Cup",
+        "winner": "Peng Liyao(China)",
+        "result": "W+0.5",
+        "loser": "Ke Jie(China)",
+        "comment": "Ke Jie 2-2 Peng Liyao."
+      },
+      {
+        "date": "12-23",
+        "nation": "Worlds",
+        "link": "/wr/xa/1/",
+        "title": "Xinao Cup",
+        "winner": "Peng Liyao(China)",
+        "result": "B+3.5",
+        "loser": "Ke Jie(China)",
+        "comment": "Ke Jie 2-1 Peng Liyao."
+      },
+      {
+        "date": "12-21",
+        "nation": "Worlds",
+        "link": "/wr/xa/1/",
+        "title": "Xinao Cup",
+        "winner": "Ke Jie(China)",
+        "result": "B+R",
+        "loser": "Peng Liyao(China)",
+        "comment": "Ke Jie 2-0 Peng Liyao."
+      },
+      {
+        "date": "12-20",
+        "nation": "Worlds",
+        "link": "/wr/xa/1/",
+        "title": "Xinao Cup",
+        "winner": "Ke Jie(China)",
+        "result": "W+R",
+        "loser": "Peng Liyao(China)",
+        "comment": "Ke Jie 1-0 Peng Liyao."
+      },
+      {
+        "date": "12-18",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Lin Junyan(7d)",
+        "result": "W+1.5",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Lin Junyan got the title by 4-3."
+      },
+      {
+        "date": "12-07",
+        "nation": "Worlds",
+        "link": "/wr/sc/21/",
+        "title": "Samsung Cup",
+        "winner": "Gu Zihao(China)",
+        "result": "W+R",
+        "loser": "Tang Weixing(China)",
+        "comment": "Gu Zihao won the victory in the title by 2-1."
+      },
+      {
+        "date": "12-07",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Lin Junyan(7d)",
+        "result": "B+1.5",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Wang Yuanjun 3-3 Lin Junyan."
+      },
+      {
+        "date": "12-06",
+        "nation": "Worlds",
+        "link": "/wr/sc/21/",
+        "title": "Samsung Cup",
+        "winner": "Gu Zihao(China)",
+        "result": "B+R",
+        "loser": "Tang Weixing(China)",
+        "comment": "Tang Weixing 1-1 Gu Zihao."
+      },
+      {
+        "date": "12-06",
+        "nation": "Worlds",
+        "link": "/wr/ag/19/",
+        "title": "Agon Cup (jp-cn)",
+        "winner": "Tuo Jiaxi(China)",
+        "result": "B+R",
+        "loser": "Mutsuura Yuta(Japan)",
+        "comment": "Tuo Jiaxi won the victory in the title."
+      },
+      {
+        "date": "12-05",
+        "nation": "Worlds",
+        "link": "/wr/sc/21/",
+        "title": "Samsung Cup",
+        "winner": "Tang Weixing(China)",
+        "result": "B+R",
+        "loser": "Gu Zihao(China)",
+        "comment": "Tang Weixing 1-0 Gu Zihao."
+      },
+      {
+        "date": "12-05",
+        "nation": "Korea",
+        "link": "/kr/fks/1/",
+        "title": "Female Kisung",
+        "winner": "Kim Dayoung(2d)",
+        "result": "B+R",
+        "loser": "O Yujin(FK)",
+        "comment": "Kim Dayoung won the victory in the title by 2-1."
+      },
+      {
+        "date": "12-04",
+        "nation": "Korea",
+        "link": "/kr/fks/1/",
+        "title": "Female Kisung",
+        "winner": "O Yujin(FK)",
+        "result": "W+R",
+        "loser": "Kim Dayoung(2d)",
+        "comment": "O Yujin 1-1 Kim Dayoung."
+      },
+      {
+        "date": "12-04",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Wang Yuanjun(Q)",
+        "result": "B+R",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Wang Yuanjun 3-2 Lin Junyan."
+      },
+      {
+        "date": "12-03",
+        "nation": "Korea",
+        "link": "/kr/kl/15/",
+        "title": "Korean Baduk League",
+        "winner": "Kim Myeonghoon(5d)",
+        "result": "B+R",
+        "loser": "Na Hyun(8d)",
+        "comment": "Team Jungkwangjang won the victory in the title."
+      },
+      {
+        "date": "12-02",
+        "nation": "China",
+        "link": "/cn/al/19/",
+        "title": "Chinese A League",
+        "winner": "Tuo Jiaxi(9d)",
+        "result": "W+R",
+        "loser": "Mi Yuting(9d)",
+        "comment": "Team Zhongxin Baejing won the victory in the title."
+      },
+      {
+        "date": "11-30",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Wang Yuanjun(Q)",
+        "result": "W+R",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Wang Yuanjun 2-2 Lin Junyan."
+      },
+      {
+        "date": "11-29",
+        "nation": "Japan",
+        "link": "/jp/fhoninbo/36/",
+        "title": "Female Honinbo",
+        "winner": "Xie Yimin(FK)",
+        "result": "B+8.5",
+        "loser": "Fujisawa Rina(FH)",
+        "comment": "Xie Yimin got the title by 3-2."
+      },
+      {
+        "date": "11-28",
+        "nation": "Taiwan",
+        "link": "/tw/go/13/",
+        "title": "Guoshou",
+        "winner": "Chen Shiyuan(G)",
+        "result": "B+3.5",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Chen Shiyuan kept the title by 3-2 and the championships for three seasons."
+      },
+      {
+        "date": "11-27",
+        "nation": "Korea",
+        "link": "/kr/fks/1/",
+        "title": "Female Kisung",
+        "winner": "Kim Dayoung(2d)",
+        "result": "W+2.5",
+        "loser": "O Yujin(FK)",
+        "comment": "O Yujin 0-1 Kim Dayoung."
+      },
+      {
+        "date": "11-27",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Lin Junyan(7d)",
+        "result": "W+1.5",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Wang Yuanjun 1-2 Lin Junyan."
+      },
+      {
+        "date": "11-26",
+        "nation": "Japan",
+        "link": "/jp/ha/12/",
+        "title": "Hiroshima-Aluminum Cup",
+        "winner": "Ri Ishu(7d)",
+        "result": "B+3.5",
+        "loser": "Yo Chito(4d)",
+        "comment": "Ri Ishu won the victory in the title."
+      },
+      {
+        "date": "11-24",
+        "nation": "Japan",
+        "link": "/jp/tengen/43/",
+        "title": "Tengen",
+        "winner": "Iyama Yuta(T)",
+        "result": "B+R",
+        "loser": "Ichiriki Ryo(8d)",
+        "comment": "Iyama Yuta kept the title by 3-0 and the championships for three seasons."
+      },
+      {
+        "date": "11-23",
+        "nation": "China",
+        "link": "/cn/jc/15/",
+        "title": "Jianqiao Cup",
+        "winner": "Rui Naiwei(9d)",
+        "result": "B+1.5",
+        "loser": "Yin Qu(2d)",
+        "comment": "Rui Naiwei won the victory in the title by 2-0."
+      },
+      {
+        "date": "11-23",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Wang Yuanjun(Q)",
+        "result": "W+R",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Wang Yuanjun 1-1 Lin Junyan."
+      },
+      {
+        "date": "11-22",
+        "nation": "China",
+        "link": "/cn/jc/15/",
+        "title": "Jianqiao Cup",
+        "winner": "Rui Naiwei(9d)",
+        "result": "W+R",
+        "loser": "Yin Qu(2d)",
+        "comment": "Rui Naiwei 1-0 Yin Qu."
+      },
+      {
+        "date": "11-21",
+        "nation": "Taiwan",
+        "link": "/tw/go/13/",
+        "title": "Guoshou",
+        "winner": "Chen Shiyuan(G)",
+        "result": "W+2.5",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Chen Shiyuan 2-2 Lin Junyan."
+      },
+      {
+        "date": "11-20",
+        "nation": "Japan",
+        "link": "/jp/oza/65/",
+        "title": "Oza",
+        "winner": "Iyama Yuta(O)",
+        "result": "W+R",
+        "loser": "Ichiriki Ryo(8d)",
+        "comment": "Iyama Yuta kept the title by 3-0 and the championships for three seasons."
+      },
+      {
+        "date": "11-20",
+        "nation": "Taiwan",
+        "link": "/tw/qw/10/",
+        "title": "Qiwang",
+        "winner": "Lin Junyan(7d)",
+        "result": "W+2.5",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Wang Yuanjun 0-1 Lin Junyan."
+      },
+      {
+        "date": "11-18",
+        "nation": "Japan",
+        "link": "/jp/oza/65/",
+        "title": "Oza",
+        "winner": "Iyama Yuta(O)",
+        "result": "B+4.5",
+        "loser": "Ichiriki Ryo(8d)",
+        "comment": "Iyama Yuta 2-0 Ichiriki Ryo."
+      },
+      {
+        "date": "11-17",
+        "nation": "Japan",
+        "link": "/jp/fhoninbo/36/",
+        "title": "Female Honinbo",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "B+2.5",
+        "loser": "Xie Yimin(FK)",
+        "comment": "Fujisawa Rina 2-2 Xie Yimin."
+      },
+      {
+        "date": "11-16",
+        "nation": "Taiwan",
+        "link": "/tw/zq/5/",
+        "title": "Zhonghuan Qisheng",
+        "winner": "Xu Haohong(4d)",
+        "result": "W+R",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Xu Haohong won the victory in the title by 2-1."
+      },
+      {
+        "date": "11-14",
+        "nation": "Taiwan",
+        "link": "/tw/go/13/",
+        "title": "Guoshou",
+        "winner": "Lin Junyan(7d)",
+        "result": "W+R",
+        "loser": "Chen Shiyuan(G)",
+        "comment": "Chen Shiyuan 1-2 Lin Junyan."
+      },
+      {
+        "date": "11-13",
+        "nation": "Japan",
+        "link": "/jp/okan/58/",
+        "title": "Okan",
+        "winner": "Ida Atsushi(O)",
+        "result": "W+R",
+        "loser": "Mutsuura Yuta(7d)",
+        "comment": "Ida Atsushi kept the title and the championships for two seasons."
+      },
+      {
+        "date": "11-10",
+        "nation": "Worlds",
+        "link": "/wr/ql/8/",
+        "title": "Qionglong Cup",
+        "winner": "Choi Jung(Korea)",
+        "result": "W+R",
+        "loser": "Wang Chenxing(China)",
+        "comment": "Choi Jung won the victory in the title."
+      },
+      {
+        "date": "11-07",
+        "nation": "Taiwan",
+        "link": "/tw/go/13/",
+        "title": "Guoshou",
+        "winner": "Lin Junyan(7d)",
+        "result": "B+0.5",
+        "loser": "Chen Shiyuan(G)",
+        "comment": "Chen Shiyuan 1-1 Lin Junyan."
+      },
+      {
+        "date": "11-05",
+        "nation": "Taiwan",
+        "link": "/tw/zq/5/",
+        "title": "Zhonghuan Qisheng",
+        "winner": "Xu Haohong(4d)",
+        "result": "B+R",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Lin Junyan 1-1 Xu Haohong."
+      },
+      {
+        "date": "11-04",
+        "nation": "Japan",
+        "link": "/jp/fhoninbo/36/",
+        "title": "Female Honinbo",
+        "winner": "Xie Yimin(FK)",
+        "result": "B+R",
+        "loser": "Fujisawa Rina(FH)",
+        "comment": "Fujisawa Rina 1-2 Xie Yimin."
+      },
+      {
+        "date": "11-04",
+        "nation": "China",
+        "link": "/cn/mr/30/",
+        "title": "Mingren",
+        "winner": "Lian Xiao(M)",
+        "result": "B+R",
+        "loser": "Mi Yutng(9d)",
+        "comment": "Lian Xiao kept the title by 2-1 and the championships for three seasons."
+      },
+      {
+        "date": "11-02",
+        "nation": "China",
+        "link": "/cn/mr/30/",
+        "title": "Mingren",
+        "winner": "Lian Xiao(M)",
+        "result": "W+R",
+        "loser": "Mi Yutng(9d)",
+        "comment": "Lian Xiao 1-1 Mi Yuting."
+      },
+      {
+        "date": "11-01",
+        "nation": "China",
+        "link": "/cn/mr/30/",
+        "title": "Mingren",
+        "winner": "Mi Yutng(9d)",
+        "result": "W+R",
+        "loser": "Lian Xiao(M)",
+        "comment": "Lian Xiao 0-1 Mi Yuting."
+      },
+      {
+        "date": "10-31",
+        "nation": "Taiwan",
+        "link": "/tw/go/13/",
+        "title": "Guoshou",
+        "winner": "Chen Shiyuan(G)",
+        "result": "B+R",
+        "loser": "Lin Junyan(7d)",
+        "comment": "Chen Shiyuan 1-0 Lin Junyan."
+      },
+      {
+        "date": "10-29",
+        "nation": "Taiwan",
+        "link": "/tw/zq/5/",
+        "title": "Zhonghuan Qisheng",
+        "winner": "Lin Junyan(7d)",
+        "result": "B+R",
+        "loser": "Xu Haohong(4d)",
+        "comment": "Lin Junyan 1-0 Xu Haohong."
+      },
+      {
+        "date": "10-27",
+        "nation": "Japan",
+        "link": "/jp/tengen/43/",
+        "title": "Tengen",
+        "winner": "Iyama Yuta(T)",
+        "result": "W+R",
+        "loser": "Ichiriki Ryo(7d)",
+        "comment": "Iyama Yuta 2-0 Ichiriki Ryo."
+      },
+      {
+        "date": "10-26",
+        "nation": "China",
+        "link": "/cn/cc/14/",
+        "title": "Changqi Cup",
+        "winner": "Tan Xiao(9d)",
+        "result": "B+R",
+        "loser": "Jiang Weijie(9d)",
+        "comment": "Tan Xiao won the victory in the title by 2-0."
+      },
+      {
+        "date": "10-24",
+        "nation": "China",
+        "link": "/cn/cc/14/",
+        "title": "Changqi Cup",
+        "winner": "Tan Xiao(9d)",
+        "result": "W+R",
+        "loser": "Jiang Weijie(9d)",
+        "comment": "Jiang Weijie 0-1 Tan Xiao."
+      },
+      {
+        "date": "10-23",
+        "nation": "Japan",
+        "link": "/jp/fhoninbo/36/",
+        "title": "Female Honinbo",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "B+R",
+        "loser": "Xie Yimin(FK)",
+        "comment": "Fujisawa Rina 1-1 Xie Yimin."
+      },
+      {
+        "date": "10-20",
+        "nation": "Japan",
+        "link": "/jp/oza/65/",
+        "title": "Oza",
+        "winner": "Iyama Yuta(O)",
+        "result": "W+R",
+        "loser": "Ichiriki Ryo(7d)",
+        "comment": "Iyama Yuta 1-0 Ichiriki Ryo."
+      },
+      {
+        "date": "10-18",
+        "nation": "Worlds",
+        "link": "/wr/lm/4/",
+        "title": "Limin Cup",
+        "winner": "Ke Jie(China)",
+        "result": "B+R",
+        "loser": "Xu Jiayang(China)",
+        "comment": "Ke Jie won the victory in the title."
+      },
+      {
+        "date": "10-17",
+        "nation": "Japan",
+        "link": "/jp/meijin/42/",
+        "title": "Meijin",
+        "winner": "Iyama Yuta(K)",
+        "result": "B+R",
+        "loser": "Takao Shinji(M)",
+        "comment": "Iyama Yuta got the title by 4-1."
+      },
+      {
+        "date": "10-11",
+        "nation": "Japan",
+        "link": "/jp/tengen/43/",
+        "title": "Tengen",
+        "winner": "Iyama Yuta(T)",
+        "result": "B+R",
+        "loser": "Ichiriki Ryo(7d)",
+        "comment": "Iyama Yuta 1-0 Ichiriki Ryo."
+      },
+      {
+        "date": "10-07",
+        "nation": "Japan",
+        "link": "/jp/agon/24/",
+        "title": "Agon Cup",
+        "winner": "Mutsuura Yuta(3d)",
+        "result": "W+R",
+        "loser": "Takao Shinji(M)",
+        "comment": "Mutsuura Yuta won the victory in the title."
+      },
+      {
+        "date": "10-05",
+        "nation": "Japan",
+        "link": "/jp/kansai/61/",
+        "title": "Kansai-Kiin 1st Place",
+        "winner": "Yu Zhengqi(7d)",
+        "result": "B+0.5",
+        "loser": "Yuki Satoshi(1st)",
+        "comment": "Yu Zhengqi got the title by 2-0."
+      },
+      {
+        "date": "10-03",
+        "nation": "Japan",
+        "link": "/jp/meijin/42/",
+        "title": "Meijin",
+        "winner": "Iyama Yuta(K)",
+        "result": "W+R",
+        "loser": "Takao Shinji(M)",
+        "comment": "Takao Shinji 1-3 Iyama Yuta."
+      },
+      {
+        "date": "10-02",
+        "nation": "Japan",
+        "link": "/jp/shinjino/42/",
+        "title": "Shinjin O",
+        "winner": "Shibano Toramaru(7d)",
+        "result": "B+R",
+        "loser": "Son Makoto(5d)",
+        "comment": "Shibano Toramaru won the victory in the title won by 2-0."
+      }
+    ],
+    "jul-sep": [
+      {
+        "date": "09-27",
+        "nation": "Japan",
+        "link": "/jp/fhoninbo/36/",
+        "title": "Female Honinbo",
+        "winner": "Xie Yimin(FK)",
+        "result": "B+R",
+        "loser": "Fujisawa Rina(FH)",
+        "comment": "Fujisawa Rina 0-1 Xie Yimin."
+      },
+      {
+        "date": "09-25",
+        "nation": "Japan",
+        "link": "/jp/ryusei/26/",
+        "title": "Ryusei",
+        "winner": "Shibano Toramaru(3d)",
+        "result": "B+R",
+        "loser": "Yu Zhengqi(7d)",
+        "comment": "Shibano Toramaru won the victory in the title."
+      },
+      {
+        "date": "09-22",
+        "nation": "Japan",
+        "link": "/jp/meijin/42/",
+        "title": "Meijin",
+        "winner": "Iyama Yuta(K)",
+        "result": "B+R",
+        "loser": "Takao Shinji(M)",
+        "comment": "Takao Shinji 1-2 Iyama Yuta."
+      },
+      {
+        "date": "09-19",
+        "nation": "Japan",
+        "link": "/jp/shinjino/42/",
+        "title": "Shinjin O",
+        "winner": "Shibano Toramaru(7d)",
+        "result": "W+R",
+        "loser": "Son Makoto(5d)",
+        "comment": "Shibano Toramaru 1-0 Son Makoto."
+      },
+      {
+        "date": "09-17",
+        "nation": "Worlds",
+        "link": "/wr/at/29/",
+        "title": "Asian TV Cup",
+        "winner": "Na Hyun(Korea)",
+        "result": "B+R",
+        "loser": "Lee Sedol(Korea)",
+        "comment": "Na Hyun won the victory in the title."
+      },
+      {
+        "date": "09-13",
+        "nation": "Japan",
+        "link": "/jp/meijin/42/",
+        "title": "Meijin",
+        "winner": "Iyama Yuta(K)",
+        "result": "W+R",
+        "loser": "Takao Shinji(M)",
+        "comment": "Takao Shinji 1-1 Iyama Yuta."
+      },
+      {
+        "date": "09-11",
+        "nation": "China",
+        "link": "/cn/agon/19/",
+        "title": "Agon Cup",
+        "winner": "Tuo Jiaxi(9d)",
+        "result": "W+2.5",
+        "loser": "Ke Jie(Agon)",
+        "comment": "Tuo Jiaxi won the victory in the title."
+      },
+      {
+        "date": "09-07",
+        "nation": "Japan",
+        "link": "/jp/kansai/61/",
+        "title": "Kansai-Kiin 1st Place",
+        "winner": "Yu Zhengqi(7d)",
+        "result": "W+R",
+        "loser": "Yuki Satoshi(1st)",
+        "comment": "Yuki Satoshi 0-1 Yu Zhengqi."
+      },
+      {
+        "date": "09-04",
+        "nation": "Korea",
+        "link": "/kr/ga/11/",
+        "title": "GGAuction Cup",
+        "winner": "Cho Hyeyeon(Lady)",
+        "result": "W+0.5",
+        "loser": "Lee Changho(Gentleman)",
+        "comment": "Team Lady won the victory in the title."
+      },
+      {
+        "date": "08-31",
+        "nation": "Japan",
+        "link": "/jp/meijin/42/",
+        "title": "Meijin",
+        "winner": "Takao Shinji(M)",
+        "result": "W+0.5",
+        "loser": "Iyama Yuta(K)",
+        "comment": "Takao Shinji 1-0 Iyama Yuta."
+      },
+      {
+        "date": "08-25",
+        "nation": "Taiwan",
+        "link": "/tw/fz/3/",
+        "title": "Female Zuiqiang",
+        "winner": "Hei Jiajia(7d)",
+        "result": "B+R",
+        "loser": "Yu Lijun(1d)",
+        "comment": "Hei Jiajia won the victory in the title and the championships for three seasons."
+      },
+      {
+        "date": "08-16",
+        "nation": "China",
+        "link": "/cn/cctv/1/",
+        "title": "CCTV Cup",
+        "winner": "Zhang Tao(6d)",
+        "result": "B+R",
+        "loser": "Li Xuanhao(7d)",
+        "comment": "Zhang Tao won the victory in the title."
+      },
+      {
+        "date": "08-14",
+        "nation": "Taiwan",
+        "link": "/tw/xr/2/",
+        "title": "Xinren Wang",
+        "winner": "Xu Haohong(3d)",
+        "result": "W+2.5",
+        "loser": "Jian Jingting(3d)",
+        "comment": "Xu Haohong won the victory in the title."
+      },
+      {
+        "date": "08-10",
+        "nation": "Taiwan",
+        "link": "/tw/fm/7/",
+        "title": "Famel Mingren",
+        "winner": "Su Shengfang(3d)",
+        "result": "W+3",
+        "loser": "Yang Zixuan(1d)",
+        "comment": "Su Shengfang won the victory in the title."
+      },
+      {
+        "date": "07-27",
+        "nation": "Taiwan",
+        "link": "/tw/sd/7/",
+        "title": "Shiduan",
+        "winner": "Wang Yuanjun(Q)",
+        "result": "W+R",
+        "loser": "Xiao Zhenghao(S)",
+        "comment": "Wang Yuanjun got the title by 3-2."
+      },
+      {
+        "date": "07-26",
+        "nation": "China",
+        "link": "/cn/lx/8/",
+        "title": "Longxing",
+        "winner": "Ke Jie(9d)",
+        "result": "W+R",
+        "loser": "Li Qincheng(9d)",
+        "comment": "Ke Jie won the victory in the title by 2-0."
+      },
+      {
+        "date": "07-25",
+        "nation": "Japan",
+        "link": "/jp/gosei/42/",
+        "title": "Gosei",
+        "winner": "Iyama Yuta(G)",
+        "result": "W+R",
+        "loser": "Yamashita Keigo(9d)",
+        "comment": "Iyama Yuta kept the title by 3-0 and the championships for six seasons."
+      },
+      {
+        "date": "07-25",
+        "nation": "China",
+        "link": "/cn/lx/8/",
+        "title": "Longxing",
+        "winner": "Ke Jie(9d)",
+        "result": "B+R",
+        "loser": "Li Qincheng(9d)",
+        "comment": "Ke Jie 1-0 Li Qincheng."
+      },
+      {
+        "date": "07-22",
+        "nation": "Japan",
+        "link": "/jp/im/7/",
+        "title": "Igo Masters Cup",
+        "winner": "Kobayashi Satoru(9d)",
+        "result": "B+0.5",
+        "loser": "Cho Chikun(HM)",
+        "comment": "Kobayashi Satoru won the victory in the title."
+      },
+      {
+        "date": "07-19",
+        "nation": "Japan",
+        "link": "/jp/gosei/42/",
+        "title": "Gosei",
+        "winner": "Iyama Yuta(G)",
+        "result": "B+R",
+        "loser": "Yamashita Keigo(9d)",
+        "comment": "Iyama Yuta 2-0 Yamashita Keigo."
+      },
+      {
+        "date": "07-17",
+        "nation": "Taiwan",
+        "link": "/tw/sd/7/",
+        "title": "Shiduan",
+        "winner": "Wang Yuanjun(Q)",
+        "result": "B+R",
+        "loser": "Xiao Zhenghao(S)",
+        "comment": "Xiao Zhenghao 2-2 Wang Yuanjun."
+      },
+      {
+        "date": "07-16",
+        "nation": "Japan",
+        "link": "/jp/fsaikyo/2/",
+        "title": "Female Saikyo",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "W+2.5",
+        "loser": "Xie Yimin(FS)",
+        "comment": "Fujisawa Rina won the victory in the title."
+      },
+      {
+        "date": "07-13",
+        "nation": "Taiwan",
+        "link": "/tw/sd/7/",
+        "title": "Shiduan",
+        "winner": "Wang Yuanjun(Q)",
+        "result": "W+R",
+        "loser": "Xiao Zhenghao(S)",
+        "comment": "Xiao Zhenghao 2-1 Wang Yuanjun."
+      },
+      {
+        "date": "07-10",
+        "nation": "Taiwan",
+        "link": "/tw/sd/7/",
+        "title": "Shiduan",
+        "winner": "Xiao Zhenghao(S)",
+        "result": "W+R",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Xiao Zhenghao 2-0 Wang Yuanjun."
+      },
+      {
+        "date": "07-06",
+        "nation": "Taiwan",
+        "link": "/tw/sd/7/",
+        "title": "Shiduan",
+        "winner": "Xiao Zhenghao(S)",
+        "result": "B+R",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Xiao Zhenghao 1-0 Wang Yuanjun."
+      },
+      {
+        "date": "07-05",
+        "nation": "Taiwan",
+        "link": "/tw/tn/16/",
+        "title": "Tianyuan",
+        "winner": "Wang Yuanjun(T)",
+        "result": "W+R",
+        "loser": "Lin Shixun(6d)",
+        "comment": "Wang Yuanjun kept the title by 4-0 and the championships for three seasons."
+      }
+    ],
+    "apr-jun": [
+      {
+        "date": "06-26",
+        "nation": "Worlds",
+        "link": "/wr/cl/11/",
+        "title": "Chunlan Cup",
+        "winner": "Tan Xiao(China)",
+        "result": "B+R",
+        "loser": "Park Yeonghun(Korea)",
+        "comment": "Tan Xiao won the victory in the title by 2-1."
+      },
+      {
+        "date": "06-25",
+        "nation": "Worlds",
+        "link": "/wr/cl/11/",
+        "title": "Chunlan Cup",
+        "winner": "Park Yeonghun(Korea)",
+        "result": "W+0.5",
+        "loser": "Tan Xiao(China)",
+        "comment": "Park Yeonghun 1-1 Tan Xiao."
+      },
+      {
+        "date": "06-23",
+        "nation": "Worlds",
+        "link": "/wr/cl/11/",
+        "title": "Chunlan Cup",
+        "winner": "Tan Xiao(China)",
+        "result": "W+R",
+        "loser": "Park Yeonghun(Korea)",
+        "comment": "Park Yeonghun 0-1 Tan Xiao."
+      },
+      {
+        "date": "06-23",
+        "nation": "Japan",
+        "link": "/jp/aidu/4/",
+        "title": "Aidu Cup",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "W+R",
+        "loser": "Xie Yimin(AC)",
+        "comment": "Fujisawa Rina won the victory in the title by 2-1."
+      },
+      {
+        "date": "06-22",
+        "nation": "Japan",
+        "link": "/jp/gosei/42/",
+        "title": "Gosei",
+        "winner": "Iyama Yuta(G)",
+        "result": "W+R",
+        "loser": "Yamashita Keigo(9d)",
+        "comment": "Iyama Yuta 1-0 Yamashita Keigo."
+      },
+      {
+        "date": "06-20",
+        "nation": "Taiwan",
+        "link": "/tw/tn/16/",
+        "title": "Tianyuan",
+        "winner": "Wang Yuanjun(T)",
+        "result": "B+R",
+        "loser": "Lin Shixun(6d)",
+        "comment": "Wang Yuanjun 3-0 Lin Shixun."
+      },
+      {
+        "date": "06-18",
+        "nation": "Japan",
+        "link": "/jp/aidu/4/",
+        "title": "Aidu Cup",
+        "winner": "Xie Yimin(AC)",
+        "result": "B+4.5",
+        "loser": "Fujisawa Rina(FH)",
+        "comment": "Xie Yimin 1-1 Fujisawa Rina."
+      },
+      {
+        "date": "06-16",
+        "nation": "Japan",
+        "link": "/jp/honinbo/72/",
+        "title": "Honinbo",
+        "winner": "Iyama Yuta(H)",
+        "result": "W+R",
+        "loser": "Motoki Katsuya(8d)",
+        "comment": "Iyama Yuta kept the title by 4-0 and the championships for six seasons."
+      },
+      {
+        "date": "06-16",
+        "nation": "Japan",
+        "link": "/jp/aidu/4/",
+        "title": "Aidu Cup",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "B+R",
+        "loser": "Xie Yimin(AC)",
+        "comment": "Xie Yimin 0-1 Fujisawa Rina."
+      },
+      {
+        "date": "06-09",
+        "nation": "Japan",
+        "link": "/jp/honinbo/72/",
+        "title": "Honinbo",
+        "winner": "Iyama Yuta(H)",
+        "result": "B+R",
+        "loser": "Motoki Katsuya(8d)",
+        "comment": "Iyama Yuta 3-0 Motoki Katsuya."
+      },
+      {
+        "date": "06-06",
+        "nation": "Taiwan",
+        "link": "/tw/tn/16/",
+        "title": "Tianyuan",
+        "winner": "Wang Yuanjun(T)",
+        "result": "W+R",
+        "loser": "Lin Shixun(6d)",
+        "comment": "Wang Yuanjun 2-0 Lin Shixun."
+      },
+      {
+        "date": "05-25",
+        "nation": "Japan",
+        "link": "/jp/honinbo/72/",
+        "title": "Honinbo",
+        "winner": "Iyama Yuta(H)",
+        "result": "W+R",
+        "loser": "Motoki Katsuya(8d)",
+        "comment": "Iyama Yuta 2-0 Motoki Katsuya."
+      },
+      {
+        "date": "05-22",
+        "nation": "Korea",
+        "link": "/kr/mc/18/",
+        "title": "Maxim Cup",
+        "winner": "Park Junghwan(9d)",
+        "result": "W+R",
+        "loser": "Yun Junsang(9d)",
+        "comment": "Park Junghwan won the victory in the title by 2-1."
+      },
+      {
+        "date": "05-21",
+        "nation": "Taiwan",
+        "link": "/tw/tn/16/",
+        "title": "Tianyuan",
+        "winner": "Wang Yuanjun(T)",
+        "result": "B+R",
+        "loser": "Lin Shixun(6d)",
+        "comment": "Wang Yuanjun 1-0 Lin Shixun."
+      },
+      {
+        "date": "05-15",
+        "nation": "Korea",
+        "link": "/kr/mc/18/",
+        "title": "Maxim Cup",
+        "winner": "Park Junghwan(9d)",
+        "result": "B+R",
+        "loser": "Yun Junsang(9d)",
+        "comment": "Yun Junsang 1-1 Park Junghwan."
+      },
+      {
+        "date": "05-10",
+        "nation": "Japan",
+        "link": "/jp/honinbo/72/",
+        "title": "Honinbo",
+        "winner": "Iyama Yuta(H)",
+        "result": "B+R",
+        "loser": "Motoki Katsuya(8d)",
+        "comment": "Iyama Yuta 1-0 Motoki Katsuya."
+      },
+      {
+        "date": "05-06",
+        "nation": "Korea",
+        "link": "/kr/gs/22/",
+        "title": "GS Caltex Cup",
+        "winner": "An Kukhyun(6d)",
+        "result": "W+1.5",
+        "loser": "Kim Jiseok(9d)",
+        "comment": "An Kukhyun won the victory in the title by 3-2."
+      },
+      {
+        "date": "05-05",
+        "nation": "Korea",
+        "link": "/kr/gs/22/",
+        "title": "GS Caltex Cup",
+        "winner": "An Kukhyun(6d)",
+        "result": "B+0.5",
+        "loser": "Kim Jiseok(9d)",
+        "comment": "Kim Jiseok 2-2 An Kukhyun."
+      },
+      {
+        "date": "05-04",
+        "nation": "Korea",
+        "link": "/kr/gs/22/",
+        "title": "GS Caltex Cup",
+        "winner": "Kim Jiseok(9d)",
+        "result": "B+R",
+        "loser": "An Kukhyun(6d)",
+        "comment": "Kim Jiseok 2-1 An Kukhyun."
+      },
+      {
+        "date": "04-29",
+        "nation": "Worlds",
+        "link": "/wr/rjc/",
+        "title": "Ryusei (jp-cn)",
+        "winner": "Mi Yuting(China)",
+        "result": "B+R",
+        "loser": "Kono Rin(Japan)",
+        "comment": "Mi Yuting won the victory in the title."
+      },
+      {
+        "date": "04-28",
+        "nation": "Korea",
+        "link": "/kr/gs/22/",
+        "title": "GS Caltex Cup",
+        "winner": "Kim Jiseok(9d)",
+        "result": "W+R",
+        "loser": "An Kukhyun(6d)",
+        "comment": "Kim Jiseok 1-1 An Kukhyun."
+      },
+      {
+        "date": "04-27",
+        "nation": "Korea",
+        "link": "/kr/gs/22/",
+        "title": "GS Caltex Cup",
+        "winner": "An Kukhyun(6d)",
+        "result": "W+R",
+        "loser": "Kim Jiseok(9d)",
+        "comment": "Kim Jiseok 1-1 An Kukhyun."
+      },
+      {
+        "date": "04-27",
+        "nation": "Taiwan",
+        "link": "/tw/hc/9/",
+        "title": "Haifong Cup",
+        "winner": "Chen Shiyuan(G)",
+        "result": "B+R",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Chen Shiyuan won the victory in the title by 2-0."
+      },
+      {
+        "date": "04-24",
+        "nation": "Korea",
+        "link": "/kr/mc/18/",
+        "title": "Maxim Cup",
+        "winner": "Yun Junsang(9d)",
+        "result": "B+R",
+        "loser": "Park Junghwan(9d)",
+        "comment": "Yun Junsang 1-0 Park Junghwan."
+      },
+      {
+        "date": "04-23",
+        "nation": "Worlds",
+        "link": "/wr/gc/4/",
+        "title": "GLOBIS Cup",
+        "winner": "Shin Jinseo(Korea)",
+        "result": "W+R",
+        "loser": "Byun Sangil(Korea)",
+        "comment": "Shin Jinseo won the victory in the title."
+      },
+      {
+        "date": "04-21",
+        "nation": "Japan",
+        "link": "/jp/judan/55/",
+        "title": "Judan",
+        "winner": "Iyama Yuta(J)",
+        "result": "W+R",
+        "loser": "Yu Zhengqi(7d)",
+        "comment": "Iyama Yuta kept the title by 3-1 and the championships for two seasons."
+      },
+      {
+        "date": "04-13",
+        "nation": "China",
+        "link": "/cn/tn/31/",
+        "title": "Tianyuan",
+        "winner": "Lian Xiao(M)",
+        "result": "W+R",
+        "loser": "Chen Yaoye(T)",
+        "comment": "Lian Xiao got the title by 2-0."
+      },
+      {
+        "date": "04-13",
+        "nation": "Taiwan",
+        "link": "/tw/hc/9/",
+        "title": "Haifong Cup",
+        "winner": "Chen Shiyuan(G)",
+        "result": "W+R",
+        "loser": "Wang Yuanjun(Q)",
+        "comment": "Wang Yuanjun 0-1 Chen Shiyuan."
+      },
+      {
+        "date": "04-11",
+        "nation": "China",
+        "link": "/cn/tn/31/",
+        "title": "Tianyuan",
+        "winner": "Lian Xiao(M)",
+        "result": "B+R",
+        "loser": "Chen Yaoye(T)",
+        "comment": "Chen Yaoye 0-1 Lian Xiao."
+      },
+      {
+        "date": "04-06",
+        "nation": "Japan",
+        "link": "/jp/judan/55/",
+        "title": "Judan",
+        "winner": "Yu Zhengqi(7d)",
+        "result": "W+R",
+        "loser": "Iyama Yuta(J)",
+        "comment": "Iyama Yuta 2-1 Yu Zhengqi."
+      }
+    ],
+    "jan-mar": [
+      {
+        "date": "03-30",
+        "nation": "Japan",
+        "link": "/jp/judan/55/",
+        "title": "Judan",
+        "winner": "Iyama Yuta(J)",
+        "result": "W+R",
+        "loser": "Yu Zhengqi(7d)",
+        "comment": "Iyama Yuta 2-0 Yu Zhengqi."
+      },
+      {
+        "date": "03-19",
+        "nation": "Japan",
+        "link": "/jp/nhk/64/",
+        "title": "NHK Cup",
+        "winner": "Iyama Yuta(K)",
+        "result": "W+R",
+        "loser": "Ichiriki Ryo(7d)",
+        "comment": "Iyama Yuta won the victory in the title."
+      },
+      {
+        "date": "03-12",
+        "nation": "China",
+        "link": "/cn/sw/16/",
+        "title": "South-West Qiwang",
+        "winner": "Yang Dingxin(SW)",
+        "result": "B+R",
+        "loser": "Tan Xiao(7d)",
+        "comment": "Yang Dingxin won the victory in the title and the championships for two seasons."
+      },
+      {
+        "date": "03-10",
+        "nation": "Japan",
+        "link": "/jp/kisei/41/",
+        "title": "Kisei",
+        "winner": "Iyama Yuta(K)",
+        "result": "W+R",
+        "loser": "Kono Rin(9d)",
+        "comment": "Iyama Yuta kept the title by 4-2 and the championships for five seasons."
+      },
+      {
+        "date": "03-09",
+        "nation": "China",
+        "link": "/cn/mr/29/",
+        "title": "Mingren",
+        "winner": "Lian Xiao(M)",
+        "result": "B+R",
+        "loser": "Zhou Ruiyang(9d)",
+        "comment": "Lian Xiao kept the title by 2-1 and the championships for two seasons."
+      },
+      {
+        "date": "03-08",
+        "nation": "Japan",
+        "link": "/jp/fmeijin/29/",
+        "title": "Female Meijin",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "W+1.5",
+        "loser": "Xie Yimin(FM)",
+        "comment": "Fujisawa Rina got the title by 2-0."
+      },
+      {
+        "date": "03-08",
+        "nation": "China",
+        "link": "/cn/mr/29/",
+        "title": "Mingren",
+        "winner": "Zhou Ruiyang(9d)",
+        "result": "W+R",
+        "loser": "Lian Xiao(M)",
+        "comment": "Lian Xiao 1-1 Zhou Ruiyiang."
+      },
+      {
+        "date": "03-07",
+        "nation": "Japan",
+        "link": "/jp/judan/55/",
+        "title": "Judan",
+        "winner": "Iyama Yuta(J)",
+        "result": "B+R",
+        "loser": "Yu Zhengqi(7d)",
+        "comment": "Iyama Yuta 1-0 Yu Zhengqi."
+      },
+      {
+        "date": "03-06",
+        "nation": "China",
+        "link": "/cn/mr/29/",
+        "title": "Mingren",
+        "winner": "Lian Xiao(M)",
+        "result": "W+R",
+        "loser": "Zhou Ruiyang(9d)",
+        "comment": "Lian Xiao 1-0 Zhou Ruiyiang."
+      },
+      {
+        "date": "03-02",
+        "nation": "Japan",
+        "link": "/jp/kisei/41/",
+        "title": "Kisei",
+        "winner": "Iyama Yuta(K)",
+        "result": "B+R",
+        "loser": "Kono Rin(9d)",
+        "comment": "Iyama Yuta 3-2 Kono Rin."
+      },
+      {
+        "date": "03-01",
+        "nation": "Japan",
+        "link": "/jp/fmeijin/29/",
+        "title": "Female Meijin",
+        "winner": "Fujisawa Rina(FH)",
+        "result": "B+R",
+        "loser": "Xie Yimin(FM)",
+        "comment": "Xie Yimin 0-1 Fujisawa Rina."
+      },
+      {
+        "date": "02-22",
+        "nation": "Worlds",
+        "link": "/wr/nc/18/",
+        "title": "Nongshim Cup",
+        "winner": "Fan Yunruo(China)",
+        "result": "W+1.5",
+        "loser": "Park Junghwan(China)",
+        "comment": "Team China won the victory in the title."
+      },
+      {
+        "date": "02-16",
+        "nation": "Japan",
+        "link": "/jp/kisei/41/",
+        "title": "Kisei",
+        "winner": "Kono Rin(9d)",
+        "result": "B+R",
+        "loser": "Iyama Yuta(K)",
+        "comment": "Iyama Yuta 2-2 Kono Rin."
+      },
+      {
+        "date": "02-09",
+        "nation": "Japan",
+        "link": "/jp/kisei/41/",
+        "title": "Kisei",
+        "winner": "Iyama Yuta(K)",
+        "result": "B+R",
+        "loser": "Kono Rin(9d)",
+        "comment": "Iyama Yuta 2-1 Kono Rin."
+      },
+      {
+        "date": "02-08",
+        "nation": "Worlds",
+        "link": "/wr/lg/21/",
+        "title": "LG Cup",
+        "winner": "Dang Yifei(China)",
+        "result": "W+1.5",
+        "loser": "Zhou Ruiyang(China)",
+        "comment": "Dang Yifei won the victory in the title by 2-0."
+      },
+      {
+        "date": "02-06",
+        "nation": "Worlds",
+        "link": "/wr/lg/21/",
+        "title": "LG Cup",
+        "winner": "Dang Yifei(China)",
+        "result": "W+R",
+        "loser": "Zhou Ruiyang(China)",
+        "comment": "Zhou Ruiyang 0-1 Dang Yifei."
+      },
+      {
+        "date": "02-06",
+        "nation": "Japan",
+        "link": "/jp/fkisei/20/",
+        "title": "Female Kisei",
+        "winner": "Xie Yimin(FK)",
+        "result": "B+R",
+        "loser": "Nyu Eiko(1d)",
+        "comment": "Xie Yimin kept the title by 2-1 and the championships for five seasons."
+      },
+      {
+        "date": "01-30",
+        "nation": "Japan",
+        "link": "/jp/fkisei/20/",
+        "title": "Female Kisei",
+        "winner": "Nyu Eiko(1d)",
+        "result": "W+R",
+        "loser": "Xie Yimin(FK)",
+        "comment": "Xie Yimin 1-1 Nyu Eiko."
+      },
+      {
+        "date": "01-23",
+        "nation": "Japan",
+        "link": "/jp/kisei/41/",
+        "title": "Kisei",
+        "winner": "Iyama Yuta(K)",
+        "result": "W+5.5",
+        "loser": "Kono Rin(9d)",
+        "comment": "Iyama Yuta 1-1 Kono Rin."
+      },
+      {
+        "date": "01-19",
+        "nation": "Japan",
+        "link": "/jp/fkisei/20/",
+        "title": "Female Kisei",
+        "winner": "Xie Yimin(FK)",
+        "result": "W+R",
+        "loser": "Nyu Eiko(1d)",
+        "comment": "Xie Yimin 1-0 Nyu Eiko."
+      },
+      {
+        "date": "01-15",
+        "nation": "Worlds",
+        "link": "/wr/sy/2/",
+        "title": "Shinye",
+        "winner": "Kim Myeonghoon(Korea)",
+        "result": "W+R",
+        "loser": "Park Hamin(Korea)",
+        "comment": "Kim Myeonghoon won the victory in the title by 2-0."
+      },
+      {
+        "date": "01-15",
+        "nation": "Japan",
+        "link": "/jp/kisei/41/",
+        "title": "Kisei",
+        "winner": "Kono Rin(9d)",
+        "result": "W+R",
+        "loser": "Iyama Yuta(K)",
+        "comment": "Iyama Yuta 0-1 Kono Rin."
+      },
+      {
+        "date": "01-14",
+        "nation": "Worlds",
+        "link": "/wr/sy/2/",
+        "title": "Shinye",
+        "winner": "Kim Myeonghoon(Korea)",
+        "result": "B+R",
+        "loser": "Park Hamin(Korea)",
+        "comment": "Kim Myeonghoon 1-0 Park Hamin."
+      },
+      {
+        "date": "01-04",
+        "nation": "Worlds",
+        "link": "/wr/lm/3/",
+        "title": "Limin Cup",
+        "winner": "Mi Yuting(China)",
+        "result": "B+R",
+        "loser": "Shin Jinseo(Korea)",
+        "comment": "Mi Yuting won the victory in the title."
+      }
+    ]
+  }
+}
