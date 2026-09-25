@@ -1035,10 +1035,10 @@
   "periodo": "1995–2022",
   "totalPartidas": 943
 },
-  {
+ {
   "id": "cgos_19x19_1000",
   "nombre": "CGOS 19×19 — 1000 partidas",
-  "archivo": "yss_cgos_19x19_1000.json",
+  "archivo": "yss_cgos_19x19_1000_COMPATIBLE.json",
   "categoria": "ia",
   "descripcion": "1000 partidas de 19×19 del Computer Go Server (CGOS), recopiladas directamente desde los archivos SGF históricos de YSS.",
   "periodo": "2026",
