@@ -1043,6 +1043,15 @@
   "descripcion": "1000 partidas de 19×19 del Computer Go Server (CGOS), recopiladas directamente desde los archivos SGF históricos de YSS.",
   "periodo": "2026",
   "partidas": 1000
+},
+  {
+  "id": "iyama_yuta_titles",
+  "nombre": "🏆 Iyama Yuta — Títulos",
+  "archivo": "cwi_iyama_yuta.json",
+  "categoria": "personas",
+  "descripcion": "508 partidas de Iyama Yuta asociadas a los 79 títulos registrados en el archivo CWI Go Games Archive.",
+  "periodo": "2005–2026",
+  "partidas": 508
 }
 ],
 "torneos": []
