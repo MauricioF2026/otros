@@ -12400,6 +12400,34 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][fp][cq][fq][cr][er]AW[fm][bn][dn][gn][co][go][bp][dp][gp][bq][gq][br][fr][gr])"
+  },
+    {
+    "id": 1128,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dr][ds]AW[ap][bp][cp][dq][eq][er][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      }
+    ]
   }
   ]
 }
