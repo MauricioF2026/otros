@@ -15088,6 +15088,1020 @@
         "c": "B"
       }
     ]
+  },
+    {
+    "id": 1224,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][dp][aq][dq][dr][bs]AW[ao][bo][co][do][eo][ep][eq][er][ds][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1225,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][cq][cr][dr]AW[ao][bo][co][do][eo][ep][aq][bq][eq][br][er][bs][es])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1226,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][cr][bs]AW[ao][bo][co][do][eo][ep][aq][eq][ar][dr][er][as][ds])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][dq][cr][bs]AW[ao][bo][co][do][eo][ep][bq][eq][dr][er])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1228,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][aq][br][dr]AW[ao][bo][co][do][eo][ap][ep][eq][er][ds][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1229,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][ar][dr][bs]AW[ao][bo][co][do][dp][ep][bq][eq][cr][er][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1230,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][dp][bq][cq][dq][cs]AW[ao][bo][co][do][eo][cp][ep][eq][er][ds][es])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1231,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][bq][ar][cs]AW[ao][bo][co][do][eo][ep][eq][cr][er][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1232,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][aq][br][dr]AW[ao][bo][co][do][eo][ap][ep][eq][er][cs][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1233,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][aq][cr][bs][ds]AW[ao][bo][co][do][eo][ep][cq][eq][br][er][es])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1234,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][dp][aq][dq][ar][bs][cs]AW[ao][bo][co][do][eo][ap][ep][eq][cr][er][es])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "c": "W"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1235,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][ar][dr][bs]AW[ao][bo][co][do][eo][ep][bq][dq][eq][er][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1236,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][dp][aq][dq][br][dr][bs]AW[ao][bo][co][do][eo][ep][bq][eq][ar][er][ds][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][br][dr]AW[ao][bo][co][do][eo][ep][dq][eq][er][es])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1238,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][dp][aq][dq][dr][bs]AW[ao][bo][co][do][eo][ep][eq][ar][er][ds][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1239,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][dq][dr][ds]AW[ao][bo][co][do][eo][ep][aq][cq][eq][er][as][cs][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1240,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][dq][ar][dr][ds]AW[ao][bo][co][do][eo][ep][bq][eq][cr][er][cs][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1241,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][dq][dr][as][ds]AW[ao][bo][co][do][eo][ep][aq][eq][cr][er][bs][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "W"
+      }
+    ]
+  },
+  {
+    "id": 1242,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][br][dr][bs]AW[ao][bo][co][do][ep][eq][ar][er][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1243,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][dq][ar][cr]AW[ao][bo][co][do][eo][ep][eq][br][er][bs][es])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1244,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][dp][bq][dq][dr][cs]AW[ao][bo][co][do][eo][cp][ep][eq][er][ds][es])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1245,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][aq][dq][dr][as]AW[ao][bo][co][do][eo][ep][eq][er][ds][es])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1246,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dq][br][dr]AW[ao][bo][co][do][ep][eq][cr][er][ds][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1247,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][dp][aq][cq][ar][ds]AW[bo][co][do][eo][ep][bq][dq][eq][br][er][cs][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1248,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][ep][eq][ar][dr][er]AW[ap][bp][cp][dp][bq][dq][cr])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1249,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][ap][ep][cq][eq][er][es]AW[bp][cp][dp][bq][dq][dr][ds])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1250,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][ap][ep][dq][eq][er][es]AW[bp][cp][dp][aq][cq][br][dr][ds])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1251,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][ap][ep][dq][eq][er][es]AW[bp][cp][dp][aq][br][cr][dr][ds])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1252,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][ap][ep][eq][er][as][bs][es]AW[bp][cp][dp][bq][dq][ar][dr][ds])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1253,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][ep][eq][ar][cr][er][es]AW[ap][bp][cq][dq][dr][bs][cs][ds])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 1254,
+    "libro": "Compact Go Puzzles to Learn the Basics",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "7k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][ep][eq][dr][er]AW[ap][bp][cp][dp][dq][ar][br])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "c": "B"
+      }
+    ]
   }
+  
   ]
 }
