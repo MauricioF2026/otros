@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][as][cs]AW[ap][bp][cp][dp][cq][dq][dr][ds])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  }
