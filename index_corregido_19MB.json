@@ -1,0 +1,48 @@
+{
+  "fuente": "GoRatings",
+  "fechaExtraccion": null,
+  "fechaCorreccion": null,
+  "totalJugadores": 759,
+  "totalPartidas": 186257,
+  "correccionesKifuExacto": 163,
+  "correccionesNoEncontradas": 0,
+  "limiteArchivoMB": 19,
+  "totalArchivos": 5,
+  "archivos": [
+    {
+      "archivo": "goratings_corregido_001.json",
+      "jugadores": 330,
+      "partidas": 45770,
+      "bytes": 19128444,
+      "mb": "18.24"
+    },
+    {
+      "archivo": "goratings_corregido_002.json",
+      "jugadores": 208,
+      "partidas": 43708,
+      "bytes": 19517721,
+      "mb": "18.61"
+    },
+    {
+      "archivo": "goratings_corregido_003.json",
+      "jugadores": 120,
+      "partidas": 39970,
+      "bytes": 19386845,
+      "mb": "18.49"
+    },
+    {
+      "archivo": "goratings_corregido_004.json",
+      "jugadores": 75,
+      "partidas": 36823,
+      "bytes": 19369801,
+      "mb": "18.47"
+    },
+    {
+      "archivo": "goratings_corregido_005.json",
+      "jugadores": 26,
+      "partidas": 19986,
+      "bytes": 10749118,
+      "mb": "10.25"
+    }
+  ]
+}
