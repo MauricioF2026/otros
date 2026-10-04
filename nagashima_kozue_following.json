@@ -1,0 +1,499 @@
+{
+  "fuente": "https://x.com/nagashima_kozue/following",
+  "fechaExtraccion": "2026-10-04T02:07:58.668Z",
+  "total": 82,
+  "cuentas": [
+    {
+      "id": 1,
+      "usuario": "@igo_naoki",
+      "nombre": "八幡 直樹【囲碁棋士】",
+      "url": "https://x.com/igo_naoki"
+    },
+    {
+      "id": 2,
+      "usuario": "@sekiyamaigo",
+      "nombre": "関山利道/囲碁棋士",
+      "url": "https://x.com/sekiyamaigo"
+    },
+    {
+      "id": 3,
+      "usuario": "@nghrccc_lanlan",
+      "nombre": "長島千紘",
+      "url": "https://x.com/nghrccc_lanlan"
+    },
+    {
+      "id": 4,
+      "usuario": "@kaketsugiJ78785",
+      "nombre": "KAKETSUGI JAPAN",
+      "url": "https://x.com/kaketsugiJ78785"
+    },
+    {
+      "id": 5,
+      "usuario": "@shukokikaku",
+      "nombre": "fujisawa@piyo",
+      "url": "https://x.com/shukokikaku"
+    },
+    {
+      "id": 6,
+      "usuario": "@mhlpanda_limino",
+      "nombre": "林敏浩 (海峰棋院院長)",
+      "url": "https://x.com/mhlpanda_limino"
+    },
+    {
+      "id": 7,
+      "usuario": "@T_Tsukada_37",
+      "nombre": "塚田忠維@脚本家たまご",
+      "url": "https://x.com/T_Tsukada_37"
+    },
+    {
+      "id": 8,
+      "usuario": "@ryuheioonishi",
+      "nombre": "大西竜平",
+      "url": "https://x.com/ryuheioonishi"
+    },
+    {
+      "id": 9,
+      "usuario": "@SAIONJI_com",
+      "nombre": "西園寺",
+      "url": "https://x.com/SAIONJI_com"
+    },
+    {
+      "id": 10,
+      "usuario": "@nonbenorio",
+      "nombre": "のりを",
+      "url": "https://x.com/nonbenorio"
+    },
+    {
+      "id": 11,
+      "usuario": "@knnmss1115",
+      "nombre": "菅野昌志",
+      "url": "https://x.com/knnmss1115"
+    },
+    {
+      "id": 12,
+      "usuario": "@happinessmls",
+      "nombre": "ミュージカル『HAPPINESS』",
+      "url": "https://x.com/happinessmls"
+    },
+    {
+      "id": 13,
+      "usuario": "@Nihonkiin_Jigyo",
+      "nombre": "【公式】日本棋院 事業部",
+      "url": "https://x.com/Nihonkiin_Jigyo"
+    },
+    {
+      "id": 14,
+      "usuario": "@bababanchou1102",
+      "nombre": "ポリエステル番長",
+      "url": "https://x.com/bababanchou1102"
+    },
+    {
+      "id": 15,
+      "usuario": "@kazunara1977052",
+      "nombre": "なら／楢原和人＠RMU",
+      "url": "https://x.com/kazunara1977052"
+    },
+    {
+      "id": 16,
+      "usuario": "@1600sekigahara",
+      "nombre": "大家健",
+      "url": "https://x.com/1600sekigahara"
+    },
+    {
+      "id": 17,
+      "usuario": "@yt_614",
+      "nombre": "木本有香",
+      "url": "https://x.com/yt_614"
+    },
+    {
+      "id": 18,
+      "usuario": "@tyty12141419",
+      "nombre": "森 俊輝(とっぴー)",
+      "url": "https://x.com/tyty12141419"
+    },
+    {
+      "id": 19,
+      "usuario": "@igo_team_senko",
+      "nombre": "チームセンコーグループ",
+      "url": "https://x.com/igo_team_senko"
+    },
+    {
+      "id": 20,
+      "usuario": "@team_igoshogi",
+      "nombre": "チーム囲碁・将棋チャンネル",
+      "url": "https://x.com/team_igoshogi"
+    },
+    {
+      "id": 21,
+      "usuario": "@team_nagoya15",
+      "nombre": "チーム名古屋",
+      "url": "https://x.com/team_nagoya15"
+    },
+    {
+      "id": 22,
+      "usuario": "@TNcr9fwh1e34623",
+      "nombre": "チーム若鯉",
+      "url": "https://x.com/TNcr9fwh1e34623"
+    },
+    {
+      "id": 23,
+      "usuario": "@igo_teamfukuoka",
+      "nombre": "チーム福岡",
+      "url": "https://x.com/igo_teamfukuoka"
+    },
+    {
+      "id": 24,
+      "usuario": "@YukataIGO",
+      "nombre": "浴衣囲碁まつり2026@9/12(土)開催！",
+      "url": "https://x.com/YukataIGO"
+    },
+    {
+      "id": 25,
+      "usuario": "@saryuru",
+      "nombre": "猿川真寿",
+      "url": "https://x.com/saryuru"
+    },
+    {
+      "id": 26,
+      "usuario": "@qYAzDku1xSNhZHp",
+      "nombre": "宋光復",
+      "url": "https://x.com/qYAzDku1xSNhZHp"
+    },
+    {
+      "id": 27,
+      "usuario": "@nyueiko",
+      "nombre": "牛栄子(囲碁棋士)",
+      "url": "https://x.com/nyueiko"
+    },
+    {
+      "id": 28,
+      "usuario": "@m_league_",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/m_league_"
+    },
+    {
+      "id": 29,
+      "usuario": "@m_league_jikkyo",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/m_league_jikkyo"
+    },
+    {
+      "id": 30,
+      "usuario": "@m_l_treca",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/m_l_treca"
+    },
+    {
+      "id": 31,
+      "usuario": "@ML_os_tokyo",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/ML_os_tokyo"
+    },
+    {
+      "id": 32,
+      "usuario": "@ML_os_osaka",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/ML_os_osaka"
+    },
+    {
+      "id": 33,
+      "usuario": "@ML_os_sapporo",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/ML_os_sapporo"
+    },
+    {
+      "id": 34,
+      "usuario": "@ML_os_hakata",
+      "nombre": "Mリーグ/プロ麻雀リーグ",
+      "url": "https://x.com/ML_os_hakata"
+    },
+    {
+      "id": 35,
+      "usuario": "@joan711",
+      "nombre": "Joanna ☪︎",
+      "url": "https://x.com/joan711"
+    },
+    {
+      "id": 36,
+      "usuario": "@igo_fantasia",
+      "nombre": "Joanna ☪︎",
+      "url": "https://x.com/igo_fantasia"
+    },
+    {
+      "id": 37,
+      "usuario": "@JGOF_IGO",
+      "nombre": "全日本囲碁連合【公式】",
+      "url": "https://x.com/JGOF_IGO"
+    },
+    {
+      "id": 38,
+      "usuario": "@Dsuke_213",
+      "nombre": "鈴木大介",
+      "url": "https://x.com/Dsuke_213"
+    },
+    {
+      "id": 39,
+      "usuario": "@Dsuke_staff",
+      "nombre": "鈴木大介",
+      "url": "https://x.com/Dsuke_staff"
+    },
+    {
+      "id": 40,
+      "usuario": "@kidowebnews",
+      "nombre": "『棋道web』 | 日本棋院囲碁ニュース",
+      "url": "https://x.com/kidowebnews"
+    },
+    {
+      "id": 41,
+      "usuario": "@mana_01_1213",
+      "nombre": "五藤眞奈",
+      "url": "https://x.com/mana_01_1213"
+    },
+    {
+      "id": 42,
+      "usuario": "@FuentealbaTwit",
+      "nombre": "",
+      "url": "https://x.com/FuentealbaTwit"
+    },
+    {
+      "id": 43,
+      "usuario": "@mono52804467",
+      "nombre": "猿川真寿",
+      "url": "https://x.com/mono52804467"
+    },
+    {
+      "id": 44,
+      "usuario": "@shiho_hoshiai",
+      "nombre": "星合志保",
+      "url": "https://x.com/shiho_hoshiai"
+    },
+    {
+      "id": 45,
+      "usuario": "@rinafujisawa",
+      "nombre": "藤沢里菜",
+      "url": "https://x.com/rinafujisawa"
+    },
+    {
+      "id": 46,
+      "usuario": "@Nihonkiin_pr",
+      "nombre": "日本棋院【公式】",
+      "url": "https://x.com/Nihonkiin_pr"
+    },
+    {
+      "id": 47,
+      "usuario": "@kankan551515",
+      "nombre": "林漢傑",
+      "url": "https://x.com/kankan551515"
+    },
+    {
+      "id": 48,
+      "usuario": "@akika_yasuda",
+      "nombre": "安田明夏",
+      "url": "https://x.com/akika_yasuda"
+    },
+    {
+      "id": 49,
+      "usuario": "@cho_kobayashi",
+      "nombre": "小林泉美（囲碁棋士）",
+      "url": "https://x.com/cho_kobayashi"
+    },
+    {
+      "id": 50,
+      "usuario": "@asahi_igo",
+      "nombre": "朝日新聞囲碁取材班",
+      "url": "https://x.com/asahi_igo"
+    },
+    {
+      "id": 51,
+      "usuario": "@igo_mokkosu",
+      "nombre": "鶴山淳志",
+      "url": "https://x.com/igo_mokkosu"
+    },
+    {
+      "id": 52,
+      "usuario": "@KK_joryu",
+      "nombre": "女流本因坊戦•KK共同通信",
+      "url": "https://x.com/KK_joryu"
+    },
+    {
+      "id": 53,
+      "usuario": "@kana_hayuma",
+      "nombre": "万波佳奈",
+      "url": "https://x.com/kana_hayuma"
+    },
+    {
+      "id": 54,
+      "usuario": "@igo_Yimin",
+      "nombre": "謝依旻",
+      "url": "https://x.com/igo_Yimin"
+    },
+    {
+      "id": 55,
+      "usuario": "@naonao_myu",
+      "nombre": "万波奈穂",
+      "url": "https://x.com/naonao_myu"
+    },
+    {
+      "id": 56,
+      "usuario": "@uniigosauna",
+      "nombre": "鈴木伸二",
+      "url": "https://x.com/uniigosauna"
+    },
+    {
+      "id": 57,
+      "usuario": "@SadaAtsushi",
+      "nombre": "佐田篤史(囲碁棋士)",
+      "url": "https://x.com/SadaAtsushi"
+    },
+    {
+      "id": 58,
+      "usuario": "@yoshiro_kaba",
+      "nombre": "清水善郎(よしろー)",
+      "url": "https://x.com/yoshiro_kaba"
+    },
+    {
+      "id": 59,
+      "usuario": "@liyu1022",
+      "nombre": "張豊猷",
+      "url": "https://x.com/liyu1022"
+    },
+    {
+      "id": 60,
+      "usuario": "@yukariyoshi104",
+      "nombre": "吉原由香里",
+      "url": "https://x.com/yukariyoshi104"
+    },
+    {
+      "id": 61,
+      "usuario": "@jiajia945",
+      "nombre": "黑嘉嘉Joanne Missingham",
+      "url": "https://x.com/jiajia945"
+    },
+    {
+      "id": 62,
+      "usuario": "@mainichi_igo",
+      "nombre": "毎日新聞・囲碁",
+      "url": "https://x.com/mainichi_igo"
+    },
+    {
+      "id": 63,
+      "usuario": "@hibiki_0202_15",
+      "nombre": "三島響/囲碁棋士",
+      "url": "https://x.com/hibiki_0202_15"
+    },
+    {
+      "id": 64,
+      "usuario": "@hkg_anime",
+      "nombre": "【公式】TVアニメ『ヒカルの碁』",
+      "url": "https://x.com/hkg_anime"
+    },
+    {
+      "id": 65,
+      "usuario": "@ANA_flight_info",
+      "nombre": "ＡＮＡ運航の見通し情報",
+      "url": "https://x.com/ANA_flight_info"
+    },
+    {
+      "id": 66,
+      "usuario": "@ANAFlightInfo_e",
+      "nombre": "ＡＮＡ運航の見通し情報",
+      "url": "https://x.com/ANAFlightInfo_e"
+    },
+    {
+      "id": 67,
+      "usuario": "@TSUYOSHI6061",
+      "nombre": "辻本　強",
+      "url": "https://x.com/TSUYOSHI6061"
+    },
+    {
+      "id": 68,
+      "usuario": "@igobase",
+      "nombre": "囲碁ベース【日本棋院公式アプリ】",
+      "url": "https://x.com/igobase"
+    },
+    {
+      "id": 69,
+      "usuario": "@nagomiobata",
+      "nombre": "小幡 和輝 / 明光みらい代表",
+      "url": "https://x.com/nagomiobata"
+    },
+    {
+      "id": 70,
+      "usuario": "@cjgakuen",
+      "nombre": "小幡 和輝 / 明光みらい代表",
+      "url": "https://x.com/cjgakuen"
+    },
+    {
+      "id": 71,
+      "usuario": "@gametrainer_jp",
+      "nombre": "小幡 和輝 / 明光みらい代表",
+      "url": "https://x.com/gametrainer_jp"
+    },
+    {
+      "id": 72,
+      "usuario": "@Japan_igo",
+      "nombre": "囲碁ナショナルチーム【GO・碁・ジャパン】",
+      "url": "https://x.com/Japan_igo"
+    },
+    {
+      "id": 73,
+      "usuario": "@Q3pdPrgL5SDiDhi",
+      "nombre": "大淵浩太郎(囲碁棋士)",
+      "url": "https://x.com/Q3pdPrgL5SDiDhi"
+    },
+    {
+      "id": 74,
+      "usuario": "@shiratakiranka",
+      "nombre": "白瀧らんか杯｜公式",
+      "url": "https://x.com/shiratakiranka"
+    },
+    {
+      "id": 75,
+      "usuario": "@santa3460",
+      "nombre": "三四郎@AEO最適化支援/トライエッジ代表取締役",
+      "url": "https://x.com/santa3460"
+    },
+    {
+      "id": 76,
+      "usuario": "@igo_tomo0214",
+      "nombre": "イゴトモ。（IGOTOMO＋）┋20-40代の初心者向け囲碁会",
+      "url": "https://x.com/igo_tomo0214"
+    },
+    {
+      "id": 77,
+      "usuario": "@mavie_ig",
+      "nombre": "Iyama Airi",
+      "url": "https://x.com/mavie_ig"
+    },
+    {
+      "id": 78,
+      "usuario": "@igosil15",
+      "nombre": "囲碁シル【公式】",
+      "url": "https://x.com/igosil15"
+    },
+    {
+      "id": 79,
+      "usuario": "@li_league",
+      "nombre": "日本女子囲碁リーグ/Li LEAGUE(リーリーグ)【公式】",
+      "url": "https://x.com/li_league"
+    },
+    {
+      "id": 80,
+      "usuario": "@miyatanifuga",
+      "nombre": "宮谷風雅",
+      "url": "https://x.com/miyatanifuga"
+    },
+    {
+      "id": 81,
+      "usuario": "@rafif_igo",
+      "nombre": "フィトラ(囲碁棋士)",
+      "url": "https://x.com/rafif_igo"
+    },
+    {
+      "id": 82,
+      "usuario": "@sagashuntaro",
+      "nombre": "嵯峨駿太郎",
+      "url": "https://x.com/sagashuntaro"
+    }
+  ]
+}
