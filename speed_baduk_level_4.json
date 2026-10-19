@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": 1,
     "libro": "Speed Baduk Level 4",
     "tema": "Capturing after Atari",
@@ -34,3 +35,4 @@
       }
     ]
   }
+]
