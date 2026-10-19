@@ -2258,5 +2258,115 @@
         "c": "B"
       }
     ]
+  },
+  {
+    "id": 119,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[br][cr][dr][er][es]AW[bq][cq][dq][eq][gq][fr])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][ar][br][cr][er][es]AW[bo][bq][cq][dq][eq][gq][fr])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cr][dr][er][fr][gr][hr][hs]AW[bp][cq][dq][eq][fq][gq][hq][jq][br][ir][is])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][br][dr][ds]AW[ap][bp][cp][dp][aq][dq][eq][fr])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][ar][br][dr]AW[bn][bp][cp][dp][fp][eq][er][bs])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
   }
 ]
