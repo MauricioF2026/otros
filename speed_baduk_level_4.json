@@ -34,5 +34,798 @@
         "tipo": "triangle"
       }
     ]
+  },
+  {
+    "id": 3,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][bq][fq][gr]AW[cq][dq][eq][gq][br][fr][hr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][fp][gp][cq][fq][gr]AW[dq][eq][gq][hq][fr][hr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][cp][dp][cq][dr][er]AW[bp][bq][dq][eq][cr][fr][es])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][dq][cr][er][bs]AW[cn][bo][do][eo][dp][cq][ar][br])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][ar][br][cr][dr]AW[cn][bo][cp][aq][bq][dq][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fr]AW[cp][dp][ep][fq][gr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][cp][dp][eq]AW[cm][dn][bo][co][eo][gq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][do][ep]AW[bm][cn][bo][cp])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][do][cp][cq][ar][br]AW[aq][bq][dq][cr][bs])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][do][eq]AW[bm][cn][bo][cp])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][dq][eq]AW[bp][dp][cq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][dp][cq][eq][cr]AW[cm][bo][do][cp][bq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][cp][ep][cq][dr]AW[dp][dq][cr][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][cp][dp][fp][cq][fq][dr]AW[ep][dq][eq][br][cr][fr][gr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][co][do][fo][cq][dq]AW[cm][cn][bo][cp][dp][bq][fq][br])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][fq][er]AW[bq][cq][dq][eq][dr][fr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][fp][fq][dr][es]AW[cn][cp][bq][dq][eq][cr][cs][ds])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][co][dp][bq][dq][cr][dr]AW[cn][bp][cp][cq][br][bs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][eq][dr]AW[bq][cq][dq][cr][er])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][cp][bq][dq][dr][cs][ds]AW[fo][bp][cq][fq][br][cr][bs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cl][eo][cp][ep][cq][eq]AW[dn][dp][dq][gq][cr][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Connection after Atari",
+    "accion": "Connect Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][fn][do][dp][ep][fp][er]AW[gn][co][eo][fo][cp][gp][cq][gq])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dp][ep][fq]AW[co][eo][fp][cq][dq][eq])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][en][cq][dq][br]AW[cp][ep][bq][cr][dr][er][bs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[gn][do][cp][dp][gp][bq][cr]AW[cn][en][co][bp][ep][cq][dq][br])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][dp][ep][hq][fr]AW[cn][dn][eo][cp][fp][dq][er])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 14,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][cp][dp][gp][dq][gq]AW[dn][bo][co][eo][bp][cq][dr][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][fp][cq][fq][br]AW[cn][do][bp][bq][dq][ar][cr])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][dp][ep][cq]AW[do][fo][cp][dq][eq][fq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][bo][ap][dp][ep][fp][cq][br][cr]AW[do][fo][bp][cp][gp][bq][dq][fq][ar][dr][bs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][co][do][dp][ep][hp][eq]AW[bm][cm][dm][dn][bo][eo][cp][fp][cq][dq][er][fr])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 13,
+        "tipo": "circle"
+      },
+      {
+        "x": 2,
+        "y": 14,
+        "tipo": "circle"
+      },
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "circle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][dp][cq][dq][gq][dr][ds]AW[cn][do][bp][cp][ep][bq][br][cr][er][cs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 18,
+        "tipo": "circle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "circle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][ap][aq][bq][eq][gq][br][dr][er][gr][bs]AW[bm][cn][ao][bo][do][bp][ep][cq][dq][ar][cr][es][fs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 18,
+        "tipo": "circle"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "circle"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 0,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 0,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Escape Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][ao][bq][eq][ar][br][dr][fr][ds]AW[bm][cn][bo][do][ap][bp][aq][cq][dq][cr])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "circle"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 0,
+        "y": 17,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escaping after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][ep][bq][cq][dq][eq][fq]AW[cn][bo][eo][cp][dp][fp][gq][gr])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][cp][cq][dq][er]AW[cl][bm][cn][do][dp][eq][gq][fr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
   }
 ]
