@@ -827,5 +827,446 @@
         "tipo": "triangle"
       }
     ]
+  },
+  {
+    "id": 39,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cl][dl][cm][cn][co][do][cp][cq][cr][dr]AW[ek][el][dm][dn][eo][dp][dq][gq][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[gn][go][bp][cp][dp][ep][fp][dq][cr]AW[gm][fn][fo][ho][gp][bq][cq][eq][fq][br][dr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][fp][gp][hp][bq][eq][hq]AW[cq][dq][fq][gq][br][er][hr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][dp][ep][cq][cr][dr][ds][es]AW[bn][cn][dn][eo][fp][dq][eq][hq][er][gr][fs])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][dn][eo][cp][dp][dq][dr][cs][ds]AW[bl][bm][cn][co][do][bp][cq][ar][cr][bs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][cp][dp][cq]AW[cm][cn][do][ep][dq][gq])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][bp][cp][dp][cq][cr][cs][ds]AW[bl][cm][bn][co][do][ep][dq][gq][dr][fr][es])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cl][bm][bn][co][cp][cq][dq][er]AW[ck][dk][bl][cm][cn][do][dp][eq][gq][fr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][ep][bq][cq][dq][eq][fq][fr]AW[cn][bo][eo][cp][dp][fp][gq][gr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Doble Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][co][cp][dp][ep][cq][dr]AW[bn][cn][do][eo][fp][dq][eq][br][cr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][eq][dr]AW[bq][cq][dq][fq][cr][er])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][bp][cp][dp][ep][eq][cr][dr]AW[fp][bq][cq][dq][fq][br][er][cs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][en][do][cp][dp][bq][dq][dr]AW[cn][dn][co][bp][cq][br][cr])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dq][eq][dr][fr]AW[dp][ep][fq][er][gr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][cp][cq][dq][gq][er][fr]AW[do][dp][gp][eq][fq][gr][hr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][bn][bo][do][cp][cq][eq][cr][dr]AW[cn][dn][co][dp][ep][dq][gq][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][bq][eq]AW[co][bp][cq][br])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][cp][dq][eq][dr][fr]AW[do][dp][ep][fq][er][gr][es])",
+    "marcas": [
+      {
+        "x": 6,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][fo][bp][cp][dp][bq][eq][cr]AW[ep][fp][cq][dq][ar][br][dr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][eo][bp][cp][dp][eq][fq]AW[cl][bm][bn][dn][co][do][ep][fp])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][dp][cq][fq][br][dr][er]AW[cm][bn][co][cp][ep][dq][eq])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Escalera después de Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][cp][cq][dr][er]AW[cm][bn][co][dp][dq][eq])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
   }
 ]
