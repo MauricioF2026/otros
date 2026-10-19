@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][dq][er]AW[aq][bq][cq][eq][fq][dr][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing after Atari",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][dq][er]AW[bq][cq][eq][fq][dr][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  }
