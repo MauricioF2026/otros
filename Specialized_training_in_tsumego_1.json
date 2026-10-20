@@ -3281,5 +3281,812 @@
         "c": "B"
       }
     ]
+  },
+  {
+    "id": 167,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[br][cr][er][fr][ds][fs]AW[cp][bq][cq][eq][fq][gq][gr][bs])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][cq][fq][gq][dr][er][es]AW[co][do][eo][go][bp][gp][ip][bq][eq][hq][br][cr][hr][ds])",
+    "solucion": [
+      {
+        "x": 6,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][ar][br][er][bs]AW[bp][cp][dp][fp][bq][eq][fr][fs])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][eo][fo][go][cp][gp][dq][eq][fq][cr][er][bs]AW[cm][em][gm][bn][hn][bo][ho][bp][ep][hp][bq][cq][gq][br][fr][hr][fs])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][dq][eq][ar][cr][fr][gr][cs]AW[bp][cp][dp][ep][cq][fq][gq][hq][hr][bs][gs][hs])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cr][dr][er][bs][ds]AW[ap][bp][cq][dq][eq][fq][fr])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[gp][eq][fq][hq][er][hr][es][gs]AW[fo][go][ho][dp][fp][ip][dq][iq][dr][ir][is])",
+    "solucion": [
+      {
+        "x": 5,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][cq][dq][br][dr][ds]AW[ap][bp][cp][dp][bq][eq][er])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][fq][dr][fr][gr][gs]AW[do][eo][fo][cp][gp][cq][gq][iq][cr][er][hr])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][ar][br][dr][ds]AW[cp][dp][ep][aq][bq][eq][er][cs][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][bs][cs]AW[ap][bp][cp][dp][ep][eq][er][ds])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][bq][cq][cr]AW[cn][bo][do][cp][dq][dr][fr])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][cr][fr][gr][cs][gs]AW[bp][dp][ep][cq][fq][gq][hq][br][hr][ds])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][br][er][fr][bs][fs]AW[bo][cp][dp][fp][bq][fq][hq][ar][cr][dr][gr])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][bq][cq][cr][ds]AW[cn][bo][cp][dp][fp][br][dr][er])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][cr][er][fr][gr][cs]AW[cp][dp][bq][eq][fq][gq][iq][br][hr][bs])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][br][cr][dr]AW[co][ap][bp][cq][dq][fq][er])",
+    "solucion": [
+      {
+        "x": 0,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eq][fq][cr][dr][er][gr][hr]AW[bp][ep][fp][cq][dq][gq][hq][iq][br][ir][hs])",
+    "solucion": [
+      {
+        "x": 5,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ar][br][cr][dr][er][fs][gs]AW[bp][cp][dq][eq][fr][gr][hr][cs][hs])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "c": "W"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[br][cr][er][fr][gr][bs]AW[co][bq][cq][eq][fq][gq][hq][ar][hr][jr])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gr][hr][hs]AW[co][eo][dp][fp][cq][gq][hq][jq][cr][ir])",
+    "solucion": [
+      {
+        "x": 5,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ar][br][cr][dr][er][fr]AW[bp][cp][eq][fq][hq][gr][cs][fs])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][ar][br][dr][er][fr][ds]AW[co][bp][dp][ep][fp][gq][cr][gr][hr][cs][es][fs][gs])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][ar][br][dr]AW[ap][bp][cp][dp][ep][aq][cr][er][fr][cs])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][ar][br][dr][er]AW[ap][bp][cp][aq][dq][eq][fq][hq][gr][cs])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][gp][fq][hq][cr][dr][er][fr][hr][gs]AW[do][eo][fo][go][io][dp][hp][bq][cq][iq][br][ir][cs][ds][hs][is])",
+    "solucion": [
+      {
+        "x": 5,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "c": "W"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][ar][dr][er][es]AW[ap][bp][cp][aq][dq][eq][fq][fr][hr][bs])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][cq][dq][br][dr]AW[bp][cp][dp][ep][bq][eq][er])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][dq][br][cr][dr][bs]AW[bo][co][do][ap][ep][eq][er][ds])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "c": "W"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[br][cr][er][fr][bs][ds]AW[bp][dp][bq][dq][fq][gq][gr][hr])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "c": "W"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][br][bs]AW[bp][cp][dp][eq][gq][fr])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][ar][br][cr][cs][es]AW[bp][cp][dp][ep][bq][fq][fr][ds][fs])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 1,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][dp][bq][eq][br][cr][dr][bs]AW[bo][co][do][eo][fp][fq][ar][er][gr][ds])",
+    "solucion": [
+      {
+        "x": 2,
+        "y": 3,
+        "c": "B"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "c": "W"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][cp][fp][aq][bq][dq][fq][dr][er]AW[an][bn][cn][dn][en][fo][gp][cq][gq][ar][br][cr][fr][gr][ds][es])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 3,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][ar][cr][ds]AW[ap][bp][cp][dp][dq][eq][er][es])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][dq][gq][dr][fr][ds]AW[eo][fo][go][ho][cp][dp][hp][cq][hq][cr][gr][hr])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 2,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cr][dr]AW[co][bp][dp][dq][fq][er])",
+    "solucion": [
+      {
+        "x": 1,
+        "y": 0,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][dq][fq][dr][gr]AW[eo][fo][go][cp][dp][gp][cq][hq][cr][hr])",
+    "solucion": [
+      {
+        "x": 4,
+        "y": 1,
+        "c": "B"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "libro": "Specialized training in tsumego 1",
+    "tema": "Tsumegos",
+    "accion": "Salva o mata según corresponda",
+    "colorJuega": "B",
+    "rango": "10k",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][cr][er][fr][gr]AW[bo][cp][dp][bq][eq][fq][gq][hq][br][hr])",
+    "solucion": [
+      {
+        "x": 3,
+        "y": 0,
+        "c": "B"
+      }
+    ]
   }
 ]
