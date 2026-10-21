@@ -1,0 +1,5042 @@
+{
+  "titulo": "Kanji Radicals",
+  "fuente": "https://sylhare.github.io/kanji/",
+  "fechaExtraccion": "2026-10-21T19:42:08.267Z",
+  "total": 214,
+  "fichas": [
+    {
+      "numero": 1,
+      "radical": "一",
+      "variantes": [
+        "一"
+      ],
+      "significado": "one, horizontal stroke",
+      "lecturaHiragana": "いち",
+      "romanizacion": "ichi",
+      "significadoIngles": "one, horizontal stroke",
+      "kanjiEjemplo": "七三丈不丘世",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_001.png",
+          "alt": "Radical 1: one, horizontal stroke"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/1.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "一 one, horizontal stroke 1 [ 一 ] 🇯🇵 いち 🔤 ichi 📖 one, horizontal stroke 💬 七三丈不丘世"
+    },
+    {
+      "numero": 2,
+      "radical": "丨",
+      "variantes": [
+        "丨"
+      ],
+      "significado": "line, stick",
+      "lecturaHiragana": "たてぼう",
+      "romanizacion": "tatebou",
+      "significadoIngles": "line, stick",
+      "kanjiEjemplo": "中",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_002.png",
+          "alt": "Radical 2: line, stick"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/2.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "丨 line, stick 2 [ 丨 ] 🇯🇵 たてぼう 🔤 tatebou 📖 line, stick 💬 中"
+    },
+    {
+      "numero": 3,
+      "radical": "丶",
+      "variantes": [
+        "丶"
+      ],
+      "significado": "dot",
+      "lecturaHiragana": "てん",
+      "romanizacion": "ten",
+      "significadoIngles": "dot",
+      "kanjiEjemplo": "丸主",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_003.png",
+          "alt": "Radical 3: dot"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/3.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "丶 dot 3 [ 丶 ] 🇯🇵 てん 🔤 ten 📖 dot 💬 丸主"
+    },
+    {
+      "numero": 4,
+      "radical": "丿",
+      "variantes": [
+        "丿",
+        ""
+      ],
+      "significado": "bend, stroke",
+      "lecturaHiragana": "の",
+      "romanizacion": "no",
+      "significadoIngles": "bend, stroke",
+      "kanjiEjemplo": "久之乎",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_004.png",
+          "alt": "Radical 4: bend, stroke"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/4.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "丿 bend, stroke 4 [ 丿  ] 🇯🇵 の 🔤 no 📖 bend, stroke 💬 久之乎"
+    },
+    {
+      "numero": 5,
+      "radical": "乙",
+      "variantes": [
+        "乙",
+        "⺃"
+      ],
+      "significado": "the second",
+      "lecturaHiragana": "おつ",
+      "romanizacion": "otsu",
+      "significadoIngles": "the second",
+      "kanjiEjemplo": "九也",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_005.png",
+          "alt": "Radical 5: the second"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/5.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "乙 the second 5 [ 乙 ⺃ ] 🇯🇵 おつ 🔤 otsu 📖 the second 💬 九也"
+    },
+    {
+      "numero": 6,
+      "radical": "亅",
+      "variantes": [
+        "亅"
+      ],
+      "significado": "hook, hook stick",
+      "lecturaHiragana": "はねぼう",
+      "romanizacion": "hanebou",
+      "significadoIngles": "hook, hook stick",
+      "kanjiEjemplo": "了事",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_006.png",
+          "alt": "Radical 6: hook, hook stick"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/6.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "亅 hook, hook stick 6 [ 亅 ] 🇯🇵 はねぼう 🔤 hanebou 📖 hook, hook stick 💬 了事"
+    },
+    {
+      "numero": 7,
+      "radical": "二",
+      "variantes": [
+        "二"
+      ],
+      "significado": "two",
+      "lecturaHiragana": "に",
+      "romanizacion": "ni",
+      "significadoIngles": "two",
+      "kanjiEjemplo": "五井些亞",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_007.png",
+          "alt": "Radical 7: two"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/7.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "二 two 7 [ 二 ] 🇯🇵 に 🔤 ni 📖 two 💬 五井些亞"
+    },
+    {
+      "numero": 8,
+      "radical": "亠",
+      "variantes": [
+        "亠"
+      ],
+      "significado": "lid, top",
+      "lecturaHiragana": "なべぶた",
+      "romanizacion": "nabebuta",
+      "significadoIngles": "lid, top",
+      "kanjiEjemplo": "亡交京",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_008.png",
+          "alt": "Radical 8: lid, top"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/8.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "亠 lid, top 8 [ 亠 ] 🇯🇵 なべぶた 🔤 nabebuta 📖 lid, top 💬 亡交京"
+    },
+    {
+      "numero": 9,
+      "radical": "人",
+      "variantes": [
+        "人",
+        "⺅𠆢"
+      ],
+      "significado": "person",
+      "lecturaHiragana": "ひと",
+      "romanizacion": "hito",
+      "significadoIngles": "person",
+      "kanjiEjemplo": "仁休位今",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_009.png",
+          "alt": "Radical 9: person"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/9.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "人 person 9 [ 人 ⺅𠆢 ] 🇯🇵 ひと 🔤 hito 📖 person 💬 仁休位今"
+    },
+    {
+      "numero": 10,
+      "radical": "儿",
+      "variantes": [
+        "儿"
+      ],
+      "significado": "human legs",
+      "lecturaHiragana": "ひとあし",
+      "romanizacion": "hitoashi",
+      "significadoIngles": "human legs",
+      "kanjiEjemplo": "兄元",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_010.png",
+          "alt": "Radical 10: human legs"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/10.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "儿 human legs 10 [ 儿 ] 🇯🇵 ひとあし 🔤 hitoashi 📖 human legs 💬 兄元"
+    },
+    {
+      "numero": 11,
+      "radical": "⼊",
+      "variantes": [
+        "⼊",
+        "𠆢"
+      ],
+      "significado": "to enter",
+      "lecturaHiragana": "いる",
+      "romanizacion": "iru",
+      "significadoIngles": "to enter",
+      "kanjiEjemplo": "入全兩",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_011.png",
+          "alt": "Radical 11: to enter"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/11.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "⼊ to enter 11 [ ⼊ 𠆢 ] 🇯🇵 いる 🔤 iru 📖 to enter 💬 入全兩"
+    },
+    {
+      "numero": 12,
+      "radical": "八",
+      "variantes": [
+        "八",
+        "ハ"
+      ],
+      "significado": "eight",
+      "lecturaHiragana": "はち",
+      "romanizacion": "hachi",
+      "significadoIngles": "eight",
+      "kanjiEjemplo": "公六共兵",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_012.png",
+          "alt": "Radical 12: eight"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/12.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "八 eight 12 [ 八 ハ ] 🇯🇵 はち 🔤 hachi 📖 eight 💬 公六共兵"
+    },
+    {
+      "numero": 13,
+      "radical": "冂",
+      "variantes": [
+        "冂"
+      ],
+      "significado": "to enclose",
+      "lecturaHiragana": "けいがまえ",
+      "romanizacion": "keigamae",
+      "significadoIngles": "to enclose",
+      "kanjiEjemplo": "内再",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_013.png",
+          "alt": "Radical 13: to enclose"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/13.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "冂 to enclose 13 [ 冂 ] 🇯🇵 けいがまえ 🔤 keigamae 📖 to enclose 💬 内再"
+    },
+    {
+      "numero": 14,
+      "radical": "冖",
+      "variantes": [
+        "冖"
+      ],
+      "significado": "cover, crown",
+      "lecturaHiragana": "わかんむり",
+      "romanizacion": "wakanmuri",
+      "significadoIngles": "cover, crown",
+      "kanjiEjemplo": "冗冠",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_014.png",
+          "alt": "Radical 14: cover, crown"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/14.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "冖 cover, crown 14 [ 冖 ] 🇯🇵 わかんむり 🔤 wakanmuri 📖 cover, crown 💬 冗冠"
+    },
+    {
+      "numero": 15,
+      "radical": "冫",
+      "variantes": [
+        "冫"
+      ],
+      "significado": "ice",
+      "lecturaHiragana": "にすい",
+      "romanizacion": "nisui",
+      "significadoIngles": "ice",
+      "kanjiEjemplo": "冬冶冷凍",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_015.png",
+          "alt": "Radical 15: ice"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/15.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "冫 ice 15 [ 冫 ] 🇯🇵 にすい 🔤 nisui 📖 ice 💬 冬冶冷凍"
+    },
+    {
+      "numero": 16,
+      "radical": "几",
+      "variantes": [
+        "几"
+      ],
+      "significado": "table",
+      "lecturaHiragana": "きにょう",
+      "romanizacion": "kinyou",
+      "significadoIngles": "table",
+      "kanjiEjemplo": "凡",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_016.png",
+          "alt": "Radical 16: table"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/16.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "几 table 16 [ 几 ] 🇯🇵 きにょう 🔤 kinyou 📖 table 💬 凡"
+    },
+    {
+      "numero": 17,
+      "radical": "凵",
+      "variantes": [
+        "凵"
+      ],
+      "significado": "container, open box",
+      "lecturaHiragana": "かんにょう",
+      "romanizacion": "kannyou",
+      "significadoIngles": "container, open box",
+      "kanjiEjemplo": "凶出函",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_017.png",
+          "alt": "Radical 17: container, open box"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/17.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "凵 container, open box 17 [ 凵 ] 🇯🇵 かんにょう 🔤 kannyou 📖 container, open box 💬 凶出函"
+    },
+    {
+      "numero": 18,
+      "radical": "刀",
+      "variantes": [
+        "刀",
+        "刂⺈"
+      ],
+      "significado": "knife, sword",
+      "lecturaHiragana": "かたな",
+      "romanizacion": "katana",
+      "significadoIngles": "knife, sword",
+      "kanjiEjemplo": "刀分切初利刻則前",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_018.png",
+          "alt": "Radical 18: knife, sword"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/18.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "刀 knife, sword 18 [ 刀 刂⺈ ] 🇯🇵 かたな 🔤 katana 📖 knife, sword 💬 刀分切初利刻則前"
+    },
+    {
+      "numero": 19,
+      "radical": "力",
+      "variantes": [
+        "力"
+      ],
+      "significado": "power",
+      "lecturaHiragana": "ちから",
+      "romanizacion": "chikara",
+      "significadoIngles": "power",
+      "kanjiEjemplo": "力加助勉",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_019.png",
+          "alt": "Radical 19: power"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/19.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "力 power 19 [ 力 ] 🇯🇵 ちから 🔤 chikara 📖 power 💬 力加助勉"
+    },
+    {
+      "numero": 20,
+      "radical": "勹",
+      "variantes": [
+        "勹"
+      ],
+      "significado": "to wrap",
+      "lecturaHiragana": "つつみがまえ",
+      "romanizacion": "tsutsumigamae",
+      "significadoIngles": "to wrap",
+      "kanjiEjemplo": "勾包",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_020.png",
+          "alt": "Radical 20: to wrap"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/20.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "勹 to wrap 20 [ 勹 ] 🇯🇵 つつみがまえ 🔤 tsutsumigamae 📖 to wrap 💬 勾包"
+    },
+    {
+      "numero": 21,
+      "radical": "匕",
+      "variantes": [
+        "匕"
+      ],
+      "significado": "spoon",
+      "lecturaHiragana": "さじ",
+      "romanizacion": "saji",
+      "significadoIngles": "spoon",
+      "kanjiEjemplo": "化北",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_021.png",
+          "alt": "Radical 21: spoon"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/21.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "匕 spoon 21 [ 匕 ] 🇯🇵 さじ 🔤 saji 📖 spoon 💬 化北"
+    },
+    {
+      "numero": 22,
+      "radical": "匚",
+      "variantes": [
+        "匚"
+      ],
+      "significado": "box",
+      "lecturaHiragana": "はこがまえ",
+      "romanizacion": "hakogamae",
+      "significadoIngles": "box",
+      "kanjiEjemplo": "匣",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_022.png",
+          "alt": "Radical 22: box"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/22.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "匚 box 22 [ 匚 ] 🇯🇵 はこがまえ 🔤 hakogamae 📖 box 💬 匣"
+    },
+    {
+      "numero": 23,
+      "radical": "匸",
+      "variantes": [
+        "匸",
+        "匸"
+      ],
+      "significado": "to conceal, hide",
+      "lecturaHiragana": "かくしがまえ",
+      "romanizacion": "kakushigamae",
+      "significadoIngles": "to conceal, hide",
+      "kanjiEjemplo": "亡 妄 忙 忘 盲 荒 望 慌 網",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_023.png",
+          "alt": "Radical 23: to conceal, hide"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/23.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "匸 to conceal, hide 23 [ 匸 匸 ] 🇯🇵 かくしがまえ 🔤 kakushigamae 📖 to conceal, hide 💬 亡 妄 忙 忘 盲 荒 望 慌 網"
+    },
+    {
+      "numero": 24,
+      "radical": "十",
+      "variantes": [
+        "十"
+      ],
+      "significado": "ten",
+      "lecturaHiragana": "じゅう",
+      "romanizacion": "juu",
+      "significadoIngles": "ten",
+      "kanjiEjemplo": "十千午半博",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_024.png",
+          "alt": "Radical 24: ten"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/24.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "十 ten 24 [ 十 ] 🇯🇵 じゅう 🔤 juu 📖 ten 💬 十千午半博"
+    },
+    {
+      "numero": 25,
+      "radical": "卜",
+      "variantes": [
+        "卜",
+        "⼘⺊"
+      ],
+      "significado": "oracle, divination",
+      "lecturaHiragana": "ぼく",
+      "romanizacion": "boku",
+      "significadoIngles": "oracle, divination",
+      "kanjiEjemplo": "占卦",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_025.png",
+          "alt": "Radical 25: oracle, divination"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/25.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "卜 oracle, divination 25 [ 卜 ⼘⺊ ] 🇯🇵 ぼく 🔤 boku 📖 oracle, divination 💬 占卦"
+    },
+    {
+      "numero": 26,
+      "radical": "卩",
+      "variantes": [
+        "卩",
+        "㔾"
+      ],
+      "significado": "stamp, seal",
+      "lecturaHiragana": "ふしづくり",
+      "romanizacion": "fushizukuri",
+      "significadoIngles": "stamp, seal",
+      "kanjiEjemplo": "印危卵",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_026.png",
+          "alt": "Radical 26: stamp, seal"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/26.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "卩 stamp, seal 26 [ 卩 㔾 ] 🇯🇵 ふしづくり 🔤 fushizukuri 📖 stamp, seal 💬 印危卵"
+    },
+    {
+      "numero": 27,
+      "radical": "厂",
+      "variantes": [
+        "厂"
+      ],
+      "significado": "cliff",
+      "lecturaHiragana": "がんだれ",
+      "romanizacion": "gandare",
+      "significadoIngles": "cliff",
+      "kanjiEjemplo": "厚原",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_027.png",
+          "alt": "Radical 27: cliff"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/27.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "厂 cliff 27 [ 厂 ] 🇯🇵 がんだれ 🔤 gandare 📖 cliff 💬 厚原"
+    },
+    {
+      "numero": 28,
+      "radical": "厶",
+      "variantes": [
+        "厶"
+      ],
+      "significado": "private, Katakana Mu",
+      "lecturaHiragana": "む",
+      "romanizacion": "mu",
+      "significadoIngles": "private, Katakana Mu",
+      "kanjiEjemplo": "去參",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_028.png",
+          "alt": "Radical 28: private, Katakana Mu"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/28.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "厶 private, Katakana Mu 28 [ 厶 ] 🇯🇵 む 🔤 mu 📖 private, Katakana Mu 💬 去參"
+    },
+    {
+      "numero": 29,
+      "radical": "又",
+      "variantes": [
+        "又"
+      ],
+      "significado": "again, right hand",
+      "lecturaHiragana": "また",
+      "romanizacion": "mata",
+      "significadoIngles": "again, right hand",
+      "kanjiEjemplo": "友反取受",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_029.png",
+          "alt": "Radical 29: again, right hand"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/29.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "又 again, right hand 29 [ 又 ] 🇯🇵 また 🔤 mata 📖 again, right hand 💬 友反取受"
+    },
+    {
+      "numero": 30,
+      "radical": "口",
+      "variantes": [
+        "口",
+        ""
+      ],
+      "significado": "mouth",
+      "lecturaHiragana": "くち",
+      "romanizacion": "kuchi",
+      "significadoIngles": "mouth",
+      "kanjiEjemplo": "口古可名君否呉告周味命和哲唐善器",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_030.png",
+          "alt": "Radical 30: mouth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/30.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "口 mouth 30 [ 口  ] 🇯🇵 くち 🔤 kuchi 📖 mouth 💬 口古可名君否呉告周味命和哲唐善器"
+    },
+    {
+      "numero": 31,
+      "radical": "囗",
+      "variantes": [
+        "囗"
+      ],
+      "significado": "border, territorial boundaries",
+      "lecturaHiragana": "くにがまえ",
+      "romanizacion": "kunigamae",
+      "significadoIngles": "border, territorial boundaries",
+      "kanjiEjemplo": "四回図国",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_031.png",
+          "alt": "Radical 31: border, territorial boundaries"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/31.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "囗 border, territorial boundaries 31 [ 囗 ] 🇯🇵 くにがまえ 🔤 kunigamae 📖 border, territorial boundaries 💬 四回図国"
+    },
+    {
+      "numero": 32,
+      "radical": "土",
+      "variantes": [
+        "土",
+        ""
+      ],
+      "significado": "earth",
+      "lecturaHiragana": "つち",
+      "romanizacion": "tsuchi",
+      "significadoIngles": "earth",
+      "kanjiEjemplo": "土在地型城場壁壓",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_032.png",
+          "alt": "Radical 32: earth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/32.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "土 earth 32 [ 土  ] 🇯🇵 つち 🔤 tsuchi 📖 earth 💬 土在地型城場壁壓"
+    },
+    {
+      "numero": 33,
+      "radical": "士",
+      "variantes": [
+        "士",
+        ""
+      ],
+      "significado": "man, scholar, samurai",
+      "lecturaHiragana": "さむらい",
+      "romanizacion": "samurai",
+      "significadoIngles": "man, scholar, samurai",
+      "kanjiEjemplo": "士壹",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_033.png",
+          "alt": "Radical 33: man, scholar, samurai"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/33.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "士 man, scholar, samurai 33 [ 士  ] 🇯🇵 さむらい 🔤 samurai 📖 man, scholar, samurai 💬 士壹"
+    },
+    {
+      "numero": 34,
+      "radical": "夂",
+      "variantes": [
+        "夂"
+      ],
+      "significado": "to follow",
+      "lecturaHiragana": "のまた",
+      "romanizacion": "nomata",
+      "significadoIngles": "to follow",
+      "kanjiEjemplo": "夏 夆",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_034.png",
+          "alt": "Radical 34: to follow"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/34.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "夂 to follow 34 [ 夂 ] 🇯🇵 のまた 🔤 nomata 📖 to follow 💬 夏 夆"
+    },
+    {
+      "numero": 35,
+      "radical": "夊",
+      "variantes": [
+        "夊"
+      ],
+      "significado": "to go slowly",
+      "lecturaHiragana": "なつあし",
+      "romanizacion": "natsuashi",
+      "significadoIngles": "to go slowly",
+      "kanjiEjemplo": "n / a",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_035.png",
+          "alt": "Radical 35: to go slowly"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/35.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "夊 to go slowly 35 [ 夊 ] 🇯🇵 なつあし 🔤 natsuashi 📖 to go slowly 💬 n / a"
+    },
+    {
+      "numero": 36,
+      "radical": "夕",
+      "variantes": [
+        "夕"
+      ],
+      "significado": "evening",
+      "lecturaHiragana": "ゆうべ",
+      "romanizacion": "yuube",
+      "significadoIngles": "evening",
+      "kanjiEjemplo": "夕外多夜",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_036.png",
+          "alt": "Radical 36: evening"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/36.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "夕 evening 36 [ 夕 ] 🇯🇵 ゆうべ 🔤 yuube 📖 evening 💬 夕外多夜"
+    },
+    {
+      "numero": 37,
+      "radical": "大",
+      "variantes": [
+        "大"
+      ],
+      "significado": "large, big",
+      "lecturaHiragana": "だい",
+      "romanizacion": "dai",
+      "significadoIngles": "large, big",
+      "kanjiEjemplo": "大天奈奧",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_037.png",
+          "alt": "Radical 37: large, big"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/37.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "大 large, big 37 [ 大 ] 🇯🇵 だい 🔤 dai 📖 large, big 💬 大天奈奧"
+    },
+    {
+      "numero": 38,
+      "radical": "女",
+      "variantes": [
+        "女",
+        ""
+      ],
+      "significado": "woman",
+      "lecturaHiragana": "おんな",
+      "romanizacion": "onna",
+      "significadoIngles": "woman",
+      "kanjiEjemplo": "女好妄妻姉始姓姫",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_038.png",
+          "alt": "Radical 38: woman"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/38.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "女 woman 38 [ 女  ] 🇯🇵 おんな 🔤 onna 📖 woman 💬 女好妄妻姉始姓姫"
+    },
+    {
+      "numero": 39,
+      "radical": "子",
+      "variantes": [
+        "子",
+        ""
+      ],
+      "significado": "child, son",
+      "lecturaHiragana": "こ",
+      "romanizacion": "ko",
+      "significadoIngles": "child, son",
+      "kanjiEjemplo": "子孔字學",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_039.png",
+          "alt": "Radical 39: child, son"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/39.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "子 child, son 39 [ 子  ] 🇯🇵 こ 🔤 ko 📖 child, son 💬 子孔字學"
+    },
+    {
+      "numero": 40,
+      "radical": "宀",
+      "variantes": [
+        "宀"
+      ],
+      "significado": "roof, house",
+      "lecturaHiragana": "うかんむり",
+      "romanizacion": "ukanmuri",
+      "significadoIngles": "roof, house",
+      "kanjiEjemplo": "守家寒實",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_040.png",
+          "alt": "Radical 40: roof, house"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/40.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "宀 roof, house 40 [ 宀 ] 🇯🇵 うかんむり 🔤 ukanmuri 📖 roof, house 💬 守家寒實"
+    },
+    {
+      "numero": 41,
+      "radical": "寸",
+      "variantes": [
+        "寸",
+        ""
+      ],
+      "significado": "inch, (2.25 cm)",
+      "lecturaHiragana": "すん",
+      "romanizacion": "sun",
+      "significadoIngles": "inch, (2.25 cm)",
+      "kanjiEjemplo": "寸寺尊將",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_041.png",
+          "alt": "Radical 41: inch, (2.25 cm)"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/41.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "寸 inch, (2.25 cm) 41 [ 寸  ] 🇯🇵 すん 🔤 sun 📖 inch, (2.25 cm) 💬 寸寺尊將"
+    },
+    {
+      "numero": 42,
+      "radical": "小",
+      "variantes": [
+        "小",
+        "⺌",
+        "⺍"
+      ],
+      "significado": "small",
+      "lecturaHiragana": "しょう",
+      "romanizacion": "shou",
+      "significadoIngles": "small",
+      "kanjiEjemplo": "小少",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_042.png",
+          "alt": "Radical 42: small"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/42.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "小 small 42 [ 小 ⺌ ⺍ ] 🇯🇵 しょう 🔤 shou 📖 small 💬 小少"
+    },
+    {
+      "numero": 43,
+      "radical": "尢",
+      "variantes": [
+        "尢",
+        "尤尣"
+      ],
+      "significado": "disabled, lame leg",
+      "lecturaHiragana": "だいのまげあし",
+      "romanizacion": "dainomageashi",
+      "significadoIngles": "disabled, lame leg",
+      "kanjiEjemplo": "就",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_043.png",
+          "alt": "Radical 43: disabled, lame leg"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/43.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "尢 disabled, lame leg 43 [ 尢 尤尣 ] 🇯🇵 だいのまげあし 🔤 dainomageashi 📖 disabled, lame leg 💬 就"
+    },
+    {
+      "numero": 44,
+      "radical": "尸",
+      "variantes": [
+        "尸"
+      ],
+      "significado": "corpse",
+      "lecturaHiragana": "しかばね",
+      "romanizacion": "shikabane",
+      "significadoIngles": "corpse",
+      "kanjiEjemplo": "尺局",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_044.png",
+          "alt": "Radical 44: corpse"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/44.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "尸 corpse 44 [ 尸 ] 🇯🇵 しかばね 🔤 shikabane 📖 corpse 💬 尺局"
+    },
+    {
+      "numero": 45,
+      "radical": "屮",
+      "variantes": [
+        "屮"
+      ],
+      "significado": "sprout",
+      "lecturaHiragana": "くさのめ",
+      "romanizacion": "kusanome",
+      "significadoIngles": "sprout",
+      "kanjiEjemplo": "屯",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_045.png",
+          "alt": "Radical 45: sprout"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/45.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "屮 sprout 45 [ 屮 ] 🇯🇵 くさのめ 🔤 kusanome 📖 sprout 💬 屯"
+    },
+    {
+      "numero": 46,
+      "radical": "山",
+      "variantes": [
+        "山",
+        ""
+      ],
+      "significado": "mountain",
+      "lecturaHiragana": "やま",
+      "romanizacion": "yama",
+      "significadoIngles": "mountain",
+      "kanjiEjemplo": "山岡岩島",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_046.png",
+          "alt": "Radical 46: mountain"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/46.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "山 mountain 46 [ 山  ] 🇯🇵 やま 🔤 yama 📖 mountain 💬 山岡岩島"
+    },
+    {
+      "numero": 47,
+      "radical": "巛",
+      "variantes": [
+        "巛",
+        "川巜"
+      ],
+      "significado": "river",
+      "lecturaHiragana": "まがりがわ",
+      "romanizacion": "magarigawa",
+      "significadoIngles": "river",
+      "kanjiEjemplo": "川州巡",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_047.png",
+          "alt": "Radical 47: river"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/47.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "巛 river 47 [ 巛 川巜 ] 🇯🇵 まがりがわ 🔤 magarigawa 📖 river 💬 川州巡"
+    },
+    {
+      "numero": 48,
+      "radical": "工",
+      "variantes": [
+        "工",
+        ""
+      ],
+      "significado": "work, carpenter, skill",
+      "lecturaHiragana": "たくみ",
+      "romanizacion": "takumi",
+      "significadoIngles": "work, carpenter, skill",
+      "kanjiEjemplo": "工左巫差",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_048.png",
+          "alt": "Radical 48: work, carpenter, skill"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/48.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "工 work, carpenter, skill 48 [ 工  ] 🇯🇵 たくみ 🔤 takumi 📖 work, carpenter, skill 💬 工左巫差"
+    },
+    {
+      "numero": 49,
+      "radical": "已",
+      "variantes": [
+        "已",
+        "己巳"
+      ],
+      "significado": "oneself",
+      "lecturaHiragana": "おのれ",
+      "romanizacion": "onore",
+      "significadoIngles": "oneself",
+      "kanjiEjemplo": "己巳",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_049.png",
+          "alt": "Radical 49: oneself"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/49.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "已 oneself 49 [ 已 己巳 ] 🇯🇵 おのれ 🔤 onore 📖 oneself 💬 己巳"
+    },
+    {
+      "numero": 50,
+      "radical": "巾",
+      "variantes": [
+        "巾",
+        ""
+      ],
+      "significado": "cloth",
+      "lecturaHiragana": "はば",
+      "romanizacion": "haba",
+      "significadoIngles": "cloth",
+      "kanjiEjemplo": "市布帝常",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_050.png",
+          "alt": "Radical 50: cloth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/50.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "巾 cloth 50 [ 巾  ] 🇯🇵 はば 🔤 haba 📖 cloth 💬 市布帝常"
+    },
+    {
+      "numero": 51,
+      "radical": "干",
+      "variantes": [
+        "干"
+      ],
+      "significado": "to dry, shield",
+      "lecturaHiragana": "かん",
+      "romanizacion": "kan",
+      "significadoIngles": "to dry, shield",
+      "kanjiEjemplo": "平年",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_051.png",
+          "alt": "Radical 51: to dry, shield"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/51.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "干 to dry, shield 51 [ 干 ] 🇯🇵 かん 🔤 kan 📖 to dry, shield 💬 平年"
+    },
+    {
+      "numero": 52,
+      "radical": "幺",
+      "variantes": [
+        "幺"
+      ],
+      "significado": "young, slight",
+      "lecturaHiragana": "いとがしら",
+      "romanizacion": "itogashira",
+      "significadoIngles": "young, slight",
+      "kanjiEjemplo": "幻幼",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_052.png",
+          "alt": "Radical 52: young, slight"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/52.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "幺 young, slight 52 [ 幺 ] 🇯🇵 いとがしら 🔤 itogashira 📖 young, slight 💬 幻幼"
+    },
+    {
+      "numero": 53,
+      "radical": "广",
+      "variantes": [
+        "广"
+      ],
+      "significado": "slanting roof",
+      "lecturaHiragana": "まだれ",
+      "romanizacion": "madare",
+      "significadoIngles": "slanting roof",
+      "kanjiEjemplo": "序店府度座庭廣廳",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_053.png",
+          "alt": "Radical 53: slanting roof"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/53.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "广 slanting roof 53 [ 广 ] 🇯🇵 まだれ 🔤 madare 📖 slanting roof 💬 序店府度座庭廣廳"
+    },
+    {
+      "numero": 54,
+      "radical": "廴",
+      "variantes": [
+        "廴"
+      ],
+      "significado": "to move, stretch",
+      "lecturaHiragana": "えんにょう",
+      "romanizacion": "rennyou",
+      "significadoIngles": "to move, stretch",
+      "kanjiEjemplo": "延",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_054.png",
+          "alt": "Radical 54: to move, stretch"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/54.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "廴 to move, stretch 54 [ 廴 ] 🇯🇵 えんにょう 🔤 rennyou 📖 to move, stretch 💬 延"
+    },
+    {
+      "numero": 55,
+      "radical": "廾",
+      "variantes": [
+        "廾"
+      ],
+      "significado": "folded hands",
+      "lecturaHiragana": "にじゅうあし",
+      "romanizacion": "nijuuashi",
+      "significadoIngles": "folded hands",
+      "kanjiEjemplo": "弁",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_055.png",
+          "alt": "Radical 55: folded hands"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/55.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "廾 folded hands 55 [ 廾 ] 🇯🇵 にじゅうあし 🔤 nijuuashi 📖 folded hands 💬 弁"
+    },
+    {
+      "numero": 56,
+      "radical": "弋",
+      "variantes": [
+        "弋"
+      ],
+      "significado": "javelin",
+      "lecturaHiragana": "いぐるみ",
+      "romanizacion": "igurumi",
+      "significadoIngles": "javelin",
+      "kanjiEjemplo": "式弑",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_056.png",
+          "alt": "Radical 56: javelin"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/56.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "弋 javelin 56 [ 弋 ] 🇯🇵 いぐるみ 🔤 igurumi 📖 javelin 💬 式弑"
+    },
+    {
+      "numero": 57,
+      "radical": "弓",
+      "variantes": [
+        "弓",
+        ""
+      ],
+      "significado": "bow （in archery）",
+      "lecturaHiragana": "ゆみ",
+      "romanizacion": "yumi",
+      "significadoIngles": "bow （in archery）",
+      "kanjiEjemplo": "弓引弟弱彌",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_057.png",
+          "alt": "Radical 57: bow （in archery）"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/57.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "弓 bow （in archery） 57 [ 弓  ] 🇯🇵 ゆみ 🔤 yumi 📖 bow （in archery） 💬 弓引弟弱彌"
+    },
+    {
+      "numero": 58,
+      "radical": "彐",
+      "variantes": [
+        "彐",
+        "彑"
+      ],
+      "significado": "pig’s head",
+      "lecturaHiragana": "けいがしら",
+      "romanizacion": "keigashira",
+      "significadoIngles": "pig’s head",
+      "kanjiEjemplo": "彖",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_058.png",
+          "alt": "Radical 58: pig’s head"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/58.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "彐 pig’s head 58 [ 彐 彑 ] 🇯🇵 けいがしら 🔤 keigashira 📖 pig’s head 💬 彖"
+    },
+    {
+      "numero": 59,
+      "radical": "彡",
+      "variantes": [
+        "彡"
+      ],
+      "significado": "hair-style, light rays",
+      "lecturaHiragana": "さんづくり",
+      "romanizacion": "sanzukuri",
+      "significadoIngles": "hair-style, light rays",
+      "kanjiEjemplo": "形彦",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_059.png",
+          "alt": "Radical 59: hair-style, light rays"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/59.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "彡 hair-style, light rays 59 [ 彡 ] 🇯🇵 さんづくり 🔤 sanzukuri 📖 hair-style, light rays 💬 形彦"
+    },
+    {
+      "numero": 60,
+      "radical": "彳",
+      "variantes": [
+        "彳"
+      ],
+      "significado": "step, stride, street, to go",
+      "lecturaHiragana": "ぎょうにんべん",
+      "romanizacion": "gyouninben",
+      "significadoIngles": "step, stride, street, to go",
+      "kanjiEjemplo": "役彼後得徳徼",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_060.png",
+          "alt": "Radical 60: step, stride, street, to go"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/60.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "彳 step, stride, street, to go 60 [ 彳 ] 🇯🇵 ぎょうにんべん 🔤 gyouninben 📖 step, stride, street, to go 💬 役彼後得徳徼"
+    },
+    {
+      "numero": 61,
+      "radical": "心",
+      "variantes": [
+        "心",
+        "忄⺗"
+      ],
+      "significado": "heart, mind, spirit",
+      "lecturaHiragana": "こころ",
+      "romanizacion": "kokoro",
+      "significadoIngles": "heart, mind, spirit",
+      "kanjiEjemplo": "必忙忌性悪情想",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_061.png",
+          "alt": "Radical 61: heart, mind, spirit"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/61.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "心 heart, mind, spirit 61 [ 心 忄⺗ ] 🇯🇵 こころ 🔤 kokoro 📖 heart, mind, spirit 💬 必忙忌性悪情想"
+    },
+    {
+      "numero": 62,
+      "radical": "戈",
+      "variantes": [
+        "戈"
+      ],
+      "significado": "spear, weapon",
+      "lecturaHiragana": "ほこ",
+      "romanizacion": "hoko",
+      "significadoIngles": "spear, weapon",
+      "kanjiEjemplo": "成式弐戦",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_062.png",
+          "alt": "Radical 62: spear, weapon"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/62.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "戈 spear, weapon 62 [ 戈 ] 🇯🇵 ほこ 🔤 hoko 📖 spear, weapon 💬 成式弐戦"
+    },
+    {
+      "numero": 63,
+      "radical": "戸",
+      "variantes": [
+        "戸",
+        "戶户"
+      ],
+      "significado": "door",
+      "lecturaHiragana": "と",
+      "romanizacion": "to",
+      "significadoIngles": "door",
+      "kanjiEjemplo": "戸戻所",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_063.png",
+          "alt": "Radical 63: door"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/63.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "戸 door 63 [ 戸 戶户 ] 🇯🇵 と 🔤 to 📖 door 💬 戸戻所"
+    },
+    {
+      "numero": 64,
+      "radical": "手",
+      "variantes": [
+        "手",
+        "扌龵"
+      ],
+      "significado": "hand",
+      "lecturaHiragana": "て",
+      "romanizacion": "te",
+      "significadoIngles": "hand",
+      "kanjiEjemplo": "手 挙 拜 持 掛 打 批 技 抱 押",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_064.png",
+          "alt": "Radical 64: hand"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/64.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "手 hand 64 [ 手 扌龵 ] 🇯🇵 て 🔤 te 📖 hand 💬 手 挙 拜 持 掛 打 批 技 抱 押"
+    },
+    {
+      "numero": 65,
+      "radical": "支",
+      "variantes": [
+        "支"
+      ],
+      "significado": "branch",
+      "lecturaHiragana": "しにょう",
+      "romanizacion": "shinyou",
+      "significadoIngles": "branch",
+      "kanjiEjemplo": "攱攲",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_065.png",
+          "alt": "Radical 65: branch"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/65.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "支 branch 65 [ 支 ] 🇯🇵 しにょう 🔤 shinyou 📖 branch 💬 攱攲"
+    },
+    {
+      "numero": 66,
+      "radical": "攵",
+      "variantes": [
+        "攵",
+        "攴"
+      ],
+      "significado": "activity, to strike, hit",
+      "lecturaHiragana": "ぼくづくり",
+      "romanizacion": "bokuzukuri",
+      "significadoIngles": "activity, to strike, hit",
+      "kanjiEjemplo": "收敍數斅",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_066.png",
+          "alt": "Radical 66: activity, to strike, hit"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/66.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "攵 activity, to strike, hit 66 [ 攵 攴 ] 🇯🇵 ぼくづくり 🔤 bokuzukuri 📖 activity, to strike, hit 💬 收敍數斅"
+    },
+    {
+      "numero": 67,
+      "radical": "文",
+      "variantes": [
+        "文"
+      ],
+      "significado": "literature, letters",
+      "lecturaHiragana": "ぶん",
+      "romanizacion": "bun",
+      "significadoIngles": "literature, letters",
+      "kanjiEjemplo": "文 斊 斈 斌 斐 斑 斕",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_067.png",
+          "alt": "Radical 67: literature, letters"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/67.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "文 literature, letters 67 [ 文 ] 🇯🇵 ぶん 🔤 bun 📖 literature, letters 💬 文 斊 斈 斌 斐 斑 斕"
+    },
+    {
+      "numero": 68,
+      "radical": "斗",
+      "variantes": [
+        "斗"
+      ],
+      "significado": "big dipper, ladle, 18 liters",
+      "lecturaHiragana": "ますづくり",
+      "romanizacion": "masuzukuri",
+      "significadoIngles": "big dipper, ladle, 18 liters",
+      "kanjiEjemplo": "料 斡",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_068.png",
+          "alt": "Radical 68: big dipper, ladle, 18 liters"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/68.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "斗 big dipper, ladle, 18 liters 68 [ 斗 ] 🇯🇵 ますづくり 🔤 masuzukuri 📖 big dipper, ladle, 18 liters 💬 料 斡"
+    },
+    {
+      "numero": 69,
+      "radical": "斤",
+      "variantes": [
+        "斤"
+      ],
+      "significado": "axe",
+      "lecturaHiragana": "おのづくり",
+      "romanizacion": "onozukuri",
+      "significadoIngles": "axe",
+      "kanjiEjemplo": "斦 斧 新 斥 斬 斷",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_069.png",
+          "alt": "Radical 69: axe"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/69.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "斤 axe 69 [ 斤 ] 🇯🇵 おのづくり 🔤 onozukuri 📖 axe 💬 斦 斧 新 斥 斬 斷"
+    },
+    {
+      "numero": 70,
+      "radical": "方",
+      "variantes": [
+        "方",
+        ""
+      ],
+      "significado": "direction, flag",
+      "lecturaHiragana": "ほう",
+      "romanizacion": "hou",
+      "significadoIngles": "direction, flag",
+      "kanjiEjemplo": "方 放 旅 族",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_070.png",
+          "alt": "Radical 70: direction, flag"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/70.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "方 direction, flag 70 [ 方  ] 🇯🇵 ほう 🔤 hou 📖 direction, flag 💬 方 放 旅 族"
+    },
+    {
+      "numero": 71,
+      "radical": "无",
+      "variantes": [
+        "无",
+        "旡"
+      ],
+      "significado": "not",
+      "lecturaHiragana": "むにょう",
+      "romanizacion": "munyou",
+      "significadoIngles": "not",
+      "kanjiEjemplo": "无 旡 既 旣",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_071.png",
+          "alt": "Radical 71: not"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/71.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "无 not 71 [ 无 旡 ] 🇯🇵 むにょう 🔤 munyou 📖 not 💬 无 旡 既 旣"
+    },
+    {
+      "numero": 72,
+      "radical": "日",
+      "variantes": [
+        "日",
+        ""
+      ],
+      "significado": "sun, day, time",
+      "lecturaHiragana": "ひ",
+      "romanizacion": "hi",
+      "significadoIngles": "sun, day, time",
+      "kanjiEjemplo": "日 白 百 明 的 映 時 晩",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_072.png",
+          "alt": "Radical 72: sun, day, time"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/72.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "日 sun, day, time 72 [ 日  ] 🇯🇵 ひ 🔤 hi 📖 sun, day, time 💬 日 白 百 明 的 映 時 晩"
+    },
+    {
+      "numero": 73,
+      "radical": "曰",
+      "variantes": [
+        "曰"
+      ],
+      "significado": "to say",
+      "lecturaHiragana": "ひらび",
+      "romanizacion": "hirabi",
+      "significadoIngles": "to say",
+      "kanjiEjemplo": "書 最 晉 曷 曹 曾",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_073.png",
+          "alt": "Radical 73: to say"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/73.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "曰 to say 73 [ 曰 ] 🇯🇵 ひらび 🔤 hirabi 📖 to say 💬 書 最 晉 曷 曹 曾"
+    },
+    {
+      "numero": 74,
+      "radical": "月",
+      "variantes": [
+        "月",
+        "⺝"
+      ],
+      "significado": "moon, month, period",
+      "lecturaHiragana": "つき",
+      "romanizacion": "tsuki",
+      "significadoIngles": "moon, month, period",
+      "kanjiEjemplo": "有 服 青 朝",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_074.png",
+          "alt": "Radical 74: moon, month, period"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/74.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "月 moon, month, period 74 [ 月 ⺝ ] 🇯🇵 つき 🔤 tsuki 📖 moon, month, period 💬 有 服 青 朝"
+    },
+    {
+      "numero": 75,
+      "radical": "木",
+      "variantes": [
+        "木",
+        ""
+      ],
+      "significado": "tree, wood",
+      "lecturaHiragana": "き",
+      "romanizacion": "ki",
+      "significadoIngles": "tree, wood",
+      "kanjiEjemplo": "木 杢 板 相 根 森 楽 機 末 本 杉 林",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_075.png",
+          "alt": "Radical 75: tree, wood"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/75.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "木 tree, wood 75 [ 木  ] 🇯🇵 き 🔤 ki 📖 tree, wood 💬 木 杢 板 相 根 森 楽 機 末 本 杉 林"
+    },
+    {
+      "numero": 76,
+      "radical": "欠",
+      "variantes": [
+        "欠"
+      ],
+      "significado": "to lack, yawn",
+      "lecturaHiragana": "あくび",
+      "romanizacion": "akubi",
+      "significadoIngles": "to lack, yawn",
+      "kanjiEjemplo": "欣 欽 欧 欲 歌",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_076.png",
+          "alt": "Radical 76: to lack, yawn"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/76.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "欠 to lack, yawn 76 [ 欠 ] 🇯🇵 あくび 🔤 akubi 📖 to lack, yawn 💬 欣 欽 欧 欲 歌"
+    },
+    {
+      "numero": 77,
+      "radical": "止",
+      "variantes": [
+        "止"
+      ],
+      "significado": "to stop",
+      "lecturaHiragana": "とめる",
+      "romanizacion": "tomeru",
+      "significadoIngles": "to stop",
+      "kanjiEjemplo": "正 歩 此 步 武 歪 歲",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_077.png",
+          "alt": "Radical 77: to stop"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/77.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "止 to stop 77 [ 止 ] 🇯🇵 とめる 🔤 tomeru 📖 to stop 💬 正 歩 此 步 武 歪 歲"
+    },
+    {
+      "numero": 78,
+      "radical": "歹",
+      "variantes": [
+        "歹",
+        "歺"
+      ],
+      "significado": "death & dying, to decompose",
+      "lecturaHiragana": "がつ",
+      "romanizacion": "gatsu",
+      "significadoIngles": "death & dying, to decompose",
+      "kanjiEjemplo": "死 列 殕",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_078.png",
+          "alt": "Radical 78: death & dying, to decompose"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/78.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "歹 death & dying, to decompose 78 [ 歹 歺 ] 🇯🇵 がつ 🔤 gatsu 📖 death & dying, to decompose 💬 死 列 殕"
+    },
+    {
+      "numero": 79,
+      "radical": "殳",
+      "variantes": [
+        "殳"
+      ],
+      "significado": "lance shaft, action",
+      "lecturaHiragana": "るまた",
+      "romanizacion": "rumata",
+      "significadoIngles": "lance shaft, action",
+      "kanjiEjemplo": "役 投 殴 殷",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_079.png",
+          "alt": "Radical 79: lance shaft, action"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/79.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "殳 lance shaft, action 79 [ 殳 ] 🇯🇵 るまた 🔤 rumata 📖 lance shaft, action 💬 役 投 殴 殷"
+    },
+    {
+      "numero": 80,
+      "radical": "毋",
+      "variantes": [
+        "毋",
+        "⺟"
+      ],
+      "significado": "not, mother",
+      "lecturaHiragana": "なかれ",
+      "romanizacion": "nakare",
+      "significadoIngles": "not, mother",
+      "kanjiEjemplo": "毋 母 毎 姆 梅",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_080.png",
+          "alt": "Radical 80: not, mother"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/80.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "毋 not, mother 80 [ 毋 ⺟ ] 🇯🇵 なかれ 🔤 nakare 📖 not, mother 💬 毋 母 毎 姆 梅"
+    },
+    {
+      "numero": 81,
+      "radical": "比",
+      "variantes": [
+        "比"
+      ],
+      "significado": "to compare",
+      "lecturaHiragana": "くらべる",
+      "romanizacion": "kuraberu",
+      "significadoIngles": "to compare",
+      "kanjiEjemplo": "皆 批 毕 毖 毘 毚",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_081.png",
+          "alt": "Radical 81: to compare"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/81.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "比 to compare 81 [ 比 ] 🇯🇵 くらべる 🔤 kuraberu 📖 to compare 💬 皆 批 毕 毖 毘 毚"
+    },
+    {
+      "numero": 82,
+      "radical": "毛",
+      "variantes": [
+        "毛"
+      ],
+      "significado": "hair",
+      "lecturaHiragana": "け",
+      "romanizacion": "ke",
+      "significadoIngles": "hair",
+      "kanjiEjemplo": "毟 毡 毦 毫 毳 耗",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_082.png",
+          "alt": "Radical 82: hair"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/82.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "毛 hair 82 [ 毛 ] 🇯🇵 け 🔤 ke 📖 hair 💬 毟 毡 毦 毫 毳 耗"
+    },
+    {
+      "numero": 83,
+      "radical": "氏",
+      "variantes": [
+        "氏"
+      ],
+      "significado": "family, clan",
+      "lecturaHiragana": "うじ",
+      "romanizacion": "uji",
+      "significadoIngles": "family, clan",
+      "kanjiEjemplo": "氏 民 紙 婚 氓",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_083.png",
+          "alt": "Radical 83: family, clan"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/83.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "氏 family, clan 83 [ 氏 ] 🇯🇵 うじ 🔤 uji 📖 family, clan 💬 氏 民 紙 婚 氓"
+    },
+    {
+      "numero": 84,
+      "radical": "气",
+      "variantes": [
+        "气"
+      ],
+      "significado": "steam, air",
+      "lecturaHiragana": "きがまえ",
+      "romanizacion": "kigamae",
+      "significadoIngles": "steam, air",
+      "kanjiEjemplo": "気 汽 氧",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_084.png",
+          "alt": "Radical 84: steam, air"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/84.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "气 steam, air 84 [ 气 ] 🇯🇵 きがまえ 🔤 kigamae 📖 steam, air 💬 気 汽 氧"
+    },
+    {
+      "numero": 85,
+      "radical": "水",
+      "variantes": [
+        "水",
+        "⺡氵氺"
+      ],
+      "significado": "water",
+      "lecturaHiragana": "みず",
+      "romanizacion": "mizu",
+      "significadoIngles": "water",
+      "kanjiEjemplo": "水 永 泳 決 治 海 演 漢 瀬",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_085.png",
+          "alt": "Radical 85: water"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/85.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "水 water 85 [ 水 ⺡氵氺 ] 🇯🇵 みず 🔤 mizu 📖 water 💬 水 永 泳 決 治 海 演 漢 瀬"
+    },
+    {
+      "numero": 86,
+      "radical": "火",
+      "variantes": [
+        "火",
+        "灬"
+      ],
+      "significado": "fire",
+      "lecturaHiragana": "ひ",
+      "romanizacion": "hi",
+      "significadoIngles": "fire",
+      "kanjiEjemplo": "火 灯 毯 爆 (烈 烹 焦 然 煮)",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_086.png",
+          "alt": "Radical 86: fire"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/86.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "火 fire 86 [ 火 灬 ] 🇯🇵 ひ 🔤 hi 📖 fire 💬 火 灯 毯 爆 (烈 烹 焦 然 煮)"
+    },
+    {
+      "numero": 87,
+      "radical": "爪",
+      "variantes": [
+        "爪",
+        "爫⺥⺤",
+        "⺤"
+      ],
+      "significado": "claw, nail",
+      "lecturaHiragana": "つめ",
+      "romanizacion": "tsume",
+      "significadoIngles": "claw, nail",
+      "kanjiEjemplo": "爬 爯 爭 爰 爲",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_087.png",
+          "alt": "Radical 87: claw, nail"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/87.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "爪 claw, nail 87 [ 爪 爫⺥⺤ ⺤ ] 🇯🇵 つめ 🔤 tsume 📖 claw, nail 💬 爬 爯 爭 爰 爲"
+    },
+    {
+      "numero": 88,
+      "radical": "父",
+      "variantes": [
+        "父"
+      ],
+      "significado": "father",
+      "lecturaHiragana": "ちち",
+      "romanizacion": "chichi",
+      "significadoIngles": "father",
+      "kanjiEjemplo": "斧 釜",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_088.png",
+          "alt": "Radical 88: father"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/88.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "父 father 88 [ 父 ] 🇯🇵 ちち 🔤 chichi 📖 father 💬 斧 釜"
+    },
+    {
+      "numero": 89,
+      "radical": "爻",
+      "variantes": [
+        "爻"
+      ],
+      "significado": "to mix",
+      "lecturaHiragana": "こう",
+      "romanizacion": "kou",
+      "significadoIngles": "to mix",
+      "kanjiEjemplo": "爼 爽 爾",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_089.png",
+          "alt": "Radical 89: to mix"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/89.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "爻 to mix 89 [ 爻 ] 🇯🇵 こう 🔤 kou 📖 to mix 💬 爼 爽 爾"
+    },
+    {
+      "numero": 90,
+      "radical": "爿",
+      "variantes": [
+        "爿",
+        "丬"
+      ],
+      "significado": "split wood",
+      "lecturaHiragana": "しょうへん",
+      "romanizacion": "shouhen",
+      "significadoIngles": "split wood",
+      "kanjiEjemplo": "牀 奘 牃",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_090.png",
+          "alt": "Radical 90: split wood"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/90.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "爿 split wood 90 [ 爿 丬 ] 🇯🇵 しょうへん 🔤 shouhen 📖 split wood 💬 牀 奘 牃"
+    },
+    {
+      "numero": 91,
+      "radical": "片",
+      "variantes": [
+        "片",
+        ""
+      ],
+      "significado": "slice",
+      "lecturaHiragana": "かた",
+      "romanizacion": "kata",
+      "significadoIngles": "slice",
+      "kanjiEjemplo": "版 牌 牒",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_091.png",
+          "alt": "Radical 91: slice"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/91.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "片 slice 91 [ 片  ] 🇯🇵 かた 🔤 kata 📖 slice 💬 版 牌 牒"
+    },
+    {
+      "numero": 92,
+      "radical": "牙",
+      "variantes": [
+        "牙",
+        ""
+      ],
+      "significado": "fang, canine tooth",
+      "lecturaHiragana": "きば",
+      "romanizacion": "kiba",
+      "significadoIngles": "fang, canine tooth",
+      "kanjiEjemplo": "芽 呀 牚",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_092.png",
+          "alt": "Radical 92: fang, canine tooth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/92.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "牙 fang, canine tooth 92 [ 牙  ] 🇯🇵 きば 🔤 kiba 📖 fang, canine tooth 💬 芽 呀 牚"
+    },
+    {
+      "numero": 93,
+      "radical": "牛",
+      "variantes": [
+        "牛",
+        "牜",
+        "⺧"
+      ],
+      "significado": "cow",
+      "lecturaHiragana": "うし",
+      "romanizacion": "ushi",
+      "significadoIngles": "cow",
+      "kanjiEjemplo": "告 牟 牧 物 特 解",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_093.png",
+          "alt": "Radical 93: cow"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/93.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "牛 cow 93 [ 牛 牜 ⺧ ] 🇯🇵 うし 🔤 ushi 📖 cow 💬 告 牟 牧 物 特 解"
+    },
+    {
+      "numero": 94,
+      "radical": "犬",
+      "variantes": [
+        "犬",
+        "犭"
+      ],
+      "significado": "dog",
+      "lecturaHiragana": "いぬ",
+      "romanizacion": "inu",
+      "significadoIngles": "dog",
+      "kanjiEjemplo": "犬 犯 狂 狙 狗 献 獣",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_094.png",
+          "alt": "Radical 94: dog"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/94.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "犬 dog 94 [ 犬 犭 ] 🇯🇵 いぬ 🔤 inu 📖 dog 💬 犬 犯 狂 狙 狗 献 獣"
+    },
+    {
+      "numero": 95,
+      "radical": "玄",
+      "variantes": [
+        "玄"
+      ],
+      "significado": "darkness",
+      "lecturaHiragana": "げん",
+      "romanizacion": "gen",
+      "significadoIngles": "darkness",
+      "kanjiEjemplo": "弦玆",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_095.png",
+          "alt": "Radical 95: darkness"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/95.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "玄 darkness 95 [ 玄 ] 🇯🇵 げん 🔤 gen 📖 darkness 💬 弦玆"
+    },
+    {
+      "numero": 96,
+      "radical": "王",
+      "variantes": [
+        "王",
+        "玊玉⺩"
+      ],
+      "significado": "jewelry, king",
+      "lecturaHiragana": "たま",
+      "romanizacion": "tama",
+      "significadoIngles": "jewelry, king",
+      "kanjiEjemplo": "王 玉 主 弄 皇 理 差 聖",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_096.png",
+          "alt": "Radical 96: jewelry, king"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/96.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "王 jewelry, king 96 [ 王 玊玉⺩ ] 🇯🇵 たま 🔤 tama 📖 jewelry, king 💬 王 玉 主 弄 皇 理 差 聖"
+    },
+    {
+      "numero": 97,
+      "radical": "瓜",
+      "variantes": [
+        "瓜",
+        ""
+      ],
+      "significado": "melon",
+      "lecturaHiragana": "うり",
+      "romanizacion": "uri",
+      "significadoIngles": "melon",
+      "kanjiEjemplo": "呱 瓞",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_097.png",
+          "alt": "Radical 97: melon"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/97.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "瓜 melon 97 [ 瓜  ] 🇯🇵 うり 🔤 uri 📖 melon 💬 呱 瓞"
+    },
+    {
+      "numero": 98,
+      "radical": "瓦",
+      "variantes": [
+        "瓦"
+      ],
+      "significado": "tile",
+      "lecturaHiragana": "かわら",
+      "romanizacion": "kawara",
+      "significadoIngles": "tile",
+      "kanjiEjemplo": "瓧 瓮 甄",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_098.png",
+          "alt": "Radical 98: tile"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/98.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "瓦 tile 98 [ 瓦 ] 🇯🇵 かわら 🔤 kawara 📖 tile 💬 瓧 瓮 甄"
+    },
+    {
+      "numero": 99,
+      "radical": "甘",
+      "variantes": [
+        "甘"
+      ],
+      "significado": "sweet",
+      "lecturaHiragana": "あまい",
+      "romanizacion": "amai",
+      "significadoIngles": "sweet",
+      "kanjiEjemplo": "柑 甜 酣",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_099.png",
+          "alt": "Radical 99: sweet"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/99.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "甘 sweet 99 [ 甘 ] 🇯🇵 あまい 🔤 amai 📖 sweet 💬 柑 甜 酣"
+    },
+    {
+      "numero": 100,
+      "radical": "生",
+      "variantes": [
+        "生"
+      ],
+      "significado": "birth, life",
+      "lecturaHiragana": "うまれる",
+      "romanizacion": "umareru",
+      "significadoIngles": "birth, life",
+      "kanjiEjemplo": "牲 笙 甥",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_100.png",
+          "alt": "Radical 100: birth, life"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/100.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "生 birth, life 100 [ 生 ] 🇯🇵 うまれる 🔤 umareru 📖 birth, life 💬 牲 笙 甥"
+    },
+    {
+      "numero": 101,
+      "radical": "用",
+      "variantes": [
+        "用",
+        "甩"
+      ],
+      "significado": "to use",
+      "lecturaHiragana": "もちいる",
+      "romanizacion": "mochiiru",
+      "significadoIngles": "to use",
+      "kanjiEjemplo": "佣 甬 甯",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_101.png",
+          "alt": "Radical 101: to use"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/101.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "用 to use 101 [ 用 甩 ] 🇯🇵 もちいる 🔤 mochiiru 📖 to use 💬 佣 甬 甯"
+    },
+    {
+      "numero": 102,
+      "radical": "田",
+      "variantes": [
+        "田",
+        ""
+      ],
+      "significado": "rice paddy, field",
+      "lecturaHiragana": "た",
+      "romanizacion": "ta",
+      "significadoIngles": "rice paddy, field",
+      "kanjiEjemplo": "田 町 思 留 略 番",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_102.png",
+          "alt": "Radical 102: rice paddy, field"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/102.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "田 rice paddy, field 102 [ 田  ] 🇯🇵 た 🔤 ta 📖 rice paddy, field 💬 田 町 思 留 略 番"
+    },
+    {
+      "numero": 103,
+      "radical": "疋",
+      "variantes": [
+        "疋",
+        "⺪"
+      ],
+      "significado": "bolt of cloth",
+      "lecturaHiragana": "ひき",
+      "romanizacion": "hiki",
+      "significadoIngles": "bolt of cloth",
+      "kanjiEjemplo": "疏 楚 胥 延",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_103.png",
+          "alt": "Radical 103: bolt of cloth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/103.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "疋 bolt of cloth 103 [ 疋 ⺪ ] 🇯🇵 ひき 🔤 hiki 📖 bolt of cloth 💬 疏 楚 胥 延"
+    },
+    {
+      "numero": 104,
+      "radical": "疒",
+      "variantes": [
+        "疒"
+      ],
+      "significado": "sickness",
+      "lecturaHiragana": "やまいだれ",
+      "romanizacion": "yamaidare",
+      "significadoIngles": "sickness",
+      "kanjiEjemplo": "病 症 痛 癌 癖",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_104.png",
+          "alt": "Radical 104: sickness"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/104.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "疒 sickness 104 [ 疒 ] 🇯🇵 やまいだれ 🔤 yamaidare 📖 sickness 💬 病 症 痛 癌 癖"
+    },
+    {
+      "numero": 105,
+      "radical": "癶",
+      "variantes": [
+        "癶"
+      ],
+      "significado": "outspread legs, departure",
+      "lecturaHiragana": "はつがしら",
+      "romanizacion": "hatsugashira",
+      "significadoIngles": "outspread legs, departure",
+      "kanjiEjemplo": "発 登",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_105.png",
+          "alt": "Radical 105: outspread legs, departure"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/105.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "癶 outspread legs, departure 105 [ 癶 ] 🇯🇵 はつがしら 🔤 hatsugashira 📖 outspread legs, departure 💬 発 登"
+    },
+    {
+      "numero": 106,
+      "radical": "白",
+      "variantes": [
+        "白",
+        ""
+      ],
+      "significado": "white",
+      "lecturaHiragana": "しろ",
+      "romanizacion": "shiro",
+      "significadoIngles": "white",
+      "kanjiEjemplo": "皃 的 皆 皇",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_106.png",
+          "alt": "Radical 106: white"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/106.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "白 white 106 [ 白  ] 🇯🇵 しろ 🔤 shiro 📖 white 💬 皃 的 皆 皇"
+    },
+    {
+      "numero": 107,
+      "radical": "皮",
+      "variantes": [
+        "皮"
+      ],
+      "significado": "skin, hide",
+      "lecturaHiragana": "けがわ",
+      "romanizacion": "kegawa",
+      "significadoIngles": "skin, hide",
+      "kanjiEjemplo": "披 彼 波",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_107.png",
+          "alt": "Radical 107: skin, hide"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/107.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "皮 skin, hide 107 [ 皮 ] 🇯🇵 けがわ 🔤 kegawa 📖 skin, hide 💬 披 彼 波"
+    },
+    {
+      "numero": 108,
+      "radical": "皿",
+      "variantes": [
+        "皿"
+      ],
+      "significado": "plate, bowl",
+      "lecturaHiragana": "さら",
+      "romanizacion": "sara",
+      "significadoIngles": "plate, bowl",
+      "kanjiEjemplo": "盂 盉 盍 監 蘯",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_108.png",
+          "alt": "Radical 108: plate, bowl"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/108.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "皿 plate, bowl 108 [ 皿 ] 🇯🇵 さら 🔤 sara 📖 plate, bowl 💬 盂 盉 盍 監 蘯"
+    },
+    {
+      "numero": 109,
+      "radical": "目",
+      "variantes": [
+        "目",
+        ""
+      ],
+      "significado": "eye",
+      "lecturaHiragana": "め",
+      "romanizacion": "me",
+      "significadoIngles": "eye",
+      "kanjiEjemplo": "目 見 具 省 眠 眼 観 覧",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_109.png",
+          "alt": "Radical 109: eye"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/109.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "目 eye 109 [ 目  ] 🇯🇵 め 🔤 me 📖 eye 💬 目 見 具 省 眠 眼 観 覧"
+    },
+    {
+      "numero": 110,
+      "radical": "矛",
+      "variantes": [
+        "矛",
+        ""
+      ],
+      "significado": "halberd",
+      "lecturaHiragana": "ほこ",
+      "romanizacion": "hoko",
+      "significadoIngles": "halberd",
+      "kanjiEjemplo": "茅 矜",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_110.png",
+          "alt": "Radical 110: halberd"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/110.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "矛 halberd 110 [ 矛  ] 🇯🇵 ほこ 🔤 hoko 📖 halberd 💬 茅 矜"
+    },
+    {
+      "numero": 111,
+      "radical": "矢",
+      "variantes": [
+        "矢",
+        ""
+      ],
+      "significado": "arrow",
+      "lecturaHiragana": "や",
+      "romanizacion": "ya",
+      "significadoIngles": "arrow",
+      "kanjiEjemplo": "医 族 矩",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_111.png",
+          "alt": "Radical 111: arrow"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/111.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "矢 arrow 111 [ 矢  ] 🇯🇵 や 🔤 ya 📖 arrow 💬 医 族 矩"
+    },
+    {
+      "numero": 112,
+      "radical": "石",
+      "variantes": [
+        "石"
+      ],
+      "significado": "stone",
+      "lecturaHiragana": "いし",
+      "romanizacion": "ishi",
+      "significadoIngles": "stone",
+      "kanjiEjemplo": "石 岩 砂 破 碑 碧",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_112.png",
+          "alt": "Radical 112: stone"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/112.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "石 stone 112 [ 石 ] 🇯🇵 いし 🔤 ishi 📖 stone 💬 石 岩 砂 破 碑 碧"
+    },
+    {
+      "numero": 113,
+      "radical": "示",
+      "variantes": [
+        "示",
+        "⺭"
+      ],
+      "significado": "altar, festival, religious service",
+      "lecturaHiragana": "しめす",
+      "romanizacion": "shimesu",
+      "significadoIngles": "altar, festival, religious service",
+      "kanjiEjemplo": "示 奈 祭 禁 礼 社 神 視 福",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_113.png",
+          "alt": "Radical 113: altar, festival, religious service"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/113.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "示 altar, festival, religious service 113 [ 示 ⺭ ] 🇯🇵 しめす 🔤 shimesu 📖 altar, festival, religious service 💬 示 奈 祭 禁 礼 社 神 視 福"
+    },
+    {
+      "numero": 114,
+      "radical": "禸",
+      "variantes": [
+        "禸"
+      ],
+      "significado": "footprint",
+      "lecturaHiragana": "じゅうのあし",
+      "romanizacion": "juunoashi",
+      "significadoIngles": "footprint",
+      "kanjiEjemplo": "禹 禺 禽",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_114.png",
+          "alt": "Radical 114: footprint"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/114.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "禸 footprint 114 [ 禸 ] 🇯🇵 じゅうのあし 🔤 juunoashi 📖 footprint 💬 禹 禺 禽"
+    },
+    {
+      "numero": 115,
+      "radical": "禾",
+      "variantes": [
+        "禾"
+      ],
+      "significado": "grain",
+      "lecturaHiragana": "のぎへん",
+      "romanizacion": "nogihen",
+      "significadoIngles": "grain",
+      "kanjiEjemplo": "利 私 季 和 科 香 秦 穀",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_115.png",
+          "alt": "Radical 115: grain"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/115.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "禾 grain 115 [ 禾 ] 🇯🇵 のぎへん 🔤 nogihen 📖 grain 💬 利 私 季 和 科 香 秦 穀"
+    },
+    {
+      "numero": 116,
+      "radical": "穴",
+      "variantes": [
+        "穴",
+        ""
+      ],
+      "significado": "hole, cave",
+      "lecturaHiragana": "あな",
+      "romanizacion": "ana",
+      "significadoIngles": "hole, cave",
+      "kanjiEjemplo": "空 突 窅 窘 窩 窶 竇",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_116.png",
+          "alt": "Radical 116: hole, cave"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/116.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "穴 hole, cave 116 [ 穴  ] 🇯🇵 あな 🔤 ana 📖 hole, cave 💬 空 突 窅 窘 窩 窶 竇"
+    },
+    {
+      "numero": 117,
+      "radical": "立",
+      "variantes": [
+        "立",
+        ""
+      ],
+      "significado": "to stand",
+      "lecturaHiragana": "たつ",
+      "romanizacion": "tatsu",
+      "significadoIngles": "to stand",
+      "kanjiEjemplo": "立 音 産 翌 意 新 端 親 競",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_117.png",
+          "alt": "Radical 117: to stand"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/117.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "立 to stand 117 [ 立  ] 🇯🇵 たつ 🔤 tatsu 📖 to stand 💬 立 音 産 翌 意 新 端 親 競"
+    },
+    {
+      "numero": 118,
+      "radical": "竹",
+      "variantes": [
+        "竹",
+        "⺮"
+      ],
+      "significado": "bamboo",
+      "lecturaHiragana": "たけ",
+      "romanizacion": "take",
+      "significadoIngles": "bamboo",
+      "kanjiEjemplo": "竺 笑 第 等 簡",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_118.png",
+          "alt": "Radical 118: bamboo"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/118.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "竹 bamboo 118 [ 竹 ⺮ ] 🇯🇵 たけ 🔤 take 📖 bamboo 💬 竺 笑 第 等 簡"
+    },
+    {
+      "numero": 119,
+      "radical": "米",
+      "variantes": [
+        "米",
+        ""
+      ],
+      "significado": "rice",
+      "lecturaHiragana": "こめ",
+      "romanizacion": "kome",
+      "significadoIngles": "rice",
+      "kanjiEjemplo": "料 断 奥 糊 麟",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_119.png",
+          "alt": "Radical 119: rice"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/119.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "米 rice 119 [ 米  ] 🇯🇵 こめ 🔤 kome 📖 rice 💬 料 断 奥 糊 麟"
+    },
+    {
+      "numero": 120,
+      "radical": "糸",
+      "variantes": [
+        "糸",
+        "糹"
+      ],
+      "significado": "thread",
+      "lecturaHiragana": "いと",
+      "romanizacion": "ito",
+      "significadoIngles": "thread",
+      "kanjiEjemplo": "系 級 紙 素 細 組 終 絵 紫",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_120.png",
+          "alt": "Radical 120: thread"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/120.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "糸 thread 120 [ 糸 糹 ] 🇯🇵 いと 🔤 ito 📖 thread 💬 系 級 紙 素 細 組 終 絵 紫"
+    },
+    {
+      "numero": 121,
+      "radical": "缶",
+      "variantes": [
+        "缶"
+      ],
+      "significado": "earthen jar",
+      "lecturaHiragana": "みずがめ",
+      "romanizacion": "mizugame",
+      "significadoIngles": "earthen jar",
+      "kanjiEjemplo": "缶 缸 窑 陶",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_121.png",
+          "alt": "Radical 121: earthen jar"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/121.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "缶 earthen jar 121 [ 缶 ] 🇯🇵 みずがめ 🔤 mizugame 📖 earthen jar 💬 缶 缸 窑 陶"
+    },
+    {
+      "numero": 122,
+      "radical": "罒",
+      "variantes": [
+        "罒",
+        "网⺳罓⺲"
+      ],
+      "significado": "net",
+      "lecturaHiragana": "あみがしら",
+      "romanizacion": "amigashira",
+      "significadoIngles": "net",
+      "kanjiEjemplo": "買 置 羅",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_122.png",
+          "alt": "Radical 122: net"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/122.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "罒 net 122 [ 罒 网⺳罓⺲ ] 🇯🇵 あみがしら 🔤 amigashira 📖 net 💬 買 置 羅"
+    },
+    {
+      "numero": 123,
+      "radical": "羊",
+      "variantes": [
+        "羊",
+        "⺷⺶"
+      ],
+      "significado": "sheep",
+      "lecturaHiragana": "ひつじ",
+      "romanizacion": "hitsuji",
+      "significadoIngles": "sheep",
+      "kanjiEjemplo": "着 羚 翔 着",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_123.png",
+          "alt": "Radical 123: sheep"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/123.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "羊 sheep 123 [ 羊 ⺷⺶ ] 🇯🇵 ひつじ 🔤 hitsuji 📖 sheep 💬 着 羚 翔 着"
+    },
+    {
+      "numero": 124,
+      "radical": "羽",
+      "variantes": [
+        "羽",
+        "⽻"
+      ],
+      "significado": "feather, wing",
+      "lecturaHiragana": "はね",
+      "romanizacion": "hane",
+      "significadoIngles": "feather, wing",
+      "kanjiEjemplo": "習 翀 翁 翔",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_124.png",
+          "alt": "Radical 124: feather, wing"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/124.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "羽 feather, wing 124 [ 羽 ⽻ ] 🇯🇵 はね 🔤 hane 📖 feather, wing 💬 習 翀 翁 翔"
+    },
+    {
+      "numero": 125,
+      "radical": "耂",
+      "variantes": [
+        "耂",
+        "老⺹"
+      ],
+      "significado": "old, old-age",
+      "lecturaHiragana": "おいかんむり",
+      "romanizacion": "oikanmuri",
+      "significadoIngles": "old, old-age",
+      "kanjiEjemplo": "耆孝耋",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_125.png",
+          "alt": "Radical 125: old, old-age"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/125.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "耂 old, old-age 125 [ 耂 老⺹ ] 🇯🇵 おいかんむり 🔤 oikanmuri 📖 old, old-age 💬 耆孝耋"
+    },
+    {
+      "numero": 126,
+      "radical": "而",
+      "variantes": [
+        "而"
+      ],
+      "significado": "and also",
+      "lecturaHiragana": "しこうして",
+      "romanizacion": "shikoushite",
+      "significadoIngles": "and also",
+      "kanjiEjemplo": "耎耐耑",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_126.png",
+          "alt": "Radical 126: and also"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/126.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "而 and also 126 [ 而 ] 🇯🇵 しこうして 🔤 shikoushite 📖 and also 💬 耎耐耑"
+    },
+    {
+      "numero": 127,
+      "radical": "耒",
+      "variantes": [
+        "耒"
+      ],
+      "significado": "plow",
+      "lecturaHiragana": "らいすき",
+      "romanizacion": "raisuki",
+      "significadoIngles": "plow",
+      "kanjiEjemplo": "耔 耝 耨 耰",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_127.png",
+          "alt": "Radical 127: plow"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/127.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "耒 plow 127 [ 耒 ] 🇯🇵 らいすき 🔤 raisuki 📖 plow 💬 耔 耝 耨 耰"
+    },
+    {
+      "numero": 128,
+      "radical": "耳",
+      "variantes": [
+        "耳",
+        ""
+      ],
+      "significado": "ear",
+      "lecturaHiragana": "みみ",
+      "romanizacion": "mimi",
+      "significadoIngles": "ear",
+      "kanjiEjemplo": "取 聞 職 叢",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_128.png",
+          "alt": "Radical 128: ear"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/128.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "耳 ear 128 [ 耳  ] 🇯🇵 みみ 🔤 mimi 📖 ear 💬 取 聞 職 叢"
+    },
+    {
+      "numero": 129,
+      "radical": "聿",
+      "variantes": [
+        "聿",
+        "⺻"
+      ],
+      "significado": "writing brush",
+      "lecturaHiragana": "ふでづくり",
+      "romanizacion": "fudezukuri",
+      "significadoIngles": "writing brush",
+      "kanjiEjemplo": "律 書 建",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_129.png",
+          "alt": "Radical 129: writing brush"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/129.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "聿 writing brush 129 [ 聿 ⺻ ] 🇯🇵 ふでづくり 🔤 fudezukuri 📖 writing brush 💬 律 書 建"
+    },
+    {
+      "numero": 130,
+      "radical": "肉",
+      "variantes": [
+        "肉",
+        "⺼月"
+      ],
+      "significado": "flesh, meat",
+      "lecturaHiragana": "にく",
+      "romanizacion": "niku",
+      "significadoIngles": "flesh, meat",
+      "kanjiEjemplo": "肉 肖 股 胃 腅 脤",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_130.png",
+          "alt": "Radical 130: flesh, meat"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/130.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "肉 flesh, meat 130 [ 肉 ⺼月 ] 🇯🇵 にく 🔤 niku 📖 flesh, meat 💬 肉 肖 股 胃 腅 脤"
+    },
+    {
+      "numero": 131,
+      "radical": "臣",
+      "variantes": [
+        "臣",
+        "⾂"
+      ],
+      "significado": "retainer, minister",
+      "lecturaHiragana": "しん",
+      "romanizacion": "shin",
+      "significadoIngles": "retainer, minister",
+      "kanjiEjemplo": "臥 宦 蔵",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_131.png",
+          "alt": "Radical 131: retainer, minister"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/131.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "臣 retainer, minister 131 [ 臣 ⾂ ] 🇯🇵 しん 🔤 shin 📖 retainer, minister 💬 臥 宦 蔵"
+    },
+    {
+      "numero": 132,
+      "radical": "自",
+      "variantes": [
+        "自"
+      ],
+      "significado": "self",
+      "lecturaHiragana": "みずから",
+      "romanizacion": "mizukara",
+      "significadoIngles": "self",
+      "kanjiEjemplo": "自 臫 臬 臲",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_132.png",
+          "alt": "Radical 132: self"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/132.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "自 self 132 [ 自 ] 🇯🇵 みずから 🔤 mizukara 📖 self 💬 自 臫 臬 臲"
+    },
+    {
+      "numero": 133,
+      "radical": "至",
+      "variantes": [
+        "至",
+        ""
+      ],
+      "significado": "to arrive, reach",
+      "lecturaHiragana": "いたる",
+      "romanizacion": "itaru",
+      "significadoIngles": "to arrive, reach",
+      "kanjiEjemplo": "致 臸 臺",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_133.png",
+          "alt": "Radical 133: to arrive, reach"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/133.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "至 to arrive, reach 133 [ 至  ] 🇯🇵 いたる 🔤 itaru 📖 to arrive, reach 💬 致 臸 臺"
+    },
+    {
+      "numero": 134,
+      "radical": "臼",
+      "variantes": [
+        "臼"
+      ],
+      "significado": "mortar, quern",
+      "lecturaHiragana": "うす",
+      "romanizacion": "usu",
+      "significadoIngles": "mortar, quern",
+      "kanjiEjemplo": "桕 舅 舂 鼠 插",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_134.png",
+          "alt": "Radical 134: mortar, quern"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/134.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "臼 mortar, quern 134 [ 臼 ] 🇯🇵 うす 🔤 usu 📖 mortar, quern 💬 桕 舅 舂 鼠 插"
+    },
+    {
+      "numero": 135,
+      "radical": "舌",
+      "variantes": [
+        "舌"
+      ],
+      "significado": "tongue",
+      "lecturaHiragana": "した",
+      "romanizacion": "shita",
+      "significadoIngles": "tongue",
+      "kanjiEjemplo": "乱 适 話 舍",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_135.png",
+          "alt": "Radical 135: tongue"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/135.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "舌 tongue 135 [ 舌 ] 🇯🇵 した 🔤 shita 📖 tongue 💬 乱 适 話 舍"
+    },
+    {
+      "numero": 136,
+      "radical": "舛",
+      "variantes": [
+        "舛",
+        ""
+      ],
+      "significado": "contrary, to err",
+      "lecturaHiragana": "まいあし",
+      "romanizacion": "maiashi",
+      "significadoIngles": "contrary, to err",
+      "kanjiEjemplo": "舛 舜 舞",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_136.png",
+          "alt": "Radical 136: contrary, to err"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/136.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "舛 contrary, to err 136 [ 舛  ] 🇯🇵 まいあし 🔤 maiashi 📖 contrary, to err 💬 舛 舜 舞"
+    },
+    {
+      "numero": 137,
+      "radical": "舟",
+      "variantes": [
+        "舟",
+        ""
+      ],
+      "significado": "ship, boat",
+      "lecturaHiragana": "ふね",
+      "romanizacion": "fune",
+      "significadoIngles": "ship, boat",
+      "kanjiEjemplo": "航 船 艦",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_137.png",
+          "alt": "Radical 137: ship, boat"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/137.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "舟 ship, boat 137 [ 舟  ] 🇯🇵 ふね 🔤 fune 📖 ship, boat 💬 航 船 艦"
+    },
+    {
+      "numero": 138,
+      "radical": "艮",
+      "variantes": [
+        "艮"
+      ],
+      "significado": "boundary",
+      "lecturaHiragana": "こん",
+      "romanizacion": "kon",
+      "significadoIngles": "boundary",
+      "kanjiEjemplo": "良 飲 很",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_138.png",
+          "alt": "Radical 138: boundary"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/138.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "艮 boundary 138 [ 艮 ] 🇯🇵 こん 🔤 kon 📖 boundary 💬 良 飲 很"
+    },
+    {
+      "numero": 139,
+      "radical": "色",
+      "variantes": [
+        "色"
+      ],
+      "significado": "color",
+      "lecturaHiragana": "いろ",
+      "romanizacion": "iro",
+      "significadoIngles": "color",
+      "kanjiEjemplo": "色 艴 艷",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_139.png",
+          "alt": "Radical 139: color"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/139.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "色 color 139 [ 色 ] 🇯🇵 いろ 🔤 iro 📖 color 💬 色 艴 艷"
+    },
+    {
+      "numero": 140,
+      "radical": "艹",
+      "variantes": [
+        "艹",
+        "䒑艸"
+      ],
+      "significado": "grass",
+      "lecturaHiragana": "くさかんむり",
+      "romanizacion": "kusakanmuri",
+      "significadoIngles": "grass",
+      "kanjiEjemplo": "共 花zzz 英 苦 草 茶 落 幕 靴 鞄 薬",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_140.png",
+          "alt": "Radical 140: grass"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/140.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "艹 grass 140 [ 艹 䒑艸 ] 🇯🇵 くさかんむり 🔤 kusakanmuri 📖 grass 💬 共 花zzz 英 苦 草 茶 落 幕 靴 鞄 薬"
+    },
+    {
+      "numero": 141,
+      "radical": "虍",
+      "variantes": [
+        "虍"
+      ],
+      "significado": "tiger",
+      "lecturaHiragana": "とらがしら",
+      "romanizacion": "toragashira",
+      "significadoIngles": "tiger",
+      "kanjiEjemplo": "虎 虐 彪 虒",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_141.png",
+          "alt": "Radical 141: tiger"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/141.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "虍 tiger 141 [ 虍 ] 🇯🇵 とらがしら 🔤 toragashira 📖 tiger 💬 虎 虐 彪 虒"
+    },
+    {
+      "numero": 142,
+      "radical": "虫",
+      "variantes": [
+        "虫",
+        ""
+      ],
+      "significado": "worm, insect, bug",
+      "lecturaHiragana": "むし",
+      "romanizacion": "mushi",
+      "significadoIngles": "worm, insect, bug",
+      "kanjiEjemplo": "蚯 蚓 強 触 蟻 蟹",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_142.png",
+          "alt": "Radical 142: worm, insect, bug"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/142.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "虫 worm, insect, bug 142 [ 虫  ] 🇯🇵 むし 🔤 mushi 📖 worm, insect, bug 💬 蚯 蚓 強 触 蟻 蟹"
+    },
+    {
+      "numero": 143,
+      "radical": "血",
+      "variantes": [
+        "血"
+      ],
+      "significado": "blood",
+      "lecturaHiragana": "ち",
+      "romanizacion": "chi",
+      "significadoIngles": "blood",
+      "kanjiEjemplo": "洫 衁 衅 衆",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_143.png",
+          "alt": "Radical 143: blood"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/143.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "血 blood 143 [ 血 ] 🇯🇵 ち 🔤 chi 📖 blood 💬 洫 衁 衅 衆"
+    },
+    {
+      "numero": 144,
+      "radical": "行",
+      "variantes": [
+        "行"
+      ],
+      "significado": "to go",
+      "lecturaHiragana": "ぎょうがまえ",
+      "romanizacion": "gyougamae",
+      "significadoIngles": "to go",
+      "kanjiEjemplo": "行 衍 術 衝",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_144.png",
+          "alt": "Radical 144: to go"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/144.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "行 to go 144 [ 行 ] 🇯🇵 ぎょうがまえ 🔤 gyougamae 📖 to go 💬 行 衍 術 衝"
+    },
+    {
+      "numero": 145,
+      "radical": "衣",
+      "variantes": [
+        "衣",
+        "衤"
+      ],
+      "significado": "clothing",
+      "lecturaHiragana": "ころも",
+      "romanizacion": "koromo",
+      "significadoIngles": "clothing",
+      "kanjiEjemplo": "衣 装 裁 (初 被 複)",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_145.png",
+          "alt": "Radical 145: clothing"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/145.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "衣 clothing 145 [ 衣 衤 ] 🇯🇵 ころも 🔤 koromo 📖 clothing 💬 衣 装 裁 (初 被 複)"
+    },
+    {
+      "numero": 146,
+      "radical": "西",
+      "variantes": [
+        "西",
+        "⻃覀⾑"
+      ],
+      "significado": "cover, west",
+      "lecturaHiragana": "にし",
+      "romanizacion": "nishi",
+      "significadoIngles": "cover, west",
+      "kanjiEjemplo": "西 要 覊",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_146.png",
+          "alt": "Radical 146: cover, west"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/146.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "西 cover, west 146 [ 西 ⻃覀⾑ ] 🇯🇵 にし 🔤 nishi 📖 cover, west 💬 西 要 覊"
+    },
+    {
+      "numero": 147,
+      "radical": "見",
+      "variantes": [
+        "見"
+      ],
+      "significado": "to see",
+      "lecturaHiragana": "みる",
+      "romanizacion": "miru",
+      "significadoIngles": "to see",
+      "kanjiEjemplo": "規 親 覺 觀",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_147.png",
+          "alt": "Radical 147: to see"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/147.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "見 to see 147 [ 見 ] 🇯🇵 みる 🔤 miru 📖 to see 💬 規 親 覺 觀"
+    },
+    {
+      "numero": 148,
+      "radical": "角",
+      "variantes": [
+        "角",
+        ""
+      ],
+      "significado": "horn, corner",
+      "lecturaHiragana": "つの",
+      "romanizacion": "tsuno",
+      "significadoIngles": "horn, corner",
+      "kanjiEjemplo": "觚 解 觕 觥 觸",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_148.png",
+          "alt": "Radical 148: horn, corner"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/148.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "角 horn, corner 148 [ 角  ] 🇯🇵 つの 🔤 tsuno 📖 horn, corner 💬 觚 解 觕 觥 觸"
+    },
+    {
+      "numero": 149,
+      "radical": "言",
+      "variantes": [
+        "言",
+        "訁"
+      ],
+      "significado": "words, to speak, say",
+      "lecturaHiragana": "げん",
+      "romanizacion": "gen",
+      "significadoIngles": "words, to speak, say",
+      "kanjiEjemplo": "誁 詋 詔 評 詗 詥 試 詧",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_149.png",
+          "alt": "Radical 149: words, to speak, say"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/149.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "言 words, to speak, say 149 [ 言 訁 ] 🇯🇵 げん 🔤 gen 📖 words, to speak, say 💬 誁 詋 詔 評 詗 詥 試 詧"
+    },
+    {
+      "numero": 150,
+      "radical": "谷",
+      "variantes": [
+        "谷",
+        ""
+      ],
+      "significado": "valley",
+      "lecturaHiragana": "たに",
+      "romanizacion": "tani",
+      "significadoIngles": "valley",
+      "kanjiEjemplo": "谿 豀 谸",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_150.png",
+          "alt": "Radical 150: valley"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/150.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "谷 valley 150 [ 谷  ] 🇯🇵 たに 🔤 tani 📖 valley 💬 谿 豀 谸"
+    },
+    {
+      "numero": 151,
+      "radical": "豆",
+      "variantes": [
+        "豆",
+        ""
+      ],
+      "significado": "bean",
+      "lecturaHiragana": "まめ",
+      "romanizacion": "mame",
+      "significadoIngles": "bean",
+      "kanjiEjemplo": "豈 豐 豎",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_151.png",
+          "alt": "Radical 151: bean"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/151.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "豆 bean 151 [ 豆  ] 🇯🇵 まめ 🔤 mame 📖 bean 💬 豈 豐 豎"
+    },
+    {
+      "numero": 152,
+      "radical": "豕",
+      "variantes": [
+        "豕"
+      ],
+      "significado": "pig",
+      "lecturaHiragana": "いのこ",
+      "romanizacion": "inoko",
+      "significadoIngles": "pig",
+      "kanjiEjemplo": "豕 豚 象",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_152.png",
+          "alt": "Radical 152: pig"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/152.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "豕 pig 152 [ 豕 ] 🇯🇵 いのこ 🔤 inoko 📖 pig 💬 豕 豚 象"
+    },
+    {
+      "numero": 153,
+      "radical": "豸",
+      "variantes": [
+        "豸"
+      ],
+      "significado": "badger, beast",
+      "lecturaHiragana": "むじなへん",
+      "romanizacion": "mujinahen",
+      "significadoIngles": "badger, beast",
+      "kanjiEjemplo": "豹 貌 貓 貉",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_153.png",
+          "alt": "Radical 153: badger, beast"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/153.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "豸 badger, beast 153 [ 豸 ] 🇯🇵 むじなへん 🔤 mujinahen 📖 badger, beast 💬 豹 貌 貓 貉"
+    },
+    {
+      "numero": 154,
+      "radical": "貝",
+      "variantes": [
+        "貝",
+        ""
+      ],
+      "significado": "shell, property, wealth",
+      "lecturaHiragana": "かい",
+      "romanizacion": "kai",
+      "significadoIngles": "shell, property, wealth",
+      "kanjiEjemplo": "財 賊 賜 贛 貧 貨 貫 貿",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_154.png",
+          "alt": "Radical 154: shell, property, wealth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/154.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "貝 shell, property, wealth 154 [ 貝  ] 🇯🇵 かい 🔤 kai 📖 shell, property, wealth 💬 財 賊 賜 贛 貧 貨 貫 貿"
+    },
+    {
+      "numero": 155,
+      "radical": "赤",
+      "variantes": [
+        "赤"
+      ],
+      "significado": "red",
+      "lecturaHiragana": "あか",
+      "romanizacion": "aka",
+      "significadoIngles": "red",
+      "kanjiEjemplo": "赫 赭",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_155.png",
+          "alt": "Radical 155: red"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/155.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "赤 red 155 [ 赤 ] 🇯🇵 あか 🔤 aka 📖 red 💬 赫 赭"
+    },
+    {
+      "numero": 156,
+      "radical": "走",
+      "variantes": [
+        "走",
+        "⾡赱"
+      ],
+      "significado": "to run",
+      "lecturaHiragana": "はしる",
+      "romanizacion": "hashiru",
+      "significadoIngles": "to run",
+      "kanjiEjemplo": "赴 起 超",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_156.png",
+          "alt": "Radical 156: to run"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/156.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "走 to run 156 [ 走 ⾡赱 ] 🇯🇵 はしる 🔤 hashiru 📖 to run 💬 赴 起 超"
+    },
+    {
+      "numero": 157,
+      "radical": "足",
+      "variantes": [
+        "足",
+        "⻊"
+      ],
+      "significado": "foot, leg",
+      "lecturaHiragana": "あし",
+      "romanizacion": "ashi",
+      "significadoIngles": "foot, leg",
+      "kanjiEjemplo": "跑 跨 跟 跪 路",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_157.png",
+          "alt": "Radical 157: foot, leg"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/157.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "足 foot, leg 157 [ 足 ⻊ ] 🇯🇵 あし 🔤 ashi 📖 foot, leg 💬 跑 跨 跟 跪 路"
+    },
+    {
+      "numero": 158,
+      "radical": "身",
+      "variantes": [
+        "身",
+        ""
+      ],
+      "significado": "body",
+      "lecturaHiragana": "み",
+      "romanizacion": "mi",
+      "significadoIngles": "body",
+      "kanjiEjemplo": "躬 躲 軀",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_158.png",
+          "alt": "Radical 158: body"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/158.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "身 body 158 [ 身  ] 🇯🇵 み 🔤 mi 📖 body 💬 躬 躲 軀"
+    },
+    {
+      "numero": 159,
+      "radical": "車",
+      "variantes": [
+        "車",
+        ""
+      ],
+      "significado": "vehicle, wheel, car",
+      "lecturaHiragana": "くるま",
+      "romanizacion": "kuruma",
+      "significadoIngles": "vehicle, wheel, car",
+      "kanjiEjemplo": "軌 軟 較 軍 載",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_159.png",
+          "alt": "Radical 159: vehicle, wheel, car"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/159.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "車 vehicle, wheel, car 159 [ 車  ] 🇯🇵 くるま 🔤 kuruma 📖 vehicle, wheel, car 💬 軌 軟 較 軍 載"
+    },
+    {
+      "numero": 160,
+      "radical": "辛",
+      "variantes": [
+        "辛"
+      ],
+      "significado": "bitter",
+      "lecturaHiragana": "からい",
+      "romanizacion": "karai",
+      "significadoIngles": "bitter",
+      "kanjiEjemplo": "辜 辟 辣 辦 辨",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_160.png",
+          "alt": "Radical 160: bitter"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/160.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "辛 bitter 160 [ 辛 ] 🇯🇵 からい 🔤 karai 📖 bitter 💬 辜 辟 辣 辦 辨"
+    },
+    {
+      "numero": 161,
+      "radical": "辰",
+      "variantes": [
+        "辰"
+      ],
+      "significado": "morning, 7–9 A.M.",
+      "lecturaHiragana": "しんのたつ",
+      "romanizacion": "shinnotatsu",
+      "significadoIngles": "morning, 7–9 A.M.",
+      "kanjiEjemplo": "辱 農",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_161.png",
+          "alt": "Radical 161: morning, 7–9 A.M."
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/161.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "辰 morning, 7–9 A.M. 161 [ 辰 ] 🇯🇵 しんのたつ 🔤 shinnotatsu 📖 morning, 7–9 A.M. 💬 辱 農"
+    },
+    {
+      "numero": 162,
+      "radical": "⻌",
+      "variantes": [
+        "⻌",
+        "辶"
+      ],
+      "significado": "road, walk, to advance",
+      "lecturaHiragana": "しんにょう",
+      "romanizacion": "shinnyou",
+      "significadoIngles": "road, walk, to advance",
+      "kanjiEjemplo": "巡 迎 通 追 逃 迎 進",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_162.png",
+          "alt": "Radical 162: road, walk, to advance"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/162.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "⻌ road, walk, to advance 162 [ ⻌ 辶 ] 🇯🇵 しんにょう 🔤 shinnyou 📖 road, walk, to advance 💬 巡 迎 通 追 逃 迎 進"
+    },
+    {
+      "numero": 163,
+      "radical": "邑",
+      "variantes": [
+        "邑",
+        "阝⻏"
+      ],
+      "significado": "town, community",
+      "lecturaHiragana": "むら",
+      "romanizacion": "mura",
+      "significadoIngles": "town, community",
+      "kanjiEjemplo": "那 邦 郎 部 郭 都 鄉",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_163.png",
+          "alt": "Radical 163: town, community"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/163.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "邑 town, community 163 [ 邑 阝⻏ ] 🇯🇵 むら 🔤 mura 📖 town, community 💬 那 邦 郎 部 郭 都 鄉"
+    },
+    {
+      "numero": 164,
+      "radical": "酉",
+      "variantes": [
+        "酉",
+        ""
+      ],
+      "significado": "sake jar, bird",
+      "lecturaHiragana": "ひよみのとり",
+      "romanizacion": "hiyominotori",
+      "significadoIngles": "sake jar, bird",
+      "kanjiEjemplo": "酒 醉 油 醒 酸",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_164.png",
+          "alt": "Radical 164: sake jar, bird"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/164.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "酉 sake jar, bird 164 [ 酉  ] 🇯🇵 ひよみのとり 🔤 hiyominotori 📖 sake jar, bird 💬 酒 醉 油 醒 酸"
+    },
+    {
+      "numero": 165,
+      "radical": "釆",
+      "variantes": [
+        "釆",
+        ""
+      ],
+      "significado": "divide, to separate",
+      "lecturaHiragana": "のごめ",
+      "romanizacion": "nogom",
+      "significadoIngles": "divide, to separate",
+      "kanjiEjemplo": "釉 釋",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_165.png",
+          "alt": "Radical 165: divide, to separate"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/165.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "釆 divide, to separate 165 [ 釆  ] 🇯🇵 のごめ 🔤 nogom 📖 divide, to separate 💬 釉 釋"
+    },
+    {
+      "numero": 166,
+      "radical": "里",
+      "variantes": [
+        "里",
+        ""
+      ],
+      "significado": "village, (3.93 km)",
+      "lecturaHiragana": "さと",
+      "romanizacion": "sato",
+      "significadoIngles": "village, (3.93 km)",
+      "kanjiEjemplo": "野 野",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_166.png",
+          "alt": "Radical 166: village, (3.93 km)"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/166.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "里 village, (3.93 km) 166 [ 里  ] 🇯🇵 さと 🔤 sato 📖 village, (3.93 km) 💬 野 野"
+    },
+    {
+      "numero": 167,
+      "radical": "金",
+      "variantes": [
+        "金",
+        "釒"
+      ],
+      "significado": "metal, gold, mineral",
+      "lecturaHiragana": "かね",
+      "romanizacion": "kane",
+      "significadoIngles": "metal, gold, mineral",
+      "kanjiEjemplo": "銀 銅 釘 銳 鋞 鋙 鉒 鉍 鉗 鈡 鈠",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_167.png",
+          "alt": "Radical 167: metal, gold, mineral"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/167.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "金 metal, gold, mineral 167 [ 金 釒 ] 🇯🇵 かね 🔤 kane 📖 metal, gold, mineral 💬 銀 銅 釘 銳 鋞 鋙 鉒 鉍 鉗 鈡 鈠"
+    },
+    {
+      "numero": 168,
+      "radical": "長",
+      "variantes": [
+        "長",
+        "镸"
+      ],
+      "significado": "long",
+      "lecturaHiragana": "ながい",
+      "romanizacion": "nagai",
+      "significadoIngles": "long",
+      "kanjiEjemplo": "長",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_168.png",
+          "alt": "Radical 168: long"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/168.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "長 long 168 [ 長 镸 ] 🇯🇵 ながい 🔤 nagai 📖 long 💬 長"
+    },
+    {
+      "numero": 169,
+      "radical": "門",
+      "variantes": [
+        "門"
+      ],
+      "significado": "gate, door",
+      "lecturaHiragana": "もんがまえ",
+      "romanizacion": "mongamae",
+      "significadoIngles": "gate, door",
+      "kanjiEjemplo": "間 閑 関 闘 閉 開 閏 間",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_169.png",
+          "alt": "Radical 169: gate, door"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/169.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "門 gate, door 169 [ 門 ] 🇯🇵 もんがまえ 🔤 mongamae 📖 gate, door 💬 間 閑 関 闘 閉 開 閏 間"
+    },
+    {
+      "numero": 170,
+      "radical": "阜",
+      "variantes": [
+        "阜",
+        "⻖阝"
+      ],
+      "significado": "hill, mound, dam",
+      "lecturaHiragana": "こざと",
+      "romanizacion": "kozato",
+      "significadoIngles": "hill, mound, dam",
+      "kanjiEjemplo": "阪 防 阻 陆 陘 院 险 陳",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_170.png",
+          "alt": "Radical 170: hill, mound, dam"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/170.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "阜 hill, mound, dam 170 [ 阜 ⻖阝 ] 🇯🇵 こざと 🔤 kozato 📖 hill, mound, dam 💬 阪 防 阻 陆 陘 院 险 陳"
+    },
+    {
+      "numero": 171,
+      "radical": "隶",
+      "variantes": [
+        "隶"
+      ],
+      "significado": "to capture, servant",
+      "lecturaHiragana": "れいづくり",
+      "romanizacion": "reizukuri",
+      "significadoIngles": "to capture, servant",
+      "kanjiEjemplo": "隸 隺",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_171.png",
+          "alt": "Radical 171: to capture, servant"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/171.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "隶 to capture, servant 171 [ 隶 ] 🇯🇵 れいづくり 🔤 reizukuri 📖 to capture, servant 💬 隸 隺"
+    },
+    {
+      "numero": 172,
+      "radical": "隹",
+      "variantes": [
+        "隹"
+      ],
+      "significado": "small bird",
+      "lecturaHiragana": "ふるとり",
+      "romanizacion": "furutori",
+      "significadoIngles": "small bird",
+      "kanjiEjemplo": "雀 集 雁 难 雀 雅",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_172.png",
+          "alt": "Radical 172: small bird"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/172.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "隹 small bird 172 [ 隹 ] 🇯🇵 ふるとり 🔤 furutori 📖 small bird 💬 雀 集 雁 难 雀 雅"
+    },
+    {
+      "numero": 173,
+      "radical": "雨",
+      "variantes": [
+        "雨",
+        "⻗"
+      ],
+      "significado": "rain",
+      "lecturaHiragana": "あめ",
+      "romanizacion": "ame",
+      "significadoIngles": "rain",
+      "kanjiEjemplo": "雾 霜 雪 霸 雲 霧",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_173.png",
+          "alt": "Radical 173: rain"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/173.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "雨 rain 173 [ 雨 ⻗ ] 🇯🇵 あめ 🔤 ame 📖 rain 💬 雾 霜 雪 霸 雲 霧"
+    },
+    {
+      "numero": 174,
+      "radical": "青",
+      "variantes": [
+        "青",
+        "⾭"
+      ],
+      "significado": "blue, green",
+      "lecturaHiragana": "あお",
+      "romanizacion": "ao",
+      "significadoIngles": "blue, green",
+      "kanjiEjemplo": "靕 靖 靜",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_174.png",
+          "alt": "Radical 174: blue, green"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/174.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "青 blue, green 174 [ 青 ⾭ ] 🇯🇵 あお 🔤 ao 📖 blue, green 💬 靕 靖 靜"
+    },
+    {
+      "numero": 175,
+      "radical": "非",
+      "variantes": [
+        "非"
+      ],
+      "significado": "wrong, non-",
+      "lecturaHiragana": "あらず",
+      "romanizacion": "arazu",
+      "significadoIngles": "wrong, non-",
+      "kanjiEjemplo": "靠 靠 靟",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_175.png",
+          "alt": "Radical 175: wrong, non-"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/175.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "非 wrong, non- 175 [ 非 ] 🇯🇵 あらず 🔤 arazu 📖 wrong, non- 💬 靠 靠 靟"
+    },
+    {
+      "numero": 176,
+      "radical": "面",
+      "variantes": [
+        "面",
+        "靣"
+      ],
+      "significado": "face, surface",
+      "lecturaHiragana": "めん",
+      "romanizacion": "men",
+      "significadoIngles": "face, surface",
+      "kanjiEjemplo": "靦 靨",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_176.png",
+          "alt": "Radical 176: face, surface"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/176.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "面 face, surface 176 [ 面 靣 ] 🇯🇵 めん 🔤 men 📖 face, surface 💬 靦 靨"
+    },
+    {
+      "numero": 177,
+      "radical": "革",
+      "variantes": [
+        "革",
+        ""
+      ],
+      "significado": "leather",
+      "lecturaHiragana": "つくりがわ",
+      "romanizacion": "tsukurigawa",
+      "significadoIngles": "leather",
+      "kanjiEjemplo": "靴 鞍 鞅 鞍 鞭",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_177.png",
+          "alt": "Radical 177: leather"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/177.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "革 leather 177 [ 革  ] 🇯🇵 つくりがわ 🔤 tsukurigawa 📖 leather 💬 靴 鞍 鞅 鞍 鞭"
+    },
+    {
+      "numero": 178,
+      "radical": "韋",
+      "variantes": [
+        "韋"
+      ],
+      "significado": "tanned leather",
+      "lecturaHiragana": "なめしがわ",
+      "romanizacion": "nameshigawa",
+      "significadoIngles": "tanned leather",
+      "kanjiEjemplo": "韋 韓 韜",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_178.png",
+          "alt": "Radical 178: tanned leather"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/178.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "韋 tanned leather 178 [ 韋 ] 🇯🇵 なめしがわ 🔤 nameshigawa 📖 tanned leather 💬 韋 韓 韜"
+    },
+    {
+      "numero": 179,
+      "radical": "韭",
+      "variantes": [
+        "韭"
+      ],
+      "significado": "leek",
+      "lecturaHiragana": "にら",
+      "romanizacion": "nira",
+      "significadoIngles": "leek",
+      "kanjiEjemplo": "韱 韲",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_179.png",
+          "alt": "Radical 179: leek"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/179.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "韭 leek 179 [ 韭 ] 🇯🇵 にら 🔤 nira 📖 leek 💬 韱 韲"
+    },
+    {
+      "numero": 180,
+      "radical": "音",
+      "variantes": [
+        "音"
+      ],
+      "significado": "sound, noise",
+      "lecturaHiragana": "おと",
+      "romanizacion": "oto",
+      "significadoIngles": "sound, noise",
+      "kanjiEjemplo": "韶 韻 韾",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_180.png",
+          "alt": "Radical 180: sound, noise"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/180.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "音 sound, noise 180 [ 音 ] 🇯🇵 おと 🔤 oto 📖 sound, noise 💬 韶 韻 韾"
+    },
+    {
+      "numero": 181,
+      "radical": "頁",
+      "variantes": [
+        "頁"
+      ],
+      "significado": "head, page",
+      "lecturaHiragana": "おおがい",
+      "romanizacion": "oogai",
+      "significadoIngles": "head, page",
+      "kanjiEjemplo": "頃 項 順 須 領 頭 頩 頂",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_181.png",
+          "alt": "Radical 181: head, page"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/181.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "頁 head, page 181 [ 頁 ] 🇯🇵 おおがい 🔤 oogai 📖 head, page 💬 頃 項 順 須 領 頭 頩 頂"
+    },
+    {
+      "numero": 182,
+      "radical": "風",
+      "variantes": [
+        "風",
+        "⺇"
+      ],
+      "significado": "wind",
+      "lecturaHiragana": "かぜ",
+      "romanizacion": "kaze",
+      "significadoIngles": "wind",
+      "kanjiEjemplo": "風 颱 飄 颿 颪",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_182.png",
+          "alt": "Radical 182: wind"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/182.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "風 wind 182 [ 風 ⺇ ] 🇯🇵 かぜ 🔤 kaze 📖 wind 💬 風 颱 飄 颿 颪"
+    },
+    {
+      "numero": 183,
+      "radical": "飛",
+      "variantes": [
+        "飛"
+      ],
+      "significado": "to fly",
+      "lecturaHiragana": "とぶ",
+      "romanizacion": "tobu",
+      "significadoIngles": "to fly",
+      "kanjiEjemplo": "飜 飝",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_183.png",
+          "alt": "Radical 183: to fly"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/183.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "飛 to fly 183 [ 飛 ] 🇯🇵 とぶ 🔤 tobu 📖 to fly 💬 飜 飝"
+    },
+    {
+      "numero": 184,
+      "radical": "食",
+      "variantes": [
+        "食",
+        "𩙿",
+        "飠"
+      ],
+      "significado": "food, to eat",
+      "lecturaHiragana": "しょく",
+      "romanizacion": "shoku",
+      "significadoIngles": "food, to eat",
+      "kanjiEjemplo": "飯 飲 餓 餘 餐 養",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_184.png",
+          "alt": "Radical 184: food, to eat"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/184.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "食 food, to eat 184 [ 食 𩙿 飠 ] 🇯🇵 しょく 🔤 shoku 📖 food, to eat 💬 飯 飲 餓 餘 餐 養"
+    },
+    {
+      "numero": 185,
+      "radical": "首",
+      "variantes": [
+        "首"
+      ],
+      "significado": "head",
+      "lecturaHiragana": "くび",
+      "romanizacion": "kubi",
+      "significadoIngles": "head",
+      "kanjiEjemplo": "馗 馘",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_185.png",
+          "alt": "Radical 185: head"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/185.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "首 head 185 [ 首 ] 🇯🇵 くび 🔤 kubi 📖 head 💬 馗 馘"
+    },
+    {
+      "numero": 186,
+      "radical": "香",
+      "variantes": [
+        "香"
+      ],
+      "significado": "scent",
+      "lecturaHiragana": "かおり",
+      "romanizacion": "kaori",
+      "significadoIngles": "scent",
+      "kanjiEjemplo": "馨",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_186.png",
+          "alt": "Radical 186: scent"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/186.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "香 scent 186 [ 香 ] 🇯🇵 かおり 🔤 kaori 📖 scent 💬 馨"
+    },
+    {
+      "numero": 187,
+      "radical": "馬",
+      "variantes": [
+        "馬",
+        ""
+      ],
+      "significado": "horse",
+      "lecturaHiragana": "うま",
+      "romanizacion": "uma",
+      "significadoIngles": "horse",
+      "kanjiEjemplo": "馮 馴 馳 駐 驚",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_187.png",
+          "alt": "Radical 187: horse"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/187.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "馬 horse 187 [ 馬  ] 🇯🇵 うま 🔤 uma 📖 horse 💬 馮 馴 馳 駐 驚"
+    },
+    {
+      "numero": 188,
+      "radical": "骨",
+      "variantes": [
+        "骨",
+        ""
+      ],
+      "significado": "bone",
+      "lecturaHiragana": "ほね",
+      "romanizacion": "hone",
+      "significadoIngles": "bone",
+      "kanjiEjemplo": "骼 髒 髀 骿 骾",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_188.png",
+          "alt": "Radical 188: bone"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/188.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "骨 bone 188 [ 骨  ] 🇯🇵 ほね 🔤 hone 📖 bone 💬 骼 髒 髀 骿 骾"
+    },
+    {
+      "numero": 189,
+      "radical": "高",
+      "variantes": [
+        "高",
+        "髙"
+      ],
+      "significado": "high",
+      "lecturaHiragana": "たかい",
+      "romanizacion": "takai",
+      "significadoIngles": "high",
+      "kanjiEjemplo": "髚 髛",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_189.png",
+          "alt": "Radical 189: high"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/189.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "高 high 189 [ 高 髙 ] 🇯🇵 たかい 🔤 takai 📖 high 💬 髚 髛"
+    },
+    {
+      "numero": 190,
+      "radical": "髟",
+      "variantes": [
+        "髟"
+      ],
+      "significado": "long hair",
+      "lecturaHiragana": "かみかんむり",
+      "romanizacion": "kamikanmuri",
+      "significadoIngles": "long hair",
+      "kanjiEjemplo": "髮 鬚 鬆 鬍 髦",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_190.png",
+          "alt": "Radical 190: long hair"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/190.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "髟 long hair 190 [ 髟 ] 🇯🇵 かみかんむり 🔤 kamikanmuri 📖 long hair 💬 髮 鬚 鬆 鬍 髦"
+    },
+    {
+      "numero": 191,
+      "radical": "鬥",
+      "variantes": [
+        "鬥"
+      ],
+      "significado": "fighting",
+      "lecturaHiragana": "たたかいがまえ",
+      "romanizacion": "tatakaigamae",
+      "significadoIngles": "fighting",
+      "kanjiEjemplo": "鬧 鬪",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_191.png",
+          "alt": "Radical 191: fighting"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/191.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鬥 fighting 191 [ 鬥 ] 🇯🇵 たたかいがまえ 🔤 tatakaigamae 📖 fighting 💬 鬧 鬪"
+    },
+    {
+      "numero": 192,
+      "radical": "鬯",
+      "variantes": [
+        "鬯"
+      ],
+      "significado": "herbs",
+      "lecturaHiragana": "においざけ",
+      "romanizacion": "nioizake",
+      "significadoIngles": "herbs",
+      "kanjiEjemplo": "鬰 鬱",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_192.png",
+          "alt": "Radical 192: herbs"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/192.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鬯 herbs 192 [ 鬯 ] 🇯🇵 においざけ 🔤 nioizake 📖 herbs 💬 鬰 鬱"
+    },
+    {
+      "numero": 193,
+      "radical": "鬲",
+      "variantes": [
+        "鬲"
+      ],
+      "significado": "tripod, cauldron",
+      "lecturaHiragana": "れき",
+      "romanizacion": "reki",
+      "significadoIngles": "tripod, cauldron",
+      "kanjiEjemplo": "鬶 鬷 鬸",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_193.png",
+          "alt": "Radical 193: tripod, cauldron"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/193.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鬲 tripod, cauldron 193 [ 鬲 ] 🇯🇵 れき 🔤 reki 📖 tripod, cauldron 💬 鬶 鬷 鬸"
+    },
+    {
+      "numero": 194,
+      "radical": "鬼",
+      "variantes": [
+        "鬼"
+      ],
+      "significado": "demon",
+      "lecturaHiragana": "おに",
+      "romanizacion": "oni",
+      "significadoIngles": "demon",
+      "kanjiEjemplo": "魂 魁 鬽 魄",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_194.png",
+          "alt": "Radical 194: demon"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/194.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鬼 demon 194 [ 鬼 ] 🇯🇵 おに 🔤 oni 📖 demon 💬 魂 魁 鬽 魄"
+    },
+    {
+      "numero": 195,
+      "radical": "魚",
+      "variantes": [
+        "魚",
+        ""
+      ],
+      "significado": "fish",
+      "lecturaHiragana": "うお",
+      "romanizacion": "uo",
+      "significadoIngles": "fish",
+      "kanjiEjemplo": "鯉 鮑 魛 魜 魝 魞 魟 魠",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_195.png",
+          "alt": "Radical 195: fish"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/195.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "魚 fish 195 [ 魚  ] 🇯🇵 うお 🔤 uo 📖 fish 💬 鯉 鮑 魛 魜 魝 魞 魟 魠"
+    },
+    {
+      "numero": 196,
+      "radical": "鳥",
+      "variantes": [
+        "鳥"
+      ],
+      "significado": "bird",
+      "lecturaHiragana": "とり",
+      "romanizacion": "tori",
+      "significadoIngles": "bird",
+      "kanjiEjemplo": "鳫 鳮 鳱 鳳 鳴 鳿 雞 鳴 鴻 鴛",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_196.png",
+          "alt": "Radical 196: bird"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/196.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鳥 bird 196 [ 鳥 ] 🇯🇵 とり 🔤 tori 📖 bird 💬 鳫 鳮 鳱 鳳 鳴 鳿 雞 鳴 鴻 鴛"
+    },
+    {
+      "numero": 197,
+      "radical": "鹵",
+      "variantes": [
+        "鹵"
+      ],
+      "significado": "salt",
+      "lecturaHiragana": "しお",
+      "romanizacion": "shio",
+      "significadoIngles": "salt",
+      "kanjiEjemplo": "鹹 鹼 鹽",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_197.png",
+          "alt": "Radical 197: salt"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/197.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鹵 salt 197 [ 鹵 ] 🇯🇵 しお 🔤 shio 📖 salt 💬 鹹 鹼 鹽"
+    },
+    {
+      "numero": 198,
+      "radical": "鹿",
+      "variantes": [
+        "鹿"
+      ],
+      "significado": "deer",
+      "lecturaHiragana": "しか",
+      "romanizacion": "shika",
+      "significadoIngles": "deer",
+      "kanjiEjemplo": "塵 麃 麋 麉 麟",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_198.png",
+          "alt": "Radical 198: deer"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/198.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鹿 deer 198 [ 鹿 ] 🇯🇵 しか 🔤 shika 📖 deer 💬 塵 麃 麋 麉 麟"
+    },
+    {
+      "numero": 199,
+      "radical": "麦",
+      "variantes": [
+        "麦",
+        "⿆"
+      ],
+      "significado": "wheat",
+      "lecturaHiragana": "むぎ",
+      "romanizacion": "mugi",
+      "significadoIngles": "wheat",
+      "kanjiEjemplo": "麴 麵 麱 麨 麺",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_199.png",
+          "alt": "Radical 199: wheat"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/199.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "麦 wheat 199 [ 麦 ⿆ ] 🇯🇵 むぎ 🔤 mugi 📖 wheat 💬 麴 麵 麱 麨 麺"
+    },
+    {
+      "numero": 200,
+      "radical": "麻",
+      "variantes": [
+        "麻",
+        ""
+      ],
+      "significado": "hemp",
+      "lecturaHiragana": "あさ",
+      "romanizacion": "asa",
+      "significadoIngles": "hemp",
+      "kanjiEjemplo": "麼 魔",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_200.png",
+          "alt": "Radical 200: hemp"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/200.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "麻 hemp 200 [ 麻  ] 🇯🇵 あさ 🔤 asa 📖 hemp 💬 麼 魔"
+    },
+    {
+      "numero": 201,
+      "radical": "黄",
+      "variantes": [
+        "黄",
+        "⿈"
+      ],
+      "significado": "yellow",
+      "lecturaHiragana": "き",
+      "romanizacion": "ki",
+      "significadoIngles": "yellow",
+      "kanjiEjemplo": "黊 黌",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_201.png",
+          "alt": "Radical 201: yellow"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/201.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "黄 yellow 201 [ 黄 ⿈ ] 🇯🇵 き 🔤 ki 📖 yellow 💬 黊 黌"
+    },
+    {
+      "numero": 202,
+      "radical": "黍",
+      "variantes": [
+        "黍"
+      ],
+      "significado": "millet",
+      "lecturaHiragana": "きび",
+      "romanizacion": "kibi",
+      "significadoIngles": "millet",
+      "kanjiEjemplo": "黏 黎",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_202.png",
+          "alt": "Radical 202: millet"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/202.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "黍 millet 202 [ 黍 ] 🇯🇵 きび 🔤 kibi 📖 millet 💬 黏 黎"
+    },
+    {
+      "numero": 203,
+      "radical": "黒",
+      "variantes": [
+        "黒",
+        "黑"
+      ],
+      "significado": "black",
+      "lecturaHiragana": "くろ",
+      "romanizacion": "kuro",
+      "significadoIngles": "black",
+      "kanjiEjemplo": "點 黛 黱 黨",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_203.png",
+          "alt": "Radical 203: black"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/203.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "黒 black 203 [ 黒 黑 ] 🇯🇵 くろ 🔤 kuro 📖 black 💬 點 黛 黱 黨"
+    },
+    {
+      "numero": 204,
+      "radical": "黹",
+      "variantes": [
+        "黹"
+      ],
+      "significado": "embroider",
+      "lecturaHiragana": "ぬいとり",
+      "romanizacion": "nuitori",
+      "significadoIngles": "embroider",
+      "kanjiEjemplo": "黼 黻",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_204.png",
+          "alt": "Radical 204: embroider"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/204.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "黹 embroider 204 [ 黹 ] 🇯🇵 ぬいとり 🔤 nuitori 📖 embroider 💬 黼 黻"
+    },
+    {
+      "numero": 205,
+      "radical": "黽",
+      "variantes": [
+        "黽"
+      ],
+      "significado": "frog",
+      "lecturaHiragana": "かえる",
+      "romanizacion": "kaeru",
+      "significadoIngles": "frog",
+      "kanjiEjemplo": "黿 鼈",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_205.png",
+          "alt": "Radical 205: frog"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/205.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "黽 frog 205 [ 黽 ] 🇯🇵 かえる 🔤 kaeru 📖 frog 💬 黿 鼈"
+    },
+    {
+      "numero": 206,
+      "radical": "鼎",
+      "variantes": [
+        "鼎"
+      ],
+      "significado": "tripod (sacrificial)",
+      "lecturaHiragana": "かなえ",
+      "romanizacion": "kanae",
+      "significadoIngles": "tripod (sacrificial)",
+      "kanjiEjemplo": "鼏 鼒",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_206.png",
+          "alt": "Radical 206: tripod (sacrificial)"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/206.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鼎 tripod (sacrificial) 206 [ 鼎 ] 🇯🇵 かなえ 🔤 kanae 📖 tripod (sacrificial) 💬 鼏 鼒"
+    },
+    {
+      "numero": 207,
+      "radical": "鼓",
+      "variantes": [
+        "鼓"
+      ],
+      "significado": "drum",
+      "lecturaHiragana": "つづみ",
+      "romanizacion": "tuzumi",
+      "significadoIngles": "drum",
+      "kanjiEjemplo": "鼗 鼘",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_207.png",
+          "alt": "Radical 207: drum"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/207.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鼓 drum 207 [ 鼓 ] 🇯🇵 つづみ 🔤 tuzumi 📖 drum 💬 鼗 鼘"
+    },
+    {
+      "numero": 208,
+      "radical": "鼠",
+      "variantes": [
+        "鼠"
+      ],
+      "significado": "rat, mouse",
+      "lecturaHiragana": "ねずみ",
+      "romanizacion": "nezumi",
+      "significadoIngles": "rat, mouse",
+      "kanjiEjemplo": "鼢 鼣 鼤",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_208.png",
+          "alt": "Radical 208: rat, mouse"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/208.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鼠 rat, mouse 208 [ 鼠 ] 🇯🇵 ねずみ 🔤 nezumi 📖 rat, mouse 💬 鼢 鼣 鼤"
+    },
+    {
+      "numero": 209,
+      "radical": "鼻",
+      "variantes": [
+        "鼻"
+      ],
+      "significado": "nose",
+      "lecturaHiragana": "はな",
+      "romanizacion": "hana",
+      "significadoIngles": "nose",
+      "kanjiEjemplo": "鼼 鼽 鼿",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_209.png",
+          "alt": "Radical 209: nose"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/209.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "鼻 nose 209 [ 鼻 ] 🇯🇵 はな 🔤 hana 📖 nose 💬 鼼 鼽 鼿"
+    },
+    {
+      "numero": 210,
+      "radical": "齊",
+      "variantes": [
+        "齊",
+        "⻫"
+      ],
+      "significado": "alike",
+      "lecturaHiragana": "せい",
+      "romanizacion": "sei",
+      "significadoIngles": "alike",
+      "kanjiEjemplo": "齋 齏 齏",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_210.png",
+          "alt": "Radical 210: alike"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/210.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "齊 alike 210 [ 齊 ⻫ ] 🇯🇵 せい 🔤 sei 📖 alike 💬 齋 齏 齏"
+    },
+    {
+      "numero": 211,
+      "radical": "歯",
+      "variantes": [
+        "歯",
+        "齒"
+      ],
+      "significado": "tooth",
+      "lecturaHiragana": "は",
+      "romanizacion": "ha",
+      "significadoIngles": "tooth",
+      "kanjiEjemplo": "齡 齠 齗",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_211.png",
+          "alt": "Radical 211: tooth"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/211.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "歯 tooth 211 [ 歯 齒 ] 🇯🇵 は 🔤 ha 📖 tooth 💬 齡 齠 齗"
+    },
+    {
+      "numero": 212,
+      "radical": "竜",
+      "variantes": [
+        "竜",
+        "龍"
+      ],
+      "significado": "dragon",
+      "lecturaHiragana": "りゅう",
+      "romanizacion": "ryuu",
+      "significadoIngles": "dragon",
+      "kanjiEjemplo": "龖 龘",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_212.png",
+          "alt": "Radical 212: dragon"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/212.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "竜 dragon 212 [ 竜 龍 ] 🇯🇵 りゅう 🔤 ryuu 📖 dragon 💬 龖 龘"
+    },
+    {
+      "numero": 213,
+      "radical": "亀",
+      "variantes": [
+        "亀",
+        "龜"
+      ],
+      "significado": "turtle",
+      "lecturaHiragana": "かめ",
+      "romanizacion": "kame",
+      "significadoIngles": "turtle",
+      "kanjiEjemplo": "龝",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_213.png",
+          "alt": "Radical 213: turtle"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/213.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "亀 turtle 213 [ 亀 龜 ] 🇯🇵 かめ 🔤 kame 📖 turtle 💬 龝"
+    },
+    {
+      "numero": 214,
+      "radical": "龠",
+      "variantes": [
+        "龠"
+      ],
+      "significado": "flute",
+      "lecturaHiragana": "やく",
+      "romanizacion": "yaku",
+      "significadoIngles": "flute",
+      "kanjiEjemplo": "龣",
+      "imagenes": [
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/selected/radical_214.png",
+          "alt": "Radical 214: flute"
+        },
+        {
+          "src": "https://sylhare.github.io/kanji/assets/img/gif/214.gif",
+          "alt": "kanji stroke"
+        }
+      ],
+      "textoOriginal": "龠 flute 214 [ 龠 ] 🇯🇵 やく 🔤 yaku 📖 flute 💬 龣"
+    }
+  ]
+}
