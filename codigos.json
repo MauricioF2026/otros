@@ -14,5 +14,62 @@
       "móvil"
     ],
     "contenido": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<!DOCTYPE html>\n<html lang='es' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>\n<head>\n\n<meta charset='UTF-8'/>\n<meta content='width=device-width, initial-scale=1.0' name='viewport'/>\n\n<meta content='yes' name='mobile-web-app-capable'/>\n<meta content='yes' name='apple-mobile-web-app-capable'/>"
+  },
+  [
+  {
+    "id": "kenjutsu-fukusho-tsuki-ari",
+    "nombre": "Conceptos de kenjutsu: Fukushō y Tsuki ari",
+    "categoria": "Kenjutsu",
+    "descripcion": "Conceptos japoneses relacionados con competiciones de kendo.",
+    "etiquetas": [
+      "kenjutsu",
+      "kendo",
+      "japonés",
+      "competición",
+      "técnica"
+    ],
+    "contenido": "https://script.google.com/macros/s/AKfycbw5YdtQUZ3c5Rci2T3kUizT75FAV5cE4VDMv-sRhqQA0n8GYrZXEvxkXI41-Bushmc/exec\n\n[\n  {\n    \"romanji\": \"Fukushō\",\n    \"kanji\": \"副将\",\n    \"definicion\": \"Fukushō: 副将. Cuarto jugador en un partido de equipo. Subcapitán del equipo en competencias. Es el penúltimo en combatir antes del capitán, y su rol puede ser decisivo estratégicamente.\",\n    \"categoria\": \"Persona\",\n    \"estudiado\": \"\"\n  },\n  {\n    \"romanji\": \"Tsuki ari\",\n    \"kanji\": \"突き有り\",\n    \"definicion\": \"Punto otorgado por un impacto correcto en la garganta.\",\n    \"categoria\": \"Técnica\",\n    \"estudiado\": \"\"\n  }\n]"
+  },
+  {
+    "id": "baduk-age-ishi-zettaiko",
+    "nombre": "Conceptos de baduk: Age ishi y Zettaiko",
+    "categoria": "Baduk",
+    "descripcion": "Términos japoneses relacionados con el Go.",
+    "etiquetas": [
+      "baduk",
+      "go",
+      "japonés",
+      "vocabulario"
+    ],
+    "contenido": "https://script.google.com/macros/s/AKfycbxOpX4ILOQHOVYoVLvvwIPth92d8ZlwuJ7yJYIJBaGsQJCuBsYIQmWtSWpriBumFidc/exec\n\n[\n  {\n    \"romanji\": \"age ishi\",\n    \"kanji\": \"上げ石\",\n    \"definicion\": \"Piedras capturadas; ver hama.\",\n    \"categoria\": \"Resultado y estado del juego\",\n    \"estudiado\": \"\"\n  },\n  {\n    \"romanji\": \"zettaiko (絶對劫)\",\n    \"kanji\": \"\",\n    \"definicion\": \"\",\n    \"categoria\": \"\",\n    \"estudiado\": \"\"\n  }\n]"
+  },
+  {
+    "id": "powershell-abrir-txt-uno-a-uno",
+    "nombre": "PowerShell: abrir archivos TXT uno a uno",
+    "categoria": "PowerShell",
+    "descripcion": "Abre cada archivo TXT de una carpeta y sus subcarpetas en el Bloc de notas, esperando a que se cierre antes de abrir el siguiente.",
+    "etiquetas": [
+      "PowerShell",
+      "TXT",
+      "Windows",
+      "archivos",
+      "automatización"
+    ],
+    "contenido": "Get-ChildItem \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\" -Recurse -Filter *.txt | ForEach-Object {\n    $p = Start-Process notepad.exe -ArgumentList $_.FullName -PassThru\n    $p.WaitForExit()\n}"
+  },
+  {
+    "id": "powershell-continuar-enlaces2026",
+    "nombre": "PowerShell: mostrar enlaces y recordar el progreso",
+    "categoria": "PowerShell",
+    "descripcion": "Extrae URLs de enlaces2026.txt, las muestra en grupos de diez y guarda el progreso en posicion.txt para continuar después.",
+    "etiquetas": [
+      "PowerShell",
+      "URLs",
+      "TXT",
+      "checkpoint",
+      "automatización"
+    ],
+    "contenido": "$ruta = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\enlaces2026.txt\"\n$checkpoint = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\posicion.txt\"\n$porPantalla = 10\n\n# Leer última línea procesada\n$lastLine = 0\nif (Test-Path $checkpoint) {\n    $lastLine = [int](Get-Content $checkpoint)\n}\n\n$contador = 0\n\nSelect-String -Path $ruta -Pattern \"https?://\\S+\" -AllMatches | ForEach-Object {\n\n    if ($_.LineNumber -le $lastLine) {\n        return\n    }\n\n    foreach ($match in $_.Matches.Value) {\n        Write-Output $match\n        $contador++\n\n        if ($contador -ge $porPantalla) {\n            $respuesta = Read-Host \"ENTER = continuar | q = salir\"\n\n            if ($respuesta -eq \"q\") {\n                Set-Content $checkpoint $_.LineNumber\n                exit\n            }\n\n            $contador = 0\n        }\n    }\n\n    # Guardar progreso por línea\n    Set-Content $checkpoint $_.LineNumber\n}"
   }
+]
 ]
