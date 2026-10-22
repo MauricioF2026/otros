@@ -15,12 +15,11 @@
     ],
     "contenido": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<!DOCTYPE html>\n<html lang='es' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>\n<head>\n\n<meta charset='UTF-8'/>\n<meta content='width=device-width, initial-scale=1.0' name='viewport'/>\n\n<meta content='yes' name='mobile-web-app-capable'/>\n<meta content='yes' name='apple-mobile-web-app-capable'/>"
   },
-  [
   {
     "id": "kenjutsu-fukusho-tsuki-ari",
     "nombre": "Conceptos de kenjutsu: Fukushō y Tsuki ari",
     "categoria": "Kenjutsu",
-    "descripcion": "Conceptos japoneses relacionados con competiciones de kendo.",
+    "descripcion": "Términos relacionados con personas y técnicas en competiciones de kendo.",
     "etiquetas": [
       "kenjutsu",
       "kendo",
@@ -61,7 +60,7 @@
     "id": "powershell-continuar-enlaces2026",
     "nombre": "PowerShell: mostrar enlaces y recordar el progreso",
     "categoria": "PowerShell",
-    "descripcion": "Extrae URLs de enlaces2026.txt, las muestra en grupos de diez y guarda el progreso en posicion.txt para continuar después.",
+    "descripcion": "Extrae las URL de enlaces2026.txt, las muestra en grupos de diez y guarda el progreso en posicion.txt para continuar después.",
     "etiquetas": [
       "PowerShell",
       "URLs",
@@ -69,7 +68,6 @@
       "checkpoint",
       "automatización"
     ],
-    "contenido": "$ruta = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\enlaces2026.txt\"\n$checkpoint = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\posicion.txt\"\n$porPantalla = 10\n\n# Leer última línea procesada\n$lastLine = 0\nif (Test-Path $checkpoint) {\n    $lastLine = [int](Get-Content $checkpoint)\n}\n\n$contador = 0\n\nSelect-String -Path $ruta -Pattern \"https?://\\S+\" -AllMatches | ForEach-Object {\n\n    if ($_.LineNumber -le $lastLine) {\n        return\n    }\n\n    foreach ($match in $_.Matches.Value) {\n        Write-Output $match\n        $contador++\n\n        if ($contador -ge $porPantalla) {\n            $respuesta = Read-Host \"ENTER = continuar | q = salir\"\n\n            if ($respuesta -eq \"q\") {\n                Set-Content $checkpoint $_.LineNumber\n                exit\n            }\n\n            $contador = 0\n        }\n    }\n\n    # Guardar progreso por línea\n    Set-Content $checkpoint $_.LineNumber\n}"
+    "contenido": "$ruta = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\enlaces2026.txt\"\n$checkpoint = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\posicion.txt\"\n$porPantalla = 10\n\n# Leer última línea procesada\n$lastLine = 0\nif (Test-Path $checkpoint) {\n    $lastLine = [int](Get-Content $checkpoint)\n}\n\n$contador = 0\n\nSelect-String -Path $ruta -Pattern 'https?://\\S+' -AllMatches | ForEach-Object {\n\n    if ($_.LineNumber -le $lastLine) {\n        return\n    }\n\n    foreach ($match in $_.Matches.Value) {\n        Write-Output $match\n        $contador++\n\n        if ($contador -ge $porPantalla) {\n            $respuesta = Read-Host \"ENTER = continuar | q = salir\"\n\n            if ($respuesta -eq \"q\") {\n                Set-Content $checkpoint $_.LineNumber\n                exit\n            }\n\n            $contador = 0\n        }\n    }\n\n    # Guardar progreso por línea\n    Set-Content $checkpoint $_.LineNumber\n}"
   }
-]
 ]
