@@ -1,0 +1,18 @@
+
+[
+  {
+    "id": "estructura-inicial-blogger",
+    "nombre": "Estructura inicial HTML para Blogger",
+    "categoria": "Blogger XML",
+    "descripcion": "Declaración XML, DOCTYPE, etiqueta HTML, apertura de HEAD, configuración de codificación y compatibilidad móvil.",
+    "etiquetas": [
+      "Blogger",
+      "HTML",
+      "XML",
+      "head",
+      "viewport",
+      "móvil"
+    ],
+    "contenido": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<!DOCTYPE html>\n<html lang='es' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>\n<head>\n\n<meta charset='UTF-8'/>\n<meta content='width=device-width, initial-scale=1.0' name='viewport'/>\n\n<meta content='yes' name='mobile-web-app-capable'/>\n<meta content='yes' name='apple-mobile-web-app-capable'/>"
+  }
+]
