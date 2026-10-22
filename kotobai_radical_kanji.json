@@ -1,0 +1,2278 @@
+{
+  "titulo": "Kotobai - Radical Kanji",
+  "fuente": "https://dic.kotobai.com/radical-kanji.php?lang=es",
+  "fechaExtraccion": "2026-10-22T03:37:40.806Z",
+  "total": 252,
+  "totalConSimbolo": 252,
+  "totalConTrazos": 252,
+  "elementos": [
+    {
+      "numero": 1,
+      "simbolo": "一",
+      "trazos": 1,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 2,
+      "simbolo": "｜",
+      "trazos": 1,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 3,
+      "simbolo": "丶",
+      "trazos": 1,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 4,
+      "simbolo": "ノ",
+      "trazos": 1,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 5,
+      "simbolo": "乙",
+      "trazos": 1,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 6,
+      "simbolo": "亅",
+      "trazos": 1,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 7,
+      "simbolo": "二",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 8,
+      "simbolo": "亠",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 9,
+      "simbolo": "人",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 10,
+      "simbolo": "化",
+      "trazos": 2,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/10.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 11,
+      "simbolo": "个",
+      "trazos": 2,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/11.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 12,
+      "simbolo": "儿",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 13,
+      "simbolo": "入",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 14,
+      "simbolo": "ハ",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 15,
+      "simbolo": "并",
+      "trazos": 2,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/15.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 16,
+      "simbolo": "冂",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 17,
+      "simbolo": "冖",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 18,
+      "simbolo": "冫",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 19,
+      "simbolo": "几",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 20,
+      "simbolo": "凵",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 21,
+      "simbolo": "刀",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 22,
+      "simbolo": "刈",
+      "trazos": 2,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/22.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 23,
+      "simbolo": "力",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 24,
+      "simbolo": "勹",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 25,
+      "simbolo": "匕",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 26,
+      "simbolo": "匚",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 27,
+      "simbolo": "十",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 28,
+      "simbolo": "卜",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 29,
+      "simbolo": "卩",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 30,
+      "simbolo": "厂",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 31,
+      "simbolo": "厶",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 32,
+      "simbolo": "又",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 33,
+      "simbolo": "マ",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 34,
+      "simbolo": "九",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 35,
+      "simbolo": "ユ",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 36,
+      "simbolo": "乃",
+      "trazos": 2,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 37,
+      "simbolo": "込",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/37.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 38,
+      "simbolo": "口",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 39,
+      "simbolo": "囗",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 40,
+      "simbolo": "土",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 41,
+      "simbolo": "士",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 42,
+      "simbolo": "夂",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 43,
+      "simbolo": "夕",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 44,
+      "simbolo": "大",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 45,
+      "simbolo": "女",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 46,
+      "simbolo": "子",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 47,
+      "simbolo": "宀",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 48,
+      "simbolo": "寸",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 49,
+      "simbolo": "小",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 50,
+      "simbolo": "尚",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/50.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 51,
+      "simbolo": "尢",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 52,
+      "simbolo": "尸",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 53,
+      "simbolo": "屮",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 54,
+      "simbolo": "山",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 55,
+      "simbolo": "川",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 56,
+      "simbolo": "巛",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 57,
+      "simbolo": "工",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 58,
+      "simbolo": "已",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 59,
+      "simbolo": "巾",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 60,
+      "simbolo": "干",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 61,
+      "simbolo": "幺",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 62,
+      "simbolo": "广",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 63,
+      "simbolo": "廴",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 64,
+      "simbolo": "廾",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 65,
+      "simbolo": "弋",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 66,
+      "simbolo": "弓",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 67,
+      "simbolo": "ヨ",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 68,
+      "simbolo": "彑",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 69,
+      "simbolo": "彡",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 70,
+      "simbolo": "彳",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 71,
+      "simbolo": "忙",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/71.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 72,
+      "simbolo": "扎",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/72.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 73,
+      "simbolo": "汁",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/73.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 74,
+      "simbolo": "犯",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/74.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 75,
+      "simbolo": "艾",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/75.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 76,
+      "simbolo": "邦",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/76.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": true
+    },
+    {
+      "numero": 77,
+      "simbolo": "阡",
+      "trazos": 3,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/77.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 78,
+      "simbolo": "也",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 79,
+      "simbolo": "亡",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 80,
+      "simbolo": "及",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 81,
+      "simbolo": "久",
+      "trazos": 3,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 82,
+      "simbolo": "老",
+      "trazos": 4,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/82.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 83,
+      "simbolo": "心",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 84,
+      "simbolo": "戈",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 85,
+      "simbolo": "戸",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 86,
+      "simbolo": "手",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 87,
+      "simbolo": "支",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 88,
+      "simbolo": "攵",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 89,
+      "simbolo": "文",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 90,
+      "simbolo": "斗",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 91,
+      "simbolo": "斤",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 92,
+      "simbolo": "方",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 93,
+      "simbolo": "无",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 94,
+      "simbolo": "日",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 95,
+      "simbolo": "曰",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 96,
+      "simbolo": "月",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 97,
+      "simbolo": "木",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 98,
+      "simbolo": "欠",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 99,
+      "simbolo": "止",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 100,
+      "simbolo": "歹",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 101,
+      "simbolo": "殳",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 102,
+      "simbolo": "比",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 103,
+      "simbolo": "毛",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 104,
+      "simbolo": "氏",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 105,
+      "simbolo": "气",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 106,
+      "simbolo": "水",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 107,
+      "simbolo": "火",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 108,
+      "simbolo": "杰",
+      "trazos": 4,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/108.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 109,
+      "simbolo": "爪",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 110,
+      "simbolo": "父",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 111,
+      "simbolo": "爻",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 112,
+      "simbolo": "爿",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 113,
+      "simbolo": "片",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 114,
+      "simbolo": "牛",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 115,
+      "simbolo": "犬",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 116,
+      "simbolo": "礼",
+      "trazos": 4,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/116.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 117,
+      "simbolo": "王",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 118,
+      "simbolo": "元",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 119,
+      "simbolo": "井",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 120,
+      "simbolo": "勿",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 121,
+      "simbolo": "尤",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 122,
+      "simbolo": "五",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 123,
+      "simbolo": "屯",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 124,
+      "simbolo": "巴",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 125,
+      "simbolo": "毋",
+      "trazos": 4,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 126,
+      "simbolo": "玄",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 127,
+      "simbolo": "瓦",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 128,
+      "simbolo": "甘",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 129,
+      "simbolo": "生",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 130,
+      "simbolo": "用",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 131,
+      "simbolo": "田",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 132,
+      "simbolo": "疋",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 133,
+      "simbolo": "疔",
+      "trazos": 5,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/133.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 134,
+      "simbolo": "癶",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 135,
+      "simbolo": "白",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 136,
+      "simbolo": "皮",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 137,
+      "simbolo": "皿",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 138,
+      "simbolo": "目",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 139,
+      "simbolo": "矛",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 140,
+      "simbolo": "矢",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 141,
+      "simbolo": "石",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 142,
+      "simbolo": "示",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 143,
+      "simbolo": "禹",
+      "trazos": 5,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/143.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": true
+    },
+    {
+      "numero": 144,
+      "simbolo": "禾",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 145,
+      "simbolo": "穴",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 146,
+      "simbolo": "立",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 147,
+      "simbolo": "初",
+      "trazos": 5,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/147.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 148,
+      "simbolo": "世",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 149,
+      "simbolo": "巨",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 150,
+      "simbolo": "冊",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 151,
+      "simbolo": "母",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 152,
+      "simbolo": "買",
+      "trazos": 5,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/152.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": false
+    },
+    {
+      "numero": 153,
+      "simbolo": "牙",
+      "trazos": 5,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 154,
+      "simbolo": "瓜",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 155,
+      "simbolo": "竹",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 156,
+      "simbolo": "米",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 157,
+      "simbolo": "糸",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 158,
+      "simbolo": "缶",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 159,
+      "simbolo": "羊",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 160,
+      "simbolo": "羽",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 161,
+      "simbolo": "而",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 162,
+      "simbolo": "耒",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 163,
+      "simbolo": "耳",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 164,
+      "simbolo": "聿",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 165,
+      "simbolo": "肉",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 166,
+      "simbolo": "自",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 167,
+      "simbolo": "至",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 168,
+      "simbolo": "臼",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 169,
+      "simbolo": "舌",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 170,
+      "simbolo": "舟",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 171,
+      "simbolo": "艮",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 172,
+      "simbolo": "色",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 173,
+      "simbolo": "虍",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 174,
+      "simbolo": "虫",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 175,
+      "simbolo": "血",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 176,
+      "simbolo": "行",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 177,
+      "simbolo": "衣",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 178,
+      "simbolo": "西",
+      "trazos": 6,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 179,
+      "simbolo": "臣",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 180,
+      "simbolo": "見",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 181,
+      "simbolo": "角",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 182,
+      "simbolo": "言",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 183,
+      "simbolo": "谷",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 184,
+      "simbolo": "豆",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 185,
+      "simbolo": "豕",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 186,
+      "simbolo": "豸",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 187,
+      "simbolo": "貝",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 188,
+      "simbolo": "赤",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 189,
+      "simbolo": "走",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 190,
+      "simbolo": "足",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 191,
+      "simbolo": "身",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 192,
+      "simbolo": "車",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 193,
+      "simbolo": "辛",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 194,
+      "simbolo": "辰",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 195,
+      "simbolo": "酉",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 196,
+      "simbolo": "釆",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 197,
+      "simbolo": "里",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 198,
+      "simbolo": "舛",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 199,
+      "simbolo": "麦",
+      "trazos": 7,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 200,
+      "simbolo": "金",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 201,
+      "simbolo": "長",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 202,
+      "simbolo": "門",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 203,
+      "simbolo": "隶",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 204,
+      "simbolo": "隹",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 205,
+      "simbolo": "雨",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 206,
+      "simbolo": "青",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 207,
+      "simbolo": "非",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 208,
+      "simbolo": "奄",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 209,
+      "simbolo": "岡",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 210,
+      "simbolo": "免",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 211,
+      "simbolo": "斉",
+      "trazos": 8,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 212,
+      "simbolo": "面",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 213,
+      "simbolo": "革",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 214,
+      "simbolo": "韭",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 215,
+      "simbolo": "音",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 216,
+      "simbolo": "頁",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 217,
+      "simbolo": "風",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 218,
+      "simbolo": "飛",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 219,
+      "simbolo": "食",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 220,
+      "simbolo": "首",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 221,
+      "simbolo": "香",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 222,
+      "simbolo": "品",
+      "trazos": 9,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 223,
+      "simbolo": "馬",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 224,
+      "simbolo": "骨",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 225,
+      "simbolo": "高",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 226,
+      "simbolo": "髟",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 227,
+      "simbolo": "鬥",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 228,
+      "simbolo": "鬯",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 229,
+      "simbolo": "鬲",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 230,
+      "simbolo": "鬼",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 231,
+      "simbolo": "竜",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 232,
+      "simbolo": "韋",
+      "trazos": 10,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 233,
+      "simbolo": "魚",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 234,
+      "simbolo": "鳥",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 235,
+      "simbolo": "鹵",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 236,
+      "simbolo": "鹿",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 237,
+      "simbolo": "麻",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 238,
+      "simbolo": "亀",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 239,
+      "simbolo": "滴",
+      "trazos": 11,
+      "imagen": "https://dic.kotobai.com/assets/img/radicales/239.png",
+      "enlace": "",
+      "tipo": "imagen",
+      "bloqueado": true
+    },
+    {
+      "numero": 240,
+      "simbolo": "黄",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 241,
+      "simbolo": "黒",
+      "trazos": 11,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 242,
+      "simbolo": "黍",
+      "trazos": 12,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 243,
+      "simbolo": "黹",
+      "trazos": 12,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 244,
+      "simbolo": "無",
+      "trazos": 12,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 245,
+      "simbolo": "歯",
+      "trazos": 12,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 246,
+      "simbolo": "黽",
+      "trazos": 13,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": false
+    },
+    {
+      "numero": 247,
+      "simbolo": "鼎",
+      "trazos": 13,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 248,
+      "simbolo": "鼠",
+      "trazos": 13,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 249,
+      "simbolo": "鼠",
+      "trazos": 13,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 250,
+      "simbolo": "鼻",
+      "trazos": 14,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 251,
+      "simbolo": "齊",
+      "trazos": 14,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    },
+    {
+      "numero": 252,
+      "simbolo": "龠",
+      "trazos": 17,
+      "imagen": "",
+      "enlace": "",
+      "tipo": "texto",
+      "bloqueado": true
+    }
+  ]
+}
