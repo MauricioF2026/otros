@@ -69,5 +69,127 @@
       "automatización"
     ],
     "contenido": "$ruta = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\enlaces2026.txt\"\n$checkpoint = \"C:\\Users\\Usuario\\Documents\\Mi D\\txt\\posicion.txt\"\n$porPantalla = 10\n\n# Leer última línea procesada\n$lastLine = 0\nif (Test-Path $checkpoint) {\n    $lastLine = [int](Get-Content $checkpoint)\n}\n\n$contador = 0\n\nSelect-String -Path $ruta -Pattern 'https?://\\S+' -AllMatches | ForEach-Object {\n\n    if ($_.LineNumber -le $lastLine) {\n        return\n    }\n\n    foreach ($match in $_.Matches.Value) {\n        Write-Output $match\n        $contador++\n\n        if ($contador -ge $porPantalla) {\n            $respuesta = Read-Host \"ENTER = continuar | q = salir\"\n\n            if ($respuesta -eq \"q\") {\n                Set-Content $checkpoint $_.LineNumber\n                exit\n            }\n\n            $contador = 0\n        }\n    }\n\n    # Guardar progreso por línea\n    Set-Content $checkpoint $_.LineNumber\n}"
+  },
+  
+  {
+    "id": "powershell-urls-sin-repetir",
+    "nombre": "PowerShell: extraer todas las URL sin repetir",
+    "categoria": "PowerShell",
+    "descripcion": "Busca enlaces HTTP y HTTPS en archivos TXT, elimina duplicados y ordena los resultados.",
+    "etiquetas": ["PowerShell", "URLs", "TXT", "duplicados", "búsqueda"],
+    "contenido": "Get-ChildItem -Recurse -Filter *.txt |\nSelect-String -Pattern \"https?://\\S+\" -AllMatches |\nForEach-Object { $_.Matches.Value } |\nSort-Object -Unique"
+  },
+  {
+    "id": "powershell-abrir-txt-con-pausa",
+    "nombre": "PowerShell: abrir TXT en orden con pausa",
+    "categoria": "PowerShell",
+    "descripcion": "Abre los archivos TXT uno a uno y espera a que pulses Enter antes de continuar.",
+    "etiquetas": ["PowerShell", "TXT", "Bloc de notas", "secuencial"],
+    "contenido": "powershell -Command 'Get-ChildItem -Recurse -Filter *.txt | ForEach-Object { Start-Process notepad.exe -ArgumentList $_.FullName -Wait; Read-Host \"ENTER para siguiente\" }'"
+  },
+  {
+    "id": "blogger-seccion-final",
+    "nombre": "Blogger: sección principal final",
+    "categoria": "Blogger XML",
+    "descripcion": "Bloque de sección principal para colocar en la parte final de una plantilla Blogger.",
+    "etiquetas": ["Blogger", "XML", "sección", "Blog1"],
+    "contenido": "<b:section id='main' class='main' showaddelement='yes'>\n  <b:widget id='Blog1' type='Blog'/>\n</b:section>"
+  },
+  {
+    "id": "blogger-inicio-skin-cdata",
+    "nombre": "Blogger: inicio de b:skin con CDATA",
+    "categoria": "Blogger XML",
+    "descripcion": "Apertura del bloque de estilos de Blogger con una sección CDATA.",
+    "etiquetas": ["Blogger", "XML", "CSS", "CDATA", "skin"],
+    "contenido": "<b:skin><![CDATA[\n  /* Estilos adicionales de Blogger si los necesitas */\n]]></b:skin>"
+  },
+  {
+    "id": "javascript-inicio-cdata",
+    "nombre": "Blogger: inicio de script con CDATA",
+    "categoria": "Blogger XML",
+    "descripcion": "Marcador de apertura CDATA para código JavaScript en plantillas XML de Blogger.",
+    "etiquetas": ["Blogger", "JavaScript", "CDATA", "script"],
+    "contenido": "//<![CDATA["
+  },
+  {
+    "id": "javascript-final-cdata",
+    "nombre": "Blogger: final de script con CDATA",
+    "categoria": "Blogger XML",
+    "descripcion": "Marcador de cierre CDATA para código JavaScript en plantillas XML de Blogger.",
+    "etiquetas": ["Blogger", "JavaScript", "CDATA", "script"],
+    "contenido": "//]]>"
+  },
+  {
+    "id": "powershell-buscar-y-excluir-live-chatgpt",
+    "nombre": "PowerShell: buscar términos y excluir Live y ChatGPT",
+    "categoria": "PowerShell",
+    "descripcion": "Busca pais, peliculas y http en archivos TXT y excluye las líneas que contienen live o chatgpt.",
+    "etiquetas": ["PowerShell", "búsqueda", "filtros", "TXT"],
+    "contenido": "Get-ChildItem -Recurse -Filter *.txt |\nSelect-String \"pais\",\"peliculas\",\"http\" |\nWhere-Object { $_.Line -notmatch \"live|chatgpt\" }"
+  },
+  {
+    "id": "powershell-listar-enlaces-pdf",
+    "nombre": "PowerShell: encontrar enlaces a PDF",
+    "categoria": "PowerShell",
+    "descripcion": "Busca URL web y rutas file:// que apunten a PDF dentro de archivos TXT, mostrando cada resultado y esperando Enter.",
+    "etiquetas": ["PowerShell", "PDF", "URLs", "TXT", "documentos"],
+    "contenido": "Get-ChildItem . -Recurse -Filter *.txt |\nSelect-String -Pattern 'https?://[^\\s\"<>]*\\.pdf(?:\\?[^\\s\"<>]*)?|file://[^\\s\"<>]*\\.pdf' -AllMatches |\nForEach-Object {\n    foreach ($m in $_.Matches) {\n        Write-Host \"`n$($m.Value)\" -ForegroundColor Cyan\n        Read-Host \"Enter = siguiente enlace\"\n    }\n}"
+  },
+  {
+    "id": "blogger-eliminar-feedlinks",
+    "nombre": "Blogger: eliminar feedLinks",
+    "categoria": "Blogger XML",
+    "descripcion": "Línea que se puede retirar de la plantilla cuando se desea eliminar la inclusión de enlaces de feeds.",
+    "etiquetas": ["Blogger", "XML", "feedLinks", "limpieza"],
+    "contenido": "<b:include name='feedLinks'/>"
+  },
+  {
+    "id": "html-escapar-ampersand",
+    "nombre": "HTML: representar el ampersand",
+    "categoria": "HTML",
+    "descripcion": "Entidad HTML para representar el carácter ampersand en contenido HTML o XML.",
+    "etiquetas": ["HTML", "XML", "entidades", "caracteres especiales"],
+    "contenido": "&amp;"
+  },
+  {
+    "id": "powershell-abrir-txt-sin-pausa",
+    "nombre": "PowerShell: abrir TXT en orden sin pausa adicional",
+    "categoria": "PowerShell",
+    "descripcion": "Abre archivos TXT secuencialmente y espera a que se cierre cada ventana del Bloc de notas.",
+    "etiquetas": ["PowerShell", "TXT", "Bloc de notas", "secuencial"],
+    "contenido": "powershell -Command 'Get-ChildItem -Recurse -Filter *.txt | ForEach-Object { Start-Process notepad.exe -ArgumentList $_.FullName -Wait }'"
+  },
+  {
+    "id": "kanji-buscar-trazos-definicion-espanol",
+    "nombre": "Kanji: número de trazos y definición en español",
+    "categoria": "Japonés",
+    "descripcion": "Enlace a la consulta de kanji con número de trazos, nivel escolar, frecuencia, lecturas y significado en español.",
+    "etiquetas": ["japonés", "kanji", "trazos", "lecturas", "español"],
+    "contenido": "https://script.google.com/macros/s/AKfycbz9vey1wtkMwLFfuq4aUkqc_Ejj3zTLHA-oFiRd01hqu1TFVWY4HNQqpwH9q3DHShNZ/exec\n\n[\n  {\n    \"kanji\": \"一\",\n    \"strokes\": 1,\n    \"grade\": 1,\n    \"freq\": 2,\n    \"jlpt old\": 4,\n    \"jlpt new\": 5,\n    \"meanings\": \"One, One Radical (no.1)\",\n    \"readings on\": \"いち, いつ\",\n    \"readings kun\": \"ひと-, ひと.つ\",\n    \"espanol\": \"Uno, un radical (nº 1)\"\n  },\n  {\n    \"kanji\": \"頻\",\n    \"strokes\": 16,\n    \"grade\": \"\",\n    \"freq\": \"\",\n    \"jlpt old\": \"\",\n    \"jlpt new\": \"\",\n    \"meanings\": \"\",\n    \"readings on\": \"ひん\",\n    \"readings kun\": \"\",\n    \"espanol\": \"#VALUE!\"\n  }\n]"
+  },
+  {
+    "id": "blogger-css-ocultar-enlaces-movil",
+    "nombre": "Blogger: CSS para ocultar enlaces y elementos móviles",
+    "categoria": "Blogger CSS",
+    "descripcion": "Reglas CSS para ocultar enlaces de vista móvil, entradas, mensajes de estado, pie de entrada y paginador.",
+    "etiquetas": ["Blogger", "CSS", "móvil", "diseño", "ocultar"],
+    "contenido": ".mobile-desktop-link,\n.mobile-desktop-link a {\n  display: none !important;\n}\n\na.blog-mobile-link,\na[href*='?m=1'] {\n  display: none !important;\n}\n\n.blog-posts,\n.status-msg-wrap,\n.status-msg-body {\n  display: none !important;\n}\n\n.post-footer,\n.blog-pager {\n  display: none !important;\n}"
+  },
+  {
+    "id": "cmd-abrir-txt-secuencial",
+    "nombre": "CMD: abrir archivos TXT secuencialmente",
+    "categoria": "Windows CMD",
+    "descripcion": "Comando de CMD para recorrer archivos TXT de la carpeta y subcarpetas y abrirlos uno a uno esperando el cierre.",
+    "etiquetas": ["CMD", "Windows", "TXT", "Bloc de notas"],
+    "contenido": "for /r %f in (*.txt) do start /wait notepad \"%f\""
+  },
+  {
+    "id": "powershell-txtexplorer",
+    "nombre": "PowerShell: ejecutar TXTExplorer.ps1",
+    "categoria": "PowerShell",
+    "descripcion": "Comando para ejecutar TXTExplorer.ps1 desde la carpeta Plantillas del usuario.",
+    "etiquetas": ["PowerShell", "TXTExplorer", "scripts", "archivos"],
+    "contenido": "PS C:\\Users\\Usuario\\Documents\\Mi D\\Plantillas> .\\TXTExplorer.ps1"
   }
+
 ]
