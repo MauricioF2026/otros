@@ -1818,5 +1818,143 @@
         "tipo": "triangle"
       }
     ]
+  },
+  {
+    "id": 91,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Types of connections",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][bo][co][dp][dq][cr][dr]AW[cm][do][bp][cp][aq][cq][br][bs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 13,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Types of connections",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][bo][co][dp][dq][cr][dr]AW[do][bp][cp][fp][aq][cq][br][bs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 13,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Types of connections",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][bo][co][do][ep][eq][er]AW[eo][bp][cp][dp][dq][gq][br][dr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 13,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Types of connections",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][bo][co][do][ep][eq][er]AW[cm][eo][bp][cp][dp][dq][br][dr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 13,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Types of connections",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][gp][eq][er]AW[gm][ep][bq][cq][dq][ar][dr][bs])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Types of connections",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][bp][cp][dp][eq][er]AW[gm][ep][bq][cq][dq][ar][dr][bs])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 13,
+        "tipo": "circle"
+      }
+    ]
   }
 ]
