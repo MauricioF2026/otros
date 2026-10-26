@@ -1,0 +1,1934 @@
+[
+  {
+    "letra": "A",
+    "termino": "Ara-nie",
+    "japones": "荒沸",
+    "definicion": "Grandes cristales de nie (partículas cristalinas visibles en el temple de la hoja).",
+    "imagenes": []
+  },
+  {
+    "letra": "A",
+    "termino": "Ashi",
+    "japones": "足",
+    "definicion": "Literalmente, «piernas». Líneas o estructuras de nioi que se extienden desde el hamon hacia el filo de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "A",
+    "termino": "Ashi-kanamono",
+    "japones": "足金物",
+    "definicion": "Herrajes fijados a la vaina (saya) que sirven para sujetar las correas obi-tori.",
+    "imagenes": []
+  },
+  {
+    "letra": "A",
+    "termino": "Ashi-kawa",
+    "japones": "足革",
+    "definicion": "Correas de cuero de longitud fija que sirven como obi-tori en las monturas koshirae del tipo ito-maki-tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "A",
+    "termino": "Ashi-ma",
+    "japones": "足間",
+    "definicion": "Espacio comprendido entre los dos herrajes ashi-kanamono.",
+    "imagenes": []
+  },
+  {
+    "letra": "A",
+    "termino": "Ayasugi-hada",
+    "japones": "綾杉肌",
+    "definicion": "Patrón ondulado del veteado del acero (hada), semejante a las vetas de la madera del cedro japonés.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bakufu",
+    "japones": "幕府",
+    "definicion": "Gobierno militar de Japón, encabezado por un shōgun.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bakumatsu",
+    "japones": "幕末",
+    "definicion": "Etapa final del período Edo, aproximadamente entre 1853 y 1867.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Banzashi-daishō",
+    "japones": "番差大小",
+    "definicion": "Pareja de espadas con monturas a juego. Las vainas llevaban una sencilla laca negra y herrajes de cuerno. Las empuñaduras tenían pomos de cuerno y una pieza inferior (fuchi) de shakudō con decoración nanako. El encordado era de brocado negro sobre una base de piel de raya blanca. Otros elementos, como la guarda (tsuba), los adornos de la empuñadura (menuki) y los accesorios kōgai y kozuka, también estaban hechos de shakudō, una aleación de oro y cobre.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bizen",
+    "japones": "備前",
+    "definicion": "Antigua provincia de Japón, situada en el territorio de la actual prefectura de Okayama.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bizen-tō",
+    "japones": "備前刀",
+    "definicion": "Espadas japonesas fabricadas en la provincia de Bizen.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bizen-zori",
+    "japones": "備前反り",
+    "definicion": "Curvatura pronunciada de la hoja, próxima a la zona de la espiga (nakago); también conocida como koshi-zori.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bo-hi",
+    "japones": "棒樋",
+    "definicion": "Acanaladura longitudinal tallada en la hoja. A menudo se denomina erróneamente «canal de sangre».",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bonji",
+    "japones": "梵字",
+    "definicion": "Caracteres sánscritos grabados en la hoja que invocan o representan divinidades budistas.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bōshi",
+    "japones": "帽子",
+    "definicion": "Parte del hamon que se forma en el kissaki (punta de la hoja).",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bō-utsuri",
+    "japones": "棒映り",
+    "definicion": "Utsuri de forma recta y alargada, visible en la superficie de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bu",
+    "japones": "分",
+    "definicion": "Unidad tradicional japonesa de medida. En el sistema tradicional, 10 bu equivalen a 1 sun.",
+    "imagenes": []
+  },
+  {
+    "letra": "B",
+    "termino": "Bushi",
+    "japones": "武士",
+    "definicion": "Guerrero perteneciente a la clase militar japonesa; término relacionado con samurái.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chikei",
+    "japones": "地景",
+    "definicion": "Línea curva formada por nie, visible en el ji (superficie de la hoja).",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chōji abura",
+    "japones": "丁子油",
+    "definicion": "Aceite de clavo utilizado para conservar y proteger las hojas de las espadas japonesas.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chōji ashi",
+    "japones": "丁子足",
+    "definicion": "Ashi con forma semejante a flores de clavo (chōji).",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chōji midare",
+    "japones": "丁子乱れ",
+    "definicion": "Hamon compuesto por formas semejantes a flores de clavo, cuyo contorno general no sigue un patrón claramente definido.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chōji midare komi",
+    "japones": "丁子乱れ込み",
+    "definicion": "Hamon chōji midare que continúa hasta penetrar en la zona del kissaki.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chōji utsuri",
+    "japones": "丁子映り",
+    "definicion": "Utsuri (patrón de temple visible en la superficie de la hoja) con formas semejantes a flores de clavo.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chokutō",
+    "japones": "直刀",
+    "definicion": "Espada recta japonesa, de construcción similar a la tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chū-kissaki",
+    "japones": "中切先",
+    "definicion": "Punta (kissaki) de tamaño mediano en relación con las dimensiones generales de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "C",
+    "termino": "Chū-suguha",
+    "japones": "中直刃",
+    "definicion": "Hamon recto (suguha) de anchura mediana.",
+    "imagenes": []
+  },
+  {
+    "letra": "D",
+    "termino": "Daimyō",
+    "japones": "大名",
+    "definicion": "Señores feudales japoneses que gobernaban territorios provinciales y pertenecían a la clase samurái.",
+    "imagenes": []
+  },
+  {
+    "letra": "D",
+    "termino": "Dai-shō",
+    "japones": "大小",
+    "definicion": "Pareja de espadas con monturas a juego que se llevaban juntas: dai designa la espada larga y shō, la espada corta que la acompaña. Durante el período Edo, el derecho a portar el daishō estaba reservado a los samuráis.",
+    "imagenes": []
+  },
+  {
+    "letra": "D",
+    "termino": "Dewa",
+    "japones": "出羽",
+    "definicion": "Nombre de una antigua provincia o región japonesa que comprendía territorios de las actuales prefecturas de Akita y Yamagata.",
+    "imagenes": []
+  },
+  {
+    "letra": "D",
+    "termino": "Dōgane",
+    "japones": "胴金",
+    "definicion": "Herrajes metálicos de forma tubular instalados en la empuñadura (tsuka) o en la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "E",
+    "termino": "Eto",
+    "japones": "干支",
+    "definicion": "Sistema tradicional chino de ciclos calendáricos, basado en la combinación de los diez troncos celestes y las doce ramas terrestres. Se utilizaba, entre otros fines, para indicar fechas en las inscripciones de las espadas japonesas.",
+    "imagenes": []
+  },
+  {
+    "letra": "F",
+    "termino": "Fuchi",
+    "japones": "縁",
+    "definicion": "Anillo o collar decorativo y reforzado colocado en la base de la empuñadura (tsuka).",
+    "imagenes": []
+  },
+  {
+    "letra": "F",
+    "termino": "Fudō Myō-ō",
+    "japones": "不動明王",
+    "definicion": "Deidad budista conocida como el Rey Inamovible de la Sabiduría. Es considerada protectora de los practicantes de las artes marciales y aparece con frecuencia en los grabados decorativos (horimono) de las espadas.",
+    "imagenes": []
+  },
+  {
+    "letra": "F",
+    "termino": "Fukusa",
+    "japones": "",
+    "definicion": "Según la fuente original, curvatura del filo en la zona del kissaki. Conviene verificar este término, ya que la denominación habitual de la geometría de esa zona es fukura.",
+    "imagenes": []
+  },
+  {
+    "letra": "F",
+    "termino": "Fukurin",
+    "japones": "覆輪",
+    "definicion": "Banda de oro, plata o bronce que se coloca en los bordes de determinados elementos de la empuñadura o la vaina, por los lados del mune (lomo) y del ha (filo), para asegurar la pieza denominada ji-ita.",
+    "imagenes": []
+  },
+  {
+    "letra": "F",
+    "termino": "Funbari",
+    "japones": "踏ん張り",
+    "definicion": "Característica de una hoja que presenta un estrechamiento apreciable desde la base hacia la punta, o una reducción notable de su anchura en la zona próxima a la base.",
+    "imagenes": []
+  },
+  {
+    "letra": "F",
+    "termino": "Futasuji-hi",
+    "japones": "二筋樋",
+    "definicion": "Dos acanaladuras paralelas talladas en la hoja de la espada.",
+    "imagenes": []
+  },
+  {
+    "letra": "G",
+    "termino": "Gendaitō",
+    "japones": "現代刀",
+    "definicion": "Espadas japonesas modernas. En la clasificación histórica habitual, el término se aplica a las espadas fabricadas desde 1876, aunque los límites cronológicos pueden variar según la clasificación utilizada.",
+    "imagenes": []
+  },
+  {
+    "letra": "G",
+    "termino": "Goban-kaji",
+    "japones": "御番鍛冶",
+    "definicion": "Grupo de herreros espaderos convocados para trabajar al servicio del emperador retirado Go-Toba.",
+    "imagenes": []
+  },
+  {
+    "letra": "G",
+    "termino": "Goka-den",
+    "japones": "五箇伝",
+    "definicion": "Las cinco grandes tradiciones históricas de fabricación de espadas japonesas del período kotō: Yamashiro, Yamato, Bizen, Sōshū y Mino.",
+    "imagenes": []
+  },
+  {
+    "letra": "G",
+    "termino": "Goki shichidō",
+    "japones": "五畿七道",
+    "definicion": "Sistema geográfico y administrativo histórico de Japón que comprendía cinco provincias de la región capitalina y siete grandes circuitos territoriales. También se utiliza para clasificar a los herreros según su región y tradición estilística.",
+    "imagenes": []
+  },
+  {
+    "letra": "G",
+    "termino": "Gomabashi",
+    "japones": "護摩箸",
+    "definicion": "Grabado (horimono) con la forma de dos varillas rituales asociadas a las ceremonias budistas de goma.",
+    "imagenes": []
+  },
+  {
+    "letra": "G",
+    "termino": "Gunome",
+    "japones": "互の目",
+    "definicion": "Tipo de hamon cuyo contorno ondula formando una sucesión de curvas redondeadas, semejantes a semicírculos.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Ha",
+    "japones": "刃",
+    "definicion": "Zona templada y endurecida de la hoja, situada a lo largo del filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Habaki",
+    "japones": "鎺",
+    "definicion": "Collar metálico, a menudo decorado, que se coloca junto a la guarda (tsuba) y permite fijar firmemente la hoja dentro de la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Habaki-moto",
+    "japones": "鎺元",
+    "definicion": "Parte de la hoja que queda cubierta por el habaki.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Ha-buchi",
+    "japones": "刃縁",
+    "definicion": "Línea que separa el ha (zona del filo) del ji (superficie principal de la hoja).",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Ha-chō",
+    "japones": "刃長",
+    "definicion": "Longitud del filo, medida en línea recta desde el mune-machi hasta la punta del kissaki. Véase también nagasa.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hada",
+    "japones": "肌",
+    "definicion": "Patrón del veteado visible en la superficie del acero de la hoja. También se denomina jihada.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hadori",
+    "japones": "刃取り",
+    "definicion": "Técnica de pulido que resalta visualmente el hamon. También se conoce como kesho o pulido cosmético.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hagire",
+    "japones": "刃切れ",
+    "definicion": "Fisura fina que nace en el filo y se extiende hacia el interior de la hoja. Es un defecto importante que puede comprometer su integridad.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Haitōrei",
+    "japones": "廃刀令",
+    "definicion": "Edicto promulgado en Japón en 1876 que prohibió, con determinadas excepciones, llevar espadas en público.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hakikake",
+    "japones": "掃掛",
+    "definicion": "Efecto del hamon semejante a pinceladas, relacionado con el sunagashi y con ciertas formaciones de ashi.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Haki-omote",
+    "japones": "佩表",
+    "definicion": "Cara exterior de una espada que se lleva con el filo hacia abajo, como la tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Ha-machi",
+    "japones": "刃区",
+    "definicion": "Muesca que marca el comienzo del filo, en la transición entre la hoja y la zona próxima a la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hamon",
+    "japones": "刃紋",
+    "definicion": "Línea o patrón de temple visible a lo largo del filo, producido durante el endurecimiento diferencial de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Ha-saki",
+    "japones": "刃先",
+    "definicion": "Filo cortante que se extiende desde el ha-machi hasta la punta del kissaki.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hataraki",
+    "japones": "働き",
+    "definicion": "Conjunto de efectos y formaciones visibles dentro del hamon, originados durante el proceso de temple.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Ha-watari",
+    "japones": "刃渡り",
+    "definicion": "Longitud del filo. Véase también nagasa.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Heian-jidai",
+    "japones": "平安時代",
+    "definicion": "Período Heian de la historia japonesa, comprendido entre 794 y 1185 aproximadamente.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hi",
+    "japones": "樋",
+    "definicion": "Acanaladura tallada en la hoja para reducir su peso y, en algunos casos, con fines estéticos.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hikae-mekugi-ana",
+    "japones": "控え目釘穴",
+    "definicion": "Segundo orificio de la espiga (nakago), situado cerca de su extremo (nakago-jiri), que en ocasiones se añade para colocar un pasador de retención adicional.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hira-ji",
+    "japones": "平地",
+    "definicion": "Superficie de la hoja comprendida entre el shinogi (arista longitudinal) y el filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hira-zukuri",
+    "japones": "平造り",
+    "definicion": "Estilo de construcción de la hoja sin shinogi (arista longitudinal prominente), con superficies relativamente planas en ambos lados.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hiro-suguha",
+    "japones": "広直刃",
+    "definicion": "Hamon suguha ancho, caracterizado por una línea de temple predominantemente recta.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hitatsura",
+    "japones": "皆焼",
+    "definicion": "Tipo de hamon en el que las formaciones de temple aisladas (tobiyaki) aparecen abundantemente distribuidas por gran parte de la superficie de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Horimono",
+    "japones": "彫り物",
+    "definicion": "Grabados decorativos, simbólicos o religiosos tallados en la hoja de la espada.",
+    "imagenes": []
+  },
+  {
+    "letra": "H",
+    "termino": "Hyōgo-gusari koshirae",
+    "japones": "兵庫鎖拵",
+    "definicion": "Tipo de montura de tachi resistente y funcional, popular entre samuráis de alto rango a finales del siglo XII. Sus elementos de suspensión (ashi) están construidos con cadenas metálicas.",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Ichimonji-ha",
+    "japones": "一文字派",
+    "definicion": "Escuela de herreros espaderos del siglo XIII perteneciente a la tradición de Bizen, conocida por sus espadas con patrones de temple característicos.",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Ichi-no-ashi",
+    "japones": "一の足",
+    "definicion": "Herraje ashi-kanamono situado más cerca de la boca de la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Ikubi-kissaki",
+    "japones": "猪首切先",
+    "definicion": "Punta (kissaki) robusta y corta, cuya anchura es mayor que su longitud.",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Inazuma",
+    "japones": "稲妻",
+    "definicion": "Literalmente, «relámpago». Línea de nie que aparece dentro del hamon y recuerda la forma de un rayo.",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Iori-mune",
+    "japones": "庵棟",
+    "definicion": "Lomo de la hoja (mune) con dos planos inclinados que se encuentran formando una arista central, semejante al tejado de una casa tradicional.",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Ishizuki",
+    "japones": "石突",
+    "definicion": "Contera o pieza protectora situada en el extremo inferior de la vaina (saya-jiri).",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Itame-hada",
+    "japones": "板目肌",
+    "definicion": "Patrón del veteado del acero que recuerda las vetas de la madera, con formas semejantes a las de las tablas.",
+    "imagenes": []
+  },
+  {
+    "letra": "I",
+    "termino": "Ito-maki-tachi-koshirae",
+    "japones": "糸巻太刀拵",
+    "definicion": "Tipo de montura de tachi en la que el encordado de la empuñadura se prolonga mediante un patrón de envoltura en la parte superior de la vaina, denominado watari-maki.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Ji",
+    "japones": "地",
+    "definicion": "Superficie de la hoja comprendida entre el shinogi y el hamon.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Jifu",
+    "japones": "地斑",
+    "definicion": "Manchas o agrupaciones de ji-nie densamente concentradas en la superficie del acero.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Jifu-utsuri",
+    "japones": "地斑映り",
+    "definicion": "Tipo de utsuri que aparece de forma discontinua, en manchas o agrupaciones separadas.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Ji-gane",
+    "japones": "地金",
+    "definicion": "Acero que constituye el cuerpo de la hoja forjada.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Ji-hada",
+    "japones": "地肌",
+    "definicion": "Veteado visible en la superficie del acero, entre el hamon y el shinogi. Véase también hada.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Ji-ita",
+    "japones": "地板",
+    "definicion": "Lámina fina de metal dorado o grabado aplicada a la vaina (saya) o a la empuñadura (tsuka), y fijada mediante un borde o reborde denominado fukurin.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Ji-nie",
+    "japones": "地沸",
+    "definicion": "Partículas cristalinas de nie visibles en el ji, la superficie principal de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Ji-tetsu",
+    "japones": "地鉄",
+    "definicion": "Acero de la hoja considerado por sus características y estructura. Véanse también hada y ji-gane.",
+    "imagenes": []
+  },
+  {
+    "letra": "J",
+    "termino": "Jūka-chōji",
+    "japones": "重花丁子",
+    "definicion": "Patrón de hamon formado por múltiples figuras de chōji (formas semejantes a flores de clavo) agrupadas y superpuestas.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kabuto-gane",
+    "japones": "兜金",
+    "definicion": "Casquete o pieza terminal que remata el extremo de la empuñadura (tsuka).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaen",
+    "japones": "火焔",
+    "definicion": "Tipo de bōshi cuyo patrón recuerda a llamas de fuego.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaeri",
+    "japones": "返り",
+    "definicion": "Parte del bōshi que se vuelve hacia la espiga (nakago), siguiendo el lomo (mune) de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaeri-zuno",
+    "japones": "返り角",
+    "definicion": "Pequeño gancho fijado a la vaina (saya) que impide que esta se salga del cinturón.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaiken",
+    "japones": "懐剣",
+    "definicion": "Daga pequeña que se llevaba oculta entre las prendas.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaki-tōshi",
+    "japones": "掻通し",
+    "definicion": "Tipo de acanaladura que termina estrechándose dentro de la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaki-nagashi",
+    "japones": "掻流し",
+    "definicion": "Tipo de acanaladura que continúa hasta el extremo de la espiga (nakago-jiri).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kaku-tome",
+    "japones": "角止め",
+    "definicion": "Terminación cuadrada de una acanaladura, que generalmente acaba justo antes del habaki.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kamakura-jidai",
+    "japones": "鎌倉時代",
+    "definicion": "Período Kamakura de la historia japonesa, comprendido entre 1185 y 1333.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kanbun-shintō",
+    "japones": "寛文新刀",
+    "definicion": "Espadas fabricadas alrededor de la era Kanbun (1661-1673), dentro del período de las espadas nuevas (shintō).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kanitsume",
+    "japones": "蟹爪",
+    "definicion": "Variante del hamon gunome cuyas formas recuerdan a las pinzas de un cangrejo.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kanmuri-otoshi-zukuri",
+    "japones": "冠落とし造り",
+    "definicion": "Estilo de construcción en el que se rebaja en bisel parte del lomo de la hoja, de manera semejante a ciertas hojas de naginata.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kara-tsuba",
+    "japones": "唐鐔",
+    "definicion": "Guarda (tsuba) de estilo chino, utilizada originalmente en las monturas formales de las kara-tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kasane",
+    "japones": "重ね",
+    "definicion": "Espesor de la hoja de la espada.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kashira",
+    "japones": "頭",
+    "definicion": "Pomo o casquete decorativo que remata y protege el extremo de la empuñadura (tsuka).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kataochi-gunome",
+    "japones": "片落互の目",
+    "definicion": "Variante del gunome con partes superiores aplanadas e inclinadas en una misma dirección, semejantes a los dientes de una sierra.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Katana",
+    "japones": "刀",
+    "definicion": "Espada japonesa curva que se lleva con el filo hacia arriba, introducida en el cinturón (obi).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Katte-agari-yasuri",
+    "japones": "勝手上り鑢",
+    "definicion": "Patrón de marcas de lima en la espiga (nakago) que, según la orientación de referencia, ascienden hacia la izquierda.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Katte-sagari-yasuri",
+    "japones": "勝手下り鑢",
+    "definicion": "Patrón de marcas de lima en la espiga (nakago) que, según la orientación de referencia, descienden hacia la derecha.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kawara-gane",
+    "japones": "瓦金",
+    "definicion": "Pequeña tira de metal o cuerno utilizada para reforzar la abertura del alojamiento del kōgai (kōgai-hitsu).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kawazu-ko-chōji",
+    "japones": "蛙子丁子",
+    "definicion": "Variante del patrón chōji cuyas formas recuerdan a renacuajos.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kazari-tachi-koshirae",
+    "japones": "飾太刀拵",
+    "definicion": "Montura ceremonial de tachi, ricamente decorada y popular durante el apogeo de los gobiernos aristocráticos de los períodos Nara y Heian.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kazu-uchimono",
+    "japones": "数打ち物",
+    "definicion": "Espadas fabricadas en serie, generalmente con menor atención a la calidad artística individual.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ken",
+    "japones": "剣",
+    "definicion": "Espada recta de tradición china, utilizada con fines rituales y frecuentemente asociada con Fudō Myō-ō.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Keichō",
+    "japones": "慶長",
+    "definicion": "Era japonesa comprendida entre 1596 y 1615.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Keichō-shintō",
+    "japones": "慶長新刀",
+    "definicion": "Espadas fabricadas alrededor de la era Keichō (1596-1615), en los comienzos del período shintō.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Keshō",
+    "japones": "化粧",
+    "definicion": "Pulido cosmético que resalta visualmente el hamon. Véase hadori.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kinsuji",
+    "japones": "金筋",
+    "definicion": "Literalmente, «línea dorada». Línea brillante de nie que aparece dentro del hamon.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kiriha-zukuri",
+    "japones": "切刃造",
+    "definicion": "Estilo de construcción en el que el shinogi se encuentra próximo al filo de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kiri-yasuri",
+    "japones": "切り鑢",
+    "definicion": "Marcas de lima horizontales en la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kissaki",
+    "japones": "切先",
+    "definicion": "Punta de la espada, comprendida entre el extremo de la hoja y la línea transversal denominada yokote.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kissaki-moroha-zukuri",
+    "japones": "切先諸刃造り",
+    "definicion": "Estilo de hoja con doble filo en la zona próxima a la punta, en el área de corte denominada monouchi.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-",
+    "japones": "小",
+    "definicion": "Prefijo japonés que significa «pequeño». Por ejemplo, ko-nie significa partículas pequeñas de nie.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-ashi",
+    "japones": "小足",
+    "definicion": "Ashi pequeños: líneas o formaciones finas que se extienden desde el hamon hacia el filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kobuse",
+    "japones": "甲伏",
+    "definicion": "Método de construcción de hojas en el que un acero exterior, destinado a formar la zona de corte, envuelve un núcleo de acero de menor contenido de carbono. El conjunto se forja hasta obtener la forma de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kobushi-gata-chōji",
+    "japones": "拳形丁子",
+    "definicion": "Patrón chōji cuyas formas recuerdan a puños cerrados.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-dachi",
+    "japones": "小太刀",
+    "definicion": "Espada corta del tipo tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kōgai",
+    "japones": "笄",
+    "definicion": "Instrumento alargado semejante a un punzón, a veces con un extremo ligeramente ensanchado o ahuecado. Se utilizaba para arreglar el cabello y, según el diseño, para limpiar los oídos.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kōgai-hitsu",
+    "japones": "笄櫃",
+    "definicion": "Alojamiento o compartimento de la vaina (saya) destinado a guardar el kōgai.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kogatana",
+    "japones": "小刀",
+    "definicion": "Cuchillo pequeño de uso práctico o utilitario.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Koi-guchi",
+    "japones": "鯉口",
+    "definicion": "Boca o abertura de la vaina (saya), por donde se introduce y extrae la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-itame",
+    "japones": "小板目",
+    "definicion": "Patrón de veteado fino del acero, con pequeñas figuras semejantes a las vetas de la madera.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kojiri",
+    "japones": "小尻",
+    "definicion": "Pieza o herraje decorativo situado en el extremo inferior de la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-maru",
+    "japones": "小丸",
+    "definicion": "Tipo de bōshi cuya línea de temple se vuelve hacia el lomo formando una curva pequeña, redondeada y suave.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-nie",
+    "japones": "小沸",
+    "definicion": "Partículas cristalinas pequeñas de nie visibles en la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Konuka-hada",
+    "japones": "小糠肌",
+    "definicion": "Tipo de veteado del acero, especialmente asociado con las espadas de Hizen, caracterizado por una textura fina semejante al salvado de arroz.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Koshi-ba",
+    "japones": "腰刃",
+    "definicion": "Sección del hamon especialmente pronunciada o elaborada cerca de la base de la hoja, en contraste con el resto del patrón.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Koshi-bi",
+    "japones": "腰樋",
+    "definicion": "Acanaladura corta tallada en la hoja, cerca de la zona de la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-shinogi",
+    "japones": "小鎬",
+    "definicion": "Tramo de la arista (shinogi) que se extiende desde el yokote hasta la punta, dentro del kissaki.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Koshi-no-hiraita",
+    "japones": "腰の開いた",
+    "definicion": "Patrón de ondulaciones amplias en la base, con curvas abiertas y suaves, generalmente asociado con diseños chōji.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Koshirae",
+    "japones": "拵え",
+    "definicion": "Conjunto completo de montura y accesorios de una espada, incluidas la empuñadura, la guarda, la vaina y sus herrajes.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Koshi-zori",
+    "japones": "腰反り",
+    "definicion": "Curvatura de la hoja cuyo punto de máxima profundidad se encuentra cerca de la base, junto a la espiga.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kotō",
+    "japones": "古刀",
+    "definicion": "«Espadas antiguas»: categoría histórica de espadas japonesas fabricadas antes del período Edo, según la clasificación tradicional.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Ko-wakizashi",
+    "japones": "小脇差",
+    "definicion": "Wakizashi de tamaño pequeño.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kozuka",
+    "japones": "小柄",
+    "definicion": "Término que designa el mango decorativo del pequeño cuchillo auxiliar (kogatana) y, por extensión, el conjunto formado por el mango y el cuchillo ensamblados.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kozuka-hitsu",
+    "japones": "小柄櫃",
+    "definicion": "Alojamiento de la vaina (saya) destinado a guardar el kozuka, normalmente en la cara opuesta a la del kōgai-hitsu.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kuchi-kanamono",
+    "japones": "口金物",
+    "definicion": "Herraje metálico que protege la boca de la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kuichigai-ba",
+    "japones": "食い違い刃",
+    "definicion": "Interrupción o cambio de dirección del hamon en el que dos secciones parecen solaparse. Es una característica que se encuentra en algunas hojas de la tradición Yamato (Yamato-den).",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kuri-jiri",
+    "japones": "栗尻",
+    "definicion": "Tipo de extremo de la espiga (nakago-jiri) redondeado, semejante a la forma de una castaña.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kurikara",
+    "japones": "倶利伽羅",
+    "definicion": "Grabado (horimono) de un dragón enroscado alrededor de una espada recta (ken), representación asociada con Fudō Myō-ō.",
+    "imagenes": []
+  },
+  {
+    "letra": "K",
+    "termino": "Kurikata",
+    "japones": "栗形",
+    "definicion": "Saliente con un orificio fijado en la parte exterior de la vaina (saya), por el que pasa el cordón de sujeción (sageo).",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Machi",
+    "japones": "区",
+    "definicion": "Muescas que marcan el final del lomo (mune-machi) y el comienzo del filo (ha-machi), en la transición entre la hoja y la espiga.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Maru-dome",
+    "japones": "丸止め",
+    "definicion": "Terminación redondeada de una acanaladura tallada en la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Maru-mune",
+    "japones": "丸棟",
+    "definicion": "Lomo de la hoja (mune) de sección redondeada.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Masame-hada",
+    "japones": "柾目肌",
+    "definicion": "Patrón de veteado del acero con líneas rectas y paralelas, semejantes a las vetas longitudinales de la madera.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mei",
+    "japones": "銘",
+    "definicion": "Firma o inscripción grabada en la espiga (nakago) de la espada.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mekugi",
+    "japones": "目釘",
+    "definicion": "Pasador, tradicionalmente de bambú, que fija la empuñadura (tsuka) a la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mekugi-ana",
+    "japones": "目釘穴",
+    "definicion": "Orificio de la espiga (nakago) por el que se introduce el pasador mekugi.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mekugi-nuki",
+    "japones": "目釘抜き",
+    "definicion": "Herramienta utilizada para extraer el pasador mekugi.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Menuki",
+    "japones": "目貫",
+    "definicion": "Adornos metálicos colocados en los lados de la empuñadura (tsuka), tradicionalmente bajo el encordado y utilizados también para mejorar el agarre.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Midare-komi",
+    "japones": "乱れ込み",
+    "definicion": "Tipo de bōshi en el que el patrón irregular del hamon (midare) continúa hasta la punta (kissaki).",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Midare",
+    "japones": "乱れ",
+    "definicion": "Patrón irregular u ondulado del hamon. En sentido amplio, se contrapone a suguha, el patrón de temple recto.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Midare-utsuri",
+    "japones": "乱れ映り",
+    "definicion": "Utsuri de patrón irregular u ondulado, visible en la superficie de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mihaba",
+    "japones": "身幅",
+    "definicion": "Anchura de la hoja, medida desde el lomo (mune) hasta el filo (ha).",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mitsu-gashira",
+    "japones": "三ツ頭",
+    "definicion": "Punto de encuentro del shinogi, el ko-shinogi y el yokote, según la terminología geométrica de la punta.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mitsu-kado",
+    "japones": "三ツ角",
+    "definicion": "Punto en el que se encuentran el yokote, el filo de la punta (ha-saki) y la curva del fukura.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mitsu-mune",
+    "japones": "三ツ棟",
+    "definicion": "Lomo de la hoja (mune) con una sección transversal de tres caras.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mokume-hada",
+    "japones": "木目肌",
+    "definicion": "Patrón del veteado del acero semejante al itame-hada, pero con formas más redondeadas, similares a los anillos de la madera.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mune-machi",
+    "japones": "棟区",
+    "definicion": "Muesca del lomo (mune) que marca el límite entre la hoja y la espiga. Véase machi.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Monouchi",
+    "japones": "物打",
+    "definicion": "Zona de la hoja próxima a la punta, aproximadamente el tercio comprendido desde el yokote hacia la base. Es una región importante para el corte.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Moroha-zukuri",
+    "japones": "諸刃造り",
+    "definicion": "Estilo de hoja con filo en ambos lados, generalmente con una geometría asimétrica.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mune",
+    "japones": "棟）, también mine（峰",
+    "definicion": "Lomo o dorso de la hoja, opuesto al filo cortante.",
+    "imagenes": []
+  },
+  {
+    "letra": "M",
+    "termino": "Mu-zori",
+    "japones": "無反り",
+    "definicion": "Hoja sin curvatura apreciable; es decir, prácticamente recta.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nagare-hada",
+    "japones": "流れ肌",
+    "definicion": "Patrón de veteado del acero cuyas líneas parecen fluir longitudinalmente a lo largo de la hoja, como una corriente de agua.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nagasa",
+    "japones": "長さ",
+    "definicion": "Longitud de la hoja, medida desde la punta hasta el mune-machi siguiendo el método tradicional japonés de medición.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Naginata",
+    "japones": "薙刀",
+    "definicion": "Arma japonesa de asta larga, provista de una hoja curva montada en el extremo, similar en función general a una alabarda.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nakago",
+    "japones": "茎",
+    "definicion": "Espiga de la espada: parte de la hoja que se introduce dentro de la empuñadura (tsuka).",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nakago-jiri",
+    "japones": "茎尻",
+    "definicion": "Extremo final de la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nanatsu-gane",
+    "japones": "七ツ金",
+    "definicion": "Herrajes metálicos utilizados para ajustar la longitud de las correas de suspensión (obi-tori). Según la descripción original, hay tres en el ichi-no-ashi y cuatro en el ni-no-ashi.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nanbokuchō-jidai",
+    "japones": "南北朝時代",
+    "definicion": "Período de las Cortes del Norte y del Sur de Japón, comprendido aproximadamente entre 1333 y 1392.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nashi-ji",
+    "japones": "梨地",
+    "definicion": "Literalmente, «superficie de pera». Acabado decorativo moteado que recuerda la textura de la piel de una pera, utilizado especialmente en trabajos de laca y metalistería.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nezumi-ashi",
+    "japones": "鼠足",
+    "definicion": "Ashi muy pequeños y finos que se extienden desde el hamon hacia el filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nie",
+    "japones": "沸",
+    "definicion": "Cristales de martensita visibles individualmente a simple vista en la estructura de temple de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nie-deki",
+    "japones": "沸出来",
+    "definicion": "Hoja cuyo hamon presenta predominantemente nie, con cristales claramente distinguibles a simple vista.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nihontō",
+    "japones": "日本刀",
+    "definicion": "Espadas japonesas, especialmente las fabricadas según las tradiciones japonesas de forja y construcción.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Ni-no-ashi",
+    "japones": "二の足",
+    "definicion": "Herraje ashi-kanamono situado más lejos de la boca de la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nioi",
+    "japones": "匂",
+    "definicion": "Estructura de temple formada por partículas de martensita tan finas que no se distinguen individualmente a simple vista. Su aspecto puede recordar una neblina luminosa.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nioi-deki",
+    "japones": "匂出来",
+    "definicion": "Hoja cuyo hamon está formado principalmente por nioi, con una apariencia fina y difusa.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nioi-guchi",
+    "japones": "匂口",
+    "definicion": "Banda o línea de transición que delimita visualmente el hamon respecto al ji.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Nōdachi",
+    "japones": "野太刀",
+    "definicion": "Espada japonesa de gran longitud, asociada especialmente con el período Nanbokuchō.",
+    "imagenes": []
+  },
+  {
+    "letra": "N",
+    "termino": "Notare",
+    "japones": "湾れ",
+    "definicion": "Patrón de hamon con ondulaciones amplias, suaves y fluidas.",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Ō",
+    "japones": "大",
+    "definicion": "Prefijo que significa «grande». Por ejemplo, ō-gunome designa un patrón gunome de gran tamaño.",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Obi-tori",
+    "japones": "帯執",
+    "definicion": "Correas de cuero de la montura de una tachi, destinadas a pasar por el cinturón y sujetar la espada.",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Ō-busa",
+    "japones": "大房",
+    "definicion": "Formación grande y ascendente del patrón chōji del hamon.",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Ōdachi",
+    "japones": "大太刀",
+    "definicion": "Espada japonesa de gran longitud, con un filo superior a 3 shaku (aproximadamente 91 cm).",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Omote",
+    "japones": "表",
+    "definicion": "Cara exterior o frontal de la hoja. Su identificación depende de si se trata de una tachi o una katana.",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Ō-seppa",
+    "japones": "大切羽",
+    "definicion": "Separadores metálicos (seppa) de gran tamaño, adaptados a la forma de la guarda (tsuba).",
+    "imagenes": []
+  },
+  {
+    "letra": "O",
+    "termino": "Oshigata",
+    "japones": "押し型",
+    "definicion": "Calco o reproducción del contorno de la hoja y de la espiga (nakago). Posteriormente, el hamon y otras características se dibujan a mano.",
+    "imagenes": []
+  },
+  {
+    "letra": "R",
+    "termino": "Raden",
+    "japones": "螺鈿",
+    "definicion": "Técnica decorativa que utiliza incrustaciones de nácar, generalmente procedente de conchas, sobre superficies como la madera lacada.",
+    "imagenes": []
+  },
+  {
+    "letra": "R",
+    "termino": "Ryō-shinogi-zukuri",
+    "japones": "両鎬造り",
+    "definicion": "Construcción de hoja que presenta una arista longitudinal elevada (shinogi) en cada una de sus dos caras.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sageo",
+    "japones": "下げ緒",
+    "definicion": "Cordón sujeto a la vaina (saya) mediante el kurikata, utilizado para asegurar o sujetar la espada al cinturón (obi).",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saka-ashi",
+    "japones": "逆足",
+    "definicion": "Ashi inclinados en dirección oblicua o inversa respecto a la orientación habitual del patrón.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saka-chōji",
+    "japones": "逆丁子",
+    "definicion": "Patrón chōji cuyas formas se inclinan en dirección inversa a la habitual.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saki-hada",
+    "japones": "先肌",
+    "definicion": "Según la fuente original, anchura de la hoja en la zona del yokote. Conviene verificar este término, pues la definición podría corresponder a una denominación geométrica más específica.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saki-zori",
+    "japones": "先反り",
+    "definicion": "Curvatura de la hoja cuyo punto de máxima profundidad se encuentra en la mitad superior, próxima a la punta.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sanbon-sugi",
+    "japones": "三本杉",
+    "definicion": "Patrón de hamon que recuerda a una sucesión de grupos de tres cedros, con formas puntiagudas repetidas a lo largo de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saru-te",
+    "japones": "猿手",
+    "definicion": "Anilla destinada a sujetar un cordón de suspensión o retención denominado ude-nukio.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saya",
+    "japones": "鞘",
+    "definicion": "Vaina que protege y aloja la hoja de la espada.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Saya-jiri",
+    "japones": "鞘尻",
+    "definicion": "Extremo inferior exterior de la vaina (saya).",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Seoi-dachi",
+    "japones": "背負い太刀",
+    "definicion": "Espadas que se llevaban sujetas a la espalda.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shaku",
+    "japones": "尺",
+    "definicion": "Unidad tradicional japonesa de longitud. Un shaku equivale aproximadamente a 30,3 cm.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Semegane",
+    "japones": "責金",
+    "definicion": "Banda metálica decorativa que refuerza la vaina (saya) entre el segundo herraje de suspensión (ni-no-ashi) y la contera (ishizuki).",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sengoku-jidai",
+    "japones": "戦国時代",
+    "definicion": "Período de los Estados Combatientes de Japón. La fuente indica 1493-1573, aunque las fechas varían según el criterio histórico empleado.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Seppa",
+    "japones": "切羽",
+    "definicion": "Arandelas o separadores metálicos situados a ambos lados de la guarda (tsuba), entre esta, la empuñadura (tsuka) y el collar de la hoja (habaki), para ajustar y estabilizar el conjunto.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shinogi",
+    "japones": "鎬",
+    "definicion": "Arista longitudinal elevada de la hoja que separa el plano principal (hira-ji) de la superficie lateral (shinogi-ji).",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shinogi-ji",
+    "japones": "鎬地",
+    "definicion": "Superficie de la hoja comprendida entre el shinogi y el lomo (mune).",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shinogi-suji",
+    "japones": "鎬筋",
+    "definicion": "Línea o arista del shinogi que separa el hira-ji del shinogi-ji y recorre longitudinalmente la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shinogi-zukuri",
+    "japones": "鎬造り",
+    "definicion": "Estilo de construcción de hoja con una arista longitudinal prominente (shinogi) situada hacia el lado del lomo.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shinshintō",
+    "japones": "新々刀",
+    "definicion": "Categoría histórica de espadas japonesas fabricadas aproximadamente entre 1781 y 1868.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shintō",
+    "japones": "新刀",
+    "definicion": "Categoría histórica de espadas japonesas fabricadas aproximadamente entre 1600 y 1781.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Shirasaya",
+    "japones": "白鞘",
+    "definicion": "Montura sencilla de madera sin decoración, compuesta por empuñadura y vaina, utilizada para guardar y proteger la hoja cuando no se encuentra en su montura de uso.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sōden-Bizen",
+    "japones": "相伝備前",
+    "definicion": "Espadas de la tradición Bizen que incorporan características estilísticas de la tradición Sōshū.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Soe-bi",
+    "japones": "添樋",
+    "definicion": "Acanaladura secundaria, más estrecha, tallada paralelamente a una acanaladura principal.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sori",
+    "japones": "反り",
+    "definicion": "Curvatura de la hoja de una espada japonesa.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sōshū-den",
+    "japones": "相州伝",
+    "definicion": "Tradición de fabricación de espadas originada en la antigua provincia de Sagami, asociada con la escuela de Sōshū.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sudare-ba",
+    "japones": "簾刃",
+    "definicion": "Patrón de hamon que recuerda a las pinceladas de un pincel o a las varillas de una cortina de bambú.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sugata",
+    "japones": "姿",
+    "definicion": "Forma o silueta general de la hoja, incluidas su longitud, curvatura, anchura y geometría.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Suguha",
+    "japones": "直刃",
+    "definicion": "Patrón de hamon predominantemente recto, que sigue el filo de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sujikai-yasuri",
+    "japones": "筋違鑢",
+    "definicion": "Patrón de marcas de lima diagonales y pronunciadas en la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Suken",
+    "japones": "素剣",
+    "definicion": "Espada recta de tipo ritual, también denominada ken, de tradición china y frecuentemente asociada con Fudō Myō-ō.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sun",
+    "japones": "寸",
+    "definicion": "Unidad tradicional japonesa de longitud. Un sun equivale aproximadamente a 3,03 cm; diez sun equivalen a un shaku.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sunagashi",
+    "japones": "砂流し",
+    "definicion": "Efecto visible en el hamon formado por líneas finas que recuerdan a arena arrastrada por una corriente.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Sunnobi-tantō",
+    "japones": "寸延短刀",
+    "definicion": "Tantō de longitud superior a la habitual, con una hoja alargada para esta categoría.",
+    "imagenes": []
+  },
+  {
+    "letra": "S",
+    "termino": "Suriage",
+    "japones": "磨り上げ",
+    "definicion": "Hoja acortada respecto a su longitud original, normalmente mediante la modificación de la zona de la espiga (nakago).",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tachi",
+    "japones": "太刀",
+    "definicion": "Espada diseñada para llevarse suspendida del cinturón, con el filo hacia abajo.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tachi-o / Haki-o",
+    "japones": "太刀緒・佩緒",
+    "definicion": "Cordón fino de unos tres metros que pasa por los obi-tori. Se utilizaba para llevar el tachi en tiempos de paz.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tachi-mei",
+    "japones": "太刀銘",
+    "definicion": "Firma grabada en la cara del nakago que queda hacia el exterior cuando la espada se lleva suspendida con el filo hacia abajo.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Taiko-gane / Mon-gane",
+    "japones": "太鼓金・文金",
+    "definicion": "Tachón metálico decorativo utilizado para fijar el ashi-kawa. A menudo presenta el emblema heráldico (mon) de un clan.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Taiko-gawa",
+    "japones": "太鼓革",
+    "definicion": "Correa de cuero del tipo ashi-kawa cuya base tiene forma redondeada, semejante a un tambor taiko.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tamahagane",
+    "japones": "玉鋼",
+    "definicion": "Acero japonés tradicional utilizado en la fabricación de espadas japonesas, obtenido mediante un proceso de fundición tradicional.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tantō",
+    "japones": "短刀",
+    "definicion": "Daga japonesa cuya hoja mide menos de 30 cm, según la definición de esta fuente.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tawarabyō",
+    "japones": "俵鋲",
+    "definicion": "Clavos decorativos que originalmente se utilizaban para fijar el revestimiento de cuero (same-gawa) en antiguas monturas de tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Togariba",
+    "japones": "尖刃",
+    "definicion": "Formas puntiagudas que sobresalen del hamon.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Torii-zori",
+    "japones": "鳥居反り",
+    "definicion": "Hoja con una curvatura uniforme a lo largo de su longitud.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tsuba",
+    "japones": "鍔・鐔",
+    "definicion": "Guarda de la espada japonesa, situada entre la hoja y la empuñadura.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tsuchioki",
+    "japones": "土置き",
+    "definicion": "Aplicación de arcilla sobre la hoja antes del proceso de temple, para controlar la velocidad de enfriamiento y producir el hamon.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tsuka",
+    "japones": "柄",
+    "definicion": "Empuñadura de la espada japonesa.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tsurugi",
+    "japones": "剣",
+    "definicion": "Otra palabra japonesa para designar una espada; suele referirse especialmente a la espada recta de doble filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tsutsu-gane / Naga-kanamono",
+    "japones": "筒金・長金物",
+    "definicion": "Herrajes metálicos cilíndricos y alargados utilizados como elementos decorativos en la montura.",
+    "imagenes": []
+  },
+  {
+    "letra": "T",
+    "termino": "Tsuyusaki-gane / Shizuku-gane",
+    "japones": "露先金・雫金",
+    "definicion": "Piezas metálicas decorativas colocadas en los extremos del cordón ude-nuki-o.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Ubu",
+    "japones": "生ぶ",
+    "definicion": "Original, sin modificaciones importantes. Se utiliza especialmente para indicar que el nakago conserva su longitud y forma originales.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Ubu-ha",
+    "japones": "生ぶ刃",
+    "definicion": "Sección del filo próxima al ha-machi que todavía no ha sido afilada. Es característica de algunas hojas nuevas.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Uchi-gatana",
+    "japones": "打ち刀",
+    "definicion": "Espada desarrollada para llevarse introducida en el cinturón, con el filo hacia arriba, y utilizarse principalmente con una mano durante el período Muromachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Uchi-gatana-koshirae",
+    "japones": "打ち刀拵え",
+    "definicion": "Término general para las monturas prácticas de las espadas uchi-gatana, especialmente las del período Sengoku. Más adelante se asociaron con las monturas de katana.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Uchi-noke",
+    "japones": "打除け",
+    "definicion": "Pequeñas formas de media luna que aparecen en el ji, cerca del hamon, y que recuerdan al patrón nijū-ba.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Uchi-zori",
+    "japones": "内反り",
+    "definicion": "Curvatura en la que el lomo de la hoja se arquea hacia el filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Ude-nuki-o / Te-nuki-o",
+    "japones": "腕抜き緒・手抜き緒",
+    "definicion": "Cordón que se enrolla alrededor de la muñeca para ayudar a mantener la espada sujeta en la mano.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Ura",
+    "japones": "裏",
+    "definicion": "Cara posterior de la hoja, en oposición a omote (表). La orientación exacta depende del tipo de espada y de cómo se lleve.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Ura-gawara",
+    "japones": "裏瓦",
+    "definicion": "Pequeña tira de metal o cuerno que refuerza la abertura del kozuka-hitsu, el alojamiento del cuchillo auxiliar en la vaina.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Utsuri",
+    "japones": "映り",
+    "definicion": "«Reflejo»: formación blanquecina, semejante a una neblina, visible en el ji y aproximadamente paralela al hamon.",
+    "imagenes": []
+  },
+  {
+    "letra": "U",
+    "termino": "Utsushi-mono",
+    "japones": "写し物",
+    "definicion": "Reproducción de una obra maestra antigua. Se distingue de una falsificación porque busca reproducir su estilo como ejercicio artístico o técnico, no engañar sobre su autenticidad.",
+    "imagenes": []
+  },
+  {
+    "letra": "W",
+    "termino": "Wakizashi",
+    "japones": "脇差",
+    "definicion": "Espada japonesa cuya hoja mide más de 30 cm y menos de 60 cm, según la clasificación de esta fuente. A menudo se llevaba como espada complementaria de la katana.",
+    "imagenes": []
+  },
+  {
+    "letra": "W",
+    "termino": "Watari-maki",
+    "japones": "渡巻",
+    "definicion": "En una montura ito-maki-tachi, envoltura de la saya que hace juego con el encordado de la empuñadura (tsuka-maki). Se extiende desde la boca de la vaina (koi-guchi) hasta un punto situado más allá del segundo herraje de suspensión (ni-no-ashi).",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yagura-gane",
+    "japones": "櫓金",
+    "definicion": "Herraje en forma de anilla que permite sujetar el obi-tori al herraje denominado yamagata-kanamono.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yaki-ba",
+    "japones": "焼き刃",
+    "definicion": "Zona endurecida de la hoja durante el temple; también llamada yakiba.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yaki-dashi",
+    "japones": "焼き出し",
+    "definicion": "Tramo inicial del hamon que comienza recto cerca del ha-machi y cambia después a otro patrón.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yaki-haba",
+    "japones": "焼き幅",
+    "definicion": "Anchura de la zona endurecida (yakiba), medida desde el filo hacia el interior de la hoja.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yaki-ire",
+    "japones": "焼き入れ",
+    "definicion": "Proceso de temple de la hoja: se calienta el acero y después se enfría rápidamente, habitualmente mediante inmersión en agua, para endurecer el filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yaki-otoshi",
+    "japones": "焼き落とし",
+    "definicion": "Característica en la que el hamon no comienza en el ha-machi, sino unos 3–5 cm más adelante, dejando sin endurecer el tramo inicial del filo.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yaki-dume",
+    "japones": "焼き詰め",
+    "definicion": "Tipo de bōshi que llega al extremo de la punta (kissaki) sin presentar un retorno (kaeri) hacia el lomo.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yari",
+    "japones": "槍",
+    "definicion": "Lanza japonesa, generalmente compuesta por una hoja montada en un asta larga.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yamagata",
+    "japones": "山形",
+    "definicion": "Con forma de montaña; describe un perfil triangular o con una elevación central.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yamagata-kanamono",
+    "japones": "山形金物",
+    "definicion": "Herraje con forma de montaña que forma parte de los accesorios de suspensión (ashi-kanamono) de una montura de tachi.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yasuri-me",
+    "japones": "鑢目",
+    "definicion": "Marcas de lima visibles en la espiga (nakago), que pueden ayudar a identificar la tradición o el trabajo de un herrero.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yō",
+    "japones": "葉",
+    "definicion": "Pequeñas formaciones dentro del hamon que recuerdan a hojas caídas.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yokote",
+    "japones": "横手",
+    "definicion": "Línea transversal que separa la punta (kissaki) del resto de la hoja, especialmente visible en espadas de estilo shinogi-zukuri.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yoroi-dōshi",
+    "japones": "鎧通し・鎧通",
+    "definicion": "Tipo de tantō robusto, diseñado históricamente para penetrar las aberturas de una armadura.",
+    "imagenes": []
+  },
+  {
+    "letra": "Y",
+    "termino": "Yubashiri",
+    "japones": "湯走り",
+    "definicion": "Concentración o agrupación de partículas de nie que se extiende por el ji, con apariencia de una corriente o salpicadura.",
+    "imagenes": []
+  },
+  {
+    "letra": "Z",
+    "termino": "Zaimei",
+    "japones": "在銘",
+    "definicion": "Hoja que conserva una firma (mei) original inscrita en el nakago.",
+    "imagenes": []
+  },
+  {
+    "letra": "Z",
+    "termino": "Zenchō",
+    "japones": "全長",
+    "definicion": "Longitud total de la espada, medida en línea recta desde el extremo del nakago hasta la punta (kissaki).",
+    "imagenes": []
+  }
+]
