@@ -2022,5 +2022,306 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dl][el][bm][cm][em][bn][en][eo][ep][fq][gr]AW[dm][cn][dn][do][dp][cq][dq][eq][er][fr])"
+  },
+  {
+    "id": 103,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Liberty counting",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][dn][do][cp][cq][eq][fq][br][cr][dr][fr][bs][ds][es]AW[bo][co][bp][dp][ep][fp][gp][aq][bq][dq][gq][ar][gr][as][fs][gs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Liberty counting",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][bp][cp][aq][dq][cr][dr][er][cs][fs][gs]AW[dp][ep][bq][cq][eq][fq][br][fr][gr][hr][bs][hs])",
+    "marcas": [
+      {
+        "x": 6,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Liberty counting",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][dq][eq][fq][ar][br][cr][gr][bs]AW[ao][bo][co][cp][bq][cq][dr][er][fr][cs][ds])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Liberty counting",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][hp][eq][hq][br][dr][er][fr][as][cs][ds][fs]AW[eo][ep][aq][bq][cq][dq][fq][gq][ar][cr][gr][gs])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Liberty counting",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][do][cp][bq][dq][eq][fq][ar][er][gr][bs][es][gs]AW[dp][ep][fp][gp][cq][gq][br][cr][dr][fr][hr][ds][hs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Liberty counting",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][bo][go][ap][dp][ep][aq][bq][cq][eq][gq][br][gr][bs][fs]AW[am][bm][cn][co][bp][cp][dq][cr][dr][er][fr][cs])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 12,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "libro": "Speed Baduk Level 4",
+    "tema": "How to increase liberties?",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][bq][fq][br]AW[fo][fp][cq][dq][eq][hq][dr])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "libro": "Speed Baduk Level 4",
+    "tema": "How to increase liberties?",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][cp][ep][cq][fq][ar][cr][bs]AW[fp][gp][dq][eq][hq][dr][cs][ds])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "libro": "Speed Baduk Level 4",
+    "tema": "How to increase liberties?",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][dq][fq][dr][cs][ds]AW[cn][do][dp][cq][br][cr][bs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "libro": "Speed Baduk Level 4",
+    "tema": "How to increase liberties?",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][ep][aq][bq][cq][dq]AW[go][ap][bp][cp][dp][eq][fq])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "libro": "Speed Baduk Level 4",
+    "tema": "How to increase liberties?",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][cp][ep][cq][fq][cr]AW[fp][gp][dq][eq][hq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "libro": "Speed Baduk Level 4",
+    "tema": "How to increase liberties?",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][dq][gq][hq][hr]AW[cp][dp][bq][eq][fq][fr][gr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
   }
 ]
