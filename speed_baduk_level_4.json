@@ -2555,5 +2555,243 @@
         "tipo": "triangle"
       }
     ]
+  },
+  {
+    "id": 128,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][cq][br][dr]AW[cn][bp][bq])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][cp][dp][ep][cq][cr]AW[go][gp][dq][eq][hq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][cp][ep][fp][dq][cr][dr]AW[cn][dn][do][dp][eq][fq])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bm][cm][bn][bo][cp][cq][eq][cr][bs]AW[bl][cl][dl][dm][cn][co][eo][bp][bq][br])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][cp][dp][cq][eq][fq][br][fr]AW[cm][bn][co][do][eo][ep][fp][gp][dq][hq][cr][dr][er])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[go][ep][fp][cq][dq][gq][hq][br][cr][ds]AW[bo][do][bp][dp][bq][eq][fq][ar][dr][er][gr])",
+    "marcas": [
+      {
+        "x": 6,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bp][cp][dp][bq][eq][fq][fr][es]AW[eo][ep][gp][cq][dq][gq][iq][br][dr][er])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][hp][cq][dq][eq][hq][dr][es]AW[eo][cp][ep][bq][fq][gq][br][er][fr][hr])",
+    "marcas": [
+      {
+        "x": 7,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][do][dp][aq][cq][br][cr]AW[cl][bn][co][eo][bp][cp][ep][bq][dq][fq][dr])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][ep][gp][cq][dq][gq][iq][dr][hr][es]AW[dn][do][bp][dp][bq][eq][fq][br][er][gr][fs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Capturing with hane",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][gq][iq][cr][hr][ds][fs]AW[do][bp][dp][bq][eq][fq][br][dr][er][gr][gs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
   }
 ]
