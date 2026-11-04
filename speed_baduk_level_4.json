@@ -2793,5 +2793,203 @@
         "tipo": "triangle"
       }
     ]
+  },
+  {
+    "id": 139,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][br][fr][bs]AW[gp][gq][cr][dr][er][gr][fs])"
+  },
+  {
+    "id": 140,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][go][ep][bq][cq][dq][fq][dr][ds]AW[dn][fn][eo][bp][cp][dp][aq][br][cr][bs])"
+  },
+  {
+    "id": 141,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][eo][dp][aq][bq][cq][cr]AW[ep][fp][dq][br][dr][fr][cs])"
+  },
+  {
+    "id": 142,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][gq][hq][br][fr][hr]AW[bp][bq][cr][dr][er][gr][bs][fs][gs])"
+  },
+  {
+    "id": 143,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][en][fn][bo][fo][bp][fp][bq][fq][cr][dr][er]AW[dl][cm][em][dn][co][eo][cp][ep][dq][eq])"
+  },
+  {
+    "id": 144,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][cq][fq][br][bs][cs]AW[go][gp][dq][eq][gq][cr][dr][fr])"
+  },
+  {
+    "id": 145,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][cq][eq][cr][er]AW[bo][co][do][eo][ep][bq][dq][ar][br][dr][cs][ds])"
+  },
+  {
+    "id": 146,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][ep][cq][fq][gq][cr][gr][cs]AW[bp][cp][bq][dq][eq][dr][fr][ds][fs])"
+  },
+  {
+    "id": 147,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][eo][cp][dp][fp][fq][cr][dr][er]AW[ap][bp][cq][dq][eq][ar][br][fr][gr])"
+  },
+  {
+    "id": 148,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][eo][ep][bq][cq][dq][cr]AW[ap][bp][cp][dp][aq][eq][gq][br][er][bs][ds])"
+  },
+  {
+    "id": 149,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][bq][dq][eq][gq][ar][br][fr]AW[cn][bo][bp][cq][cr][dr][er][bs][es])"
+  },
+  {
+    "id": 150,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][dp][ep][cq][fq][ar][br][er][fr][gr]AW[fp][gp][dq][eq][gq][iq][cr][dr][hr][bs][es])"
+  },
+  {
+    "id": 151,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][fp][cq][gq][hq][cr][hr]AW[bo][co][bp][dp][ep][bq][fq][br][er][gr])"
+  },
+  {
+    "id": 152,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bm][cm][dm][em][fn][eo][bp][ep][bq][cq][dq]AW[bo][do][cp][dp][eq][br][cr][dr][er])"
+  },
+  {
+    "id": 153,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][cp][dp][ep][cq][fq][br][fr][fs]AW[fp][gp][bq][dq][eq][gq][cr][hr][bs][ds])"
+  },
+  {
+    "id": 154,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][cn][dn][dp][ep][fp][bq][cq][eq][gq][er][gr]AW[co][cp][gp][hp][dq][fq][hq][br][cr][dr][fr][ir][es][fs])"
+  },
+  {
+    "id": 155,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][do][eo][ap][bp][cq][dq][dr][er][fr][gr]AW[cp][dp][ep][gp][aq][bq][eq][gq][iq][ar][cr][hr][as][cs][ds][gs])"
+  },
+  {
+    "id": 156,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Chokchoksu with Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][gp][cq][hq][cr][dr][fr][gr]AW[cn][co][bp][dp][ep][fp][bq][fq][br][er][bs][es])"
   }
 ]
