@@ -49,6 +49,47 @@
           "tipo": "triangle"
         }
       ]
-    }
+    },
+    {
+    "id": 3,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Increase the liberties a la piedras marcadas",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[io][bp][cp][ep][fp][gp][dq][fq][hq][dr][hr]AW[bo][co][do][dp][cq][eq][gq][er][fr][gr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Increase the liberties a la piedras marcadas",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[go][ep][fp][eq][gq][hq][dr][hr]AW[cn][do][dp][dq][fq][er][fr][gr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  }
   ]
 }
