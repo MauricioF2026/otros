@@ -2991,5 +2991,399 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][gp][cq][hq][cr][dr][fr][gr]AW[cn][co][bp][dp][ep][fp][bq][fq][br][er][bs][es])"
+  },
+  {
+    "id": 157,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][cq][eq][ar][cr][cs]AW[ao][bo][co][do][ap][bq][br][bs])"
+  },
+  {
+    "id": 158,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[gp][hp][aq][bq][cq][dq][eq][fq][hq][fr][hr][ds]AW[gq][ar][br][cr][dr][er][gr][bs][fs][gs])"
+  },
+  {
+    "id": 159,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][fo][go][cp][gp][cq][eq][gq][cr][gr][cs][gs]AW[dm][fm][en][eo][dp][fp][dq][fq][dr][fr][ds][es][fs])"
+  },
+  {
+    "id": 160,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][cn][co][cp][cq][eq][cr][er][as][es]AW[ao][bo][bp][aq][bq][br][dr][cs][ds])"
+  },
+  {
+    "id": 161,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][eq][fq][gq][br][gr][bs][es]AW[hp][hq][cr][dr][er][fr][hr][gs])"
+  },
+  {
+    "id": 162,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][eq][fq][br][gr][ds]AW[gp][gq][ar][cr][dr][er][fr][hr][as][bs])"
+  },
+  {
+    "id": 163,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][cp][cq][dr][er][gr][bs]AW[ap][bp][bq][ar][br][cr][ds][es])"
+  },
+  {
+    "id": 164,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][bp][cq][dq][eq][gq][ar][fr][cs]AW[ap][bq][br][cr][dr][er][es])"
+  },
+  {
+    "id": 165,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][fm][co][do][fo][go][cp][gp][cq][eq][gq][iq][cr][hr]AW[eo][dp][fp][dq][fq][dr][fr][gr][es][gs])"
+  },
+  {
+    "id": 166,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][cp][bq][cq][dq][er][as]AW[ap][bp][aq][eq][br][cr][dr][fr][cs])"
+  },
+  {
+    "id": 167,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][ap][cp][cq][dq][eq][er][gr][cs]AW[bp][aq][bq][br][cr][dr][es])"
+  },
+  {
+    "id": 168,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Double Throw in",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bl][cm][dm][bn][bo][do][eo][go][ap][cq][eq][ar][er][gr][ds]AW[cn][co][bp][dp][aq][bq][dq][br][dr][bs])"
+  },
+  {
+    "id": 169,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][fp][cq][fq][dr][er]AW[dm][do][cp][ep][dq][eq])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][bp][fp][cq][fq][dr][er]AW[dm][do][cp][dq][eq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][bo][bp][fp][cq][gq][dr][er][fr]AW[dm][co][do][cp][ep][dq][eq][fq])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][bo][bp][dp][cq][gq][dr][er][fr]AW[dm][co][do][cp][dq][eq][fq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][go][cp][gp][bq][gq][cr][dr][er][fr]AW[eo][dp][fp][cq][dq][eq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[go][cp][ep][gp][bq][gq][cr][dr][er][fr]AW[dp][fp][cq][dq][eq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][cp][fp][gp][bq][gq][dr][gr]AW[dp][ep][dq][fq][hq][er][fr][hr][es][gs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][cp][fp][gp][bq][eq][gq][gr]AW[dp][ep][dq][fq][hq][fr][hr][es][gs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "libro": "Speed Baduk Level 4",
+    "tema": "Oiotoshi",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][eo][go][cp][dp][gp][cq][gq][cr][fr]AW[co][do][bp][ep][fp][bq][dq][fq][br][er])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
   }
 ]
