@@ -90,6 +90,601 @@
         "tipo": "triangle"
       }
     ]
+  },
+    {
+    "id": 5,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cl][bn][cn][bo][cp][cq][cr][er][fr][cs]AW[co][do][bp][dp][fp][hp][bq][br][gr][hr][bs][fs])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][go][io][dp][ep][eq][iq][dr][er]AW[cm][do][eo][cp][fp][cq][dq][fq][cr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][do][eo][cp][fp][cq][dq][fq][hq][gr]AW[fo][go][dp][ep][ip][eq][iq][er][fr][ir])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][gn][dp][ep][bq][cq][fq][br][bs]AW[cm][dm][cn][bp][cp][fp][gp][dq][eq][hq][cr][dr])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][cp][dp][bq][dq][fq][br][fr][cs][fs]AW[bn][en][co][ap][bp][aq][cq][cr][dr][er])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[go][dp][ep][fp][bq][cq][gq][iq][jq][gr]AW[hn][co][fo][cp][gp][hp][ip][dq][eq][fq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][hp][bq][dq][gq][br][dr][fr]AW[dn][eo][ap][bp][cp][dp][aq][eq][er][ds][es])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][fo][bp][dp][gp][hp][bq][dq][eq][fq][jq][br][cr][gr][hr][ir]AW[dm][fm][gm][gn][bo][co][do][ho][io][cp][ip][cq][gq][hq][iq][dr][er][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 7,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][cp][dp][eq][fq][br][cr][dr]AW[cm][dm][en][eo][bp][ep][bq][cq][dq])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][cn][bp][cp][ep][bq][dq][dr][er]AW[dn][do][fo][dp][cq][eq][fq][ar][br][cr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dq][eq][gq][cr][dr][fr][hr][cs]AW[co][dp][ep][fp][bq][cq][fq][br][bs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][bo][bp][fp][cq][dq][eq]AW[gn][cp][dp][ep][hp][fq][gq])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[hn][do][dp][ep][gp][cq][fq][gq][cr][gr]AW[cn][eo][fo][bp][cp][fp][dq][eq][er][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][cp][dp][eq][fq][gq][iq][cr][dr][hr]AW[cn][do][eo][ep][bq][cq][dq][er][fr][gr][ds])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[em][bn][co][eo][ep][bq][cq][dq][er][fr]AW[bp][cp][dp][eq][fq][gq][cr][dr][gr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][gp][aq][eq][fq][br]AW[bo][co][do][eo][ep][bq][cq][dq][dr])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 0,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][ao][bo][co][eo][bq][eq][gq][br][cr][er][bs]AW[cl][dm][an][bn][cn][do][bp][dp][cq][dq][dr][ds])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 0,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][do][cp][cq][eq][fq]AW[cl][fl][dm][cn][co][eo][dp][ep])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][en][bo][eo][go][fp][hp][cq][fq][cr][fr][fs]AW[fm][fn][hn][do][fo][io][dp][ep][ip][eq][iq][er][hr][es])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 7,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "libro": "Level Up 10",
+    "tema": "How to increase liberties",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][do][bp][cp][ep][fp][bq][fq]AW[eo][fo][go][dp][gp][cq][dq][eq][hr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
   }
   ]
 }
