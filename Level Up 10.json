@@ -685,6 +685,849 @@
         "tipo": "triangle"
       }
     ]
+  },
+    {
+    "id": 25,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][ep][bq][cq][dq]AW[cn][bo][eo][bp][cp][dp][eq])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][fo][dp][bq][eq][fq][ar][br][cr][dr][gr][hr]AW[dn][en][co][ap][bp][cp][ep][aq][cq][dq][gq][er][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][gm][fn][bo][co][fo][dp][ep][gp][hp][cq][cr]AW[eo][go][bp][cp][fp][ip][dq][eq][fq][gq][hq])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 7,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][cp][dp][eq][br][cr][dr][fr]AW[co][bp][ep][bq][cq][dq][er])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][ep][bq][cq][dq][fq][gq][cr][gr][ds]AW[co][eo][bp][cp][dp][eq][dr][er][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][hn][do][ho][ep][fp][hp][dq][gq][iq][dr][fr]AW[cm][co][eo][fo][go][cp][dp][gp][cq][eq][cr][ds])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bm][em][cn][bp][cp][ep][fp][ip][dq][gq][hq][cr][dr]AW[do][eo][fo][go][dp][gp][bq][cq][eq][br][cs])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][eq][fq][ar][dr][bs]AW[ap][bp][cp][dp][ep][fp][dq][gq][cr][er])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][en][co][fo][dp][cq][eq][fq][ar][br][cr]AW[bo][bp][cp][ep][bq][dq][gq][dr][er][fr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][fn][co][eo][go][io][dp][fp][dq][fq][iq][br][cr][hr]AW[cp][ep][gp][cq][eq][gq][dr][er][fr][gr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dn][do][bp][ep][bq][cq][dq][fq][gq][cr][gr]AW[cm][dm][bn][bo][co][eo][cp][dp][eq][dr][er][fr])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "libro": "Level Up 10",
+    "tema": "Saving the key stones",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][hn][do][ep][fp][ip][dq][gq][hq][jq][br][cr][dr]AW[bn][eo][fo][go][cp][dp][gp][hp][bq][cq][ar][bs][cs])",
+    "marcas": [
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "circle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "circle"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ar][br][cr][dr][er]AW[aq][bq][cq][dq][eq][fq][fr][hr])"
+  },
+  {
+    "id": 38,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ao][bo][co][do][eo][aq][bq][cq][dq][eq]AW[an][bn][cn][dn][en][fn][go][bp][cp][gp][gq][br][cr][dr][er][fr])"
+  },
+  {
+    "id": 39,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][cq][br][cr]AW[en][ao][bo][co][dp][dq][dr][fr][cs])"
+  },
+  {
+    "id": 40,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][cq][fq][cr][fr][cs][fs]AW[co][do][eo][bp][fp][gp][bq][gq][br][er][gr][ds][es])"
+  },
+  {
+    "id": 41,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][eq][ar][br][er][es]AW[go][ap][bp][cp][dp][ep][aq][fq][cr][fr][bs][cs][fs])"
+  },
+  {
+    "id": 42,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[en][fn][do][fo][dp][fp][dq][fq][dr][fr][ds]AW[em][fm][cn][dn][gn][co][go][cp][ep][gp][cq][eq][gq][cr][er][gr][cs][gs])"
+  },
+    {
+    "id": 43,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][cn][ao][cp][dp][aq][bq][cq]AW[am][bm][cm][dm][dn][eo][ep][dq][eq][ar][br][cr])"
+  },
+  {
+    "id": 44,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][en][fn][gn][co][do][go][cp][fp][gp][cq][fq][dr][er][fr]AW[cm][dm][em][fm][gm][cn][hn][bo][eo][ho][bp][dp][ep][hp][bq][gq][iq][br][cr][gr][fs])"
+  },
+  {
+    "id": 45,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eq][fq][gq][br][cr][dr][er][gr][gs]AW[do][io][ep][fp][gp][bq][cq][dq][hq][ar][hr][ds][es][fs][hs])"
+  },
+  {
+    "id": 46,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gq][br][cr][gr][bs][fs][gs]AW[co][io][dp][ep][fp][gp][bq][cq][hq][ar][er][hr][ds][es])"
+  },
+  {
+    "id": 47,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cr][dr][er][fr][gr][hr][ir][bs]AW[bq][cq][dq][eq][fq][gq][hq][iq][jq][br][jr][es][fs][js])"
+  },
+  {
+    "id": 48,
+    "libro": "Level Up 10",
+    "tema": "Living 4 point Eyes shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cq][dq][eq][fq][gq][cr][gr][cs][gs]AW[io][cp][dp][ep][fp][gp][bq][hq][br][hr][bs][ds][es][fs][hs])"
+  },
+  {
+    "id": 49,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][br][cr][er][fr][bs]AW[co][dp][ep][bq][cq][fq][gq][ar][gr][gs])"
+  },
+  {
+    "id": 50,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bq][cq][dq][ar][br][dr][er][fr]AW[bn][bp][cp][dp][gp][eq][fq][cr][gr][hr][cs][ds][fs])"
+  },
+  {
+    "id": 51,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][ar][cr][er][ds]AW[ap][bp][cp][dp][aq][eq][fq][fr][es][fs])"
+  },
+  {
+    "id": 52,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][gp][cq][gq][dr][fr][fs]AW[co][do][eo][fo][go][bp][hp][bq][hq][cr][gr][hr][bs][ds])"
+  },
+  {
+    "id": 53,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][cp][bq][cq][dq][eq][ar][br][er][es]AW[fn][bo][co][do][bp][dp][fp][fq][fr][hr][bs][ds])"
+  },
+  {
+    "id": 54,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][gq][cr][dr][gr][hr][ir][is]AW[co][dp][ep][fp][gp][bq][cq][hq][iq][jq][br][fr][jr][cs][gs][js])"
+  },
+  {
+    "id": 55,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][eq][gq][cr][dr][er][gr][hr][hs]AW[eo][fo][go][bp][ep][hp][cq][dq][hq][jq][br][ir][cs][es][fs][gs])"
+  },
+  {
+    "id": 56,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][ar][br][er]AW[ap][bp][cp][dp][ep][aq][fq][cr][fr][ds])"
+  },
+  {
+    "id": 57,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][eq][ar][br][er][es]AW[go][ap][bp][cp][dp][ep][aq][fq][fr][bs][ds])"
+  },
+  {
+    "id": 58,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[aq][bq][cq][dr][er][es]AW[do][bp][cp][dq][eq][fq][br][fr])"
+  },
+  {
+    "id": 59,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][fo][cp][dp][fp][gp][cq][gq][dr][fr][cs][es]AW[em][cn][dn][fn][gn][co][eo][go][bp][hp][bq][hq][br][cr][gr][hr])"
+  },
+  {
+    "id": 60,
+    "libro": "Level Up 10",
+    "tema": "Beware of the Eye shape",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dp][aq][cq][dq][ar][br][dr][er][fr]AW[cn][do][eo][bp][cp][bq][eq][fq][hq][cr][gr][cs][ds])"
+  },
+  {
+    "id": 61,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][bq][fq][gq][hq][ar][dr][hr][cs][es]AW[cq][dq][eq][br][cr][er][fr][gr][bs][gs])"
+  },
+  {
+    "id": 62,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][bq][fq][gq][hq][ar][hr][hs]AW[cq][dq][eq][br][cr][er][fr][gr][bs][fs][gs])"
+  },
+  {
+    "id": 63,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][bp][dp][ep][eq][cr][er][cs][es]AW[cp][aq][bq][cq][dq][dr][ds])"
+  },
+  {
+    "id": 64,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][bp][dp][ep][eq][br][cr][er][cs][es]AW[cp][aq][bq][cq][dq][ar][dr][ds])"
+  },
+  {
+    "id": 65,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][cn][dn][do][ap][dp][fp][ar][dr][er]AW[ao][bo][co][cp][cq][br][cr][bs][ds])"
+  },
+  {
+    "id": 66,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[an][bn][cn][dn][do][ap][dp][fp][bq][ar][dr][er]AW[ao][bo][co][bp][cp][cq][br][cr][bs][ds])"
+  },
+  {
+    "id": 67,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][ep][aq][eq][gq][cr][fr][cs][ds]AW[bq][cq][dq][ar][br][dr][er][es])"
+  },
+  {
+    "id": 68,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][dp][ep][fp][bq][gq][hq][br][dr][er][hr][ds]AW[cq][dq][eq][fq][cr][fr][gr][cs][gs])"
+  },
+  {
+    "id": 69,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][co][do][eo][bp][fp][gp][bq][dq][gq][ar][dr][er][gr]AW[cp][dp][ep][cq][eq][fq][br][cr][fr][bs][es])"
+  },
+  {
+    "id": 70,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][co][dp][aq][bq][dq][dr][fr]AW[bo][bp][cp][cq][br][cr][bs][ds])"
+  },
+  {
+    "id": 71,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][gn][ap][bp][cp][dp][fp][aq][fq][cr][fr][ds]AW[bq][cq][dq][eq][ar][br][er][es])"
+  },
+  {
+    "id": 72,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][em][gm][hm][cn][in][co][eo][io][cp][ep][fp][ip][cq][hq][iq][dr][er][fr][gr]AW[dn][en][gn][hn][do][ho][dp][gp][hp][dq][eq][fq][gq])"
+  },
+  {
+    "id": 73,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dl][el][fl][cm][gm][hn][bo][ho][bp][dp][ep][fp][hp][bq][hq][cr][dr][er][fr][gr]AW[em][dn][fn][co][do][fo][go][cp][gp][cq][dq][eq][fq][gq])"
+  },
+  {
+    "id": 74,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][bo][co][eo][ep][bq][eq][ar][er][bs][ds][es]AW[ap][bp][cp][dp][aq][dq][cr][dr][cs])"
+  },
+  {
+    "id": 75,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][cp][ep][fp][gp][bq][gq][iq][br][dr][er][hr][ds]AW[cq][dq][eq][fq][cr][gr][cs][gs])"
+  },
+  {
+    "id": 76,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][go][bp][gp][cq][dq][hq][iq][br][ir][fs][gs][is]AW[ep][fp][eq][gq][cr][dr][er][gr][hr][cs][hs])"
+  },
+  {
+    "id": 77,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][eo][fo][go][cp][dp][hp][bq][fq][hq][br][fr][hr][bs][cs][fs]AW[ep][fp][gp][cq][dq][eq][gq][cr][gr][ds][gs])"
+  },
+  {
+    "id": 78,
+    "libro": "Level Up 10",
+    "tema": "Dead 4 point Eye shape",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][em][fm][gm][hm][cn][in][bo][do][eo][io][bp][hp][ip][bq][cq][gq][br][fr][gr][cs]AW[dn][en][fn][gn][hn][co][ho][cp][dp][fp][gp][dq][fq][cr][dr][er])"
   }
   ]
 }
