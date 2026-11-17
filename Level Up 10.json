@@ -1528,6 +1528,72 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][em][fm][gm][hm][cn][in][bo][do][eo][io][bp][hp][ip][bq][cq][gq][br][fr][gr][cs]AW[dn][en][fn][gn][hn][co][ho][cp][dp][fp][gp][dq][fq][cr][dr][er])"
+  },
+    {
+    "id": 79,
+    "libro": "Level Up 10",
+    "tema": "Life by using a Sacrifice",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][cr][er][gr][hr][cs][fs]AW[dp][ep][fp][bq][cq][gq][hq][iq][br][ir][gs][hs][is])"
+  },
+  {
+    "id": 80,
+    "libro": "Level Up 10",
+    "tema": "Life by using a Sacrifice",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][cr][er][cs][ds][fs]AW[dp][ep][fp][bq][cq][gq][hq][iq][br][fr][ir][gs][hs][is])"
+  },
+  {
+    "id": 81,
+    "libro": "Level Up 10",
+    "tema": "Life by using a Sacrifice",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][ar][er][cs][es]AW[ap][bp][cp][dp][aq][eq][fq][dr][fr][fs])"
+  },
+  {
+    "id": 82,
+    "libro": "Level Up 10",
+    "tema": "Life by using a Sacrifice",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bq][cq][dq][ar][cr][cs]AW[ap][bp][cp][dp][aq][eq][fq][dr][fr][ds][fs])"
+  },
+  {
+    "id": 83,
+    "libro": "Level Up 10",
+    "tema": "Life by using a Sacrifice",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][bq][cq][dr][cs]AW[ao][bo][co][eo][cp][dq][eq][er][ds][es])"
+  },
+  {
+    "id": 84,
+    "libro": "Level Up 10",
+    "tema": "Life by using a Sacrifice",
+    "accion": "Save Black",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][bq][cq][ar][cs]AW[ao][bo][co][eo][cp][dq][eq][cr][er][ds][es])"
   }
   ]
 }
