@@ -1858,6 +1858,838 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dn][en][fn][gn][co][cp][gp][bq][fq][gq][br][gr][ir][hs]AW[do][eo][fo][dp][fp][cq][dq][eq][cr][fr][bs][es][fs][gs])"
+  },
+    {
+    "id": 109,
+    "libro": "Level Up 10",
+    "tema": "Jachung by diagonal move",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][dp][ep][cq][fq][gq][cr][fr]AW[fp][gp][dq][eq][hq][dr][gr][hr][ds])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "libro": "Level Up 10",
+    "tema": "Jachung by diagonal move",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][co][do][dp][eq][fq][ar][br][cr][dr]AW[fm][bn][cn][dn][eo][ep][aq][bq][cq][dq])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "libro": "Level Up 10",
+    "tema": "Jachung by diagonal move",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][ep][fp][gp][cq][dq][hq][br][gr][hr][bs]AW[hp][ip][eq][fq][gq][iq][cr][dr][ir][es][hs])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "libro": "Level Up 10",
+    "tema": "Jachung by diagonal move",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dq][eq][fq][hq][dr][gr][hr]AW[cn][dp][ep][fp][gp][cq][gq][cr][fr][fs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "libro": "Level Up 10",
+    "tema": "Jachung by diagonal move",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][en][gn][co][go][bp][gp][bq][eq][fq][br][cr][fr]AW[ho][cp][dp][ep][fp][hp][cq][gq][iq][dr][gr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "libro": "Level Up 10",
+    "tema": "Jachung by diagonal move",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][en][gn][co][go][bp][gp][bq][eq][fq][br][cr][fr][es]AW[ho][cp][dp][ep][fp][hp][cq][gq][iq][dr][gr][ds])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+    {
+    "id": 115,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][bq][eq][er][es]AW[cq][ar][br][dr][bs][ds])"
+  },
+  {
+    "id": 116,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][bq][eq][er][es]AW[cq][ar][br][dr][bs][cs][ds])"
+  },
+  {
+    "id": 117,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][fq][fr][ds][es][fs]AW[bq][cq][ar][dr][er][bs][cs])"
+  },
+  {
+    "id": 118,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ap][bp][cp][dp][aq][eq][fq][fr][ds][es][fs]AW[bq][cq][ar][br][dr][er][bs][cs])"
+  },
+  {
+    "id": 119,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][bn][en][bo][fo][bp][dp][fp][bq][cq][fq][br][fr][fs]AW[co][eo][cp][ep][dq][eq][cr][er][bs][ds][es])"
+  },
+  {
+    "id": 120,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][bn][en][bo][fo][bp][fp][bq][cq][fq][br][fr][fs]AW[dn][co][eo][cp][ep][dq][eq][cr][er][bs][ds][es])"
+  },
+  {
+    "id": 121,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][en][fn][co][do][go][gp][bq][cq][hq][br][gr][hr][bs][fs]AW[eo][fo][dp][fp][dq][eq][fq][gq][cr][fr][ds][es])"
+  },
+  {
+    "id": 122,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][aq][eq][fq][fr][bs][fs]AW[bq][cq][dq][ar][br][er][cs][ds])"
+  },
+  {
+    "id": 123,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][ao][bo][co][do][ap][ep][cq][dq][eq][gq][gr]AW[bp][cp][dp][bq][ar][cr][dr][er][fr][as][cs][fs])"
+  },
+  {
+    "id": 124,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dm][en][fn][co][do][go][gp][bq][cq][gq][br][fr][gr]AW[eo][dp][fp][dq][fq][cr][er][cs][es])"
+  },
+  {
+    "id": 125,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][cq][fq][fr][hr][as][bs][gs]AW[aq][bq][dq][br][cr][er][cs][es][fs])"
+  },
+  {
+    "id": 126,
+    "libro": "Level Up 10",
+    "tema": "False Eye by Jachung throw in",
+    "accion": "Make a false Eye by making use of jachung",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cl][dm][em][fm][bn][cn][gn][go][fp][cq][dq][eq][fq][br]AW[dn][en][ao][bo][co][fo][cp][dp][ep][aq][bq])"
+  },
+  {
+    "id": 127,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[ep][fp][gp][cq][dq][cr][er][gr][cs][ds]AW[cp][dp][bq][eq][fq][br][fr][bs][fs])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][eo][ep][bq][cq][dq][fq][gq][br][fr][hr][gs][hs]AW[fp][gp][hp][eq][hq][jq][cr][dr][er][ir][es][is])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[el][gl][cm][cn][gn][hn][do][eo][fo][dp][fp][eq][fq][iq][gr][hr]AW[dn][en][fn][co][go][ho][cp][hp][bq][dq][gq][hq][dr][er][fr])",
+    "marcas": [
+      {
+        "x": 6,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 7,
+        "y": 14,
+        "tipo": "triangle"
+      },
+      {
+        "x": 7,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 7,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][dm][em][en][bo][co][do][ap][cp][bq][cq]AW[bm][an][bn][cn][dn][eo][fo][dp][aq][dq][fq][ar][br][cr])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 12,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fn][bo][co][do][ep][fp][hp][cq][dq][gq][iq][cr][er][cs][ds]AW[go][ho][io][bp][cp][dp][gp][bq][eq][fq][br][fr][bs][fs])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fm][hm][fo][go][ep][hp][dq][eq][fq][dr][fr][hr][ir][es]AW[dm][do][eo][ho][io][dp][fp][gp][jp][cq][gq][cr][gr][cs][ds][gs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[go][gp][eq][fq][hq][cr][dr][er][hr][cs]AW[do][bp][ep][fp][cq][dq][gq][br][gr][bs][fs][gs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 18,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[go][cq][dq][eq][fq][ar][br][fr][hr]AW[bo][eo][cp][aq][bq][cr][dr][er][ds][fs][gs])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bm][dm][bo][co][cp][dq][cr][dr][bs]AW[an][ao][bp][dp][ep][aq][bq][cq][eq][er][ds])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[am][bm][cm][dm][en][fn][do][bp][cp][dp][aq][bq]AW[an][bn][cn][dn][eo][ep][cq][dq][fq][ar][br])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 13,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][do][ap][bp][cp][aq][dq][eq][er][cs][ds][es]AW[dp][ep][fp][bq][cq][fq][ar][br][fr][fs])",
+    "marcas": [
+      {
+        "x": 0,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 1,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 2,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "libro": "Level Up 10",
+    "tema": "One Eye vs No eyes",
+    "accion": "Capture las blancas by the liberties from behind",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fp][gp][dq][eq][gq][cr][dr][gr][cs]AW[cn][dp][ep][bq][cq][fq][br][fr][bs][fs])",
+    "marcas": [
+      {
+        "x": 5,
+        "y": 17,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "libro": "Level Up 10",
+    "tema": "Crane's Nest",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][cp][gp][dq][eq][fq]AW[hm][fn][io][dp][ep][fp][bq][cq][gq][hq])"
+  },
+  {
+    "id": 140,
+    "libro": "Level Up 10",
+    "tema": "Crane's Nest",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][go][cp][gp][dq][eq][fq]AW[hm][do][io][dp][ep][fp][bq][cq][gq][hq])"
+  },
+  {
+    "id": 141,
+    "libro": "Level Up 10",
+    "tema": "Crane's Nest",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][co][go][cp][gp][dq][eq][fq]AW[hm][en][do][io][dp][ep][fp][bq][cq][gq][hq])"
+  },
+  {
+    "id": 142,
+    "libro": "Level Up 10",
+    "tema": "Crane's Nest",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[dn][co][go][cp][gp][dq][eq][fq]AW[hm][en][do][fo][io][dp][ep][fp][bq][cq][gq][hq])"
+  },
+  {
+    "id": 143,
+    "libro": "Level Up 10",
+    "tema": "Crane's Nest",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][gp][cq][gq]AW[cn][gn][co][go][dp][ep][fp][fr])"
+  },
+  {
+    "id": 144,
+    "libro": "Level Up 10",
+    "tema": "Crane's Nest",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[do][eo][fo][cp][gp][cq][gq]AW[cn][gn][co][go][dp][ep][fp][fq])"
   }
   ]
 }
