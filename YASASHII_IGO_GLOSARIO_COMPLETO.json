@@ -1,0 +1,6581 @@
+{
+  "proyecto": "YASASHII IGO GLOSARIO",
+  "fuente": "https://yasashiigo.com",
+  "fecha_extraccion": "2026-11-23T03:34:41.659Z",
+  "estructura": {
+    "idioma_original": "japonés",
+    "idioma_traduccion": "español",
+    "campos_espanol_pendientes": true
+  },
+  "estadisticas": {
+    "total_indice": 110,
+    "total_extraidos": 105,
+    "total_errores": 5,
+    "total_imagenes": 178
+  },
+  "terminos": [
+    {
+      "id": 1,
+      "termino": "空き三角",
+      "lectura": "あきさんかく",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/akisankaku.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "下図の形を空き三角と言います。Aの部分が空いていて石がカギのように曲がっています。「愚形ぐけい」の1つでよくない形とされています。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/akisankaku01.png",
+          "alt": "黒石が空き三角になっている形。盤面図、黒5の4、黒6の4、黒6の5。Aの場所、5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "空き三角が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=17"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=16"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=27"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=6"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "愚形（ぐけい）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/gukei.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "termino": "アゲハマ",
+      "lectura": "あげはま",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/agehama.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "取った石のこと。ハマ、アゲ石とも言います。アゲハマは最後さいご整地のときに、相手の陣地じんちに戻もどして相手の地を減へらすのに使います。アゲハマを取った後は、碁笥ごけのふたの中に入れておきます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "アゲハマが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=57"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=57"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=78"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=72"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取るとは",
+              "url": "https://yasashiigo.com/rules/rule_3/3_1.html"
+            },
+            {
+              "texto": "地を数える",
+              "url": "https://yasashiigo.com/basic/basic_4/4_4.html"
+            },
+            {
+              "texto": "囲碁で使う道具",
+              "url": "https://yasashiigo.com/about/tool.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "地（じ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zi.html"
+            },
+            {
+              "texto": "整地（せいち）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/seichi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "termino": "アタリ",
+      "lectura": "あたり",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/atari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "次に打てば、石を取ることができる状態じょうたいのこと。「アテる」、「アタリにする」、「アタリをかける」などと言います。",
+          "下は全部アタリになっている形です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/atari01.png",
+          "alt": "黒が右上で白石にアタリをかけている図。盤面図、白9の1、黒8の1。次に黒9の2に打てば、白9の1の石が取れます。黒が中央で白石にアタリをかけている図。盤面図、白5の5、黒4の5、黒5の4、黒6の5。次に黒5の6に打てば、白5の5の石が取れます。黒が左下で白石にアタリをかけている図。盤面図、白3の9、黒2の9、黒4の9。次に黒3の8に打てば、白3の9の石が取れます。",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/atari02.png",
+          "alt": "黒が右上で白石にアタリをかけている図。盤面図、白9の1、白8の1、黒7の1、黒8の2。次に黒9の2に打てば、白9の1、白8の1の石が取れます。黒が中央で白石にアタリをかけている図。盤面図、白5の5、白6の5、黒6の4、黒5の4、黒4の5、黒5の6、黒6の6。次に黒7の5に打てば、白5の5、白6の5の石が取れます。黒が左下で白石にアタリをかけている図。盤面図、白3の9、白4の9、黒2の9、黒3の8、黒4の8。次に黒5の9に打てば、白3の9、白4の9の石が取れます。",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/atari03.png",
+          "alt": "白が左上で、黒石にアタリをかけている図。盤面図、黒2の3、黒3の2、黒4の3、黒3の4、白1の3、白2の2、白3の1、白4の2、白5の3、白4の4、白3の5、白2の4。次に白3の3に打てば、黒2の3、黒3の2、黒4の3、黒3の4の石が取れます。白が右下で、黒石にアタリをかけている図。盤面図、黒9の8、黒8の8、黒8の9、白9の7、白8の7、白7の8、白7の9。次に白9の9に打てば、黒9の8、黒8の8、黒8の9の石が取れます",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/atari04.png",
+          "alt": "白が上で、黒石にアタリをかけている図。盤面図、黒3の1、黒3の2、黒4の1、黒4の2、黒4の3、白2の1、白2の2、白4の4、白5の3、白5の2、白5の1。次に白3の3に打てば、黒3の1、黒3の2、黒4の1、黒4の2、黒4の3の石が取れます。白が右下で、黒石にアタリをかけている図。盤面図、黒6の8、黒6の9、黒7の7、黒7の8、黒7の9、黒8の8、黒9の8、白9の7、白8の7、白7の6、白6の7、白5の7、白5の8、白5の9、白8の9。次に白9の9に打てば、黒6の8、黒6の9、黒7の7、黒7の8、黒7の9、黒8の8、黒9の8の石が取れます",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "アタリが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=23"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=25"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=26"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=20"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=35"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=36"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=14"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取るとは",
+              "url": "https://yasashiigo.com/rules/rule_3/3_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "両アタリ（りょうあたり）",
+              "url": "https://yasashiigo.com/glossary/ra_gyou/ryouatari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "termino": "厚み",
+      "lectura": "あつみ",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/atsumi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手に攻せめられにくい、頑丈がんじょうな石の集まりのこと。または強い石の集まりのこと。下の黒の形は、中央に面した壁かべのようになっていてなかなか取られることがないので厚あつみと言えます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/atsumi01.png",
+          "alt": "黒が厚みを作っている図。盤面図、黒4の3、黒5の2、黒6の3、黒6の4、黒7の5、黒7の6、黒7の7。白6の2、白7の2、白7の3、白7の4、白8の5、白8の6",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "模様（もよう）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/moyou.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "termino": "一眼",
+      "lectura": "いちがん",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/ichigan.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "眼めが1つしかないこと。下の図が眼めです。",
+          "一眼いちがんの場合、周まわりを相手の石に囲かこまれると取られてしまいます。",
+          "白石の周まわりを全部囲かこむと…",
+          "取れました！"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/ichigan01.png",
+          "alt": "真ん中が1つ空いている眼の形。盤面図、白4の4、白5の4、白6の4、白6の5、白6の6、白5の6、白4の6、白4の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/ichigan02_sp.jpg",
+          "alt": "黒が真ん中に打って、白石を囲って取った図。盤面図、白4の4、白5の4、白6の4、白6の5、白6の6、白5の6、白4の6、白4の5。黒4の3、黒5の3、黒6の3、黒7の4、黒7の5、黒7の6、黒6の7、黒5の7、黒4の7、黒3の6、黒3の5、黒3の4。進行手順、黒5の5に打って、白石を盤じょうからすべて取り上げる",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/ichigan02b_sp.jpg",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "一眼が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=88"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=56"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "眼が1つだと死ぬ",
+              "url": "https://yasashiigo.com/basic/basic_3/3_3.html"
+            },
+            {
+              "texto": "眼が2つあれば生きる",
+              "url": "https://yasashiigo.com/basic/basic_3/3_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "生き（いき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/iki.html"
+            },
+            {
+              "texto": "死に（しに）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shini.html"
+            },
+            {
+              "texto": "二眼（にがん）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nigan.html"
+            },
+            {
+              "texto": "眼（め）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/me.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "termino": "一間トビ",
+      "lectura": "いっけんとび",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/ikkentobi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "下図黒1のように、石と石の間を1つ開けてとぶこと。単たんに「トビ」とも言います。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/ikkentobi01.png",
+          "alt": "黒が一間トビに打った図。盤面図、黒5の7。進行手順、1手目・黒5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "一間トビが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=13"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=10"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "トビ（とび）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tobi.html"
+            },
+            {
+              "texto": "二間トビ（にけんとび）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nikentobi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "termino": "一間ビラキ",
+      "lectura": "いっけんびらき",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/ikkenbiraki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "下図黒1のように、石と石の間を1つ開けてヒラくこと。主に地じを囲かこったり、生きるためのスペースを広げるときに打つ手です。石と石の間がせまいのであまり地じを囲かこうことには向いていません。しかし相手の陣地じんちの中や、相手の勢力せいりょくが強いところでは、二間にけんビラキよりも丈夫じょうぶな一間いっけんビラキのほうが攻せめられにくくなります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/ikkenbiraki01.png",
+          "alt": "黒が一間ビラキに打った図。盤面図、黒5の7。進行手順、1手目・黒7の7",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "一間ビラキが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=3"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=8"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=3"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石と石の間を広げて囲う",
+              "url": "https://yasashiigo.com/basic/basic_1/1_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ヒラキ（ひらき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hiraki.html"
+            },
+            {
+              "texto": "二間ビラキ（にけんびらき）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nikenbiraki.html"
+            },
+            {
+              "texto": "三間ビラキ（さんけんびらき）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sankenbiraki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "termino": "打ち込み",
+      "lectura": "うちこみ",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/uchikomi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手が囲かこおうとしている辺へんや隅すみの中に打つこと。下の図は、白が黒の三間さんけんビラキの間に打ち込こんで、黒の石を分断ぶんだんしてしまおうという手です。",
+          "次の図は、白1と三々さんさんに打ち込こんで、黒の陣地じんちの中で生きようとする手です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/uchikomi01.png",
+          "alt": "白が三間ビラキの間に打ち込みを打った図。盤面図、黒3の7、黒7の7。進行手順、1手目・白5の7",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/uchikomi02.png",
+          "alt": "白が右下隅に打ち込みを打った図。盤面図、黒3の7、黒6の6、黒7の3。進行手順、1手目・白7の7",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "打ち込みが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=21"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=10"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "生き（いき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/iki.html"
+            },
+            {
+              "texto": "三間ビラキ（さんけんびらき）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sankenbiraki.html"
+            },
+            {
+              "texto": "三々（さんさん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "termino": "ウッテガエシ",
+      "lectura": "うってがえし",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/uttegaeshi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石を取るテクニックの1つ。下の図は、黒1の石がアタリになっています。",
+          "次に白2と打ってこの黒石を取ってしまうと…",
+          "逆ぎゃくに黒に取られてしまいました。",
+          "このように相手に自分の石をわざと取らせて、逆ぎゃくに相手の石をより多く取ってしまうテクニックのことを、ウッテガエシといいます。もっとくわしく知りたい方は下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/uttegaeshi01.png",
+          "alt": "黒が白にわざと取られる場所に打った図。盤面図、白5の6、白4の5、白5の4、白6の4。黒4の4、黒5の3、黒6の3、黒7の4、黒7の5、黒6の6。進行手順、1手目・黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/uttegaeshi02.png",
+          "alt": "先程黒が打った石の周りを白石が囲んで取る図。進行手順、2手目・白6の5に打って、黒5の5の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/uttegaeshi03_sp.jpg",
+          "alt": "黒が白石を囲んで取る図。進行手順、3手目・黒5の5に打って、白5の4、白6の4、白6の5の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/uttegaeshi03b_sp.jpg",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ウッテガエシが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=54"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=37"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=45"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取る方法～ウッテガエシ",
+              "url": "https://yasashiigo.com/basic/basic_2/2_5.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "termino": "オイオトシ",
+      "lectura": "おいおとし",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/oiotoshi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石を取るテクニックの1つ。下の図は、黒1に打ってアタリをかけたところです。",
+          "次に黒に打たれると取られてしまうので、白はつなぎました。",
+          "しかし、またアタリになって黒に取られてしまいました。",
+          "このように、アタリをかけて相手にツがせても、またアタリにして取るテクニックのことを、オイオトシといいます。もっとくわしく知りたい方は下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oiotoshi01.png",
+          "alt": "黒が下辺で白石にアタリをかけた図。盤面図、白4の9、白5の7、白5の8、白6の7、白6の8、白6の9。黒7の9、黒7の8、黒7の7、黒6の6、黒5の6、黒4の7。進行手順、1手目・黒4の8",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oiotoshi02.png",
+          "alt": "白がアタリをついだ図。進行手順、2手目・白5の9",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oiotoshi03_sp.png",
+          "alt": "黒が最後のあいている囲む点に打って、7つの白石を取る図。進行手順、3手目・黒3の9に打って、白石を盤じょうからすべて取り上げる",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oiotoshi03b_sp.png",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "オイオトシが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=49"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=38"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=40"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=48"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取る方法～オイオトシ",
+              "url": "https://yasashiigo.com/basic/basic_2/2_6.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツギ（つぎ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsugi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "termino": "大ゲイマ",
+      "lectura": "おおげいま",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/oogeima.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石から3つ進んで右か左の場所に打つこと。下の形が大ゲイマです。ケイマより1路ろ進んでいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oogeima01.png",
+          "alt": "黒がオオゲイマに打った図。盤面図、黒5の6。進行手順、1手目・黒6の3",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ケイマ（けいま）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/keima.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "termino": "置き",
+      "lectura": "おき",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/oki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の陣地じんちの中に打って、相手の石を殺ころしたり地じを減へらしたりできる手のこと。下図白1は、5目もく中手なかでの急所に置おきを打ったところです。これで黒石は死んでしまいました。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oki01.png",
+          "alt": "白が置きを打った図。盤面図、黒1の7、黒2の7、黒3の7、黒3の8、黒4の8、黒4の9。白1の6、白2の6、白3の6、白4の7、白5の7、白5の8、白5の9。進行手順、1手目・白2の9",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "殺すテクニック～5目中手",
+              "url": "https://yasashiigo.com/basic/basic_3/3_7.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "死に（しに）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shini.html"
+            },
+            {
+              "texto": "中手（なかで）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nakade.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "termino": "置き碁",
+      "lectura": "おきご",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/okigo.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "棋力きりょくの差さがある人と対局するとき、公平になるように置おき石（ハンデ）を置おいて対局すること。",
+          "置おき石は星のところに置おきます。数字は置おき石を置おく順番じゅんばんです。棋力きりょくの差さが2つなら2子局、3つなら3子局というように、差さが開くほど置おき石の数を増ふやします。例たとえば、5級の人と10級の人が対局するときは、5子局になります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo01.png",
+          "alt": "19路盤で黒が置き石を2つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo02.png",
+          "alt": "19路盤で黒が置き石を3つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo03.png",
+          "alt": "19路盤で黒が置き石を4つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16、4手目・黒4の4",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo04.png",
+          "alt": "19路盤で黒が置き石を5つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16、4手目・黒4の4、5手目・黒10の10",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo05.png",
+          "alt": "19路盤で黒が置き石を6つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16、4手目・黒4の4、5手目・黒16の10、6手目・黒4の10",
+          "titulo": ""
+        },
+        {
+          "id": 6,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo06.png",
+          "alt": "19路盤で黒が置き石を7つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16、4手目・黒4の4、5手目・黒16の10、6手目・黒4の10、7手目・黒10の10",
+          "titulo": ""
+        },
+        {
+          "id": 7,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo07.png",
+          "alt": "19路盤で黒が置き石を8つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16、4手目・黒4の4、5手目・黒16の10、6手目・黒4の10、7手目・黒10の4、8手目・黒10の16",
+          "titulo": ""
+        },
+        {
+          "id": 8,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/okigo08.png",
+          "alt": "19路盤で黒が置き石を9つ置いている図。進行手順、1手目・黒16の4、2手目・黒4の16、3手目・黒16の16、4手目・黒4の4、5手目・黒16の10、6手目・黒4の10、7手目・黒10の4、8手目・黒10の16、9手目・黒10の10",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "棋力（きりょく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiryoku.html"
+            },
+            {
+              "texto": "定先（じょうせん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zyousen.html"
+            },
+            {
+              "texto": "互先（たがいせん）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "termino": "オサエ",
+      "lectura": "おさえ",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/osae.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の進出しようとしている方向に自分の石を打って、相手の進出を止める手のこと。例たとえば次のような形がありました。",
+          "次に白1に出ると、黒の陣地じんちに入られてしまいます。",
+          "そこで黒1のように打って、白の進出を止める手がオサエです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/osae01.png",
+          "alt": "右下の黒の陣地に白が侵入しようとしている図。盤面図、黒9の4、黒8の4、黒7の4、黒6の5、黒6の6、黒6の8、黒6の9。白4の7、白5の7、白6の7",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/osae02.png",
+          "alt": "黒の陣地の中に白が侵入した図。進行手順、1手目・白7の7",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/osae03.png",
+          "alt": "黒がオサエて白の侵入を止めた図。盤面図は最初と同じ。進行手順、1手目・黒7の7",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "オサエが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=20"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=13"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=5"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=8"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=13"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=51"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=65"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ノビ（のび）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "termino": "オシ",
+      "lectura": "おし",
+      "categoria": "あ行",
+      "url": "https://yasashiigo.com/glossary/a_gyou/oshi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石に並ならぶように、自分の石をあとから伸のばしていくこと。下のような形がありました。",
+          "次に黒1に打つ手がオシです。",
+          "白2とノビれば…",
+          "黒3とまたオシます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oshi01.png",
+          "alt": "黒が押しを打つ前の図。盤面図、黒5の6。白6の6、白6の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oshi02.png",
+          "alt": "黒が押した図。進行手順、1手目・黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oshi03.png",
+          "alt": "黒が押したあと、白が先に伸びた図。進行手順、2手目・白6の4",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/a_gyou/oshi04.png",
+          "alt": "黒がもう一度押した図。進行手順、3手目・黒5の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ノビ（のび）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "termino": "カケツギ",
+      "lectura": "かけつぎ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kaketsugi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "ナナメに並ならんでいる石をツぐこと。「キリ」を防ふせぐための手です。下の形がカケツギです。カタツギより1路ろずらした場所に打ちます。",
+          "ここで白2とキってきました。",
+          "そうすると黒3に打って取ることができるので「キリ」を防ふせいでいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kaketsugi01.png",
+          "alt": "黒がカケツギを打った図。盤面図、黒5の4、黒4の5。白5の5、白5の6。進行手順、1手目・黒3の4",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kaketsugi02.png",
+          "alt": "白がカケツギの間を切った図。進行手順、2手目・白4の4",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kaketsugi03_sp.png",
+          "alt": "黒が白石を囲って取る図。進行手順、3手目・黒4の3に打って、白4の4の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kaketsugi03b_sp.png",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "カケツギが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=28"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツギ（つぎ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsugi.html"
+            },
+            {
+              "texto": "カタツギ（かたつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsugi.html"
+            },
+            {
+              "texto": "キリ（きり）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiri.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "termino": "欠け眼",
+      "lectura": "かけめ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kakeme.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "眼めに似にた形でも、いずれアタリにされて眼めでなくなってしまう形のこと。例たとえば次のような形があります。",
+          "Aのところが欠かけ眼めです。",
+          "ここで白がアタリにしました。",
+          "放っておくと取られてしまいます。",
+          "なので下のようにつながないといけません。すると眼めがなくなりました。",
+          "下の黒石も欠かけ眼めです。",
+          "もっとくわしく知りたい方は下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme01.png",
+          "alt": "黒石に欠けめがある図。盤面図、黒4の4、黒4の3、黒5の3、黒6の4、黒6の5、黒5の5。白4の5、白4の6、白5の6、白6の3、白7の3、白7の4、白7の5、白7の6",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme02.png",
+          "alt": "欠けめにAの印をつけた図。Aの場所、5の4",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme03.png",
+          "alt": "白がアタリにした図。進行手順、1手目・白6の6",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme04_sp.png",
+          "alt": "白が欠けめに打って黒石を取る図。進行手順、白5の4に打って、黒5の5、黒6の5、黒6の4の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme04b_sp.png",
+          "alt": "",
+          "titulo": ""
+        },
+        {
+          "id": 6,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme05.png",
+          "alt": "黒がアタリをつないだ図。盤面図、黒4の4、黒4の3、黒5の3、黒6の4、黒6の5、黒5の5。白4の5、白4の6、白5の6、白6の3、白7の3、白7の4、白7の5、白7の6、白6の6。進行手順、2手目・黒5の4",
+          "titulo": ""
+        },
+        {
+          "id": 7,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kakeme06.png",
+          "alt": "じょう辺で黒石が欠けめになっている図。盤面図、黒4の1、黒4の2、黒5の2、黒6の1、黒7の2、黒8の2、黒8の1。白3の2、白3の3、白4の3、白5の3、白6の3、白6の2、白7の3、白8の3、白9の3、白9の2。5の1と7の1が欠けめです。下辺で黒石が欠けめになっている図。盤面図、黒2の9、黒3の8、黒4の8、黒4の9。白2の8、白2の7、白3の7、白4の7、白5の7、白5の8。3の9が欠けめです。",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "欠け眼が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=38"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=80"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "眼のようで眼じゃない欠け眼とは",
+              "url": "https://yasashiigo.com/basic/basic_3/3_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "眼（め）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/me.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "termino": "肩ツキ",
+      "lectura": "かたつき",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/katatsuki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石のナナメの位置いちに、中央のほうから打つこと。肩かたツキは主おもに、相手が大きく陣地じんちを広げようとするのを制限せいげんする消しの手です。下の黒1が肩かたツキです。",
+          "下の図は、白が上辺じょうへんに大きく模様もようを広げています。このような時に模様もようを消す1つの手段しゅだんとして黒1の肩かたツキがあります。逆ぎゃくに白から中央に打たれると、上辺じょうへんから中央にかけて大きく陣地じんちを囲かこわれてしまいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/katatsuki01.png",
+          "alt": "黒がカタツキを打った図。盤面図、白5の3。進行手順、1手目・黒4の4",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/katatsuki02.png",
+          "alt": "19路盤で、黒がカタツキを打って、白模様を消している図。盤面図、黒3の3、黒3の4、黒3の6、黒2の6。白4の3、白4の4、白4の5、白5の7、白3の8、白11の3、白17の4、白16の10。進行手順、1手目・黒10の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "肩ツキが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=2"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=4"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "模様（もよう）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/moyou.html"
+            },
+            {
+              "texto": "消し（けし）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/keshi.html"
+            },
+            {
+              "texto": "ボウシ（ぼうし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/boushi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "termino": "カタツギ",
+      "lectura": "かたつぎ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/katatsugi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "ナナメに並ならんでいる石をツぐこと。「キリ」を防ふせぐための手です。下の黒1に打つ手がカタツギです。",
+          "カタツギを打たないと白Aとキられてしまいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/katatsugi01.png",
+          "alt": "黒がカタツギを打った図。盤面図、黒4の5、黒5の4。白5の5、白5の6。進行手順、1手目・黒4の4",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/katatsugi02.png",
+          "alt": "黒がななめの傷を守らずに、Aの場所に切られた図。盤面図、黒4の5、黒5の4。白5の5、白5の6。Aの場所、白4の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "カタツギが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=21"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=21"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=9"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=43"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツギ（つぎ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsugi.html"
+            },
+            {
+              "texto": "カケツギ（かけつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kaketsugi.html"
+            },
+            {
+              "texto": "キリ（きり）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiri.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "termino": "棋士",
+      "lectura": "きし",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kishi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "囲碁のプロのこと。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 23,
+      "termino": "棋譜",
+      "lectura": "きふ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kifu.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局した碁ごの手順てじゅんを記録きろくしたもの。棋譜用紙きふようし（碁罫紙ごけいしともいいます）には碁盤ごばんのように線が入っていて、打たれた順番じゅんばんに数字を書き込こんでいきます。黒が打った手は黒で、白が打った手は赤で書きます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 24,
+      "termino": "キリ",
+      "lectura": "きり",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kiri.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手のナナメに並ならんでいる石の間に打って、相手の石を分断ぶんだんすること。下の黒1に打つ手がキリです。石が交わった形になります。相手にキられると石が分断ぶんだんしてしまうので、しっかりつないでおくことが大切です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kiri01.png",
+          "alt": "黒が切った図。盤面図、黒5の5、黒5の6。白4の5、白5の4。進行手順、1手目・黒4の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "キリが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=28"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=24"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=21"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=24"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=52"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=50"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツギ（つぎ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsugi.html"
+            },
+            {
+              "texto": "カタツギ（かたつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsugi.html"
+            },
+            {
+              "texto": "カケツギ（かけつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kaketsugi.html"
+            },
+            {
+              "texto": "ナナメの傷（ななめのきず）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nanamenokizu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "termino": "棋力",
+      "lectura": "きりょく",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kiryoku.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "囲碁いごの実力を指し示しめすもの。棋力きりょくには段位だんいと級位きゅういがあります。級位きゅういは一番下の25級から強くなるにつれて、24級、23級、22級･･･と上がっていき、1級まであります。1級の次は初段しょだんになり、2段だん、3段だん･･･と上がっていきます。アマチュア最高段位さいこうだんいは8段だんです。プロにも段位だんいがあり、初段しょだんから九段くだんまでありますが、これはアマチュアの段位だんいとは別べつです。棋力きりょくは、認定大会にんていたいかいというものに参加さんかしたり、日本棋院にほんきいんホームページの段級位認定問題だんきゅういにんていもんだいを受けると、認定にんていしてもらうことができます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "置き碁（おきご）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/okigo.html"
+            },
+            {
+              "texto": "定先（じょうせん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zyousen.html"
+            },
+            {
+              "texto": "互先（たがいせん）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "termino": "愚形",
+      "lectura": "ぐけい",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/gukei.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "良よくない形のこと。愚形ぐけいの形を作ってしまうと、地が囲かこいにくくなったり、石を取られやすくなるなど、良よくないことばかりです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "愚形が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=18"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=16"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=27"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "空き三角（あきさんかく）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/akisankaku.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "termino": "ケイマ",
+      "lectura": "けいま",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/keima.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石から2つ進んで右か左の場所に打つこと。下の形がケイマです。シマリを打ったりするときなどいろいろな場面で使われます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/keima01.png",
+          "alt": "黒がケイマに打った図。盤面図、黒5の6。進行手順、1手目・黒6の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ケイマが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=9"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=5"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=5"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=5"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=6"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=5"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "大ゲイマ（おおげいま）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/oogeima.html"
+            },
+            {
+              "texto": "シマリ（しまり）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shimari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "termino": "ゲタ",
+      "lectura": "げた",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/geta.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石を包囲ほういして、直接ちょくせつアタリをかけなくても石を取ることができるテクニックのこと。下図の形のとき、黒はどこに打てば白石を取れるでしょうか。",
+          "黒1に打ちました。この手をゲタと言います。この手は直接ちょくせつアタリにする手ではありませんが、これで白石は逃にげることができません。",
+          "続つづいて白2と逃にげると…",
+          "黒3に打って出口をふさぎます。",
+          "反対のほうから出ようとしても",
+          "黒5と打って取れました。",
+          "もっとくわしく知りたい方は下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta01.png",
+          "alt": "黒がゲタで白石を取る前の図。盤面図、黒4の4、黒4の5、黒5の6、黒6の6。白5の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta02.png",
+          "alt": "ゲタの形。進行手順、1手目・黒6の4",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta03.png",
+          "alt": "ゲタの形から白が右へ逃げようとする図。進行手順、2手目・白6の5",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta04.png",
+          "alt": "黒が出口を封鎖して、白に逃げられないようにした図。進行手順、3手目・黒7の5",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta05.png",
+          "alt": "白が反対の出口から逃げようとした図。進行手順、4手目・白5の4",
+          "titulo": ""
+        },
+        {
+          "id": 6,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta06_sp.png",
+          "alt": "黒がもう一方の出口をふさいで白石を取った図。進行手順、5手目・黒5の3に打って、白5の4、白5の5、白6の5の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 7,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/geta06b_sp.png",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取る方法～ゲタ",
+              "url": "https://yasashiigo.com/basic/basic_2/2_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "アタリ（あたり）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/atari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "termino": "コウ",
+      "lectura": "こう",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kou.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "下の図の形がコウです。この形になったとき、一度アタリの石を取った後、すぐに石を取り返すことができないというルールがあります。くわしくはコウとはのページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kou01.png",
+          "alt": "コウの形で、白石がアタリになっている図。盤面図、黒5の4、黒4の5、黒5の6。白5の5、白6の4、白7の5、白6の6",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "コウが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=46"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "コウとは",
+              "url": "https://yasashiigo.com/rules/rule_5/5_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "コウ立て（こうだて）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/koudate.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "termino": "コウ立て",
+      "lectura": "こうだて",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/koudate.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "コウの形になって、相手がアタリの石を取った後、すぐに取り返さないで1度他の場所へ打つこと。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "コウができたときの打ち方",
+              "url": "https://yasashiigo.com/rules/rule_5/5_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "コウ（こう）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kou.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "termino": "碁笥",
+      "lectura": "ごけ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/goke.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁石ごいしを入れるための入れ物のこと。碁笥ごけのふたはアゲハマを入れるのに使います。通常つうじょうは丸い形をしていますが、四角形や六角形のものもあり、色はこげ茶色からクリーム色までさまざまです。中国では、白い竹で編あんだザルのような碁笥ごけが使われたりもしています。碁笥ごけは日本棋院にほんきいんオンラインショップや碁盤屋ごばんやさんで買うことができます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/goke01.png",
+          "alt": "碁盤の上に乗っている碁笥のイラスト",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "囲碁で使う道具",
+              "url": "https://yasashiigo.com/about/tool.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "あげはま（アゲハマ）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/agehama.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "termino": "コスミ",
+      "lectura": "こすみ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kosumi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石からナナメに打つこと。下の黒1の手がコスミです。",
+          "コスミは石がつながっていて相手に分断ぶんだんされにくいため、とても使いやすい手です。例たとえば自分の石を強化させたり、相手の石を攻せめたり、相手の地じを減へらしたりなど、いろいろな場面で使われます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kosumi01.png",
+          "alt": "黒がコスミを打った図。盤面図、黒5の5。進行手順、1手目・黒6の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "コスミが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=5"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=5"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=7"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石のつなぎ方（ナナメ）",
+              "url": "https://yasashiigo.com/basic/basic_1/1_2.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "コスミツケ（こすみつけ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kosumitsuke.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "termino": "コスミツケ",
+      "lectura": "こすみつけ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kosumitsuke.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "コスミの手で相手の石にツケること。下の黒1がコスミツケです。",
+          "例たとえば下のような形がありました。",
+          "次に白Aのスベリを打たれると、隅すみの黒地くろじが減へってしまいます。",
+          "そこで黒は隅すみに入られないように、コスミツケを打ったりします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kosumitsuke01.png",
+          "alt": "黒がコスミツケを打った図。盤面図、黒5の5。白7の4。進行手順、1手目・黒6の4",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kosumitsuke02.png",
+          "alt": "星の定石で、白がカカって黒が受けた図。盤面図、黒4の6、黒3の4。白6の7",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kosumitsuke03.png",
+          "alt": "白がAの場所にスベリを打って、隅の黒の陣地に入っていこうとする図。Aの場所、4の8",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/kosumitsuke04.png",
+          "alt": "黒がコスミツケて白のスベリを防いだ図。盤面図、黒4の6、黒3の4。白6の7。進行手順、1手目・黒5の7",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "コスミツケが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=70"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "コスミ（こすみ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kosumi.html"
+            },
+            {
+              "texto": "スベリ（すべり）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/suberi.html"
+            },
+            {
+              "texto": "ツケ（つけ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsuke.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "termino": "コミ",
+      "lectura": "こみ",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/komi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "互先たがいせんのとき、黒が白に与あたえるハンデのこと。国内でコミは6目半もくはん（中国ルールでは7目半もくはん）です。",
+          "囲碁いごは先手の黒が有利なので、普通ふつうに対局すれば黒が勝つ可能性かのうせいが高くなります。そこでその不公平ふこうへいさをなくすため、白は最後さいごに6目半もくはんをもらえます。",
+          "例たとえば、黒と白がお互たがいに10目の地じを囲っていた場合、白が最後さいごに6目半もくはん足すので、10目対16目半もくはんで、白の6目半もくはん勝ちになります。",
+          "なぜ6目半もくはんかというと、囲碁いごの長い歴史れきしの中でプロ棋士きしが何万局と対戦たいせんした結果けっか、5目半もくはん～7目半もくはんぐらいが妥当だとうと考えられているからです。",
+          "コミは整地が終わって、計算するときに足します。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "整地（せいち）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/seichi.html"
+            },
+            {
+              "texto": "互先（たがいせん）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html"
+            },
+            {
+              "texto": "半目（はんもく）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hanmoku.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "termino": "小目",
+      "lectura": "こもく",
+      "categoria": "か行",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/komoku.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの外側そとがわから数えて3番目の線と4番目の線の交わった場所。19路盤ろばんには全部で8ヵ所あります。",
+          "小目は隅すみに影響力えいきょうりょくのある第3線と、中央に影響力えいきょうりょくのある第4線が交わった位置いちにあるため、地じを囲かこうことも、中央に厚あつみを作ることも得意とくいとしています。隅すみで最もっともよく打たれる場所の1つです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ka_gyou/komoku01.jpg",
+          "alt": "19路の碁盤にコモクの場所を、丸印で示した図。コモクの場所、3の4、4の3、16の3、17の4、17の16、16の17、4の17、3の16",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "小目が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=1"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=3"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=1"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            },
+            {
+              "texto": "初めは隅から打ち始める",
+              "url": "https://yasashiigo.com/basic/basic_1/1_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "三々（さんさん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html"
+            },
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "高目（たかもく）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/takamoku.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "termino": "サガリ",
+      "lectura": "さがり",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/sagari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの端はしへ向かって自分の石をつなげてのばすこと。主に辺へんや隅すみで打つ手です。下の黒1がサガリです。",
+          "端はしに向かってなので…",
+          "下の黒1に打つ手は全てサガリです。",
+          "下図のようにワタリを防ふせぐときに打ったりします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sagari01.png",
+          "alt": "黒がサガリを打った図。盤面図、黒5の7。進行手順、1手目・黒5の8",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sagari02.png",
+          "alt": "碁盤の上下左右に、外側に向けた赤い矢印が書いてある図。",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sagari03.png",
+          "alt": "黒がじょう辺でサガリを打った図。盤面図、黒5の3。進行手順、1手目・黒5の2。黒がう辺でサガリを打った図。盤面図、黒7の5。進行手順、1手目・黒8の5。黒が下辺でサガリを打った図。盤面図、黒5の7。進行手順、1手目・黒5の8。黒がさ辺でサガリを打った図。盤面図、黒3の5。進行手順、1手目・黒2の5",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sagari04.png",
+          "alt": "黒が下辺で、白にわたらせないようにするために、サガリを打った図。盤面図、黒5の7、黒5の8。白3の7、白4の8、白6の8、白7の7。進行手順、1手目・黒5の9",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "サガリが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=16"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=26"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=16"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=37"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=16"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=37"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "辺（へん）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hen.html"
+            },
+            {
+              "texto": "ワタリ（わたり）",
+              "url": "https://yasashiigo.com/glossary/wa_gyou/watari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "termino": "裂かれ形",
+      "lectura": "さかれがたち",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/sakaregatachi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石が2つに分かれてしまってひどい形のこと。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 39,
+      "termino": "三間ビラキ",
+      "lectura": "さんけんびらき",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/sankenbiraki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石と石の間を3つ開けてヒラくこと。主に地じを囲かこうときに打つ手です。三間ビラキは石と石の間が広いので、地じを大きく囲かこうのに向いています。とくに布石ふせきの段階だんかいで打つと効果的こうかてきです。",
+          "ただし三間ビラキの場合、少し間が広すぎるため、下のように相手に真ん中へ打たれると、石と石が分断ぶんだんされてしまう可能性かのうせいがあります。",
+          "そこで黒2と間に打って、陣地じんちを囲かこいつつしっかり守っておくことが大切です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sankenbiraki01.png",
+          "alt": "黒が三間ビラキを打った図。盤面図、黒3の7。進行手順、1手目・黒7の7",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sankenbiraki02.png",
+          "alt": "白が三間ビラキの真ん中、Aの場所に打ち込んだ図。盤面図、黒3の7、黒7の7。Aの場所、白5の7",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sankenbiraki03.png",
+          "alt": "黒が三間ビラキの間に打って、陣地を守った図。盤面図、黒3の7、黒7の7。進行手順、2手目・黒5の6",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "三間ビラキが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=4"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=5"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=3"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石と石の間を広げて囲う",
+              "url": "https://yasashiigo.com/basic/basic_1/1_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "布石（ふせき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/fuseki.html"
+            },
+            {
+              "texto": "ヒラキ（ひらき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hiraki.html"
+            },
+            {
+              "texto": "一間ビラキ（いっけんびらき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkenbiraki.html"
+            },
+            {
+              "texto": "二間ビラキ（にけんびらき）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nikenbiraki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "termino": "三々",
+      "lectura": "さんさん",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの外側そとがわから数えて3番目の線が交わった場所。19路盤ろばんには全部で4ヶ所あります。",
+          "三々は端はしに近い分、隅すみの地じを囲かこいやすいですが、中央の方では陣地じんちを囲かこいにくくなります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sansan01.jpg",
+          "alt": "19路の碁盤に三三の場所を、丸印で示した図。三三の場所、3の3、17の3、17の17、3の17",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "三々が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=2"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=2"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=11"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=2"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=1"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=2"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            },
+            {
+              "texto": "初めは隅から打ち始める",
+              "url": "https://yasashiigo.com/basic/basic_1/1_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "小目（こもく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komoku.html"
+            },
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "高目（たかもく）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/takamoku.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "termino": "三連星",
+      "lectura": "さんれんせい",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/sanrensei.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "辺へんの星に石を3つ並ならべて打つ作戦さくせんのこと。布石ふせきの型かたの1つ。",
+          "三連星さんれんせいは、辺へんの地じを大きく囲かこいながら、中央のほうへ勢力せいりょくを広げていく打ち方です。三々さんさんが空いているので隅すみの地じは囲かこいにくくなりますが、中央への可能性かのうせいは無限大むげんだいです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sanrensei01.png",
+          "alt": "19路の碁盤で、黒が右に、白が左に三連せいを打った図。盤面図、黒16の4、黒16の10、黒16の16。白4の4、白4の10、白4の16",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石と石の間を広げて囲う",
+              "url": "https://yasashiigo.com/basic/basic_1/1_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "模様（もよう）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/moyou.html"
+            },
+            {
+              "texto": "中国流（ちゅうごくりゅう）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tyugokuryu.html"
+            },
+            {
+              "texto": "布石（ふせき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/fuseki.html"
+            },
+            {
+              "texto": "三々（さんさん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "termino": "地",
+      "lectura": "じ",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/zi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "囲かこった交点のこと。この地じが相手より多ければ勝ち、少なければ負けになります。くわしくは下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "地が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=37"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=45"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=58"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=58"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=29"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=37"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=79"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=73"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "陣地を比べる",
+              "url": "https://yasashiigo.com/rules/rule_2/2_2.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "地合い（じあい）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/ziai.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "termino": "地合い",
+      "lectura": "じあい",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/ziai.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "地じの数のこと。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "地合いが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=37"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=45"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=58"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=58"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=29"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=37"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=79"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=73"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "地（じ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "termino": "持碁",
+      "lectura": "じご",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/zigo.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "引き分けのこと。囲かこった地じの数が同じとき持碁じごになります。置おき碁ごでは持碁じごになりますが、互先たがいせんではコミがあるので持碁じごになりません。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "置き碁（おきご）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/okigo.html"
+            },
+            {
+              "texto": "コミ（こみ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komi.html"
+            },
+            {
+              "texto": "互先（たがいせん）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "termino": "シチョウ",
+      "lectura": "しちょう",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/shityou.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "アタリになっている石を、逃にげても逃にげてもアタリをかけ続つづけられ、最後さいごには全部取られてしまう形のこと。下図の形がシチョウです。今、黒1に打ってアタリをかけてきました。",
+          "白はこのあと逃にげるとどうなるでしょうか？正解せいかいは下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/shityou01.png",
+          "alt": "黒がシチョウの形で、白石をアタリにした図。盤面図、白4の6。黒3の5、黒3の6、黒4の7。進行手順、1手目・黒5の6",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "シチョウが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=46"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=51"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取る方法～シチョウ",
+              "url": "https://yasashiigo.com/basic/basic_2/2_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "シチョウアタリ（しちょうあたり）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shityouatari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "termino": "シチョウアタリ",
+      "lectura": "しちょうあたり",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/shityouatari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "シチョウの石が逃にげる方向へ待ち伏ぶせするように打って、シチョウを止める手のこと。下の白1がシチョウアタリです。",
+          "今、黒がシチョウで白石を取ろうとしていますが、シチョウアタリがあるとどうなるでしょうか？正解せいかいは下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/shityouatari01.png",
+          "alt": "白が右上にシチョウアタリを打った図。盤面図、白4の6。黒3の5、黒3の6、黒4の7、黒5の6。進行手順、1手目・白8の3",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "シチョウを止める“シチョウアタリ“",
+              "url": "https://yasashiigo.com/basic/basic_2/2_3.html#shityouatari"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "シチョウ（しちょう）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shityou.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "termino": "死に",
+      "lectura": "しに",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/shini.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "生きることができなくて、取られる運命にあること。下の白石は、黒の陣地じんちの中で眼めを2つ作れないので死んでいます。",
+          "もっとくわしく知りたい方は下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/shini01.png",
+          "alt": "白石が死んでいる図。盤面図、白8の1、白8の2、白8の3、白8の4、白9の4。黒6の1、黒6の2、黒6の3、黒6の4、黒6の5、黒7の6、黒8の6、黒9の6、黒9の2",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "死にが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=43"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=56"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=28"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=88"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=55"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=58"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "眼が1つだと死ぬ",
+              "url": "https://yasashiigo.com/basic/basic_3/3_3.html"
+            },
+            {
+              "texto": "眼が2つあれば生きる",
+              "url": "https://yasashiigo.com/basic/basic_3/3_1.html"
+            },
+            {
+              "texto": "いろいろな生き形",
+              "url": "https://yasashiigo.com/basic/basic_3/3_2.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "生き（いき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/iki.html"
+            },
+            {
+              "texto": "一眼（いちがん）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ichigan.html"
+            },
+            {
+              "texto": "二眼（にがん）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nigan.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "termino": "終局",
+      "lectura": "しゅうきょく",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/shukyoku.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "囲碁いごの対局が終わること。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 50,
+      "termino": "終盤",
+      "lectura": "しゅうばん",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/shuban.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の終わりのほう。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 51,
+      "termino": "定石",
+      "lectura": "じょうせき",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/zyouseki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の序盤じょばん、黒と白がお互たがいに最善さいぜんとされる手を打ち合い、その結果けっかできた形のこと。下の図は、有名な「星ほしの小ゲイマガカリ一間いっけん受け定石じょうせき」です。定石じょうせきの意味を考えながら打つと、良よい形、良よい筋すじの感覚かんかくが身につくので、覚おぼえてみるのもいいかもしれません。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/zyouseki01.png",
+          "alt": "13路の碁盤で、星のコゲイマガカリ一間受け定石が打たれた図。進行手順、1手目・黒4の4、2手目・白3の6、3手目・黒6の4、4手目・白2の4、5手目・黒3の3、6手目・白3の9",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "カカリ（かかり）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kakari.html"
+            },
+            {
+              "texto": "ケイマ（けいま）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/keima.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "termino": "定先",
+      "lectura": "じょうせん",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/zyousen.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "棋力きりょくの差さが1つしかないときのハンデのこと。例たとえば25級の人と24級の人が対局するとき、1級の人と初段しょだんの人が対局するときなどは定先じょうせんで打ちます。定先じょうせんは下手したてが黒を持ち上手うわてが白を持ちますが、互先たがいせんと違ちがってコミがありません。つまりコミがない分、先手の黒が有利ゆうりになります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "置き碁（おきご）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/okigo.html"
+            },
+            {
+              "texto": "棋力（きりょく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiryoku.html"
+            },
+            {
+              "texto": "コミ（こみ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komi.html"
+            },
+            {
+              "texto": "互先（たがいせん）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "termino": "序盤",
+      "lectura": "じょばん",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/zyoban.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の初めのほう。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 54,
+      "termino": "捨て石",
+      "lectura": "すていし",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/suteishi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "おとりにして相手に取らせるための石のこと。使い捨ての石。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "捨て石が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=38"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "termino": "スベリ",
+      "lectura": "すべり",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/suberi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石から、相手の石の下にすべりこませるように打つこと。主に辺へんや隅すみで打つ手です。下の黒1の手がスベリです。スベリはたいていの場合ケイマや大ゲイマの形で、自分の陣地じんちを広げながら、相手の陣地じんちを減へらしたりするときに使います。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/suberi01.png",
+          "alt": "黒がスベリを打った図。盤面図、白4の6、白3の4、黒6の7。進行手順、1手目・黒4の8",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "辺（へん）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hen.html"
+            },
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "ケイマ（けいま）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/keima.html"
+            },
+            {
+              "texto": "大ゲイマ（おおげいま）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/oogeima.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "termino": "隅",
+      "lectura": "すみ",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの角かどっこ周辺しゅうへんのこと。端はしから数えてだいたい5番目の線ぐらいまでを隅すみと言います。左上を左上隅ひだりうわすみ、右上を右上隅みぎうわすみ、右下を右下隅みぎしたすみ、左下を左下隅ひだりしたすみと呼よびます。",
+          "隅すみは陣地じんちを囲かこうのに最もっとも適てきした場所なので、19路や13路のとき初はじめは隅すみから打っていくことをおすすめします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/sumi01.jpg",
+          "alt": "19路の碁盤に、隅のエリアを緑色で示した図",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "隅が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=19"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=4"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=3"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=7"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=2"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=2"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=2"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=49"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            },
+            {
+              "texto": "初めは隅から打ち始める",
+              "url": "https://yasashiigo.com/basic/basic_1/1_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "辺（へん）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hen.html"
+            },
+            {
+              "texto": "小目（こもく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komoku.html"
+            },
+            {
+              "texto": "三々（さんさん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html"
+            },
+            {
+              "texto": "高目（たかもく）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/takamoku.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "termino": "整地",
+      "lectura": "せいち",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/seichi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "終局後、お互たがいの地じを数えやすくするために、陣地じんちの形をきれいに整えること。例たとえば下のような形で終局した場合、白と黒それぞれ何目もくあるか分かりますか？",
+          "白24目もく、黒27目もくありました。",
+          "でもこのままでは地じが数えにくいです。そこで下のように陣地じんちの中にある石を動かします。境界線きょうかいせんの石以外いがいなら、どんなふうに動かしても地じの数は変かわらないので、陣地じんちの形がなるべく四角形になるように整えます。",
+          "そうすると下の形になります。結果けっかは変かわりませんが、タテ×ヨコで計算できるので、数えやすくなりました。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seichi01.png",
+          "alt": "整地する前の図。盤面図、黒6の1、黒6の2、黒5の2、黒5の3、黒4の3、黒7の3、黒6の4、黒6の5、黒7の6、黒5の6、黒5の7、黒5の8、黒6の7、黒7の8、黒6の9。白5の1、白4の1、白4の2、白3の3、白2の2、白4の4、白5の4、白5の5、白3の5、白2の6、白4の6、白4の7、白4の8、白4の9、白5の9",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seichi02.png",
+          "alt": "黒の交点に緑の印、白の交点にピンクの印をつけて、地を数えやすくしている図。盤面図は上と同じ。黒の地、6の3、6の6、6の8、7の1、7の2、7の4、7の5、7の7、7の9、8の1、8の2、8の3、8の4、8の5、8の6、8の7、8の8、8の9、9の1、9の2、9の3、9の4、9の5、9の6、9の7、9の8、9の9、合計27目。白の地、1の1、1の2、1の3、1の4、1の5、1の6、1の7、1の8、1の9、2の1、2の3、2の4、2の5、2の7、2の8、2の9、3の1、3の2、3の4、3の6、3の7、3の8、3の9、4の5、合計24目",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seichi_anime01.gif",
+          "alt": "石を移動させて、お互いの陣地を四角形に整えている図。盤面図は上と同じ。白3の5の石を、4の5へ移動。白2の2の石を、3の1へ移動。白2の6の石を、3の2へ移動。黒7の3の石を、6の3へ移動。黒7の6の石を、6の6へ移動。黒7の8の石を、6の8へ移動",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seichi03.png",
+          "alt": "石を移動させたあと、地を数えている図。盤面図、黒6の1、黒6の2、黒5の2、黒5の3、黒4の3、黒6の3、黒6の4、黒6の5、黒6の6、黒5の6、黒5の7、黒5の8、黒6の7、黒6の8、黒6の9。白5の1、白4の1、白3の1、白3の2、白4の2、白3の3、白4の4、白5の4、白5の5、白4の5、白4の6、白4の7、白4の8、白4の9、白5の9。黒の地、7の1、7の2、7の3、7の4、7の5、7の6、7の7、7の8、7の9、8の1、8の2、8の3、8の4、8の5、8の6、8の7、8の8、8の9、9の1、9の2、9の3、9の4、9の5、9の6、9の7、9の8、9の9、合計27目。白の地、1の1、1の2、1の3、1の4、1の5、1の6、1の7、1の8、1の9、2の1、2の2、2の3、2の4、2の5、2の6、2の7、2の8、2の9、3の4、3の5、3の6、3の7、3の8、3の9、合計24目",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "地を数える",
+              "url": "https://yasashiigo.com/basic/basic_4/4_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "地（じ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "termino": "セキ",
+      "lectura": "せき",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/seki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "お互たがいに相手の石を取ろうとすると、自分の石が取られてしまうため、どちらからも先に打てない形のこと。下の形がセキです。",
+          "まず黒が先に打つとどうなるでしょうか。黒1に打ってみます。",
+          "すると黒石は取られてしまいました。",
+          "最初さいしょの図にもどって、今度は白が先に打ってみます。下の白1と打ちました。",
+          "すると白石が取られてしまいました。",
+          "このようにセキの部分は打ったほうが取られてしまうため、通常つうじょうはどちらも打たず終局までそのままにしておきます。そして終局後、セキの部分はどちらの地じも0目もくと数えます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki01.png",
+          "alt": "セキの形。盤面図、白1の8、白2の8、白3の8、白4の8、白5の8、白6の8、白6の9。黒1の7、黒2の7、黒3の7、黒4の7、黒5の7、黒6の7、黒7の8、黒7の9、黒2の9、黒3の9、黒4の9",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki02.png",
+          "alt": "セキの形から、黒が先に打った図。進行手順、黒5の9",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki03_sp.png",
+          "alt": "白が黒石を取る図。進行手順、白1の9に打って、黒2の9、黒3の9、黒4の9、黒5の9の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki03b_sp.png",
+          "alt": "",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki04.png",
+          "alt": "セキの形から、白が先に打った図。盤面図、白1の8、白2の8、白3の8、白4の8、白5の8、白6の8、白6の9。黒1の7、黒2の7、黒3の7、黒4の7、黒5の7、黒6の7、黒7の8、黒7の9、黒2の9、黒3の9、黒4の9。進行手順、白5の9",
+          "titulo": ""
+        },
+        {
+          "id": 6,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki05_sp.png",
+          "alt": "黒が白石を取る図。進行手順、黒1の9に打って、白石を盤じょうからすべて取り上げる",
+          "titulo": ""
+        },
+        {
+          "id": 7,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/seki05b_sp.png",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "攻め合い（せめあい）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/semeai.html"
+            },
+            {
+              "texto": "ダメヅマリ（だめづまり）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/damezumari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "termino": "攻め合い",
+      "lectura": "せめあい",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/semeai.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "生きていない石同士どうしが、お互たがいに相手の石を取りに行くこと。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "攻め合いが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=30"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "セキ（せき）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/seki.html"
+            },
+            {
+              "texto": "ダメヅマリ（だめづまり）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/damezumari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "termino": "ソイ",
+      "lectura": "そい",
+      "categoria": "さ行",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/soi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石にくっついている自分の石を、相手の石に寄より添そうようにつないで打つこと。下の黒1の手がソイです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/sa_gyou/soi01.png",
+          "alt": "黒がソイを打った図。盤面図、白6の4、白6の5、白6の6、白6の7。黒5の6。進行手順、1手目・黒5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ソイが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=12"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=29"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=23"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ノビ",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html"
+            },
+            {
+              "texto": "オシ",
+              "url": "https://yasashiigo.com/glossary/a_gyou/oshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "termino": "互先",
+      "lectura": "たがいせん",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "棋力きりょくが同じ人同士どうしによるハンデなし対局のこと。互先たがいせんの場合、初はじめにニギリで先手せんてか後手ごてを決めます。そして後手ごての人は6目半もくはんのコミをもらいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "先手と後手を決めるニギリ",
+              "url": "https://yasashiigo.com/rules/rule_1/1_2.html#nigiri"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "置き碁（おきご）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/okigo.html"
+            },
+            {
+              "texto": "棋力（きりょく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiryoku.html"
+            },
+            {
+              "texto": "コミ（こみ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komi.html"
+            },
+            {
+              "texto": "定先（じょうせん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zyousen.html"
+            },
+            {
+              "texto": "ニギリ（にぎり）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nigiri.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "termino": "高目",
+      "lectura": "たかもく",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/takamoku.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの外側そとがわから数えて4番目の線と5番目の線の交わった場所。19路盤ろばんには全部で8ヵ所あります。",
+          "高目たかもくに打つ手は三々さんさんや小目こもくよりも中央に近いため、中央で厚あつみや模様もようを作ることを得意とくいとしています。逆ぎゃくに隅すみの陣地じんちを囲かこうことは難むずしくなります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/takamoku01.jpg",
+          "alt": "19路の碁盤にタカモクの場所を、丸印で示した図。タカモクの場所、4の5、5の4、15の4、16の5、16の15、15の16、5の16、4の15",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            },
+            {
+              "texto": "初めは隅から打ち始める",
+              "url": "https://yasashiigo.com/basic/basic_1/1_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "三々（さんさん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html"
+            },
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "小目（こもく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komoku.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            },
+            {
+              "texto": "厚み（あつみ）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "termino": "タケフ",
+      "lectura": "たけふ",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/takefu.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石をつなぐ方法ほうほうの1つ。下の図がタケフという形です。2つの石が間をあけて平行に並ならんでいます。",
+          "タケフは間があいていてパッと見つながっていないように見えますが、実はこの形はしっかりとつながっています。例たとえば、下の白1と分断ぶんだんしようとしても…",
+          "黒2に打つことができるのでつながっています。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/takefu01.png",
+          "alt": "タケフの形。盤面図、黒4の4、黒5の4、黒4の6、黒5の6",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/takefu02.png",
+          "alt": "白がタケフの間に打って、黒石を分断しようとする図。盤面図、黒4の4、黒5の4、黒4の6、黒5の6。白6の5。進行手順、1手目・白5の5",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/takefu03.png",
+          "alt": "黒がつないだ図。進行手順、2手目・黒4の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石のつなぎ方（タテ）",
+              "url": "https://yasashiigo.com/basic/basic_1/1_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ノゾキ（のぞき）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nozoki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "termino": "ダメ",
+      "lectura": "だめ",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/dame.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "黒白どちらにも囲かこまれていない場所のこと。下の赤丸の部分がダメです。ダメはどちらの地じにもならないムダな場所なので、通常つうじょうは一番最後さいごに打ちます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/dame01.png",
+          "alt": "ダメの場所に丸印を付けた図。盤面図、黒1の4、黒2の4、黒3の4、黒4の4、黒5の4、黒5の3、黒5の2、黒5の1、黒6の9、黒6の8、黒6の7、黒6の6、黒7の6、黒8の6、黒9の6。白1の6、白2の6、白3の6、白4の6、白5の6、白5の7、白5の8、白5の9、白6の1、白6の2、白6の3、白6の4、白7の4、白8の4、白9の4。ダメの場所、1の5、2の5、3の5、4の5、5の5、6の5、7の5、8の5、9の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ダメが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=29"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=48"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=78"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=31"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "ダメを埋める",
+              "url": "https://yasashiigo.com/basic/basic_4/4_2.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ダメヅマリ（だめづまり）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/damezumari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "termino": "ダメヅマリ",
+      "lectura": "だめづまり",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/damezumari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "空いているダメに石を打つことによって、それまで安全だった石がアタリになって取られたり、死んでしまったりすること。例たとえば下図のような形がありました。赤丸の部分が「ダメ」です。",
+          "ここでもし白がダメに打ってしまうと…",
+          "ダメヅマリで取られてしまいます。",
+          "もし最初さいしょの図のようにダメが空いていれば、下の黒1と打たれても…",
+          "白2と取れるので何も起こりません。",
+          "こういうことがよく起こるので、なるべくダメヅマリにならないようにしましょう。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari01.png",
+          "alt": "ダメの場所に赤丸印を付けた図。盤面図、黒1の6、黒2の6、黒3の6、黒4の6、黒3の5、黒3の4、黒3の3、黒4の2、黒5の2、黒6の2、黒7の3、黒7の4、黒7の5、黒7の6、黒6の6、黒8の6、黒9の6。白4の3、白5の3、白4の4、白5の4、白6の4、白4の5、白5の5、白6の5、白5の6、白1の7、白2の7、白3の7、白4の7、白6の7、白7の7、白8の7、白9の7。ダメの場所、6の3",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari02.png",
+          "alt": "白がダメに打って、ダメヅマリになった図。進行手順、白6の3",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari03_pc.png",
+          "alt": "黒がダメヅマリの白石を取る図。進行手順、黒5の7に打って、白4の3、白5の3、白6の3、白4の4、白5の4、白6の4、白4の5、白5の5、白6の5、白5の6の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari03b_pc.png",
+          "alt": "",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari04.png",
+          "alt": "ダメが空いている状態で、黒が白石をアタリにした図。盤面図、黒1の6、黒2の6、黒3の6、黒4の6、黒3の5、黒3の4、黒3の3、黒4の2、黒5の2、黒6の2、黒7の3、黒7の4、黒7の5、黒7の6、黒6の6、黒8の6、黒9の6。白4の3、白5の3、白4の4、白5の4、白6の4、白4の5、白5の5、白6の5、白5の6、白1の7、白2の7、白3の7、白4の7、白6の7、白7の7、白8の7、白9の7。進行手順、黒5の7",
+          "titulo": ""
+        },
+        {
+          "id": 6,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari05_pc.png",
+          "alt": "先ほど黒が打った石を白が取る図。進行手順、白5の8に打って、黒5の7の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 7,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/damezumari05b_pc.png",
+          "alt": "",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ダメ（だめ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/dame.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "termino": "中押し",
+      "lectura": "ちゅうおし",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tyuoshi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "地合じあいの差さが大きく開いて優劣ゆうれつがはっきりした時、終局まで打たずに対局の途中とちゅうで勝負が決まること。ボクシングで例たとえるならK.Oのこと。勝った場合は中押ちゅうおし勝ち、負けた場合は中押ちゅうおし負けと言います。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "中押しが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=34"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=89"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "投了（とうりょう）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/touryou.html"
+            },
+            {
+              "texto": "地合い（じあい）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/ziai.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "termino": "中国流",
+      "lectura": "ちゅうごくりゅう",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tyugokuryu.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "隅すみの星、辺へんの星脇ほしわき、小目こもくに石を配置はいちして打つ作戦さくせんのこと。布石ふせきの型かたの1つです。",
+          "中国流は、三連星さんれんせいと同じく中央に向かってへ勢力せいりょくを広げていく打ち方ですが、一方の隅すみが小目こもくにあるため、隅すみの地じも多少囲かこいやすくなります。なお、辺へんの星脇ほしわきの石が高い位置いちにある場合は「高中国流たかちゅうごくりゅう」と呼よびます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tyugokuryu01.png",
+          "alt": "19路の碁盤で、黒が右に、白が左に中国流を打った図。盤面図、黒16の4、黒17の11、黒16の17。白4の4、白3の11、白4の17",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "模様（もよう）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/moyou.html"
+            },
+            {
+              "texto": "三連星（さんれんせい）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sanrensei.html"
+            },
+            {
+              "texto": "布石（ふせき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/fuseki.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            },
+            {
+              "texto": "小目（こもく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komoku.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "termino": "中盤",
+      "lectura": "ちゅうばん",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tyuban.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の中ごろ。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 69,
+      "termino": "ツギ",
+      "lectura": "つぎ",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tsugi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石と石をつなぐこと。「ツぐ」というのは同じ意味です。",
+          "アタリをツぐ。",
+          "コウをツぐ。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tsugi01.png",
+          "alt": "黒がツギを打った図。盤面図、黒4の5、黒6の5。進行手順、黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tsugi02.png",
+          "alt": "黒がアタリをツいだ図。盤面図、黒5の5、黒6の6。白4の5、白5の4、白6の5。進行手順、黒5の6",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tsugi03.png",
+          "alt": "黒がコウをツいだ図。盤面図、黒6の4、黒5の5、黒6の6、黒7の5。白5の4、白4の5、白5の6。進行手順、黒6の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ツギが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=7"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=11"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=20"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=16"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=9"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=53"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=43"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=30"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石のつなぎ方（タテ）",
+              "url": "https://yasashiigo.com/basic/basic_1/1_1.html"
+            },
+            {
+              "texto": "コウができたときの打ち方",
+              "url": "https://yasashiigo.com/rules/rule_5/5_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "カタツギ（かたつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsugi.html"
+            },
+            {
+              "texto": "カケツギ（かけつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kaketsugi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "termino": "ツケ",
+      "lectura": "つけ",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tsuke.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石のとなりに打つこと。ツケを打つと戦たたかいになりやすいです。",
+          "ツケを打った場合、相手の石を強くしてしまいますが、自分の石も強くなります。例たとえば相手が下のようにハネてきたとします。",
+          "そうすると黒3にノビて自分の石が強くなりました。※強くなる＝囲む点が増えて相手に取られにくくなる。",
+          "自分に弱い石があるときは、相手の石にツケて強化させましょう。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tsuke01.png",
+          "alt": "黒がツケた図。盤面図、白4の5。進行手順、1手目・黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tsuke02.png",
+          "alt": "黒がツケたあとに、白がハネた図。進行手順、2手目・白5の4",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tsuke03.png",
+          "alt": "白がハネたあとに、黒がノビた図。進行手順、3手目・黒6の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ツケが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=7"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=6"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=6"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=8"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=4"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=54"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ノビ（のび）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html"
+            },
+            {
+              "texto": "ハネ（はね）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hane.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "termino": "詰碁",
+      "lectura": "つめご",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tsumego.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石が生きたり死んだりするのをクイズみたいにした問題のこと。詰つめ碁ごを解とくと手筋てすじや先を読む力が身につきます。囲碁いごクイズを解といてテクニックをみがきましょう。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "囲碁クイズ",
+              "url": "https://yasashiigo.com/quiz/"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "生き（いき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/iki.html"
+            },
+            {
+              "texto": "死に（しに）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shini.html"
+            },
+            {
+              "texto": "手筋（てすじ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tesuzi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "termino": "手筋",
+      "lectura": "てすじ",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tesuzi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "接近戦せっきんせんにおいて石の効率こうりつが最もっとも良よい打ち方、最善手さいぜんしゅのこと。手筋てすじが使えると戦たたかいで有利ゆうりになります。囲碁いごクイズを解といて手筋てすじを身につけましょう。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "囲碁クイズ",
+              "url": "https://yasashiigo.com/quiz/"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "詰碁（つめご）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsumego.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "termino": "手抜き",
+      "lectura": "てぬき",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tenuki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の打った手に応おうじることなく、別べつの場所へ打つこと。「手を抜ぬく」とも言います。例たとえばアタリにされてもツがなかったり、カカられても受けなかったりすること。相手が打った場所よりもっと価値かちの大きな所があったり、他に打ちたい場所がある時に手抜てぬきをします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "手抜きが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=22"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=13"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=55"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "手拍子（てびょうし）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tebyoushi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "termino": "手拍子",
+      "lectura": "てびょうし",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tebyoushi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の打った手につられてよく考えないで打ってしまうこと。手拍子てびょうしで打つと、たいていの場合良よくない結果けっかにつながるので、なるべくしっかり考えてから打つことが大事です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "手抜き（てぬき）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tenuki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "termino": "天元",
+      "lectura": "てんげん",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tengen.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの中心にある星のこと。天元てんげんに打つと全ての方向からのシチョウアタリになるので、シチョウが有利ゆうりになりやすくなります。星や高目たかもくと組み合わせれば、中央に大模様おおもようを作りやすいという特徴とくちょうもあります。しかし、隅すみの地じが囲かこえないため19路の初手しょてではほとんど打たれません。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tengen01.jpg",
+          "alt": "19路の碁盤に、天元の場所を丸印で示した図。天元の場所、10の10",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "天元が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=6"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=1"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=5"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=3"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=2"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "シチョウ（しちょう）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shityou.html"
+            },
+            {
+              "texto": "シチョウアタリ（しちょうあたり）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shityouatari.html"
+            },
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "高目（たかもく）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/takamoku.html"
+            },
+            {
+              "texto": "星（ほし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "termino": "投了",
+      "lectura": "とうりょう",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/touryou.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の途中とちゅうで、もう勝てないと判断はんだんしたときに負けを宣言せんげんすること。ギブアップ。「負けました。」とか「ありません。」と言います。ネット碁ごでは投了とうりょうボタンがあるのでそれを押おします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "投了が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=34"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=89"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "中押し（ちゅうおし）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tyuoshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "termino": "トビ",
+      "lectura": "とび",
+      "categoria": "た行",
+      "url": "https://yasashiigo.com/glossary/ta_gyou/tobi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "味方の石と石の間をあけて、辺へんから中央、または中央から辺へんに向かって打つこと。トビは一間いっけんトビと二間にけんトビがよく打たれます。下のように、両側りょうがわから相手の石にハサまれて、中央へ進出するときなどにトビます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ta_gyou/tobi01.png",
+          "alt": "13路の碁盤で、黒が下辺のトビを打った図。盤面図、黒3の3、黒7の3、黒11の3、黒7の11。白3の10、白5の11、白9の11、白11の10。進行手順、1手目・黒7の9",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "トビが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=13"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=3"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "一間トビ（いっけんとび）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkentobi.html"
+            },
+            {
+              "texto": "二間トビ（にけんとび）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nikentobi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "termino": "中手",
+      "lectura": "なかで",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nakade.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手が囲かこっている陣地じんちの中に石を打ち、その石をわざと相手に取らせることによって、相手の石を殺ころすこと。中手には3目中手もくなかで、4目中手もくなかで、5目中手もくなかで、6目中手もくなかでなどがあります。くわしくは下記の参考さんこうページをご覧らんください。",
+          "まず黒1と相手の3目もくの地じの真ん中に打ちます。",
+          "白は中に打つと取られるので、他の場所に打ったとします。",
+          "続つづいて黒3と打ってアタリにします。",
+          "白は取ります。",
+          "黒5とさらに地じの中に打っていきます。",
+          "白はまた取ります。",
+          "そうすると最後さいごに空いているところに打って、全部取ることができました。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade01.png",
+          "alt": "黒が白の陣地の真ん中に、オキを打った図。盤面図、白1の7、白2の7、白2の8、白3の8、白3の9。黒1の6、黒2の6、黒3の6、黒3の7、黒4の8、黒4の9。進行手順、1手目・黒1の9",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade02.png",
+          "alt": "白がほかの場所に打った図。進行手順、2手目・白7の3",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade03.png",
+          "alt": "黒がアタリをかけた図。進行手順、3手目・黒2の9",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade04.png",
+          "alt": "白が黒の2しを取った図。進行手順、4手目・白1の8に打って、黒1の9、黒2の9の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade05.png",
+          "alt": "黒が白の陣地の中に打った図。進行手順、5手目・黒1の9",
+          "titulo": ""
+        },
+        {
+          "id": 6,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade06.png",
+          "alt": "白が黒石を取った図。進行手順、6手目・白2の9に打って、黒1の9の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 7,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nakade07.png",
+          "alt": "黒が最後に白石のかたまりを取った図。進行手順、7手目・黒1の9に打って、白1の7、白2の7、白2の8、白3の8、白3の9、白1の8、白2の9の石を取る",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "殺すテクニック～3目中手",
+              "url": "https://yasashiigo.com/basic/basic_3/3_5.html"
+            },
+            {
+              "texto": "殺すテクニック～4目中手",
+              "url": "https://yasashiigo.com/basic/basic_3/3_6.html"
+            },
+            {
+              "texto": "殺すテクニック～5目中手",
+              "url": "https://yasashiigo.com/basic/basic_3/3_7.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "termino": "ナナメの傷",
+      "lectura": "ななめのきず",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nanamenokizu.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石がナナメにつながっている状態じょうたいで、相手の石がとなりに来て、次に打たれると分断ぶんだんされてしまう場所のこと。下図では黒石がナナメにつながっています。",
+          "ここで黒石のとなりに白1と打ちました。",
+          "すると下の赤丸の場所にナナメの傷きずができました。",
+          "ここをほっといて次に白2と打たれると、AとBの黒石が分断ぶんだんされてしまいます。",
+          "なので、下のように黒1と打てばナナメの傷きずを守って分断ぶんだんを防ふせぐことができます。",
+          "※この言葉は正式な囲碁用語ではありませんが、サイトで説明するために伝わりやすいように言いかえています。専門的には断点とかキリが残る場所といいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nanamenokizu01.jpg",
+          "alt": "黒石がナナメにつながっている図。盤面図、黒1の1、黒2の2、黒3の3、黒4の4、黒5の5、黒6の6、黒7の7、黒8の8、黒9の9。白6の4",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nanamenokizu02.jpg",
+          "alt": "白が黒石のヨコにくっつけるように打った図。進行手順、1手目・白5の4",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nanamenokizu03.jpg",
+          "alt": "ナナメの傷の場所に赤い丸印を付けた図。赤丸印の場所、4の5",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nanamenokizu04.jpg",
+          "alt": "ナナメの傷のところに白が打って黒石を分断した図。進行手順、2手目・白4の5。Aの場所、4の4、Bの場所、5の5",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nanamenokizu05.jpg",
+          "alt": "ナナメの傷のところに黒が打って守った図。盤面図、黒1の1、黒2の2、黒3の3、黒4の4、黒5の5、黒6の6、黒7の7、黒8の8、黒9の9。白6の4、白5の4。進行手順、1手目・黒4の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ナナメの傷が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=21"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=21"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=9"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=18"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=18"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=13"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石のつなぎ方（ナナメ）",
+              "url": "https://yasashiigo.com/basic/basic_1/1_2.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ハネ（はね）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hane.html"
+            },
+            {
+              "texto": "キリ（きり）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiri.html"
+            },
+            {
+              "texto": "カタツギ（かたつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsugi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "termino": "ナラビ",
+      "lectura": "ならび",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/narabi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石が近くにない時に、自分の石をつなげること。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 81,
+      "termino": "二間トビ",
+      "lectura": "にけんとび",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nikentobi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "味方の石と石の間を2つあけてトぶこと。一間いっけんトビより高く飛とぶことができますが、間があいている分相手に分断ぶんだんされやすくなります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nikentobi01.png",
+          "alt": "黒が二間トビを打った図。盤面図、黒5の7。進行手順、黒5の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "トビ（とび）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tobi.html"
+            },
+            {
+              "texto": "一間トビ（いっけんとび）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkentobi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "termino": "二間ビラキ",
+      "lectura": "にけんびらき",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nikenbiraki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "味方の石と石の間を2つ開けてヒラくこと。地じを囲かこったり、生きるスペースを広げるときに打ちます。石と石の間が、せますぎず広すぎずちょうど良よい間隔かんかくなので、陣地じんちを囲かこうのに一番多く打たれるヒラキです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nikenbiraki01.png",
+          "alt": "黒が二間ビラキを打った図。盤面図、黒4の7。進行手順、黒7の7",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石と石の間を広げて囲う",
+              "url": "https://yasashiigo.com/basic/basic_1/1_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ヒラキ（ひらき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hiraki.html"
+            },
+            {
+              "texto": "一間ビラキ（いっけんびらき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkenbiraki.html"
+            },
+            {
+              "texto": "三間ビラキ（さんけんびらき）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sankenbiraki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "termino": "二眼",
+      "lectura": "にがん",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nigan.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "眼めが2つあって生きている形のこと。相手の陣地じんちの中でもこの形を作れば、絶対ぜったいに取られることはありません。",
+          "もっとくわしく知りたい方は下記の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nigan01.png",
+          "alt": "黒が二がんを作っている図。盤面図、黒3の4、黒4の4、黒5の4、黒6の4、黒7の4、黒7の5、黒7の6、黒6の6、黒5の6、黒4の6、黒3の6、黒3の5、黒5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "二眼が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=43"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=70"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=70"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=60"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "眼が2つあれば生きる",
+              "url": "https://yasashiigo.com/basic/basic_3/3_1.html"
+            },
+            {
+              "texto": "眼が1つだと死ぬ",
+              "url": "https://yasashiigo.com/basic/basic_3/3_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "生き（いき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/iki.html"
+            },
+            {
+              "texto": "一眼（いちがん）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ichigan.html"
+            },
+            {
+              "texto": "眼（め）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/me.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "termino": "二段バネ",
+      "lectura": "にだんばね",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nidanbane.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "2回ハネること。下の図でまず黒1とハネました。",
+          "続つづいて白もハネました。",
+          "ここでさらに黒3とハネる手を二段にだんバネといいます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nidanbane01.png",
+          "alt": "黒がハネた図。盤面図、黒7の6。白7の7、白8の7。進行手順、1手目・黒6の7",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nidanbane02.png",
+          "alt": "白がハネた図。進行手順、2手目・白6の8",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nidanbane03.png",
+          "alt": "黒が二段バネを打った図。進行手順、3手目・黒5の8",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "二段バネが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=10"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=44"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ハネ（はね）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hane.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "termino": "ノゾキ",
+      "lectura": "のぞき",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nozoki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "次に打つと相手の石を分断ぶんだんできる場所に打つこと。下の黒1がノゾキです。次に一間いっけんトビの間を分断ぶんだんしようとする手です。",
+          "もし白がツギを打たなければ、黒2と打って分断ぶんだんします。",
+          "下の黒1もノゾキです。",
+          "黒が次に間に打って白石をキることができます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nozoki01.png",
+          "alt": "黒がノゾキを打った図。盤面図、白5の4、白5の6。進行手順、1手目・黒6の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nozoki02.png",
+          "alt": "黒が続けて打って、白石を分断した図。進行手順、2手目・黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nozoki03.png",
+          "alt": "黒がノゾキを打った図。盤面図、黒5の5、黒5の6。白5の4、白6の5。進行手順、1手目・黒7の4",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nozoki04.png",
+          "alt": "黒が続けて打って、白石を分断した図。進行手順、2手目・黒6の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツギ（つぎ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsugi.html"
+            },
+            {
+              "texto": "カタツギ（かたつぎ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsugi.html"
+            },
+            {
+              "texto": "キリ（きり）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kiri.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "termino": "ノビ",
+      "lectura": "のび",
+      "categoria": "な行",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石をタテかヨコにつなげて伸のばすこと。下のように相手にハネられたときはノビを打ちます。こうすると囲かこむ点が増ふえるので、石が取られにくくなります。",
+          "下の黒1もノビです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nobi01.png",
+          "alt": "黒がノビた図。盤面図、黒5の5。白4の5、白5の4。進行手順、1手目・黒6の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/na_gyou/nobi02.png",
+          "alt": "黒がノビた図。盤面図、黒5の6、黒5の5。白4の6、白4の5。進行手順、1手目・黒5の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ノビが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=4"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=10"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=7"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=16"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=4"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=44"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=4"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "アタリの石の逃げ方",
+              "url": "https://yasashiigo.com/basic/basic_2/2_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツケ（つけ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsuke.html"
+            },
+            {
+              "texto": "ハネ（はね）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hane.html"
+            },
+            {
+              "texto": "オシ（おし）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/oshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "termino": "ハサミ",
+      "lectura": "はさみ",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hasami.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "石と石の間をあけながら、相手の石をはさむこと。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 89,
+      "termino": "パス",
+      "lectura": "ぱす",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/pass.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "パスすること。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "パスが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=36"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=43"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=56"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=43"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=77"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "termino": "ハネ",
+      "lectura": "はね",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hane.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石が隣となりにある状態じょうたいで、自分の石を相手の石に向かってナナメに打つこと。下の黒1がハネです。ハネは相手がツケてきたときなどに、相手の石を攻せめるために打ったりします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hane01.png",
+          "alt": "黒がハネた図。盤面図、黒4の5。白5の5。進行手順、1手目・黒5の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ハネが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=10"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=8"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=13"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=10"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=12"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=17"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=56"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ツケ（つけ）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tsuke.html"
+            },
+            {
+              "texto": "ノビ（のび）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html"
+            },
+            {
+              "texto": "二段バネ（にだんばね）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nidanbane.html"
+            },
+            {
+              "texto": "ナナメの傷（ななめのきず）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nanamenokizu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "termino": "半目",
+      "lectura": "はんもく",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hanmoku.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "1目もくの半分という意味。コミに使われます。半目はんもくがあることによって引き分けをなくすことができます。例たとえば、コミを入れて黒50目もくと白50目もく半だった場合、白の半目はんもく勝ちになります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "コミ（こみ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komi.html"
+            },
+            {
+              "texto": "互先（たがいせん）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tagaisen.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "termino": "ヒラキ",
+      "lectura": "ひらき",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hiraki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "味方の石と石の間をあけながら、辺へんに沿そって水平方向に打っていくこと。主に地じを囲かこうための手で布石ふせきでよく打たれます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hiraki01.png",
+          "alt": "黒が一間ビラキを打った図。盤面図、黒3の7。進行手順、黒5の7",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hiraki02.png",
+          "alt": "黒が二間ビラキを打った図。盤面図、黒3の7。進行手順、黒6の7",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hiraki03.png",
+          "alt": "黒が三間ビラキを打った図。盤面図、黒3の7。進行手順、黒7の7",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hiraki04.png",
+          "alt": "19路の碁盤で、黒と白がお互いにヒラキを打って、陣地を囲っている図。盤面図、黒7の3、黒10の3、黒16の4、黒17の10、黒17の13、黒17の17、黒15の17。白12の17、白9の17、白5の17、白3の16、白3の10、白4の5、白4の3",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ヒラキが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=3"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=4"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=5"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=3"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=10"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石と石の間を広げて囲う",
+              "url": "https://yasashiigo.com/basic/basic_1/1_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "布石（ふせき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/fuseki.html"
+            },
+            {
+              "texto": "一間ビラキ（いっけんびらき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkenbiraki.html"
+            },
+            {
+              "texto": "二間ビラキ（にけんびらき）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nikenbiraki.html"
+            },
+            {
+              "texto": "三間ビラキ（さんけんびらき）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sankenbiraki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "termino": "布石",
+      "lectura": "ふせき",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/fuseki.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の初手しょてから序盤じょばん・中盤ちゅうばんにかけて、大まかに陣地じんちを囲かこうために、石を碁盤ごばん全体に散ちりばめるように打っていくこと。布石ふせきには、「三連星さんれんせい」や「中国流ちゅうごくりゅう」などの型かたがあります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/fuseki01.png",
+          "alt": "19路の碁盤で、黒が右に、白が左に三連せいを打った図。盤面図、黒16の4、黒16の10、黒16の16。白4の4、白4の10、白4の16",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/fuseki02.png",
+          "alt": "19路の碁盤で、黒が右に、白が左に中国流を打った図。盤面図、黒16の4、黒17の11、黒16の17。白4の4、白3の11、白4の17",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "三連星（さんれんせい）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sanrensei.html"
+            },
+            {
+              "texto": "中国流（ちゅうごくりゅう）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/tyugokuryu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "termino": "ブツカリ",
+      "lectura": "ぶつかり",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/butsukari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "ノビる方向にある相手の石に向かって、自分の石をぶつけるようにつないで打つこと。下の黒1の手がブツカリです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/butsukari01.png",
+          "alt": "黒がブツカリを打った図。盤面図、黒4の5。白6の4、白6の5、白6の6。進行手順、1手目・黒5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ブツカリが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=9"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "ノビ",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nobi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "termino": "フリカワリ",
+      "lectura": "ふりかわり",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/furikawari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手に自分の石をたくさん取らせる代わりに、同じくらい価値かちのある相手の石を取ること。または自分の陣地じんちを相手に与あたえる代わりに、相手の陣地じんちをもらうこと。自分の持っているものと、相手の持っているものを交換こうかんするというような意味です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 96,
+      "termino": "辺",
+      "lectura": "へん",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hen.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんのはしっこ周辺しゅうへんのこと。上のはしを上辺じょうへん、右のはしを右辺うへん、下のはしを下辺かへん、左のはしを左辺さへんと呼よびます。",
+          "辺へんは隅すみの次に陣地じんちを囲かこいやすいため、隅すみを打ち終わったあとは辺へんにヒラくようにして打つのが良よいです。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hen01.jpg",
+          "alt": "19路の碁盤に、辺のエリアを青色で示した図",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "辺が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=2"
+            },
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=20"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=22"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=9"
+            },
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=1"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=9"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=8"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=3"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            },
+            {
+              "texto": "石と石の間を広げて囲う",
+              "url": "https://yasashiigo.com/basic/basic_1/1_4.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "ヒラキ（ひらき）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/hiraki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "termino": "変化",
+      "lectura": "へんか",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/henka.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "定石じょうせきの途中とちゅうで、定石じょうせきとは違ちがう手を打って、相手の思惑おもわくを外すこと。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 98,
+      "termino": "ボウシ",
+      "lectura": "ぼうし",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/boushi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の石から1つ間をあけて中央側ちゅうおうがわへ打つこと。下の黒1がボウシです。ボウシは主に相手の模様もようが大きくなるのを防ふせぐ消しの手です。",
+          "下の図は、白が上辺じょうへんに大きな模様もようを広げています。このような場合、黒1のボウシが1つの消し方です。これで白が上辺じょうへんに囲かこう陣地じんちを制限せいげんすることができます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/boushi01.png",
+          "alt": "黒がボウシを打った図。盤面図、白5の3。進行手順、1手目・黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/boushi02.png",
+          "alt": "19路の碁盤で、黒がボウシを打つことによって、じょう辺の白模様を消している図。盤面図、黒4の16、黒3の14、黒5の17、黒16の16、黒17の14、黒15の17、黒10の16。白4の4、白3の6、白4の10、白16の4、白17の6、白16の10、白10の3。進行手順、1手目・黒10の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "模様（もよう）",
+              "url": "https://yasashiigo.com/glossary/ma_gyou/moyou.html"
+            },
+            {
+              "texto": "消し（けし）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/keshi.html"
+            },
+            {
+              "texto": "肩ツキ（かたつき）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsuki.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "termino": "ホウリコミ",
+      "lectura": "ほうりこみ",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hourikomi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "より大きな相手の石を殺ころしたり取るために、捨すて石を使って自分の石をわざと取らせること。下の黒1がホウリコミです。この場合はウッテガエシというテクニックでホウリコミます。",
+          "ホウリコんだ石を取らせます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hourikomi01.png",
+          "alt": "黒がホウリコミを打った図。盤面図、白5の6、白4の5、白5の4、白6の4。黒4の4、黒5の3、黒6の3、黒7の4、黒7の5、黒6の6。進行手順、1手目・黒5の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hourikomi02.png",
+          "alt": "ホウリコんだ石を、白が囲って取る図。進行手順、2手目・白6の5に打って、黒5の5の石を取る",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ホウリコミが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=38"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=60"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=33"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=45"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取る方法～ウッテガエシ",
+              "url": "https://yasashiigo.com/basic/basic_2/2_5.html"
+            },
+            {
+              "texto": "石を取る方法～オイオトシ",
+              "url": "https://yasashiigo.com/basic/basic_2/2_6.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "捨て石（すていし）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/suteishi.html"
+            },
+            {
+              "texto": "欠け眼（かけめ）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/kakeme.html"
+            },
+            {
+              "texto": "ウッテガエシ（うってがえし）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/uttegaeshi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "termino": "星",
+      "lectura": "ほし",
+      "categoria": "は行",
+      "url": "https://yasashiigo.com/glossary/ha_gyou/hoshi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの外側そとがわから数えて4番目の線上にある場所のこと。19路盤ろばんには黒い点がついています。",
+          "星は三々さんさんや小目こもくよりも中央に近いので、中央に向かって模様もようを広げるのに向いています。しかし三々さんさんが空いているため、相手に隅すみに入られてしまう可能性かのうせいもあります。小目こもくと並ならんで隅すみで最もっともよく打たれる場所です。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ha_gyou/hoshi01.jpg",
+          "alt": "19路の碁盤に、星の場所を丸印で示した図。星の場所、4の4、10の4、16の4、16の10、16の16、10の16、4の16、4の10",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "星が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その1",
+              "url": "https://yasashiigo.com/actual/game1.html?move=1"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=1"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "碁盤の各部の名前",
+              "url": "https://yasashiigo.com/about/goban.html"
+            },
+            {
+              "texto": "初めは隅から打ち始める",
+              "url": "https://yasashiigo.com/basic/basic_1/1_3.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "隅（すみ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sumi.html"
+            },
+            {
+              "texto": "高目（たかもく）",
+              "url": "https://yasashiigo.com/glossary/ta_gyou/takamoku.html"
+            },
+            {
+              "texto": "小目（こもく）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/komoku.html"
+            },
+            {
+              "texto": "三々（さんさん）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sansan.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "termino": "マガリ",
+      "lectura": "まがり",
+      "categoria": "ま行",
+      "url": "https://yasashiigo.com/glossary/ma_gyou/magari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "自分の石をつなげて、相手の石と隣となり合うように直角に曲がること。下の黒1がマガリです。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ma_gyou/magari01.png",
+          "alt": "黒がマガリを打った図。盤面図、黒6の4、黒6の5。白5の5。進行手順、1手目・黒5の4",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "マガリが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=13"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=9"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=6"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "termino": "眼",
+      "lectura": "め",
+      "categoria": "ま行",
+      "url": "https://yasashiigo.com/glossary/ma_gyou/me.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "交点を石で囲かこった部分のことで生きるために必要ひつようなもの。下の図の形が眼めです。これを2つつなげると生きることができます。",
+          "生きることについては下の参考さんこうページをご覧らんください。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ma_gyou/me01.png",
+          "alt": "黒が眼を1つ作っている図。盤面図、黒4の4、黒5の4、黒6の4、黒6の5、黒6の6、黒5の6、黒4の6、黒4の5。眼の場所、5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "眼が出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=37"
+            },
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=88"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=70"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=60"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "眼が1つだと死ぬ",
+              "url": "https://yasashiigo.com/basic/basic_3/3_3.html"
+            },
+            {
+              "texto": "眼が2つあれば生きる",
+              "url": "https://yasashiigo.com/basic/basic_3/3_1.html"
+            },
+            {
+              "texto": "いろいろな生き形",
+              "url": "https://yasashiigo.com/basic/basic_3/3_2.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "一眼（いちがん）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ichigan.html"
+            },
+            {
+              "texto": "二眼（にがん）",
+              "url": "https://yasashiigo.com/glossary/na_gyou/nigan.html"
+            },
+            {
+              "texto": "生き（いき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/iki.html"
+            },
+            {
+              "texto": "死に（しに）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/shini.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "termino": "目算",
+      "lectura": "もくさん",
+      "categoria": "ま行",
+      "url": "https://yasashiigo.com/glossary/ma_gyou/mokusan.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の途中とちゅうで自分の地じと相手の地じを数えること。目算をすればどちらがどれくらい勝っているか分かるので、いろんな作戦さくせんが立てやすくなります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "地（じ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zi.html"
+            },
+            {
+              "texto": "地合い（じあい）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/ziai.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "termino": "モタレ",
+      "lectura": "もたれ",
+      "categoria": "ま行",
+      "url": "https://yasashiigo.com/glossary/ma_gyou/motare.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "取りたい石の反対側はんたいがわの石を攻せめること。このページはまだ作成途中です、すみません…"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 105,
+      "termino": "模様",
+      "lectura": "もよう",
+      "categoria": "ま行",
+      "url": "https://yasashiigo.com/glossary/ma_gyou/moyou.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの辺へんから中央を包つつみ込こむように石が広がっていて、そのうち大きな陣地じんちになりそうな部分のこと。勢力圏せいりょくけんとも言います。下図の黒石は上辺じょうへん・右辺うへん・下辺かへんから中央に面してたくさん石があるので模様もようと言えます。",
+          "中央を太平洋に例たとえると、海の周まわりに大きな大陸たいりくが広がっているイメージです。",
+          "大きな模様もようができれば、その中に入ってきた相手の石を強く攻せめることができます。また相手が模様もように入ってこなければ、中央が大きな陣地じんちになります。",
+          "下は極端きょくたんですが「もし相手が入ってこなくて大模様おおもようがそのまま陣地じんちになったら」という例れいです。",
+          "相手にとっては模様もように入れば攻せめられるし、入らなければ大きく囲かこわれてしまうため、とてもやっかいで強力な戦法せんぽうです。模様もようを減へらす方法ほうほうに消しというテクニックがあります。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ma_gyou/moyou01.png",
+          "alt": "19路の碁盤で、黒がおお模様を作っている図。盤面図、黒10の4、黒15の3、黒17の4、黒16の10、黒17の14、黒18の15、黒17の16、黒16の16、黒15の17、黒14の17、黒13の17、黒10の16。白5の3、白4の4、白3の6、白3の14、白4の16、白5の17、白14の18、白15の18、白16の17、白17の17、白18の17、白18の16",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ma_gyou/moyou02.png",
+          "alt": "黒模様と黒石を、うみと陸に見立てて、青と緑で色分けしている図",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ma_gyou/moyou03.png",
+          "alt": "19路の碁盤で、黒の模様の中に白が入って、白石が黒に攻められる図。盤面図は最初と同じ。進行手順、1手目・黒10の10、2手目・白13の10、3手目・黒13の8。周りが黒石だらけなので、模様に入ると、白13の10の石が攻められます",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ma_gyou/moyou04.png",
+          "alt": "19路の碁盤で、白が黒の模様の中に入らずに、模様がそのまま陣地になった図。盤面図、黒10の4、黒15の3、黒17の4、黒16の10、黒17の14、黒18の15、黒17の16、黒16の16、黒15の17、黒14の17、黒13の17、黒10の16、黒11の1、黒11の2、黒11の3、黒10の5、黒10の6、黒10の7、黒10の8、黒9の9、黒9の10、黒9の11、黒9の12、黒9の13、黒10の14、黒10の15、黒11の17、黒12の17。白5の3、白4の4、白3の6、白3の14、白4の16、白5の17、白14の18、白15の18、白16の17、白17の17、白18の17、白18の16。相手が入ってこなかったら、模様が全部地になります",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "消し（けし）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/keshi.html"
+            },
+            {
+              "texto": "肩ツキ（かたつき）",
+              "url": "https://yasashiigo.com/glossary/ka_gyou/katatsuki.html"
+            },
+            {
+              "texto": "ボウシ（ぼうし）",
+              "url": "https://yasashiigo.com/glossary/ha_gyou/boushi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "termino": "ヨセ",
+      "lectura": "よせ",
+      "categoria": "や行",
+      "url": "https://yasashiigo.com/glossary/ya_gyou/yose.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "対局の終盤しゅうばんにお互たがいの陣地じんちの境界線きょうかいせんをはっきりさせていくこと。ヨセではなるべく自分の陣地じんちが広くなるように、相手の陣地じんちがせまくなるように境界線きょうかいせんを引いていきます。例たとえば下の図で黒から打つ場合、どのようにヨセれば良よいでしょうか。",
+          "まず下のようにまっすぐに線を引いてみました。",
+          "すると黒29目もく、白32目もくで黒は負けてしまいました。",
+          "次に下のようにヨセてみました。",
+          "今度は白地しろじが4目もく減ったため、黒29目もく、白28目もくで黒は勝つことができました。",
+          "このようにヨセで劣勢れっせいから逆転ぎゃくてんすることも可能かのうなので、1目もくでも得とくするように線を引いていきましょう。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ya_gyou/yose01.png",
+          "alt": "ヨセる前の図。盤面図、黒5の2、黒5の3、黒6の3、黒6の4、黒6の5、黒6の6、黒6の7、黒6の8。白4の2、白4の3、白3の4、白5の4、白5の5、白5の6、白5の7、白5の8",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ya_gyou/yose02.png",
+          "alt": "黒が正しくないヨセを打った図。進行手順、1手目・黒6の9、2手目・白5の9、3手目・黒5の1、4手目・白5の1",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ya_gyou/yose03.png",
+          "alt": "黒の交点に緑の印、白の交点にピンクの印をつけて、地を数えやすくしている図。盤面図は上と同じ。黒の地、6の1、6の2、7の1、7の2、7の3、7の4、7の5、7の6、7の7、7の8、7の9、8の1、8の2、8の3、8の4、8の5、8の6、8の7、8の8、8の9、9の1、9の2、9の3、9の4、9の5、9の6、9の7、9の8、9の9、合計29目。白の地、1の1、1の2、1の3、1の4、1の5、1の6、1の7、1の8、1の9、2の1、2の2、2の3、2の4、2の5、2の6、2の7、2の8、2の9、3の1、3の2、3の3、3の5、3の6、3の7、3の8、3の9、4の4、4の5、4の6、4の7、4の8、4の9、合計32目",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ya_gyou/yose04.png",
+          "alt": "黒が正しくヨセた図。盤面図、黒5の2、黒5の3、黒6の3、黒6の4、黒6の5、黒6の6、黒6の7、黒6の8。白4の2、白4の3、白3の4、白5の4、白5の5、白5の6、白5の7、白5の8。進行手順、1手目・黒5の9、2手目・白4の9、3手目・黒6の9、4手目・白4の8、5手目・黒4の1、6手目・白3の1、7手目・黒5の1、8手目・白3の2",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/ya_gyou/yose05.png",
+          "alt": "黒の交点に緑の印、白の交点にピンクの印をつけて、地を数えやすくしている図。盤面図は上と同じ。黒の地、6の1、6の2、7の1、7の2、7の3、7の4、7の5、7の6、7の7、7の8、7の9、8の1、8の2、8の3、8の4、8の5、8の6、8の7、8の8、8の9、9の1、9の2、9の3、9の4、9の5、9の6、9の7、9の8、9の9、合計29目。白の地、1の1、1の2、1の3、1の4、1の5、1の6、1の7、1の8、1の9、2の1、2の2、2の3、2の4、2の5、2の6、2の7、2の8、2の9、3の3、3の5、3の6、3の7、3の8、3の9、4の4、4の5、4の6、4の7、合計28目",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ヨセが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その2",
+              "url": "https://yasashiigo.com/actual/game2.html?move=17"
+            },
+            {
+              "texto": "対局例～その3",
+              "url": "https://yasashiigo.com/actual/game3.html?move=44"
+            },
+            {
+              "texto": "対局例～その4",
+              "url": "https://yasashiigo.com/actual/game4.html?move=33"
+            },
+            {
+              "texto": "対局例～その7",
+              "url": "https://yasashiigo.com/actual/game7.html?move=49"
+            },
+            {
+              "texto": "対局例～その8",
+              "url": "https://yasashiigo.com/actual/game8.html?move=61"
+            }
+          ]
+        },
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "陣地の境界線を引く",
+              "url": "https://yasashiigo.com/basic/basic_4/4_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "地（じ）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/zi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "termino": "両アタリ",
+      "lectura": "りょうあたり",
+      "categoria": "ら行",
+      "url": "https://yasashiigo.com/glossary/ra_gyou/ryouatari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "1手で2ヵ所を同時にアタリにすること。両アタリをかけると、必かならずどちらか一方の石が取れます。下の黒1が両アタリです。AとBの石がアタリになっていますね。",
+          "例たとえば白2で右の石を逃にげると…",
+          "上側うえがわが取れます。",
+          "最初さいしょの図に戻もどって、もし白2で上の石を逃にげれば…",
+          "今度は右側みぎがわが取れます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/ra_gyou/ryouatari01.png",
+          "alt": "黒が両アタリを打った図。盤面図、黒4の4、黒5の5、黒6の6。白5の4、白6の5。進行手順、1手目・黒6の4。Aの石、白5の4。Bの石、白6の5",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/ra_gyou/ryouatari02.png",
+          "alt": "白が右側の石を逃げた図。進行手順、2手目・白7の5",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/ra_gyou/ryouatari03.png",
+          "alt": "黒が上側の白石を取る図。進行手順、3手目・黒5の3に打って、白5の4の石を取る",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/ra_gyou/ryouatari04.png",
+          "alt": "今度は白が上側の石を逃げた図。盤面図、黒4の4、黒5の5、黒6の6。白5の4、白6の5。進行手順、1手目・黒6の4、2手目・白5の3",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/ra_gyou/ryouatari05.png",
+          "alt": "黒が右側の白石を取る図。進行手順、3手目・黒7の5に打って、白6の5の石を取る",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "参考ページ",
+          "enlaces": [
+            {
+              "texto": "石を取るとは",
+              "url": "https://yasashiigo.com/rules/rule_3/3_1.html"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "アタリ（あたり）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/atari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "termino": "路",
+      "lectura": "ろ",
+      "categoria": "ら行",
+      "url": "https://yasashiigo.com/glossary/ra_gyou/ro.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの線を数える時に使う言葉。1つとなりの線に打つときは「1路ろとなり」、2つとなりに打つときは「2路ろとなり」などと使います。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [],
+      "relaciones": []
+    },
+    {
+      "id": 109,
+      "termino": "ワタリ",
+      "lectura": "わたり",
+      "categoria": "わ行",
+      "url": "https://yasashiigo.com/glossary/wa_gyou/watari.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "碁盤ごばんの端はしっこに近いところで、離はなれている味方の石と石が連絡れんらくすること。下の黒1がワタリです。",
+          "ワタリを打たなければ、相手にサガられて石が分断ぶんだんしてしまいます。",
+          "その他のワタリの例れい。下のような形がありました。",
+          "もし白1に打たれたら△印の石が分断ぶんだんされてしまいます。",
+          "そこで黒1とワタリを打てばつながることができます。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/wa_gyou/watari01.png",
+          "alt": "黒がワタリを打った図。盤面図、黒3の7、黒4の8、黒6の8、黒7の7。白5の7、白5の8。進行手順、1手目・黒5の9",
+          "titulo": ""
+        },
+        {
+          "id": 2,
+          "src": "https://yasashiigo.com/images/glossary/wa_gyou/watari02.png",
+          "alt": "黒がワタリを打たずに、白に分断された図。盤面図、黒3の7、黒4の8、黒6の8、黒7の7。白5の7、白5の8。進行手順、1手目・白5の9",
+          "titulo": ""
+        },
+        {
+          "id": 3,
+          "src": "https://yasashiigo.com/images/glossary/wa_gyou/watari03.png",
+          "alt": "黒がワタリを打つ前の図。盤面図、黒4の8、黒6の7、黒7の7。白3の7、白4の7、白5の7",
+          "titulo": ""
+        },
+        {
+          "id": 4,
+          "src": "https://yasashiigo.com/images/glossary/wa_gyou/watari04.png",
+          "alt": "白が黒石を、左右に分断した図。盤面図は上と同じ。進行手順、1手目・白5の8。△印の場所、4の8、6の7、7の7",
+          "titulo": ""
+        },
+        {
+          "id": 5,
+          "src": "https://yasashiigo.com/images/glossary/wa_gyou/watari05.png",
+          "alt": "黒がワタリを打って、左右の黒石が連絡した図。盤面図、黒4の8、黒6の7、黒7の7。白3の7、白4の7、白5の7。進行手順、1手目・黒5の8",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "ワタリが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その6",
+              "url": "https://yasashiigo.com/actual/game6.html?move=20"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "サガリ（さがり）",
+              "url": "https://yasashiigo.com/glossary/sa_gyou/sagari.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "termino": "割り込み",
+      "lectura": "わりこみ",
+      "categoria": "わ行",
+      "url": "https://yasashiigo.com/glossary/wa_gyou/warikomi.html",
+      "japones": {
+        "titulo": "",
+        "definicion": [
+          "相手の一間いっけんトビや一間いっけんビラキの間に割わり込こむように打つこと。相手の石を分断ぶんだんしようとする時などに打ったりします。"
+        ]
+      },
+      "espanol": {
+        "termino": "",
+        "lectura": "",
+        "definicion": "",
+        "explicacion": "",
+        "notas": ""
+      },
+      "imagenes": [
+        {
+          "id": 1,
+          "src": "https://yasashiigo.com/images/glossary/wa_gyou/warikomi01.png",
+          "alt": "黒が割り込みを打った図。盤面図、白5の4、白5の6。進行手順、1手目・黒5の5",
+          "titulo": ""
+        }
+      ],
+      "relaciones": [
+        {
+          "tipo": "割り込みが出現する対局例",
+          "enlaces": [
+            {
+              "texto": "対局例～その5",
+              "url": "https://yasashiigo.com/actual/game5.html?move=7"
+            }
+          ]
+        },
+        {
+          "tipo": "関連用語",
+          "enlaces": [
+            {
+              "texto": "一間トビ（いっけんとび）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkentobi.html"
+            },
+            {
+              "texto": "一間ビラキ（いっけんびらき）",
+              "url": "https://yasashiigo.com/glossary/a_gyou/ikkenbiraki.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errores": [
+    {
+      "id": 5,
+      "termino": "生き",
+      "url": "https://yasashiigo.com/glossary/a_gyou/iki.html",
+      "error": "Error: No se encontró #honbun .inner"
+    },
+    {
+      "id": 17,
+      "termino": "カカリ",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/kakari.html",
+      "error": "Error: No se encontró #honbun .inner"
+    },
+    {
+      "id": 28,
+      "termino": "消し",
+      "url": "https://yasashiigo.com/glossary/ka_gyou/keshi.html",
+      "error": "Error: No se encontró #honbun .inner"
+    },
+    {
+      "id": 48,
+      "termino": "シマリ",
+      "url": "https://yasashiigo.com/glossary/sa_gyou/shimari.html",
+      "error": "Error: No se encontró #honbun .inner"
+    },
+    {
+      "id": 84,
+      "termino": "ニギリ",
+      "url": "https://yasashiigo.com/glossary/na_gyou/nigiri.html",
+      "error": "Error: No se encontró #honbun .inner"
+    }
+  ]
+}
