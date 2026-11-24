@@ -1,0 +1,30 @@
+{
+  "titulo": "Level Up 9",
+  "descripcion": "",
+  "version": "1.0",
+  "totalProblemas": 2,
+  "problemas": [
+    {
+      "id": 1,
+      "libro": "Level Up 9",
+      "tema": "Atari and then capture",
+      "accion": "Capture White",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bo][cp][dp][dq][eq][gq][fr][es]AW[bn][co][do][fo][ho][bp][cq][iq][cr][dr][er])"
+    },
+    {
+      "id": 2,
+      "libro": "Level Up 9",
+      "tema": "Atari and then capture",
+      "accion": "Capture White",
+      "colorJuega": "B",
+      "rango": "",
+      "fuente": "",
+      "pagina": null,
+      "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][cp][dp][bq][cq][cr]AW[dm][bo][co][do][fo][bp][ep][dq][dr])"
+    }
+  ]
+}
