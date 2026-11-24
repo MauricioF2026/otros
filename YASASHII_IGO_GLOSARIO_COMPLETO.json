@@ -1,4 +1,4 @@
-{
+\uFEFF{
   "proyecto": "YASASHII IGO GLOSARIO",
   "fuente": "https://yasashiigo.com",
   "fecha_extraccion": "2026-11-23T03:34:41.659Z",
@@ -27,11 +27,11 @@
         ]
       },
       "espanol": {
-        "termino": "",
+        "termino": "akisanakaku (空き三角, triángulo vacío)",
         "lectura": "",
-        "definicion": "",
-        "explicacion": "",
-        "notas": ""
+        "definicion": "Triángulo vacío. Es una disposición de piedras en la que el punto A queda vacío y las piedras forman un ángulo similar a un gancho. Se considera una de las formas defectuosas (gukei), ya que suele ser poco eficiente",
+        "explicacion": "«A la forma que aparece en el siguiente diagrama se la llama akisanakaku (空き三角, triángulo vacío). La parte A está vacía y las piedras se doblan formando una especie de gancho. Es una de las formas consideradas gukei (愚形), es decir, una forma defectuosa o poco eficiente, por lo que se considera una mala forma».\nExplicación de los términos\n- 空き三角 (あきさんかく – akisanakaku): triángulo vacío. En Go, es una disposición de tres piedras que deja un punto vacío en su interior.\n- 愚形 (ぐけい – gukei): forma torpe, defectuosa o ineficiente.\n- カギのように曲がっています: las piedras se doblan como un gancho.",
+        "notas": "1. 空き三角を作らないでください。\nAkisankaku o tsukuranaide kudasai.\nNo formes un triángulo vacío.\n\n2. これは空き三角です。\nKore wa akisankaku desu.\nEsto es un triángulo vacío.\n\n3. 空き三角は形が悪いです。\nAkisankaku wa katachi ga warui desu.\nEl triángulo vacío es una mala forma.\n\n4. 空き三角を避けましょう。\nAkisankaku o sakemashou.\nEvitemos el triángulo vacío.\n\n5. ここに打つと空き三角になります。\nKoko ni utsu to akisankaku ni narimasu.\nSi juegas aquí, se forma un triángulo vacío.\n\n6. この形は効率が悪いです。\nKono katachi wa kouritsu ga warui desu.\nEsta forma es poco eficiente.\n\n7. 三角にする必要はありません。\nSankaku ni suru hitsuyou wa arimasen.\nNo es necesario formar un triángulo.\n\n8. 一手で形が悪くなりました。\nItte de katachi ga waruku narimashita.\nLa forma empeoró con una sola jugada.\n\n9. もっと良い形があります。\nMotto yoi katachi ga arimasu.\nHay una forma mejor.\n\n10. 空き三角を直してください。\nAkisankaku o naoshite kudasai.\nPor favor, corrige el triángulo vacío."
       },
       "imagenes": [
         {
@@ -89,9 +89,9 @@
       "espanol": {
         "termino": "",
         "lectura": "",
-        "definicion": "",
-        "explicacion": "",
-        "notas": ""
+        "definicion": "Piedras capturadas durante la partida. También llamadas hama o ageishi. Al finalizar la partida, se utilizan para rellenar el territorio del adversario y reducir sus puntos. Se guardan en la tapa del recipiente de piedras (goke) hasta el recuento final",
+        "explicacion": "Se refiere a las piedras que se han capturado. También se denominan Hama o Agestone (piedras capturadas). Al final de la partida, durante la etapa de ajuste del territorio, las piedras capturadas se devuelven al territorio del oponente para reducir la cantidad de puntos que posee. Después de capturarlas, se guardan en la tapa del recipiente de piedras (goke).»\nTérminos importantes\n- アゲハマ (Agehama): piedras capturadas.\n- ハマ (Hama): otra denominación de las piedras capturadas.\n- アゲ石 (Ageishi): piedras capturadas.\n- 碁笥 (Goke): recipiente donde se guardan las piedras de Go.\n- 整地 (Seichi): ajuste o preparación del territorio al finalizar la partida.",
+        "notas": "1. アゲハマを数えます。\nAgehama o kazoemasu.\nCuento las piedras capturadas.\n\n2. アゲハマが二つあります。\nAgehama ga futatsu arimasu.\nHay dos piedras capturadas.\n\n3. アゲハマを相手に渡します。\nAgehama o aite ni watashimasu.\nEntrego las piedras capturadas al rival.\n\n4. アゲハマを取っておきます。\nAgehama o totte okimasu.\nGuardo las piedras capturadas.\n\n5. アゲハマが増えました。\nAgehama ga fuemashita.\nAumentaron las piedras capturadas.\n\n6. アゲハマを確認してください。\nAgehama o kakunin shite kudasai.\nPor favor, revisa las piedras capturadas.\n\n7. アゲハマを数え間違えました。\nAgehama o kazoechigaemashita.\nMe equivoqué al contar las piedras capturadas.\n\n8. アゲハマは何個ですか。\nAgehama wa nanko desu ka?\n¿Cuántas piedras capturadas hay?\n\n9. アゲハマを使って地を計算します。\nAgehama o tsukatte ji o keisan shimasu.\nUso las piedras capturadas para calcular el territorio.\n\n10. 最後にアゲハマを数えます。\nSaigo ni agehama o kazoemasu.\nAl final cuento las piedras capturadas."
       },
       "imagenes": [],
       "relaciones": [
@@ -164,9 +164,9 @@
       "espanol": {
         "termino": "",
         "lectura": "",
-        "definicion": "",
-        "explicacion": "",
-        "notas": ""
+        "definicion": "Atari: situación en la que una piedra o grupo de piedras queda con una sola libertad, por lo que puede ser capturado en la siguiente jugada. También se utilizan las expresiones ateru, atari ni suru y atari o kakeru para referirse a la acción de poner piedras en atari",
+        "explicacion": "Se refiere a una situación en la que, si se juega una piedra en el siguiente turno, es posible capturar las piedras del adversario. Se utilizan expresiones como ateru (アテる), atari ni suru (アタリにする) y atari o kakeru (アタリをかける).\n\nTodas las posiciones que aparecen a continuación están en atari.»\nVocabulario\n- アタリ (Atari): situación en la que una piedra o grupo queda con una sola libertad y puede ser capturado en la siguiente jugada.\n- アテる (Ateru): poner en atari.\n- アタリにする (Atari ni suru): dejar en atari.\n- アタリをかける (Atari o kakeru): realizar una jugada de atari.",
+        "notas": "1. アタリです。\nAtari desu.\nEstá en atari.\n\n2. 相手の石がアタリです。\nAite no ishi ga atari desu.\nLas piedras del rival están en atari.\n\n3. ここに打つとアタリになります。\nKoko ni utsu to atari ni narimasu.\nSi juegas aquí, quedará en atari.\n\n4. アタリをかけてください。\nAtari o kakete kudasai.\nPon las piedras en atari.\n\n5. アタリを逃れました。\nAtari o nogaremashita.\nEscapó del atari.\n\n6. アタリから逃げましょう。\nAtari kara nigemashou.\nEscapemos del atari.\n\n7. 二つの石がアタリです。\nFutatsu no ishi ga atari desu.\nDos piedras están en atari.\n\n8. すぐに取られます。\nSugu ni toraremasu.\nLas capturarán enseguida.\n\n9. アタリを見落としました。\nAtari o miotoshimashita.\nNo me di cuenta del atari.\n\n10. 相手にアタリをかけます。\nAite ni atari o kakemasu.\nPongo al rival en atari."
       },
       "imagenes": [
         {
