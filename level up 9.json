@@ -25,6 +25,72 @@
       "fuente": "",
       "pagina": null,
       "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eo][cp][dp][bq][cq][cr]AW[dm][bo][co][do][fo][bp][ep][dq][dr])"
-    }
+    },
+    {
+    "id": 3,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[eq][fq][dr][er][gr]AW[do][ep][fp][cq][dq][gq][cr][hr])"
+  },
+  {
+    "id": 4,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cp][dp][ep][aq][eq][fr]AW[bq][cq][dq][fq][ar][er][gr])"
+  },
+  {
+    "id": 5,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bp][cq][br][dr][er]AW[bo][eo][cp][dq][eq][fq][iq])"
+  },
+  {
+    "id": 6,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][dp][ep][dq][er][fr]AW[cp][cq][eq][fq][dr][gr][fs])"
+  },
+  {
+    "id": 7,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][ep][fp][cq][fq][br][gr]AW[dq][eq][gq][cr][fr][hr])"
+  },
+  {
+    "id": 8,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][do][bp][cp][dp][dq][er]AW[bm][cm][dm][dn][eo][ep][bq][cq][eq][dr][fr])"
+  }
   ]
 }
