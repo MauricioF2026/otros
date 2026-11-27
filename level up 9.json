@@ -91,6 +91,198 @@
     "fuente": "",
     "pagina": null,
     "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][do][bp][cp][dp][dq][er]AW[bm][cm][dm][dn][eo][ep][bq][cq][eq][dr][fr])"
+  },
+    {
+    "id": 9,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][en][bo][cp][cq][dq][eq][fr]AW[co][do][bp][dp][ep][bq][fq][br][er][gr])"
+  },
+  {
+    "id": 10,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][bp][ep]AW[cn][bo][cp][bq])"
+  },
+  {
+    "id": 11,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cp][aq][bq][cr][dr][bs]AW[co][do][bp][cq][dq][ar][er][ds])"
+  },
+  {
+    "id": 12,
+    "libro": "Level Up 9",
+    "tema": "Atari and then capture",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][do][fo][go][bp][dp][gp][cq]AW[ep][fp][ip][bq][dq][gq][hq][br][cr])"
+  },
+  {
+    "id": 13,
+    "libro": "Level Up 9",
+    "tema": "Atari and then Net",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[co][bp][bq][cq][eq][dr][er][fr]AW[dm][fm][bn][bo][cp][dp][dq][hq][cr][ds])",
+    "marcas": [
+      {
+        "x": 2,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "libro": "Level Up 9",
+    "tema": "Atari and then Net",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cn][bo][do][bp][cp][dq][eq][er]AW[hn][dp][ep][bq][cq][gq][br][dr][cs])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "libro": "Level Up 9",
+    "tema": "Atari and then Net",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][cn][co][io][cp][fp][dq][iq][dr][er]AW[cl][el][bo][bp][dp][aq][cq][eq][fq][gq][br][cr])",
+    "marcas": [
+      {
+        "x": 3,
+        "y": 15,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "libro": "Level Up 9",
+    "tema": "Atari and then Net",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[cm][cp][cq][cr][cs][ds]AW[ep][fp][gp][hp][jp][dq][dr][jr][es])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 18,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "libro": "Level Up 9",
+    "tema": "Atari and then Net",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[bn][dn][co][do][eo][dp][eq][gq][dr][er][fr]AW[in][bo][ap][cp][ep][fp][ip][cq][dq][fq][cr][gr][hr])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "libro": "Level Up 9",
+    "tema": "Atari and then Net",
+    "accion": "Capture White",
+    "colorJuega": "B",
+    "rango": "",
+    "fuente": "",
+    "pagina": null,
+    "sgf": "(;GM[1]FF[4]CA[UTF-8]SZ[19]AB[fo][go][hp][bq][cq][dq][eq][fq][hq][ar][gr][hr]AW[cm][en][bo][ep][fp][gp][gq][br][cr][dr][er][fr][gs])",
+    "marcas": [
+      {
+        "x": 4,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "tipo": "triangle"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "tipo": "triangle"
+      }
+    ]
   }
   ]
 }
